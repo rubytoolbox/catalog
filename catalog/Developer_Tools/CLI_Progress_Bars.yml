@@ -1,0 +1,13 @@
+name: CLI Progress Bars
+description:
+projects:
+  - ruby-progressbar
+  - fuubar
+  - progressbar
+  - progress_bar
+  - powerbar
+  - progress
+  - spinning_cursor
+  - multi_progress_bar
+  - progress-meter
+  - shell-spinner

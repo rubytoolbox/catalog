@@ -1,0 +1,10 @@
+name: Rails Activity Feeds
+description:
+projects:
+  - public_activity
+  - timeline_fu
+  - parolkar/pfeed
+  - unread
+  - streama
+  - my_feeds
+  - chalk_dust

@@ -1,0 +1,30 @@
+name: Rails Authorization
+description:
+projects:
+  - cancan
+  - pundit
+  - cancancan
+  - rolify
+  - declarative_authorization
+  - authority
+  - acl9
+  - the_role
+  - timcharper/role_requirement
+  - cantango
+  - six
+  - role_model
+  - cream
+  - canable
+  - aegis
+  - easy_roles
+  - restful_acl
+  - canard
+  - baldwindavid/padlock_authorization
+  - consul
+  - allowy
+  - 10to1/roleify
+  - roleable
+  - walruz
+  - trust
+  - rend-acl
+  - moulin_rouge

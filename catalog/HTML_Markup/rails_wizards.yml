@@ -1,0 +1,9 @@
+name: Rails Wizards
+description:
+projects:
+  - wicked
+  - adkron/actsaswizard
+  - wizardly
+  - sbmsuite/wizard
+  - jimweirich/partially_valid
+  - multi-step

@@ -1,0 +1,10 @@
+name: Concurrent Processing
+description:
+projects:
+  - eventmachine
+  - celluloid
+  - cool.io
+  - workers
+  - dataflow
+  - tribe
+  - wires

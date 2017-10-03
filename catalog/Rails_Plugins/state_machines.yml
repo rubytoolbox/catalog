@@ -1,0 +1,18 @@
+name: State Machines
+description:
+projects:
+  - state_machine
+  - aasm
+  - workflow
+  - transitions
+  - ruote
+  - micromachine
+  - stateflow
+  - simple_states
+  - alter-ego
+  - simple_state_machine
+  - state-fu
+  - golem_statemachine
+  - status-manager
+  - state_objects
+  - stamina

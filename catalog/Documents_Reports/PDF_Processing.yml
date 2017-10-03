@@ -1,0 +1,6 @@
+name: PDF Processing
+description:
+projects:
+  - pdf-reader
+  - pdf_info
+  - stevedore

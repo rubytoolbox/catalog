@@ -1,0 +1,10 @@
+name: MongoDB Clients
+description:
+projects:
+  - mongoid
+  - mongo
+  - mongo_mapper
+  - perpetuity
+  - mongomatic
+  - mongodb_model
+  - mince

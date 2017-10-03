@@ -1,0 +1,11 @@
+name: Pagination
+description:
+projects:
+  - will_paginate
+  - kaminari
+  - sorted
+  - ajax_pagination
+  - kaminari-bootstrap
+  - paged_scopes
+  - simply_paginate
+  - willian/has_paginate

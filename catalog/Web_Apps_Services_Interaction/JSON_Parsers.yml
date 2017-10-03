@@ -1,0 +1,10 @@
+name: JSON Parsers
+description:
+projects:
+  - multi_json
+  - json
+  - yajl-ruby
+  - json_pure
+  - crack
+  - oj
+  - json-jruby

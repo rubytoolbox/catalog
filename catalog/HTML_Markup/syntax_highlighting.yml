@@ -1,0 +1,17 @@
+name: Syntax Highlighting
+description:
+projects:
+  - coderay
+  - rouge
+  - albino
+  - ioquatix/jquery-syntax
+  - michaeledgar/harsh
+  - highlight
+  - ultraviolet
+  - tm_syntax_highlighting
+  - code_rippa
+  - technoweenie/ultraviolence
+  - rack-pygmentize
+  - rack-coderay
+  - albeano
+  - ink

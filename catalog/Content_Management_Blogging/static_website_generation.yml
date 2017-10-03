@@ -1,0 +1,21 @@
+name: Static Website Generation
+description:
+projects:
+  - jekyll
+  - middleman
+  - high_voltage
+  - nanoc
+  - stasis
+  - ruhoh
+  - frank
+  - webby
+  - staticmatic
+  - awestruct
+  - bonsai
+  - brochure
+  - webgen
+  - ace
+  - korma
+  - machined
+  - dynamicmatic
+  - deplot

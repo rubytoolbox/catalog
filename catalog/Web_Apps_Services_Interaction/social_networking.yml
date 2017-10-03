@@ -1,0 +1,19 @@
+name: Social Network Builders
+description:
+projects:
+  - insoshi/insoshi
+  - bborn/communityengine
+  - social_stream
+  - stevenbristol/lovd-by-less
+  - acts_as_follower
+  - omnicontacts
+  - timothyf/enginey
+  - socialization
+  - leaderboard
+  - inkwell
+  - likeable
+  - sjlombardo/acts_as_network
+  - amico
+  - has_many_friends
+  - parolkar/has_profile_items
+  - acts_as_friendable

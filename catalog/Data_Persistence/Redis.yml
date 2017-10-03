@@ -1,0 +1,11 @@
+name: Redis Clients
+description:
+projects:
+  - redis
+  - redis-store
+  - redis-objects
+  - ohm
+  - redis_orm
+  - acts_as_hashish
+  - redis-aid
+  - redis-attrs

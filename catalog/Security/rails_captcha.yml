@@ -1,0 +1,13 @@
+name: Rails Captcha
+description:
+projects:
+  - recaptcha
+  - macarthy/simple-captcha-mirror
+  - subwindow/negative-captcha
+  - galetahub-simple_captcha
+  - humanizer
+  - rsanheim/brain_buster
+  - acts_as_textcaptcha
+  - gotcha
+  - captcha
+  - jike_captcha

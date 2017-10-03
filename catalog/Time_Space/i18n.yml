@@ -1,0 +1,45 @@
+name: I18n
+description:
+projects:
+  - i18n
+  - i18n-js
+  - globalize
+  - http_accept_language
+  - ai/r18n
+  - raul/translate_routes
+  - i18n-tasks
+  - fast_gettext
+  - delocalize
+  - globalize2
+  - copycopter_client
+  - localeapp
+  - i18n_routing
+  - globalize3
+  - numbers_and_words
+  - tr8n
+  - dylanz/i18n_backend_database
+  - to_lang
+  - phrase
+  - puret
+  - i15r
+  - i18n-inflector-rails
+  - ready_for_i18n
+  - has_translations
+  - locale_detector
+  - it
+  - mongo-i18n
+  - model_translations
+  - human_attribute
+  - rack-locale_chooser
+  - c3po
+  - rails_locale_detection
+  - rails-i18nterface
+  - rails-translate-models
+  - talk_like_a_pirate
+  - i18n_auto_scoping
+  - mongoid_translate
+  - activerecord_translatable
+  - rack-i18n_routes
+  - rack-user-locale
+  - traduction
+  - pig_latin

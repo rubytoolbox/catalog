@@ -1,0 +1,15 @@
+name: Continuous Testing
+description:
+projects:
+  - guard
+  - guard-rspec
+  - ZenTest
+  - watchr
+  - rack-livereload
+  - autotest
+  - kicker
+  - autotest-growl
+  - autotest-fsevent
+  - infinity_test
+  - tconsole
+  - tork

@@ -1,0 +1,13 @@
+name: Inline CSS for E-Mail
+description:
+projects:
+  - premailer
+  - roadie
+  - mail_style
+  - actionmailer_inline_css
+  - inline-style
+  - premailer-rails3
+  - inline_styles
+  - incurve
+  - inline_styles_mailer
+  - packrat

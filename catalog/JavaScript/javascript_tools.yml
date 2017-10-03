@@ -1,0 +1,27 @@
+name: JavaScript Tools
+description:
+projects:
+  - sprockets
+  - uglifier
+  - coffee-script
+  - gon
+  - opal
+  - juicer
+  - wiselinks
+  - barista
+  - paloma
+  - opal-rails
+  - mousetrap-rails
+  - vendorer
+  - jake
+  - packr
+  - MadRabbit/frontcompiler
+  - jabs
+  - NV/js-preprocessor
+  - SrBuj
+  - rake-minify
+  - rack-jquery
+  - indexable
+  - poke_js
+  - dynamojs_rails
+  - dom_routes

@@ -1,0 +1,10 @@
+name: Log Analysis
+description:
+projects:
+  - logstash/logstash
+  - Graylog2/graylog2-server
+  - request-log-analyzer
+  - central_logger
+  - ntail
+  - indy
+  - log_file

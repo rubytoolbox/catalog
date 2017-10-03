@@ -1,0 +1,12 @@
+name: LDAP
+description:
+projects:
+  - net-ldap
+  - devise_ldap_authenticatable
+  - omniauth-ldap
+  - binarylogic/authlogic_ldap
+  - ruby-net-ldap
+  - tsaleh/ldap-activerecord-gateway
+  - treequel
+  - ruby-activeldap
+  - simple_ldap_authenticator

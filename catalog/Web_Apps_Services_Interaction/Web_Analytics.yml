@@ -1,0 +1,19 @@
+name: Web Analytics
+description:
+projects:
+  - gabba
+  - gattica
+  - google-analytics-rails
+  - rack-google-analytics
+  - PageRankr
+  - legato
+  - garb
+  - rugalytics
+  - redis_analytics
+  - rack_clicky
+  - ga_events
+  - googlepagerank
+  - gabbara
+  - mixpanel_rails
+  - yaga
+  - wwwtf

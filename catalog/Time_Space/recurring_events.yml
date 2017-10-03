@@ -1,0 +1,12 @@
+name: Recurring Events
+description:
+projects:
+  - ice_cube
+  - recurrence
+  - angelic/schedule_fu
+  - runt
+  - nickstenning/recurring_event
+  - jhubert/ruby-date-recur
+  - recurring
+  - jruby-rfc2445
+  - kjwierenga/ical-scheduler

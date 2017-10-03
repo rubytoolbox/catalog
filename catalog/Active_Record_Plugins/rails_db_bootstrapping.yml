@@ -1,0 +1,11 @@
+name: Rails DB Bootstrapping
+description:
+projects:
+  - seed-fu
+  - seedbank
+  - populator
+  - sevenwire/bootstrapper
+  - ffmike/db-populate
+  - seed_dumper
+  - has_alter_ego
+  - dibber

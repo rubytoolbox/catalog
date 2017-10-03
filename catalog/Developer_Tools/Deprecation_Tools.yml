@@ -1,0 +1,5 @@
+name: Deprecation Tools
+description:
+projects:
+  - deprecated
+  - structured_warnings

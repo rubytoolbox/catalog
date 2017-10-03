@@ -1,0 +1,12 @@
+name: Rails Controller Abstractions
+description:
+projects:
+  - inherited_resources
+  - decent_exposure
+  - resource_controller
+  - hcatlin/make_resourceful
+  - ianwhite/resources_controller
+  - arcane
+  - toast
+  - redirect_on_back
+  - customs

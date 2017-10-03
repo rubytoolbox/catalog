@@ -1,0 +1,30 @@
+name: Geocoding & Maps
+description:
+projects:
+  - geocoder
+  - geokit
+  - gmaps4rails
+  - rgeo
+  - geokit-rails
+  - activerecord-postgis-adapter
+  - graticule
+  - GeoRuby
+  - acts_as_geocodable
+  - georuby
+  - nofxx-georuby
+  - queso/ym4r-gm
+  - ppe-georuby
+  - parolkar/geo_mere_laal
+  - postgis_adapter
+  - leaflet-rails
+  - mongoid_geospatial
+  - address_standardization
+  - gdal
+  - autometal-geoip
+  - cartographie
+  - map_layers
+  - georuby-ext
+  - gdal-helper
+  - georuby_remake
+  - georuby_box
+  - rgdal

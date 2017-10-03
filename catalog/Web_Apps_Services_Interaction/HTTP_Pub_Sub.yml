@@ -1,0 +1,12 @@
+name: HTTP Pub/Sub
+description:
+projects:
+  - websocket
+  - faye
+  - em-websocket
+  - libwebsocket
+  - private_pub
+  - faye-rails
+  - websocket-rack
+  - socky-server
+  - danthes

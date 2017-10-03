@@ -1,0 +1,16 @@
+name: JavaScript Testing
+description:
+projects:
+  - jasmine
+  - jquery/testswarm
+  - konacha
+  - relevance/blue-ridge
+  - evergreen
+  - paulca/whenever.js
+  - screw-unit
+  - alexyoung/riotjs
+  - hanoi
+  - opal-spec
+  - screw-unit-server
+  - jcov
+  - gerbil-rails

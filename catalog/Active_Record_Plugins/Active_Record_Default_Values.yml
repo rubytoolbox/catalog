@@ -1,0 +1,5 @@
+name: Active Record Default Values
+description:
+projects:
+  - default_value_for
+  - active_record_defaults

@@ -1,0 +1,20 @@
+name: Ruby Core Extensions
+description:
+projects:
+  - activesupport
+  - hashie
+  - docile
+  - extlib
+  - powerpack
+  - facets
+  - hamster
+  - rubytree
+  - zucker
+  - rumonade
+  - pluginfactory
+  - named-parameters
+  - deep_tree
+  - tagen
+  - optionalargument
+  - hashy
+  - rucursive

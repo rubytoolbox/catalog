@@ -1,0 +1,11 @@
+name: Rails Comments
+description:
+projects:
+  - phusion/juvia
+  - elight/acts_as_commentable_with_threading
+  - acts_as_commentable
+  - disqus
+  - opinio
+  - commontator
+  - is_reviewable
+  - commenter

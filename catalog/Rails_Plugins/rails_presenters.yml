@@ -1,0 +1,18 @@
+name: Rails Presenters
+description:
+projects:
+  - draper
+  - cells
+  - apotomo
+  - active_decorator
+  - active_presenter
+  - display_case
+  - viewtastic
+  - resubject
+  - view_models
+  - action_presenter
+  - delegate_presenter
+  - garnish
+  - classic_presenter
+  - rails_presenter
+  - cubisme

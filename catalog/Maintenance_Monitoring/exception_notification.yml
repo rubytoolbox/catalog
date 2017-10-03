@@ -1,0 +1,16 @@
+name: Exception Notification
+description:
+projects:
+  - errbit/errbit
+  - airbrake
+  - exception_notification
+  - honeybadger
+  - rollbar
+  - exceptional
+  - toadhopper
+  - bugsnag
+  - rails_exception_handler
+  - raygun4ruby
+  - lilypad
+  - exception_engine
+  - rack_hoptoad

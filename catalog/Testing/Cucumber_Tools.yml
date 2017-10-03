@@ -1,0 +1,16 @@
+name: Cucumber Tools
+description:
+projects:
+  - viewcumber
+  - cucumber-nagios
+  - yard-cucumber
+  - cuke_sniffer
+  - cucumber-sinatra
+  - cuporter
+  - stepdown
+  - cucumber-screenshot
+  - cucover
+  - cucumber-in-the-yard
+  - cucumberator
+  - cukesparse
+  - cucumber-pride

@@ -1,0 +1,8 @@
+name: Packaging Systems
+description:
+projects:
+  - rubygems-update
+  - rip
+  - rtomayko/rpg
+  - mislav/coral
+  - slimgems

@@ -1,0 +1,14 @@
+name: Backups
+description:
+projects:
+  - backup
+  - astrails-safe
+  - copyhacker/backup_fu
+  - db2fog
+  - db2s3
+  - dumper
+  - dbmanager
+  - backupit
+  - porter
+  - sweety_backy
+  - dotbox

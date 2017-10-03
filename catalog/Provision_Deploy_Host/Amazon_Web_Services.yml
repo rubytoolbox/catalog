@@ -1,0 +1,15 @@
+name: Amazon Web Services
+description:
+projects:
+  - fog
+  - aws-sdk
+  - aws-s3
+  - right_aws
+  - amazon-ec2
+  - s3
+  - aws
+  - aws-ses
+  - vfs
+  - amazon-ses
+  - ec2-blackout
+  - s3utils

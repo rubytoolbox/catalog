@@ -1,0 +1,21 @@
+name: Wiki Apps
+description:
+projects:
+  - gollum
+  - sr/git-wiki
+  - instiki
+  - irwi
+  - olelo
+  - queso/signal-wiki
+  - soywiki
+  - meekish/collective
+  - gollum_rails
+  - jm/perwikity
+  - bomberstudios/bliki
+  - benatkin/weaky
+  - 3scale/acts_as_wiki
+  - semanticart/hoboken
+  - manveru/rakki
+  - AndyMoreland/kii
+  - gitki
+  - cargo_wiki

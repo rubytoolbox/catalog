@@ -1,0 +1,11 @@
+name: Rails Tagging
+description:
+projects:
+  - acts-as-taggable-on
+  - is_taggable
+  - rocket_tag
+  - geemus/acts_as_taggable_redux
+  - acts_as_taggable_on_steroids
+  - markable
+  - taggregator
+  - clortho

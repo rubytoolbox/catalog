@@ -1,0 +1,15 @@
+name: Acceptance Test Frameworks
+description:
+projects:
+  - cucumber
+  - turnip
+  - steak
+  - spinach
+  - coulda
+  - stella
+  - unencumbered
+  - bewildr
+  - stories
+  - filet
+  - saki
+  - mountain_berry_fields

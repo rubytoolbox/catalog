@@ -1,0 +1,14 @@
+name: Mocking Web Requests
+description:
+projects:
+  - webmock
+  - vcr
+  - appendto/jquery-mockjax
+  - fakeweb
+  - artifice
+  - rest-assured
+  - netrecorder
+  - mocktra
+  - stale_fish
+  - mockjax
+  - sonar

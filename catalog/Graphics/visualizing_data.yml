@@ -1,0 +1,6 @@
+name: Visualizing Data
+description:
+projects:
+  - DmitryBaranovskiy/raphael
+  - ruby-graphviz
+  - ruby-processing

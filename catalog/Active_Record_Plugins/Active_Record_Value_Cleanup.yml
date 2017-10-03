@@ -1,0 +1,13 @@
+name: Active Record Value Cleanup
+description:
+projects:
+  - attribute_normalizer
+  - strip_attributes
+  - rubiety/nilify_blanks
+  - auto_strip_attributes
+  - scrubby
+  - sanitized_attributes
+  - vacuum_cleaner
+  - normatron
+  - clean_room
+  - strip_control_chars

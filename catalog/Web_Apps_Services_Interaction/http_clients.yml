@@ -1,0 +1,30 @@
+name: HTTP clients
+description:
+projects:
+  - rest-client
+  - faraday
+  - httparty
+  - multipart-post
+  - excon
+  - mechanize
+  - httpclient
+  - typhoeus
+  - curb
+  - httpi
+  - em-http-request
+  - patron
+  - nestful
+  - restfulie
+  - weary
+  - api_smith
+  - rapidash
+  - hyperclient
+  - activeresource-response
+  - remotely
+  - streamly
+  - wrest
+  - api-client
+  - frenetic
+  - persistent_httparty
+  - http-requestor
+  - htcp

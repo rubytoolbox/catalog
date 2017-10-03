@@ -1,0 +1,10 @@
+name: GUI Frameworks
+description:
+projects:
+  - shoes
+  - fxruby
+  - qtbindings
+  - gtk2
+  - wxruby
+  - monkeybars
+  - ffi-tk

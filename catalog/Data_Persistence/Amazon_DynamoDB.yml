@@ -1,0 +1,7 @@
+name: Amazon DynamoDB
+description:
+projects:
+  - dynamoid
+  - fake_dynamo
+  - active_dynamodb
+  - dynoid

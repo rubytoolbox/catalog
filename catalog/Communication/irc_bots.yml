@@ -1,0 +1,15 @@
+name: IRC Bots
+description:
+projects:
+  - cinch
+  - autumn
+  - isaac
+  - rbot
+  - radar/summer
+  - ponder
+  - em-irc
+  - lita-irc
+  - gifbot
+  - cogbot
+  - craigw/sprinkles
+  - irc-qik-bot

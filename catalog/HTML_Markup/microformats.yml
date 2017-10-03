@@ -1,0 +1,7 @@
+name: Microformats
+description:
+projects:
+  - mofo
+  - prism
+  - microformats_helper
+  - html-schema

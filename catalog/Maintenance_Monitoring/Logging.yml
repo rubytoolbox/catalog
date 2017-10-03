@@ -1,0 +1,22 @@
+name: Logging
+description:
+projects:
+  - log4r
+  - logging
+  - lograge
+  - cabin
+  - yell
+  - gelf
+  - fluentd
+  - mongodb_logger
+  - whoops
+  - lumber
+  - logging-rails
+  - httplog
+  - clogger
+  - hatchet
+  - frogger
+  - best_boy
+  - logging_assist
+  - justlogging-rails
+  - rake_bubbler

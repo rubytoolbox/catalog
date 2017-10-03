@@ -1,0 +1,7 @@
+name: Test::Unit Extensions
+description:
+projects:
+  - shoulda
+  - jm/context
+  - contest
+  - pending

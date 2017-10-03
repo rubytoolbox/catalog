@@ -1,0 +1,19 @@
+name: Rails Admin Interfaces
+description:
+projects:
+  - activeadmin
+  - rails_admin
+  - active_scaffold
+  - typus
+  - relevance/streamlined
+  - puffer
+  - inline_forms
+  - admin_assistant
+  - dry_crud
+  - commondream/control_center
+  - admin_data
+  - ab_admin
+  - lipsiadmin
+  - admin_interface
+  - qadmin
+  - fullstack-admin

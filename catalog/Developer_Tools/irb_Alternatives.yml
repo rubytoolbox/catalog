@@ -1,0 +1,5 @@
+name: irb Alternatives
+description:
+projects:
+  - pry
+  - ripl

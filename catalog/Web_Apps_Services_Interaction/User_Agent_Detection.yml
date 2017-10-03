@@ -1,0 +1,15 @@
+name: User Agent Detection
+description:
+projects:
+  - useragent
+  - browser
+  - mobylette
+  - agent_orange
+  - user-agent
+  - browsernizer
+  - user_agent_parser
+  - mobvious
+  - active_device
+  - divining_rod
+  - rack-useragent-filter
+  - is_it_mobile

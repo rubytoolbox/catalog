@@ -1,0 +1,18 @@
+name: XML Mapping
+description:
+projects:
+  - nori
+  - gyoku
+  - happymapper
+  - sax-machine
+  - roxml
+  - nokogiri-happymapper
+  - xml-mapping
+  - representative
+  - saxerator
+  - sax_stream
+  - xml-fu
+  - xml_active
+  - data_active
+  - sxrb
+  - saxy

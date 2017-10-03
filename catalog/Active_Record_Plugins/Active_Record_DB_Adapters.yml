@@ -1,0 +1,11 @@
+name: Active Record DB Adapters
+description:
+projects:
+  - activerecord-jdbc-adapter
+  - activerecord-sqlserver-adapter
+  - activerecord-jdbcmysql-adapter
+  - activerecord-jdbcpostgresql-adapter
+  - activerecord-jdbcderby-adapter
+  - activerecord-oracle_enhanced-adapter
+  - activerecord-nulldb-adapter
+  - oracle-enhanced-enhanced

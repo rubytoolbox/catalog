@@ -1,0 +1,15 @@
+name: Project Management
+description:
+projects:
+  - gitlabhq/gitlabhq
+  - edavis10/redmine
+  - teambox/teambox
+  - malclocke/fulcrum
+  - chiliproject/chiliproject
+  - dim/retrospectiva
+  - pickler
+  - shingara/oupsnow
+  - branston
+  - bluescripts/taskrey
+  - git_time_extractor
+  - bluescripts/reru_scrum

@@ -1,0 +1,30 @@
+name: Rails Search
+description:
+projects:
+  - sunspot
+  - sunspot_rails
+  - tire
+  - thinking-sphinx
+  - searchkick
+  - rsolr
+  - pg_search
+  - elasticsearch
+  - elasticsearch-rails
+  - sunspot_solr
+  - redis-search
+  - acts_as_indexed
+  - ferret
+  - acts_as_ferret
+  - scoped_search
+  - searchlight
+  - acts_as_solr
+  - texticle
+  - acts_as_solr_reloaded
+  - xapit
+  - elastictastic
+  - delsolr
+  - xapian_db
+  - acts_as_fulltextable
+  - solr_query
+  - ruby_simple_search
+  - slingshot-rb

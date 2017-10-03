@@ -1,0 +1,16 @@
+name: Game libraries
+description:
+projects:
+  - gosu
+  - chingu
+  - gamebox
+  - ray
+  - rubygame
+  - chipmunk
+  - fidgit
+  - metro
+  - jemini
+  - gosu_android
+  - gioco
+  - kolb
+  - flonkerton

@@ -1,0 +1,18 @@
+name: Rails In-Place Editing
+description:
+projects:
+  - janv/rest_in_place
+  - best_in_place
+  - on_the_spot
+  - rakuto/jrails_in_place_editing
+  - amerine/in_place_editing
+  - nakajima/better-edit-in-place
+  - jintastic
+  - jeditable-rails
+  - best_in_place_mongoid
+  - simplificator/inplace
+  - flvorful/super_inplace_controls
+  - yizzreel/jquery_edit_in_place
+  - redlinesoftware/in_place_editor
+  - stepheneb/in_place_rich_editing
+  - best_in_placeish

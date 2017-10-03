@@ -1,0 +1,15 @@
+name: System Provisioning
+description:
+projects:
+  - vagrant
+  - chef
+  - puppet
+  - benhoskings/babushka
+  - sprinkle
+  - benschwarz/passenger-stack
+  - supply_drop
+  - rudy
+  - teleport
+  - automateit
+  - knife-esx
+  - boris

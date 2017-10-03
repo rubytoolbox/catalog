@@ -1,0 +1,20 @@
+name: PDF Generation
+description:
+projects:
+  - prawn
+  - pdfkit
+  - wicked_pdf
+  - wkhtmltopdf
+  - prawnto
+  - kitabu
+  - princely
+  - gimli
+  - rghost
+  - shrimp
+  - wisepdf
+  - prawn-rails
+  - rtex
+  - acts_as_flying_saucer
+  - prawnto_2
+  - doc_raptor
+  - gambas

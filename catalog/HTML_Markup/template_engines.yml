@@ -1,0 +1,27 @@
+name: Template Engines
+description:
+projects:
+  - erubis
+  - tilt
+  - haml
+  - slim
+  - liquid
+  - mustache
+  - temple
+  - handlebars_assets
+  - deface
+  - curly-templates
+  - erector
+  - markaby
+  - markerb
+  - judofyr/parkaby
+  - scottpersinger/laminate
+  - tagz
+  - wlang
+  - PageTemplate
+  - inversion
+  - cadenza
+  - ember
+  - sweet-lang
+  - hammer_builder
+  - ruty

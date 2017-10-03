@@ -1,0 +1,8 @@
+name: Recommendation Engines
+description:
+projects:
+  - recommendify
+  - recommendable
+  - coletivo
+  - slope_one
+  - similus

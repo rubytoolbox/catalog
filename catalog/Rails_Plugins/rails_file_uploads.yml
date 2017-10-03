@@ -1,0 +1,15 @@
+name: Rails File Uploads
+description:
+projects:
+  - paperclip
+  - carrierwave
+  - technoweenie/attachment_fu
+  - dragonfly
+  - imagery
+  - jquery.fileupload-rails
+  - attached
+  - papermill
+  - fileuploader-rails
+  - fileclip
+  - simple-image-uploader
+  - refile

@@ -1,0 +1,12 @@
+name: Active Record Nesting
+description:
+projects:
+  - awesome_nested_set
+  - ancestry
+  - acts_as_tree
+  - closure_tree
+  - chris/better_nested_set
+  - rails/acts_as_nested_set
+  - acts_as_ordered_tree
+  - acts_as_dag
+  - arboreal

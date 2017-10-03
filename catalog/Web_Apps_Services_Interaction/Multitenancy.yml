@@ -1,0 +1,12 @@
+name: Multitenancy
+description:
+projects:
+  - apartment
+  - milia
+  - acts_as_tenant
+  - multitenant
+  - consolo/acts_as_restricted_subdomain
+  - activerecord-connections
+  - whitelabel
+  - multitenant-pg
+  - multitenant-mysql

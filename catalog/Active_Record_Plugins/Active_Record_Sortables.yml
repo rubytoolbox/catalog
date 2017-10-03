@@ -1,0 +1,8 @@
+name: Active Record Sortables
+description:
+projects:
+  - acts_as_list
+  - ranked-model
+  - sortable
+  - resort
+  - acts_as_restful_list

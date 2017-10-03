@@ -1,0 +1,16 @@
+name: Continuous Integration
+description:
+projects:
+  - travis-ci/travis-ci
+  - thoughtworks/cruisecontrol.rb
+  - cijoe
+  - integrity
+  - jenkins
+  - appelier/bigtuna
+  - tddium
+  - dcrec1/signal
+  - goldberg
+  - cap_gun
+  - cerberus
+  - update_status
+  - ci-go-nfo

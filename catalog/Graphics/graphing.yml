@@ -1,0 +1,24 @@
+name: Graphing
+description:
+projects:
+  - chartkick
+  - michelson/lazy_high_charts
+  - googlecharts
+  - gruff
+  - pullmonkey/open_flash_chart
+  - google_visualr
+  - xaviershay/tufte-graph
+  - rdp/ruby_gnuplot
+  - highcharts-rails
+  - adamwiggins/rifgraf
+  - rubyvis
+  - gchartrb
+  - sparklines
+  - seer
+  - scruffy
+  - gchart
+  - graphite-api
+  - rchart
+  - rudionrails/google_charts
+  - ofc2
+  - technical_graph
