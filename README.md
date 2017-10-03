@@ -3,17 +3,19 @@
 Welcome to [the Ruby Toolbox][rubytoolbox] catalog!
 
 This repository contains the mapping of category groups, categories and ruby
-open source projects and is based on a database dump of the old Ruby Toolbox
-site.
+open source projects and is based on a database dump of [the old Ruby Toolbox
+site][issue-1].
 
 ## Contributing
 
-Help wanted! Feel free to send pull requests against this repo to add or
-moderate existing categories!
+**Help wanted!** Feel free to send pull requests against this repo to add or
+moderate existing categories.
 
-If you plan on bigger changes, please consider splitting your changes into multiple
-separate PRs to avoid merge conflicts, and if your changes could need discussion,
-please create an [issue on the main repo][rubytoolbox] up-front for further discussion.
+If you plan on bigger changes, please consider:
+
+* splitting your changes into multiple separate PRs to avoid merge conflicts
+* if your changes could need discussion, please create an
+  [issue on the main repo][rubytoolbox] up-front for further discussion.
 
 There will soon be a parser / CI integration to validate the repository contents
 and build some JSON representation of the full catalog for static hosting, but this
@@ -47,3 +49,4 @@ Each `category.yml` currently contains:
 ---
 
 [rubytoolbox]: https://www.github.com/rubytoolbox/rubytoolbox
+[issue-1]: https://www.github.com/rubytoolbox/rubytoolbox/issues/1
