@@ -7,5 +7,5 @@ projects:
   - postmodern/chruby
   - pik
   - senny/rvm.el
-  - hmans/rbfu
   - which_ruby
+  - postmodern/ruby-install
