@@ -1,10 +1,10 @@
 name: Ruby Version Management
 description:
 projects:
-  - sstephenson/rbenv
-  - rvm
-  - sstephenson/ruby-build
   - postmodern/chruby
-  - pik
-  - senny/rvm.el
   - postmodern/ruby-install
+  - rvm/rvm
+  - senny/rvm.el
+  - sstephenson/rbenv
+  - sstephenson/ruby-build
+  - vertiginous/pik
