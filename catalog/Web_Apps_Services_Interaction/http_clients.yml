@@ -28,3 +28,4 @@ projects:
   - persistent_httparty
   - http-requestor
   - htcp
+  - flexirest
