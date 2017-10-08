@@ -1,4 +1,4 @@
-# Ruby Toolbox Catalog
+# Ruby Toolbox Catalog [![Build Status](https://travis-ci.org/rubytoolbox/catalog.svg?branch=master)](https://travis-ci.org/rubytoolbox/catalog)
 
 Welcome to [the Ruby Toolbox][rubytoolbox] catalog!
 
@@ -50,5 +50,3 @@ Each `category.yml` currently contains:
 
 [rubytoolbox]: https://www.github.com/rubytoolbox/rubytoolbox
 [issue-1]: https://www.github.com/rubytoolbox/rubytoolbox/issues/1
-
-Trigger travis build...
