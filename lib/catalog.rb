@@ -1,0 +1,44 @@
+# frozen_string_literal: true
+# frozen_string_literal: true
+
+ENV["RACK_ENV"] ||= "development"
+
+require "pathname"
+require "yaml"
+require "bundler"
+Bundler.require :default, ENV["RACK_ENV"]
+
+class Catalog
+  attr_accessor :root
+  private :root=
+
+  def initialize(root: File.join(__dir__, "../catalog"))
+    self.root = Pathname.new(root).expand_path
+  end
+
+  def as_json
+    {
+      category_groups: category_groups,
+    }
+  end
+
+  private
+
+  def category_groups
+    @category_groups ||= Dir[root.join("*")].map do |path|
+      meta = YAML.safe_load Pathname.new(path).join("_meta.yml").read
+      {
+        categories: categories_at(path),
+        description: meta["description"],
+        name: meta["name"],
+        permalink: File.basename(path),
+      }
+    end
+  end
+
+  def categories_at(path)
+    Dir[File.join(path, "*.yml")].reject { |p| File.basename(p) == "_meta.yml" }.map do |category_path|
+      YAML.safe_load File.read(category_path)
+    end
+  end
+end
