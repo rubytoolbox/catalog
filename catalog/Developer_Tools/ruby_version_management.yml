@@ -1,7 +1,9 @@
 name: Ruby Version Management
-description: 
+description:
 projects:
+  # deprecated in favor of chruby:
   - hmans/rbfu
+  # deprecated
   - phoet/which_ruby
   - postmodern/chruby
   - postmodern/ruby-install
@@ -9,4 +11,5 @@ projects:
   - senny/rvm.el
   - sstephenson/rbenv
   - sstephenson/ruby-build
+  # deprecated in favor of https://bitbucket.org/jonforums/uru
   - vertiginous/pik
