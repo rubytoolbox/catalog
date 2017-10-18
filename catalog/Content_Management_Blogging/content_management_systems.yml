@@ -1,31 +1,31 @@
 name: Content Management
-description:
+description: 
 projects:
-  - refinerycms
-  - browsercms
-  - locomotive_cms
-  - comfortable_mexican_sofa
-  - radiant
-  - nesta
-  - svenfuchs/adva_cms
   - alchemy_cms
-  - DigitPaint/skyline
+  - browsercms
   - cantierecreativo/railsyardcms
-  - zena
+  - casein
+  - comfortable_mexican_sofa
+  - copy
+  - DigitPaint/skyline
+  - fullstack-cms
   - knewter/ansuz
-  - static
-  - thinkdry/blank-application
-  - ubiquo
+  - locomotive_cms
+  - lolita
+  - manageable_content
+  - nesta
+  - Opal
+  - puffer_pages
+  - radiant
+  - railfrog/railfrog
+  - refinerycms
   - refinerycms-menus
   - regulate
-  - casein
-  - copy
-  - station
-  - lolita
-  - fullstack-cms
-  - Opal
-  - railfrog/railfrog
-  - manageable_content
-  - zen
-  - puffer_pages
   - snippr
+  - static
+  - station
+  - svenfuchs/adva_cms
+  - thinkdry/blank-application
+  - ubiquo
+  - zen
+  - zena

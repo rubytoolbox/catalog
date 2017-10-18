@@ -1,12 +1,12 @@
 name: CouchDB Clients
-description:
+description: 
 projects:
+  - couch_foo
+  - couch_potato
   - couchrest
   - couchrest_model
-  - couch_potato
   - hpoydar/couchrest-rails
-  - simply_stored
-  - couch_foo
-  - relaxdb
   - paulca/stuffing
   - quilt
+  - relaxdb
+  - simply_stored

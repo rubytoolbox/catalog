@@ -1,8 +1,8 @@
 name: Subscription Management
-description:
+description: 
 projects:
   - cainlevy/freemium
-  - jackpot
   - fastspring-saasy
-  - subscription_fu
+  - jackpot
   - subly
+  - subscription_fu

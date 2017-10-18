@@ -1,18 +1,18 @@
 name: Rails App Templates
-description:
+description: 
 projects:
-  - suspenders
-  - rails_apps_composer
-  - RailsApps/rails3-application-templates
-  - jm/rails-templates
-  - ffmike/BigOldRailsTemplate
-  - rails_templater
-  - prologue
-  - iboard/CBA
-  - imajes/rails-template
-  - pivotal/guiderails
-  - thesilverspoon
-  - cybele
   - appscrolls
-  - icebreaker
   - appsta
+  - cybele
+  - ffmike/BigOldRailsTemplate
+  - iboard/CBA
+  - icebreaker
+  - imajes/rails-template
+  - jm/rails-templates
+  - pivotal/guiderails
+  - prologue
+  - rails_apps_composer
+  - rails_templater
+  - RailsApps/rails3-application-templates
+  - suspenders
+  - thesilverspoon

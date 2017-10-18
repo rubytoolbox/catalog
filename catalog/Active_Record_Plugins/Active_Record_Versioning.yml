@@ -1,19 +1,19 @@
 name: Active Record Versioning
-description:
+description: 
 projects:
-  - paper_trail
-  - audited
-  - vestal_versions
-  - acts_as_versioned
-  - acts_as_revisable
-  - simple_audit
-  - version_fu
-  - auditable
-  - acts_as_revisionable
-  - has_draft
   - acts-as-approvable
-  - simply_versioned
-  - shadow
-  - record_history
+  - acts_as_revisable
+  - acts_as_revisionable
+  - acts_as_versioned
+  - auditable
+  - audited
   - changeling
+  - has_draft
   - historical
+  - paper_trail
+  - record_history
+  - shadow
+  - simple_audit
+  - simply_versioned
+  - version_fu
+  - vestal_versions

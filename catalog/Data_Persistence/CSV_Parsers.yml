@@ -1,15 +1,15 @@
 name: CSV Parsers
-description:
+description: 
 projects:
-  - fastercsv
-  - smarter_csv
-  - postgres-copy
   - ccsv
-  - csv_pirate
   - conformist
-  - fasterer-csv
-  - simple_importer
-  - tabular
   - csv_importer
-  - rcsvreader
+  - csv_pirate
+  - fastercsv
+  - fasterer-csv
   - hasherize_csv
+  - postgres-copy
+  - rcsvreader
+  - simple_importer
+  - smarter_csv
+  - tabular

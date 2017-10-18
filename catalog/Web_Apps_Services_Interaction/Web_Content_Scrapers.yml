@@ -1,14 +1,14 @@
 name: Web Content Scrapers
-description:
+description: 
 projects:
   - anemone
-  - pismo
-  - metainspector
-  - data_miner
   - cobweb
-  - link_thumbnailer
-  - sinew
-  - fletcher
+  - data_miner
   - docparser
+  - fletcher
+  - link_thumbnailer
+  - metainspector
+  - pismo
+  - sinew
   - url_scraper
   - wiki-api

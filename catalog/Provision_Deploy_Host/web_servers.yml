@@ -1,15 +1,15 @@
 name: Web servers
-description:
+description: 
 projects:
-  - thin
-  - unicorn
-  - passenger
-  - puma
-  - pow
-  - mongrel
-  - skinny
-  - trinidad
-  - hoof
   - ebb
+  - hoof
+  - mongrel
   - mongrel2
+  - passenger
+  - pow
+  - puma
+  - skinny
+  - thin
+  - trinidad
+  - unicorn
   - yarn

@@ -1,39 +1,39 @@
 name: Background Jobs
-description:
+description: 
 projects:
-  - resque
-  - sidekiq
-  - delayed_job
-  - kr/beanstalkd
-  - bunny
-  - delayed_job_active_record
+  - acts_as_executor
   - amqp
-  - girl_friday
-  - sucker_punch
-  - queue_classic
-  - cloud-crowd
-  - gnufied/backgroundrb
-  - workling
-  - concurrent-ruby
-  - starling
-  - qu
   - backburner
+  - backgrounded
+  - barttenbrinke/worker_queue
+  - beetle
+  - bj
+  - bunny
+  - cloud-crowd
+  - concurrent-ruby
+  - delayed_job
+  - delayed_job_active_record
+  - frenzy_bunnies
+  - girl_friday
+  - gnufied/backgroundrb
+  - jnstq/job_fu
+  - job_reactor
+  - kr/beanstalkd
+  - later
+  - lazy_caching
   - navvy
   - ncr/background-fu
-  - stalker
-  - beetle
-  - backgrounded
-  - jnstq/job_fu
-  - lazy_caching
-  - frenzy_bunnies
-  - bj
-  - rabbit_jobs
-  - seanohalpin/smqueue
-  - barttenbrinke/worker_queue
+  - qu
   - quebert
+  - queue_classic
+  - rabbit_jobs
+  - resque
   - resque-mongo
   - rock-queue
   - runner
-  - later
-  - acts_as_executor
-  - job_reactor
+  - seanohalpin/smqueue
+  - sidekiq
+  - stalker
+  - starling
+  - sucker_punch
+  - workling

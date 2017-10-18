@@ -1,15 +1,15 @@
 name: Active Record Named Scopes
-description:
+description: 
 projects:
-  - ransack
-  - searchlogic
-  - pacecar
-  - randumb
-  - technoweenie/can_search
-  - utility_scopes
   - filterrific
-  - sexy_scopes
   - internuity/quick_scopes
-  - scope-builder
-  - trixy_scopes
+  - pacecar
   - random_record
+  - randumb
+  - ransack
+  - scope-builder
+  - searchlogic
+  - sexy_scopes
+  - technoweenie/can_search
+  - trixy_scopes
+  - utility_scopes

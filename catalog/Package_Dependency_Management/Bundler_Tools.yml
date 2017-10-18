@@ -1,9 +1,9 @@
 name: Bundler Tools
-description:
+description: 
 projects:
-  - rubygems-bundler
   - appraisal
-  - guard-bundler
-  - spitball
-  - noexec
   - bundler-auto-update
+  - guard-bundler
+  - noexec
+  - rubygems-bundler
+  - spitball

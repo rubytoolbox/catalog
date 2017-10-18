@@ -1,13 +1,13 @@
 name: A/B Testing
-description:
+description: 
 projects:
-  - split
-  - vanity
-  - paulmars/seven_minute_abs
+  - abingo_port
+  - absurdity
   - bandit
   - bryanwoods/ABingo
-  - absurdity
-  - fluidfeatures-rails
-  - validation_issues
-  - abingo_port
   - fluidfeatures
+  - fluidfeatures-rails
+  - paulmars/seven_minute_abs
+  - split
+  - validation_issues
+  - vanity

@@ -1,17 +1,17 @@
 name: Mocking
-description:
+description: 
 projects:
-  - rspec-mocks
-  - mocha
-  - rr
-  - mock_redis
-  - flexmock
   - bogus
-  - jm/stump
-  - surrogate
-  - facon
-  - spy
-  - simple_mock
-  - verified_double
   - cross-stub
+  - facon
+  - flexmock
+  - jm/stump
+  - mocha
+  - mock_redis
   - mocoso
+  - rr
+  - rspec-mocks
+  - simple_mock
+  - spy
+  - surrogate
+  - verified_double

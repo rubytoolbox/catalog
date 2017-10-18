@@ -1,10 +1,10 @@
 name: Cucumber Steps
-description:
+description: 
 projects:
-  - email_spec
   - aruba
-  - pickle
-  - cucumber_factory
-  - mundo-pepino
-  - macros4cuke
   - cucumber-farmer
+  - cucumber_factory
+  - email_spec
+  - macros4cuke
+  - mundo-pepino
+  - pickle

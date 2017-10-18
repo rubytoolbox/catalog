@@ -1,33 +1,33 @@
 name: Reports & Spreadsheets
-description:
+description: 
 projects:
-  - spreadsheet
-  - axlsx
-  - roo
-  - ruport
-  - google-spreadsheet-ruby
-  - rubyXL
-  - statistics
-  - odf-report
-  - axlsx_rails
-  - simple_xlsx_writer
-  - dossier
-  - schacon/munger
-  - remote_table
-  - dynamic_reports
   - activeadmin-axlsx
   - acts_as_xlsx
+  - axlsx
+  - axlsx_rails
+  - compendium
+  - dossier
+  - dynamic_reports
+  - excel_rails
+  - google-spreadsheet-ruby
+  - mk/reports_as_sparkline
   - mondrian-olap
+  - odf-report
+  - oxcelix
+  - remote_table
   - reportable
+  - roo
+  - rubyXL
+  - ruport
+  - schacon/munger
+  - sheets
+  - simple_xlsx_writer
+  - spreadsheet
+  - spreadsheet_report
+  - statistics
   - thinreports
   - to_spreadsheet
-  - mk/reports_as_sparkline
-  - write_xlsx
-  - excel_rails
-  - sheets
   - workbook
-  - compendium
-  - oxcelix
-  - spreadsheet_report
   - wrap_excel
+  - write_xlsx
   - write_xlsx_rails

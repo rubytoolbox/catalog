@@ -1,31 +1,31 @@
 name: Code Metrics
-description:
+description: 
 projects:
-  - simplecov
-  - rubocop
-  - rails_best_practices
-  - rcov
-  - reek
-  - coveralls
   - cane
+  - coco
+  - code_statistics
+  - code_stats2
+  - cover_me
+  - coveralls
+  - flay
   - flog
   - foodcritic
-  - flay
-  - metric_fu
-  - rubycritic
-  - roodi
-  - sandi_meter
-  - pelusa
-  - cover_me
   - guard-rubocop
-  - tailor
-  - Saikuro
-  - thoughtbot/report_card
   - jslint_on_rails
-  - coco
-  - rcov_plugin
-  - code_statistics
   - kevinrutherford/crap4r
-  - outlaw
-  - code_stats2
   - metric_abc
+  - metric_fu
+  - outlaw
+  - pelusa
+  - rails_best_practices
+  - rcov
+  - rcov_plugin
+  - reek
+  - roodi
+  - rubocop
+  - rubycritic
+  - Saikuro
+  - sandi_meter
+  - simplecov
+  - tailor
+  - thoughtbot/report_card

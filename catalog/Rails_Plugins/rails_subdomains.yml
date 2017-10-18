@@ -1,8 +1,8 @@
 name: Rails Subdomains
-description:
+description: 
 projects:
-  - subdomain-fu
-  - subdomain_routes
+  - jfernandez/submarine
   - shuber/subdomain_account
   - sso_what
-  - jfernandez/submarine
+  - subdomain-fu
+  - subdomain_routes

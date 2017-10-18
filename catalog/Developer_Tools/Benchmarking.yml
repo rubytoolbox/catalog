@@ -1,10 +1,10 @@
 name: Benchmarking
-description:
+description: 
 projects:
-  - method_profiler
-  - rbench
   - bench_press
+  - benchmarkable
   - better-benchmark
   - dev_panel
+  - method_profiler
+  - rbench
   - tach
-  - benchmarkable

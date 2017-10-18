@@ -1,5 +1,5 @@
 name: JavaScript Runtimes
-description:
+description: 
 projects:
   - execjs
   - therubyracer

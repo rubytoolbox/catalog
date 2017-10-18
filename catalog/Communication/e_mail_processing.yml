@@ -1,11 +1,11 @@
 name: E-Mail Processing
-description:
+description: 
 projects:
-  - mailman
   - griddler
   - look/fetcher
+  - mail_room
+  - mailman
   - newman
   - siannopollo/mail_fetcher
-  - mail_room
-  - tinnef
   - sortah
+  - tinnef

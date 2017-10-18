@@ -1,10 +1,10 @@
 name: Scheduling
-description:
+description: 
 projects:
-  - whenever
-  - rufus-scheduler
-  - resque-scheduler
   - clockwork
   - latimes/craken
-  - Swirrl/Taskit
   - recurrent
+  - resque-scheduler
+  - rufus-scheduler
+  - Swirrl/Taskit
+  - whenever

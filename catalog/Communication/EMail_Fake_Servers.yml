@@ -1,9 +1,9 @@
 name: E-Mail Preview
-description:
+description: 
 projects:
   - letter_opener
-  - mailcatcher
   - mail_view
+  - mailcatcher
+  - post_office
   - rails_email_preview
   - sanitize_email
-  - post_office

@@ -1,17 +1,17 @@
 name: Image Processing
-description:
+description: 
 projects:
   - chunky_png
-  - rmagick
-  - mini_magick
-  - image_science
-  - image_sorcery
-  - skeptick
-  - magickly
-  - paperclip-optimizer
+  - core_image
   - devil
   - fabien/im_magick
-  - core_image
-  - mojo_magick
+  - image_science
+  - image_sorcery
   - image_squeeze
+  - magickly
   - MIAConverter
+  - mini_magick
+  - mojo_magick
+  - paperclip-optimizer
+  - rmagick
+  - skeptick

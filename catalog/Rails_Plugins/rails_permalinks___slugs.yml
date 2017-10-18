@@ -1,18 +1,18 @@
 name: Rails Permalinks & Slugs
-description:
+description: 
 projects:
-  - friendly_id
-  - stringex
-  - babosa
-  - permalink_fu
-  - obfuscate_id
-  - canonical-rails
-  - slugged
-  - has_permalink
-  - slug
-  - norbauer/salty_slugs
-  - ludo/to_slug
-  - ismasan/sluggable-finder
-  - find_by_param
-  - has_slug
   - acts_as_param
+  - babosa
+  - canonical-rails
+  - find_by_param
+  - friendly_id
+  - has_permalink
+  - has_slug
+  - ismasan/sluggable-finder
+  - ludo/to_slug
+  - norbauer/salty_slugs
+  - obfuscate_id
+  - permalink_fu
+  - slug
+  - slugged
+  - stringex

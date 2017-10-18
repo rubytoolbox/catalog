@@ -1,7 +1,7 @@
 name: Daemon Management
-description:
+description: 
 projects:
-  - foreman
-  - daemon_controller
-  - lunchy
   - daemon-spawn
+  - daemon_controller
+  - foreman
+  - lunchy

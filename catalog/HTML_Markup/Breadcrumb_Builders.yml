@@ -1,10 +1,10 @@
 name: Breadcrumb Builders
-description:
+description: 
 projects:
+  - ariane
+  - breadcrumble
+  - breadcrumbs
   - breadcrumbs_on_rails
+  - crumble
   - crummy
   - gretel
-  - ariane
-  - breadcrumbs
-  - crumble
-  - breadcrumble

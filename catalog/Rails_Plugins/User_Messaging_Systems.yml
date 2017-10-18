@@ -1,11 +1,11 @@
 name: User Messaging Systems
-description:
+description: 
 projects:
-  - mailboxer
-  - frodefi/rails-messaging
   - acts-as-messageable
-  - maktoub
-  - inboxes
   - cacheable_flash
   - discuss
+  - frodefi/rails-messaging
   - growlyflash
+  - inboxes
+  - mailboxer
+  - maktoub

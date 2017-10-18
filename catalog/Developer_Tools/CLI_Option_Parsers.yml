@@ -1,26 +1,26 @@
 name: CLI Option Parsers
-description:
+description: 
 projects:
-  - highline
-  - slop
-  - cocaine
-  - trollop
-  - mixlib-cli
-  - commander
-  - gli
+  - acclaim
+  - arg0
   - choice
   - clamp
-  - methadone
-  - docopt
-  - cmdparse
-  - cri
-  - acclaim
   - clap
+  - cmdparse
+  - cocaine
+  - commander
+  - config_parser
+  - cri
+  - docopt
+  - getopt
+  - getoptions
+  - gli
+  - highline
+  - methadone
+  - micro-optparse
+  - mixlib-cli
+  - OptionParser
   - optitron
   - quickl
-  - micro-optparse
-  - getopt
-  - config_parser
-  - OptionParser
-  - getoptions
-  - arg0
+  - slop
+  - trollop

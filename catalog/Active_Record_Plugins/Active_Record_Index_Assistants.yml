@@ -1,5 +1,5 @@
 name: Active Record Index Assistants
-description:
+description: 
 projects:
   - automatic_foreign_key
   - eladmeidar/rails_indexes

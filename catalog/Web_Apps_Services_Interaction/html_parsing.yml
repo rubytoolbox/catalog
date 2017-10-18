@@ -1,10 +1,10 @@
 name: HTML parsing
-description:
+description: 
 projects:
-  - nokogiri
   - hpricot
   - libxml-ruby
-  - scrubyt
-  - scrapi
   - nikkou
+  - nokogiri
+  - scrapi
+  - scrubyt
   - xml-motor

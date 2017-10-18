@@ -1,10 +1,10 @@
 name: E-Mail Sending
-description:
+description: 
 projects:
   - actionmailer
-  - mail
-  - pony
-  - tmail
   - capistrano_mailer
-  - sendgrid-rails
+  - mail
   - mailit
+  - pony
+  - sendgrid-rails
+  - tmail
