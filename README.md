@@ -6,6 +6,8 @@ This repository contains the mapping of category groups, categories and ruby
 open source projects and is based on a database dump of [the old Ruby Toolbox
 site][issue-1].
 
+You can find the current exported catalog at https://rubytoolbox.github.io/catalog
+
 ## Contributing
 
 **Help wanted!** Feel free to send pull requests against this repo to add or
