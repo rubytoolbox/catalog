@@ -21,6 +21,12 @@ class Catalog
     }
   end
 
+  def export(path: File.join(__dir__, "../build/catalog.json"))
+    File.open(path, "w+") do |f|
+      f.puts JSON.pretty_generate(as_json)
+    end
+  end
+
   private
 
   def category_groups

@@ -105,6 +105,7 @@ DEPENDENCIES
   guard-rubocop
   json-schema
   overcommit
+  rake
   rspec
   rubocop
   rubocop-rspec
