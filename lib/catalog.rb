@@ -11,6 +11,10 @@ class Catalog
   attr_accessor :root
   private :root=
 
+  def self.schema
+    YAML.safe_load Pathname.new(__dir__).join("..", "json-schema.yml").read
+  end
+
   def initialize(root: File.join(__dir__, "../catalog"))
     self.root = Pathname.new(root).expand_path
   end

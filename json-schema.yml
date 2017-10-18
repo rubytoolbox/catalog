@@ -1,0 +1,54 @@
+---
+"$schema": http://json-schema.org/draft-04/schema#
+title: The Ruby Toolbox Catalog
+type: object
+required:
+- category_groups
+additionalProperties: false
+properties:
+  category_groups:
+    type: array
+    minItems: 1
+    items:
+      additionalProperties: false
+      required:
+      - name
+      - permalink
+      - description
+      - categories
+      properties:
+        name:
+          type: string
+        permalink:
+          type: string
+          pattern: "^([A-Za-z0-9\\/\\-_]{3,30})$"
+        description:
+          type:
+          - string
+          - ~
+        categories:
+          type: array
+          minItems: 1
+          items:
+            additionalProperties: false
+            required:
+            - name
+            - permalink
+            - description
+            - projects
+            properties:
+              name:
+                type: string
+              permalink:
+                type: string
+                pattern: "^([A-Za-z0-9\\/\\-_]{3,30})$"
+              description:
+                type:
+                - string
+                - ~
+              projects:
+                type: array
+                minItems: 1
+                items:
+                  type: string
+                  pattern: "^([A-Za-z0-9\\/\\-\\._]{1,50})$"
