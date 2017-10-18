@@ -20,7 +20,7 @@ SCHEMA = {
           },
           permalink: {
             type: :string,
-            pattern: "^([A-Za-z0-9\\/\\-_]+)$",
+            pattern: "^([A-Za-z0-9\\/\\-_]{3,30})$",
           },
           description: {
             type: [:string, nil],
@@ -30,13 +30,14 @@ SCHEMA = {
             minItems: 1,
             items: {
               additionalProperties: false,
+              required: %i[name permalink description projects],
               properties: {
                 name: {
                   type: :string,
                 },
                 permalink: {
                   type: :string,
-                  pattern: "^([A-Za-z0-9\\/\\-_]+)$",
+                  pattern: "^([A-Za-z0-9\\/\\-_]{3,30})$",
                 },
                 description: {
                   type: [:string, nil],
@@ -45,7 +46,7 @@ SCHEMA = {
                   type: :array,
                   items: {
                     type: :string,
-                    pattern: "^([A-Za-z0-9\\/\\-\\._]+)$",
+                    pattern: "^([A-Za-z0-9\\/\\-\\._]{1,50})$",
                   },
                 },
               },
