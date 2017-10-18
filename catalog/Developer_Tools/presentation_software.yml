@@ -1,10 +1,10 @@
 name: Presentation Software
-description:
+description: 
 projects:
-  - LeaVerou/CSSS
-  - showoff
   - cykod/CoderDeck
-  - slidedown
   - davist11/jQuery-Presentation
   - geraldb/s6
+  - LeaVerou/CSSS
+  - showoff
+  - slidedown
   - slideshow

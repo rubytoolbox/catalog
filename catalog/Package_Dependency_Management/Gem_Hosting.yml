@@ -1,6 +1,6 @@
 name: Gem Hosting
-description:
+description: 
 projects:
+  - gemfury
   - geminabox
   - stickler
-  - gemfury

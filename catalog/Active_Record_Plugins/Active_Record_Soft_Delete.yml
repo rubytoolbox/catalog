@@ -1,15 +1,15 @@
 name: Active Record Soft Delete
-description:
+description: 
 projects:
-  - paranoia
-  - rails3_acts_as_paranoid
-  - acts_as_paranoid
   - acts_as_archive
-  - permanent_records
-  - destroyed_at
+  - acts_as_paranoid
   - ajh/acts_as_soft_deletable
-  - immortal
+  - destroyed_at
   - expectedbehavior/acts_as_archival
-  - soft_deletion
+  - immortal
+  - paranoia
   - paranoid
   - paranoid2
+  - permanent_records
+  - rails3_acts_as_paranoid
+  - soft_deletion

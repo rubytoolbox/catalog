@@ -1,16 +1,16 @@
 name: Form Builders
-description:
+description: 
 projects:
-  - simple_form
-  - formtastic
-  - nested_form
-  - cocoon
-  - twitter_bootstrap_form_for
-  - bootstrap_forms
-  - bootstrap_form
   - airblade/air_budd_form_builder
-  - formula
-  - formize
-  - parsley_simple_form
+  - bootstrap_form
+  - bootstrap_forms
   - campo
+  - cocoon
+  - formize
+  - formtastic
+  - formula
   - mongoid_form
+  - nested_form
+  - parsley_simple_form
+  - simple_form
+  - twitter_bootstrap_form_for

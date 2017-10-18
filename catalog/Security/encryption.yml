@@ -1,13 +1,13 @@
 name: Encryption
-description:
+description: 
 projects:
   - attr_encrypted
-  - strongbox
   - crypt_keeper
-  - symmetric-encryption
-  - mongoid-encrypted-fields
   - encrypted_strings
   - jamesotron/Lockbox
-  - sentry
-  - pkcs11
   - jmckible/lucifer
+  - mongoid-encrypted-fields
+  - pkcs11
+  - sentry
+  - strongbox
+  - symmetric-encryption

@@ -1,19 +1,19 @@
 name: Markup processors
-description:
+description: 
 projects:
-  - markup
-  - redcarpet
-  - vkhater-redcarpet
-  - RedCloth
-  - kramdown
-  - rdiscount
-  - maruku
   - bluecloth
-  - pandoc-ruby
   - creole
-  - minidown
-  - rpeg-markdown
+  - kramdown
+  - markup
+  - maruku
   - mcbean
+  - minidown
   - multi_markdown
-  - stupid_formatter
+  - pandoc-ruby
+  - rdiscount
+  - redcarpet
+  - RedCloth
+  - rpeg-markdown
   - smiley
+  - stupid_formatter
+  - vkhater-redcarpet

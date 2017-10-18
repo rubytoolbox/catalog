@@ -1,10 +1,10 @@
 name: Blog Engines
-description:
+description: 
 projects:
-  - imathis/octopress
-  - typo
-  - toto
   - blogit
-  - serious
   - governor
+  - imathis/octopress
   - refinerycms-blog
+  - serious
+  - toto
+  - typo

@@ -1,17 +1,17 @@
 name: Rails Fixture Replacement
-description:
+description: 
 projects:
-  - factory_girl
-  - machinist
-  - fabrication
-  - fixture_builder
-  - object_daddy
   - dm-sweatshop
+  - fabrication
+  - factory_girl
   - fixjour
-  - sinsiliux/Blueprints
+  - fixture_builder
+  - fixture_replacement
+  - machinist
   - miniskirt
+  - object_daddy
+  - seedomatic
+  - sham
+  - sinsiliux/Blueprints
   - spawn
   - transactionata
-  - sham
-  - seedomatic
-  - fixture_replacement

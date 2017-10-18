@@ -1,16 +1,16 @@
 name: Distributed Testing
-description:
+description: 
 projects:
-  - spork
-  - parallel_tests
-  - zeus
-  - spring
-  - hydra
-  - spin
+  - aslakhellesoy/rspec-distributed
   - brynary/testjour
-  - specjour
+  - hydra
+  - parallel_tests
   - qxjit/deep-test
+  - specjour
+  - spin
+  - spork
+  - spring
   - test-queue
   - testbot
+  - zeus
   - zeus-parallel_tests
-  - aslakhellesoy/rspec-distributed

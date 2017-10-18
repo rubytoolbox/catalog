@@ -1,10 +1,10 @@
 name: Natural Language Date Parsing
-description:
+description: 
 projects:
   - chronic
-  - chronic_duration
-  - nickel
-  - tickle
-  - kronic
   - chronic_between
+  - chronic_duration
+  - kronic
+  - nickel
   - text_parser
+  - tickle

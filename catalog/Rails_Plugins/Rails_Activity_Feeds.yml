@@ -1,10 +1,10 @@
 name: Rails Activity Feeds
-description:
+description: 
 projects:
-  - public_activity
-  - timeline_fu
-  - parolkar/pfeed
-  - unread
-  - streama
-  - my_feeds
   - chalk_dust
+  - my_feeds
+  - parolkar/pfeed
+  - public_activity
+  - streama
+  - timeline_fu
+  - unread

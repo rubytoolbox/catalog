@@ -1,19 +1,19 @@
 name: Browser testing
-description:
+description: 
 projects:
-  - selenium-webdriver
+  - akephalos
   - capybara
   - capybara-webkit
-  - poltergeist
-  - webrat
-  - watir-webdriver
-  - headless
-  - culerity
   - celerity
-  - site_prism
-  - selenium-client
-  - watir
-  - akephalos
+  - culerity
+  - headless
   - paytonrules/selenium-on-rails
   - polonium
+  - poltergeist
+  - selenium-client
+  - selenium-webdriver
+  - site_prism
   - tooth
+  - watir
+  - watir-webdriver
+  - webrat

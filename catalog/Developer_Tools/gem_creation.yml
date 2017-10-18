@@ -1,18 +1,18 @@
 name: Gem Creation
-description:
+description: 
 projects:
-  - hoe
-  - jeweler
-  - enginex
-  - gem-release
-  - echoe
   - bones
+  - echoe
+  - enginex
+  - gem-newgem
+  - gem-release
+  - gem_hadar
+  - hoe
+  - inochi
+  - jeweler
   - newgem
   - ore
-  - rubygems-tasks
-  - inochi
-  - gem_hadar
-  - simple-gem
   - rag
   - rookie
-  - gem-newgem
+  - rubygems-tasks
+  - simple-gem

@@ -1,12 +1,12 @@
 name: Rails Ratings
-description:
+description: 
 projects:
-  - edgarjs/ajaxful-rating
-  - ajaxful_rating
-  - letsrate
-  - acts_as_rateable
-  - mongoid_rateable
   - acts-as-rated
-  - zachinglis/is_rateable
+  - acts_as_rateable
+  - ajaxful_rating
+  - edgarjs/ajaxful-rating
   - has_ratings
+  - letsrate
   - mongoid-rating
+  - mongoid_rateable
+  - zachinglis/is_rateable

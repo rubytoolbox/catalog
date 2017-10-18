@@ -1,22 +1,22 @@
 name: Rails Authentication
-description:
+description: 
 projects:
-  - devise
-  - omniauth
-  - authlogic
-  - technoweenie/restful-authentication
-  - sorcery
-  - doorkeeper
-  - clearance
-  - devise_oauth2_providable
-  - switch_user
-  - rpx_now
   - adauth
-  - letmein
-  - envylabs/BlueLightSpecial
-  - monban
-  - rack-cas
-  - userbin
+  - authlogic
   - authorizme
+  - clearance
   - current_user
   - cz_auth
+  - devise
+  - devise_oauth2_providable
+  - doorkeeper
+  - envylabs/BlueLightSpecial
+  - letmein
+  - monban
+  - omniauth
+  - rack-cas
+  - rpx_now
+  - sorcery
+  - switch_user
+  - technoweenie/restful-authentication
+  - userbin

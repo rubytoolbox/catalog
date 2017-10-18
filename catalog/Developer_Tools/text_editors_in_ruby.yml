@@ -1,8 +1,8 @@
 name: Text Editors in Ruby
-description:
+description: 
 projects:
-  - redcar
-  - ruco
   - arcadia
   - diakonos
+  - redcar
   - ruber
+  - ruco

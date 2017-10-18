@@ -1,28 +1,28 @@
 name: App Instrumentation
-description:
+description: 
 projects:
-  - newrelic_rpm
-  - dashing
   - better_errors
-  - fnordmetric
   - bullet
-  - meta_request
-  - rails-footnotes
-  - peek
-  - rack-bug
-  - scoutapp/scout-plugins
+  - dashing
   - dashing-rails
+  - fnordmetric
+  - fozzie
+  - fozzie_rails
+  - harness
+  - how_slow
+  - meta_request
   - metriks
-  - rails_metrics
+  - metriksd
+  - newrelic_rpm
+  - peek
+  - query_trace
+  - rack-bug
   - rack-insight
   - rackamole
-  - harness
-  - fozzie
-  - system-metrics
-  - slowgrowl
-  - query_trace
-  - rails_view_annotator
-  - fozzie_rails
+  - rails-footnotes
   - rails_instrument
-  - metriksd
-  - how_slow
+  - rails_metrics
+  - rails_view_annotator
+  - scoutapp/scout-plugins
+  - slowgrowl
+  - system-metrics

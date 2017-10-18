@@ -1,10 +1,10 @@
 name: Object-relational mapping
-description:
+description: 
 projects:
   - activerecord
-  - orm_adapter
-  - sequel
   - dm-core
-  - squeel
-  - rom
   - og
+  - orm_adapter
+  - rom
+  - sequel
+  - squeel

@@ -1,20 +1,20 @@
 name: Payments
-description:
+description: 
 projects:
   - activemerchant
-  - braintree
-  - stripe
-  - paypal-express
-  - paypal_adaptive
-  - stripe_event
-  - remit
   - adyen
-  - sepa_king
   - amazon_flex_pay
-  - gmo
+  - braintree
   - datatrans
+  - gmo
   - mundipagg
-  - pin_up
-  - paypal-sdk-invoice
   - pagseguro_v2
+  - paypal-express
+  - paypal-sdk-invoice
+  - paypal_adaptive
   - paypal_calculator
+  - pin_up
+  - remit
+  - sepa_king
+  - stripe
+  - stripe_event

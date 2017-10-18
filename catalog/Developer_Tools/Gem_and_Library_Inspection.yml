@@ -1,6 +1,6 @@
 name: Gem and Library Inspection
-description:
+description: 
 projects:
+  - gemedit
   - open_gem
   - qwandry
-  - gemedit

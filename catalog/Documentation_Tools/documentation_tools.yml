@@ -1,18 +1,18 @@
 name: Documentation Generators
-description:
+description: 
 projects:
-  - rdoc
-  - yard
-  - sdoc
-  - jeromegn/DocumentUp
-  - rspec_api_documentation
-  - apipie-rails
-  - ronn
-  - rocco
-  - hanna
-  - md2man
-  - breakpointer/ajax-rdoc
   - annotator
+  - apipie-rails
   - binman
+  - breakpointer/ajax-rdoc
   - doc
   - erbook
+  - hanna
+  - jeromegn/DocumentUp
+  - md2man
+  - rdoc
+  - rocco
+  - ronn
+  - rspec_api_documentation
+  - sdoc
+  - yard

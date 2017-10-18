@@ -1,22 +1,22 @@
 name: CSS with Ruby
-description:
+description: 
 projects:
-  - sass
-  - bootstrap-sass
-  - sass-rails
-  - compass
-  - bourbon
-  - twitter-bootstrap-rails
-  - less
-  - anjlab-bootstrap-rails
-  - deadweight
-  - cowboyd/less.rb
-  - stylus
-  - twitter-bootswatch-rails
-  - smurfville
   - airblade/css_dryer
-  - rainpress
-  - twitter-bootswatch-rails-helpers
-  - twitter-bootswatch-rails-fontawesome
-  - stylish
+  - anjlab-bootstrap-rails
+  - bootstrap-sass
+  - bourbon
+  - compass
+  - cowboyd/less.rb
+  - deadweight
+  - less
   - patterns
+  - rainpress
+  - sass
+  - sass-rails
+  - smurfville
+  - stylish
+  - stylus
+  - twitter-bootstrap-rails
+  - twitter-bootswatch-rails
+  - twitter-bootswatch-rails-fontawesome
+  - twitter-bootswatch-rails-helpers

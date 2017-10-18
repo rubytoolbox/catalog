@@ -1,18 +1,18 @@
 name: Table Builders
-description:
+description: 
 projects:
+  - active-list
   - datagrid
-  - wice_grid
-  - tabletastic
+  - easy_table
+  - fancygrid
+  - gridder
+  - magic_grid
+  - sorting_table_for
+  - table-for
   - table_cloth
   - table_for_collection
-  - active-list
-  - table-for
-  - fancygrid
-  - tableasy
-  - magic_grid
   - table_go
-  - easy_table
-  - sorting_table_for
+  - tableasy
   - tableficate
-  - gridder
+  - tabletastic
+  - wice_grid

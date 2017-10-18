@@ -1,16 +1,16 @@
 name: Music & MIDI
-description:
+description: 
 projects:
+  - adamjmurray/cosy
+  - cultome_player
+  - diamond
+  - Gabrielg1976/ruby_music_projects
   - gilesbowkett/archaeopteryx
-  - rubiety/jazz_model
-  - unimidi
+  - gitara
+  - micromidi
   - midiator
   - midilib
-  - micromidi
-  - Gabrielg1976/ruby_music_projects
-  - adamjmurray/cosy
-  - gitara
-  - diamond
-  - patchmaster
   - music_player
-  - cultome_player
+  - patchmaster
+  - rubiety/jazz_model
+  - unimidi

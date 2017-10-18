@@ -1,10 +1,10 @@
 name: Random Data Generation
-description:
+description: 
 projects:
+  - cheap_random
+  - data-anonymization
   - faker
   - ffaker
   - forgery
   - randexp
   - random_data
-  - data-anonymization
-  - cheap_random

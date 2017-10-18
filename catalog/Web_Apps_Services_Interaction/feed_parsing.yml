@@ -1,21 +1,21 @@
 name: Atom & RSS Feed Parsing
-description:
+description: 
 projects:
-  - feedzirra
-  - simple-rss
   - feed-normalizer
+  - feed_me
+  - feed_parser
+  - feedme
+  - feedtosis
+  - feedzirra
+  - opds
+  - opds_monster
   - ratom
   - rfeedparser
-  - feed_parser
-  - feed_me
-  - feedtosis
-  - ruby-feedparser
-  - opds
-  - feedme
-  - syndication
   - rss-atom-feed_history
-  - rss-motor
   - rss-dcterms
+  - rss-motor
   - rss-nokogiri
   - rss-opds
-  - opds_monster
+  - ruby-feedparser
+  - simple-rss
+  - syndication

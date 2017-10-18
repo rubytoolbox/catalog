@@ -1,30 +1,30 @@
 name: Deployment Automation
-description:
+description: 
 projects:
-  - capistrano
-  - heroku
-  - mina
-  - git-deploy
-  - railsmachine/moonshine
-  - heroku_san
-  - dandelion
-  - vlad
-  - inploy
-  - deprec
-  - whiskey_disk
-  - heroku-rails
-  - rubber
-  - mpalmer/giddyup
-  - remi/phd
-  - saizai/superdeploy
-  - paratrooper
   - blazing
-  - shelly
-  - pulsar
-  - gofer
-  - negroku
-  - hercules
-  - instance_selector
+  - capistrano
+  - dandelion
   - debloy
+  - deprec
+  - git-deploy
+  - gofer
+  - hercules
+  - heroku
+  - heroku-rails
+  - heroku_san
+  - inploy
+  - instance_selector
+  - mina
+  - mpalmer/giddyup
+  - negroku
+  - paratrooper
+  - pulsar
+  - railsmachine/moonshine
+  - remi/phd
+  - rubber
   - ruploy
+  - saizai/superdeploy
+  - shelly
   - vigil
+  - vlad
+  - whiskey_disk

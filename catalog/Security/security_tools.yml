@@ -1,18 +1,18 @@
 name: Security Tools
-description:
+description: 
 projects:
-  - brakeman
-  - loofah
-  - tarantula
-  - look/xss_terminate
-  - rails_xss
-  - mhartl/find_mass_assignment
   - active_model_otp
-  - param_protected
-  - json-jwt
-  - codesake-dawn
-  - sudo_attributes
   - alpaca
-  - shellex
-  - wwidea/cross_site_sniper
+  - brakeman
+  - codesake-dawn
+  - json-jwt
+  - loofah
+  - look/xss_terminate
+  - mhartl/find_mass_assignment
+  - param_protected
+  - rails_xss
   - ryanlowe/audit_mass_assignment
+  - shellex
+  - sudo_attributes
+  - tarantula
+  - wwidea/cross_site_sniper

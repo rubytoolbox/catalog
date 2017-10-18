@@ -1,9 +1,9 @@
 name: Scripting Frameworks
-description:
+description: 
 projects:
-  - rake
-  - thor
-  - main
   - boson
-  - sake
   - lucie
+  - main
+  - rake
+  - sake
+  - thor

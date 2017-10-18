@@ -1,41 +1,41 @@
 name: Configuration Management
-description:
+description: 
 projects:
-  - dotenv
-  - dotenv-rails
-  - figaro
-  - settingslogic
-  - rails_config
-  - configatron
-  - configuration
-  - rails-settings
-  - ledermann-rails-settings
-  - configliere
-  - simpleconfig
-  - confstruct
-  - configurable_engine
-  - global
+  - acts_as_configurable
+  - amberbit-config
   - app
-  - rconfig
-  - store_configurable
-  - configtoolkit
-  - yettings
   - app_config
-  - configus
-  - optimism
   - application_configuration
-  - gaston
-  - micon
+  - config-me
+  - config_fun
+  - config_newton
+  - configatron
+  - configliere
+  - configloader
+  - configtoolkit
   - configulations
   - configurability
-  - acts_as_configurable
+  - configurable_engine
+  - configuration
+  - configus
+  - confstruct
   - constantinople
-  - dynamic_configuration
-  - amberbit-config
-  - config_fun
-  - configloader
-  - config_newton
-  - config-me
-  - user_config
   - dotconfig
+  - dotenv
+  - dotenv-rails
+  - dynamic_configuration
+  - figaro
+  - gaston
+  - global
   - informante
+  - ledermann-rails-settings
+  - micon
+  - optimism
+  - rails-settings
+  - rails_config
+  - rconfig
+  - settingslogic
+  - simpleconfig
+  - store_configurable
+  - user_config
+  - yettings

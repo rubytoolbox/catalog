@@ -1,17 +1,17 @@
 name: Asset Management
-description:
+description: 
 projects:
-  - jammit
-  - asset_packager
-  - half-pipe
-  - asset_hat
-  - timcharper/bundle-fu
-  - css_splitter
-  - smurf
-  - smart_asset
   - active_assets
+  - asset_hat
+  - asset_packager
+  - cornflakesuperstar/minified_cache
+  - css_splitter
+  - half-pipe
+  - jammit
+  - raptest
+  - smart_asset
+  - smurf
+  - sprocketize
+  - timcharper/bundle-fu
   - voxxit/assemblage
   - yolk/rucksack
-  - sprocketize
-  - cornflakesuperstar/minified_cache
-  - raptest

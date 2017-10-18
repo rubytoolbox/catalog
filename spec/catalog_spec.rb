@@ -24,4 +24,13 @@ RSpec.describe Catalog do
     pp validation unless validation.empty?
     expect(validation).to be_empty
   end
+
+  described_class.new.as_json[:category_groups].map { |group| group[:categories] }.flatten.each do |category|
+    describe "Category #{category['name'].inspect}" do
+      it "defines all projects in alphabetical order" do
+        expected_order = category["projects"].sort_by(&:downcase)
+        expect(category["projects"]).to be == expected_order
+      end
+    end
+  end
 end

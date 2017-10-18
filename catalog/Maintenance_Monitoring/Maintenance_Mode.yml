@@ -1,5 +1,5 @@
 name: Maintenance Mode
-description:
+description: 
 projects:
-  - turnout
   - rack-maintenance
+  - turnout

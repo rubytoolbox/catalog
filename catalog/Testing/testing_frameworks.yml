@@ -1,20 +1,20 @@
 name: Unit Test Frameworks
-description:
+description: 
 projects:
-  - rspec
-  - minitest
-  - test-unit
-  - bacon
-  - wrong
-  - riot
-  - shindo
-  - testrocket
-  - rubydoctest
-  - testy
-  - micronaut
   - assert
+  - bacon
+  - detest
   - dtf
   - kintama
-  - test_inline
   - lemon
-  - detest
+  - micronaut
+  - minitest
+  - riot
+  - rspec
+  - rubydoctest
+  - shindo
+  - test-unit
+  - test_inline
+  - testrocket
+  - testy
+  - wrong

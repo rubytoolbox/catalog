@@ -1,18 +1,18 @@
 name: Dependency Management
-description:
+description: 
 projects:
-  - bundler
-  - berkshelf
-  - librarian
-  - braid
-  - isolate
-  - brewdler
-  - piston
-  - giternal
   - 37signals/cached_externals
-  - gemrat
-  - motion-bundler
+  - berkshelf
+  - bling
+  - braid
+  - brewdler
+  - bundler
   - checkzilla
   - externals
+  - gemrat
+  - giternal
   - halorgium/gem_resolver
-  - bling
+  - isolate
+  - librarian
+  - motion-bundler
+  - piston

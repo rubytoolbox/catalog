@@ -1,10 +1,10 @@
 name: Online Shops
-description:
+description: 
 projects:
-  - spree
+  - carter
   - drhenner/ror_ecommerce
   - invoicing
-  - shippinglogic
   - nimbleshop
   - radiant-shop-extension
-  - carter
+  - shippinglogic
+  - spree

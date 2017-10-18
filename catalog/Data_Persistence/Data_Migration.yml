@@ -1,6 +1,6 @@
 name: Data Migration
-description:
+description: 
 projects:
-  - taps
   - active_importer
   - mysql2psql
+  - taps

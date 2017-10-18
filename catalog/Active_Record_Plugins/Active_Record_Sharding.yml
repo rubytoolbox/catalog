@@ -1,10 +1,10 @@
 name: Active Record Sharding
-description:
+description: 
 projects:
-  - ar-octopus
-  - db-charmer
-  - technoweenie/masochism
-  - multi_db
-  - data_fabric
   - activerecord-turntable
+  - ar-octopus
+  - data_fabric
+  - db-charmer
   - mixonic/ShardTheLove
+  - multi_db
+  - technoweenie/masochism

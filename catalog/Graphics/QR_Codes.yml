@@ -1,13 +1,13 @@
 name: QR Codes
-description:
+description: 
 projects:
+  - pngqr
+  - qrencoder
+  - qrscanner
+  - qrtools
+  - rqr
   - rqrcode
   - rqrcode-rails3
   - rqrcode_png
-  - zxing
   - zbar
-  - qrscanner
-  - rqr
-  - qrencoder
-  - pngqr
-  - qrtools
+  - zxing

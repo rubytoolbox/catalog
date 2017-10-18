@@ -1,17 +1,17 @@
 name: SQL Database Adapters
-description:
+description: 
 projects:
-  - pg
-  - mysql2
-  - sqlite3
-  - mysql
-  - sqlite3-ruby
+  - ibm_db
   - jdbc-mysql
   - jdbc-postgres
-  - ruby-oci8
-  - ruby-mysql
-  - mysqlplus
-  - postgres-pr
-  - ibm_db
-  - postgresql_cursor
   - kbam
+  - mysql
+  - mysql2
+  - mysqlplus
+  - pg
+  - postgres-pr
+  - postgresql_cursor
+  - ruby-mysql
+  - ruby-oci8
+  - sqlite3
+  - sqlite3-ruby

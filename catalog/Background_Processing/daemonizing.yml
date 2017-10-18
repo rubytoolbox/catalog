@@ -1,16 +1,16 @@
 name: Daemonizing
-description:
+description: 
 projects:
-  - daemons
   - daemon-kit
+  - daemonizer
+  - daemons
+  - daemons-rails
   - dante
   - dougal/daemon_generator
-  - daemons-rails
   - fallen
+  - foreverb
+  - looper
+  - peritor/backdrop
   - robustthread
-  - daemonizer
   - simple-daemon
   - titan
-  - looper
-  - foreverb
-  - peritor/backdrop

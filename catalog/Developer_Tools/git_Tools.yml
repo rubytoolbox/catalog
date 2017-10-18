@@ -1,13 +1,13 @@
 name: git Tools
-description:
+description: 
 projects:
-  - grit
-  - githug
-  - git
-  - rugged
-  - gitolite
-  - gas
-  - gritano
-  - gitsu
   - ezgit
+  - gas
+  - git
+  - githug
+  - gitolite
+  - gitsu
+  - grit
+  - gritano
   - octonore
+  - rugged

@@ -1,18 +1,18 @@
 name: API Builders
-description:
+description: 
 projects:
+  - active_model_serializers
+  - acts_as_api
+  - api-versions
+  - apiary
+  - bldr
   - grape
   - jbuilder
   - rabl
-  - active_model_serializers
   - roar
   - rocket_pants
-  - acts_as_api
-  - versionist
-  - versioncake
   - roy
-  - api-versions
-  - bldr
-  - apiary
+  - versioncake
+  - versionist
   - windsor
   - xmlrpc-rack_server

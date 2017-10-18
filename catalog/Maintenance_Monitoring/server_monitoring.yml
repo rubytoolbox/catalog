@@ -1,17 +1,17 @@
 name: Server Monitoring
-description:
+description: 
 projects:
-  - god
-  - sensu
-  - bluepill
-  - martinrusev/amonlite
-  - eye
-  - outpost
-  - nagios_check
   - amnesia
-  - health_monitor
-  - webstats
-  - visage-app
-  - new_relic_ping
+  - bluepill
+  - eye
+  - god
   - health_checker
+  - health_monitor
   - health_rails
+  - martinrusev/amonlite
+  - nagios_check
+  - new_relic_ping
+  - outpost
+  - sensu
+  - visage-app
+  - webstats

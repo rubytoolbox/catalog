@@ -1,7 +1,7 @@
 name: Packaging to Executables
-description:
+description: 
 projects:
+  - crate
   - ocra
   - releasy
-  - crate
   - rubyscript2exe

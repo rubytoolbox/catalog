@@ -1,27 +1,27 @@
 name: Web App Frameworks
-description:
+description: 
 projects:
-  - rails
-  - rack
-  - sinatra
-  - padrino
+  - camping
   - cramp
   - cuba
-  - merb-core
-  - camping
-  - hobo
-  - ramaze
-  - raptor
-  - pakyow
-  - renee
-  - rango
-  - scorched
-  - lattice
-  - harbor
-  - vanilla
-  - salad
   - e
-  - marley
-  - hansineffect/Bats
-  - strelka
   - gin
+  - hansineffect/Bats
+  - harbor
+  - hobo
+  - lattice
+  - marley
+  - merb-core
+  - padrino
+  - pakyow
+  - rack
+  - rails
+  - ramaze
+  - rango
+  - raptor
+  - renee
+  - salad
+  - scorched
+  - sinatra
+  - strelka
+  - vanilla

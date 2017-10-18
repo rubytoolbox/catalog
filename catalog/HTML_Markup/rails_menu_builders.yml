@@ -1,20 +1,20 @@
 name: Rails Menu Builders
-description:
+description: 
 projects:
-  - simple-navigation
-  - tabs_on_rails
   - active_link_to
-  - navigasmic
-  - tabulous
-  - danielharan/semantic-menu
-  - simple-navigation-bootstrap
-  - dpickett/tab_menu
-  - simple_navigation
   - bjeanes/tab_fu
-  - simple_navigation_renderers
-  - menu_helper
-  - xebec
-  - navi
-  - semantic_navigation
   - brewski/menu_components
+  - danielharan/semantic-menu
+  - dpickett/tab_menu
+  - menu_helper
+  - navi
+  - navigasmic
   - ramenu
+  - semantic_navigation
+  - simple-navigation
+  - simple-navigation-bootstrap
+  - simple_navigation
+  - simple_navigation_renderers
+  - tabs_on_rails
+  - tabulous
+  - xebec

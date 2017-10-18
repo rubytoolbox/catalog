@@ -1,25 +1,25 @@
 name: irb Tools
-description:
+description: 
 projects:
-  - ryanb/dotfiles
-  - awesome_print
-  - hirb
-  - pry-rails
-  - wirble
-  - bond
-  - irbtools
-  - every_day_irb
-  - table_print
-  - looksee
-  - racksh
-  - interactive_editor
-  - gilesbowkett/utility-belt
-  - clipboard
-  - wirb
-  - marco-polo
-  - fancy_irb
-  - sketches
-  - ori
   - alias
-  - irbtools-more
+  - awesome_print
+  - bond
+  - clipboard
   - davidrichards/sirb
+  - every_day_irb
+  - fancy_irb
+  - gilesbowkett/utility-belt
+  - hirb
+  - interactive_editor
+  - irbtools
+  - irbtools-more
+  - looksee
+  - marco-polo
+  - ori
+  - pry-rails
+  - racksh
+  - ryanb/dotfiles
+  - sketches
+  - table_print
+  - wirb
+  - wirble
