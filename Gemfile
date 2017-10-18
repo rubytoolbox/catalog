@@ -4,6 +4,9 @@ source "https://rubygems.org"
 
 ruby File.read(File.join(__dir__, ".ruby-version")).strip
 
+gem "json-schema"
+gem "rake"
+
 group :test do
   gem "rspec"
   gem "simplecov"

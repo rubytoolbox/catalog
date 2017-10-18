@@ -1,2 +1,15 @@
 language: ruby
-script: bundle exec rspec
+script:
+  - bundle exec rspec
+  - bundle exec rake export
+deploy:
+  # Docs: https://docs.travis-ci.com/user/deployment/pages/
+  provider: pages
+  skip_cleanup: true
+  # Personal access token for rubytoolbox-bot user, public_repo scope
+  github_token: $GITHUB_TOKEN
+  name: Ruby Toolbox Bot
+  email: bot@ruby-toolbox.com
+  local_dir: build
+  on:
+    branch: master
