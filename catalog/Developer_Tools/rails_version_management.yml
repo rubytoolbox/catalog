@@ -1,4 +1,4 @@
 name: Rails Version Management
-description:
+description: Tools for managing the Rails versions of new or existing apps
 projects:
   - brandonweiss/railyard
