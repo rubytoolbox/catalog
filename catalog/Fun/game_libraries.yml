@@ -12,5 +12,6 @@ projects:
   - jemini
   - kolb
   - metro
+  - minigl
   - ray
   - rubygame
