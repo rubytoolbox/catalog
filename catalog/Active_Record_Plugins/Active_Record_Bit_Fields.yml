@@ -1,0 +1,7 @@
+name: Active Record Bit Fields
+description: Use an integer field to store a set of booleans using bitwise logic
+projects:
+  - bitfields
+  - bitmask_attributes
+  - flag_shih_tzu
+  - has-bit-field
