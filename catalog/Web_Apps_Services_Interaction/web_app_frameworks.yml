@@ -1,12 +1,12 @@
 name: Web App Frameworks
-description: 
+description:
 projects:
+  - bats
   - camping
   - cramp
   - cuba
   - e
   - gin
-  - hansineffect/Bats
   - harbor
   - hobo
   - lattice
