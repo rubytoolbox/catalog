@@ -1,7 +1,6 @@
 name: Wiki Apps
-description: 
+description:
 projects:
-  - 3scale/acts_as_wiki
   - AndyMoreland/kii
   - benatkin/weaky
   - bomberstudios/bliki
