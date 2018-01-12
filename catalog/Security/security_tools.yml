@@ -5,7 +5,6 @@ projects:
   - alpaca
   - brakeman
   - codesake-dawn
-  - json-jwt
   - loofah
   - look/xss_terminate
   - mhartl/find_mass_assignment
