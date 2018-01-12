@@ -1,12 +1,12 @@
 name: Dependency Management
-description: 
+description:
 projects:
-  - 37signals/cached_externals
   - berkshelf
   - bling
   - braid
   - brewdler
   - bundler
+  - cached_externals
   - checkzilla
   - externals
   - gemrat

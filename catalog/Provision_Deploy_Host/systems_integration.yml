@@ -1,8 +1,8 @@
 name: System Provisioning
-description: 
+description:
 projects:
   - automateit
-  - benhoskings/babushka
+  - babushka
   - benschwarz/passenger-stack
   - boris
   - chef
