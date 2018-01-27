@@ -1,5 +1,5 @@
 name: Daemonizing
-description: 
+description:
 projects:
   - daemon-kit
   - daemonizer
@@ -10,7 +10,6 @@ projects:
   - fallen
   - foreverb
   - looper
-  - peritor/backdrop
   - robustthread
   - simple-daemon
   - titan

@@ -1,10 +1,10 @@
 name: A/B Testing
-description: 
+description:
 projects:
+  - abingo
   - abingo_port
   - absurdity
   - bandit
-  - bryanwoods/ABingo
   - fluidfeatures
   - fluidfeatures-rails
   - paulmars/seven_minute_abs

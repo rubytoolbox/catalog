@@ -1,5 +1,5 @@
 name: Rails App Templates
-description: 
+description:
 projects:
   - appscrolls
   - appsta
@@ -9,7 +9,6 @@ projects:
   - icebreaker
   - imajes/rails-template
   - jm/rails-templates
-  - pivotal/guiderails
   - prologue
   - rails_apps_composer
   - rails_templater

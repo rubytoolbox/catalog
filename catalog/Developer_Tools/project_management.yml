@@ -1,14 +1,14 @@
 name: Project Management
-description: 
+description:
 projects:
-  - bluescripts/reru_scrum
-  - bluescripts/taskrey
   - branston
   - chiliproject/chiliproject
   - dim/retrospectiva
   - edavis10/redmine
   - git_time_extractor
   - gitlabhq/gitlabhq
+  - joshrendek/reru_scrum
+  - joshrendek/taskrey
   - malclocke/fulcrum
   - pickler
   - shingara/oupsnow
