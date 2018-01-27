@@ -1,6 +1,7 @@
 name: Rails Fixture Replacement
-description: 
+description:
 projects:
+  - blueprints
   - dm-sweatshop
   - fabrication
   - factory_girl
@@ -12,6 +13,5 @@ projects:
   - object_daddy
   - seedomatic
   - sham
-  - sinsiliux/Blueprints
   - spawn
   - transactionata

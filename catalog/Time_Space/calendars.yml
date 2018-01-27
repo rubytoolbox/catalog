@@ -1,13 +1,13 @@
 name: Calendars
-description: 
+description:
 projects:
   - calendar_helper
   - calendrier
-  - dmix/weekly_builder
   - event_cal
   - event_calendar
   - fnando/has_calendar
   - icalendar
   - later_dude
+  - namxam/weekly_builder
   - ri_cal
   - selene

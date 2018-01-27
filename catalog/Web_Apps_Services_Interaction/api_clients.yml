@@ -1,5 +1,5 @@
 name: API Clients
-description: 
+description:
 projects:
   - amazon-ecs
   - amazon-product-advertising-api
@@ -8,11 +8,10 @@ projects:
   - asin
   - bitly
   - clickatell
-  - coderrr/facebook_chat
+  - cloudfiles
   - colombo
   - contacts
   - createsend
-  - croaky/twitter-search
   - disqus_api
   - ebay
   - eztz
@@ -51,7 +50,6 @@ projects:
   - octopi
   - omniauth-cloudsdale
   - quimby
-  - rackspace/ruby-cloudfiles
   - rebay
   - right_flexiscale
   - rjiffy

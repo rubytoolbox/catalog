@@ -1,5 +1,5 @@
 name: Server Monitoring
-description: 
+description:
 projects:
   - amnesia
   - bluepill
@@ -8,10 +8,10 @@ projects:
   - health_checker
   - health_monitor
   - health_rails
-  - martinrusev/amonlite
   - nagios_check
   - new_relic_ping
   - outpost
+  - ramon
   - sensu
   - visage-app
   - webstats

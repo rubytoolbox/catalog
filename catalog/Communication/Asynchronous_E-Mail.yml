@@ -1,7 +1,7 @@
 name: Asynchronous E-Mail
-description: 
+description:
 projects:
-  - fnando/mail_queue
+  - jusnavigandi/mail_queue
   - mailhopper
   - popthis
   - resque_mail_queue

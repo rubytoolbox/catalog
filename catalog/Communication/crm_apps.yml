@@ -1,11 +1,10 @@
 name: CRM Apps
-description: 
+description:
 projects:
   - alchemy_crm
-  - bitzesty/mongo_crm
   - brobertsaz/railscrm
   - djcp/cohort
-  - fatfreecrm/fat_free_crm
+  - fat_free_crm
   - myitcrm/myitcrm2
   - nutshell-crm
   - thomasn/forgetmenot

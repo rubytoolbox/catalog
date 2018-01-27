@@ -1,8 +1,8 @@
 name: Forum Systems
-description: 
+description:
 projects:
-  - courtenay/altered_beast
   - engagecsm
+  - forem
   - forum_monster
-  - jayroh/thredded
-  - radar/forem
+  - jonthewayne/altered_beast
+  - thredded

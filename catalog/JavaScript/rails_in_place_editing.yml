@@ -1,5 +1,5 @@
 name: Rails In-Place Editing
-description: 
+description:
 projects:
   - amerine/in_place_editing
   - best_in_place
@@ -15,4 +15,3 @@ projects:
   - redlinesoftware/in_place_editor
   - simplificator/inplace
   - stepheneb/in_place_rich_editing
-  - yizzreel/jquery_edit_in_place

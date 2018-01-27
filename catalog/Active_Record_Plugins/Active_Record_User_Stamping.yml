@@ -1,9 +1,8 @@
 name: Active Record User Stamping
-description: 
+description:
 projects:
   - acts_as_audited
   - ar-audit-tracer
-  - centro/tracktor
   - darcy/acts_as_loggable
   - grosser/record_activities
   - jnunemaker/user_stamp
