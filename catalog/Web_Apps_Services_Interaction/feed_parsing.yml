@@ -1,9 +1,10 @@
 name: Atom & RSS Feed Parsing
-description: 
+description:
 projects:
   - feed-normalizer
   - feed_me
   - feed_parser
+  - feedjira
   - feedme
   - feedtosis
   - feedzirra
