@@ -20,8 +20,10 @@ projects:
   - poke_js
   - rack-jquery
   - rake-minify
+  - react-rails
   - sprockets
   - SrBuj
   - uglifier
   - vendorer
+  - webpacker
   - wiselinks
