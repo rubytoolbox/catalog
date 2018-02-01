@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    ast (2.3.0)
+    ast (2.4.0)
     childprocess (0.8.0)
       ffi (~> 1.0, >= 1.0.11)
     coderay (1.1.2)
@@ -82,7 +82,7 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (~> 1.0, >= 1.0.1)
-    rubocop-rspec (1.22.0)
+    rubocop-rspec (1.22.2)
       rubocop (>= 0.52.1)
     ruby-progressbar (1.9.0)
     ruby_dep (1.5.0)
