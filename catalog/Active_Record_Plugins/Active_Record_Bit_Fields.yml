@@ -5,3 +5,4 @@ projects:
   - bitmask_attributes
   - flag_shih_tzu
   - has-bit-field
+  - active_flag
