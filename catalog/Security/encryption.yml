@@ -6,8 +6,10 @@ projects:
   - encrypted_strings
   - jamesotron/Lockbox
   - jmckible/lucifer
+  - miscreant
   - mongoid-encrypted-fields
   - pkcs11
+  - rbnacl
   - sentry
   - strongbox
   - symmetric-encryption
