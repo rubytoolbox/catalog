@@ -11,6 +11,7 @@ projects:
   - flexirest
   - frenetic
   - htcp
+  - http
   - http-requestor
   - httparty
   - httpclient
