@@ -5,6 +5,7 @@ projects:
   - acts_as_taggable_on_steroids
   - clortho
   - geemus/acts_as_taggable_redux
+  - gutentag
   - is_taggable
   - markable
   - rocket_tag
