@@ -13,5 +13,6 @@ projects:
   - postgresql_cursor
   - ruby-mysql
   - ruby-oci8
+  - ruby-odbc
   - sqlite3
   - sqlite3-ruby
