@@ -5,6 +5,7 @@ projects:
   - doc_raptor
   - gambas
   - gimli
+  - invoice_printer
   - kitabu
   - pdfkit
   - prawn
