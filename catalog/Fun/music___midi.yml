@@ -2,6 +2,7 @@ name: Music & MIDI
 description: 
 projects:
   - adamjmurray/cosy
+  - coltrane
   - cultome_player
   - diamond
   - Gabrielg1976/ruby_music_projects
