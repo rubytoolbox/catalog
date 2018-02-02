@@ -9,6 +9,7 @@ projects:
   - aws-ses
   - ec2-blackout
   - fog
+  - humidifier
   - right_aws
   - s3
   - s3utils

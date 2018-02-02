@@ -8,4 +8,5 @@ projects:
   - activerecord-nulldb-adapter
   - activerecord-oracle_enhanced-adapter
   - activerecord-sqlserver-adapter
+  - odbc_adapter
   - oracle-enhanced-enhanced

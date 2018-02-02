@@ -6,6 +6,7 @@ projects:
   - docile
   - extlib
   - facets
+  - fast_underscore
   - hamster
   - hashie
   - hashy
@@ -17,4 +18,6 @@ projects:
   - rucursive
   - rumonade
   - tagen
+  - vernacular
+  - vernacular-ast
   - zucker

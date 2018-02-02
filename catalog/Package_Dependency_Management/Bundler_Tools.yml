@@ -3,6 +3,7 @@ description:
 projects:
   - appraisal
   - bundler-auto-update
+  - bundler-console
   - guard-bundler
   - noexec
   - rubygems-bundler

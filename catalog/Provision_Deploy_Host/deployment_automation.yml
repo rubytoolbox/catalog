@@ -12,6 +12,7 @@ projects:
   - heroku
   - heroku-rails
   - heroku_san
+  - humidifier-reservoir
   - inploy
   - instance_selector
   - mina
