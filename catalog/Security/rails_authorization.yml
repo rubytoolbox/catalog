@@ -18,6 +18,7 @@ projects:
   - easy_roles
   - moulin_rouge
   - pundit
+  - rails-auth
   - rend-acl
   - restful_acl
   - role_model
