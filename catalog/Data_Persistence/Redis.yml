@@ -9,3 +9,4 @@ projects:
   - redis-objects
   - redis-store
   - redis_orm
+  - redlics
