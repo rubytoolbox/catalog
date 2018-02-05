@@ -1,5 +1,5 @@
 name: JavaScript Tools
-description: 
+description:
 projects:
   - barista
   - coffee-script
@@ -20,7 +20,6 @@ projects:
   - poke_js
   - rack-jquery
   - rake-minify
-  - react-rails
   - sprockets
   - SrBuj
   - uglifier
