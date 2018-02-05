@@ -15,3 +15,4 @@ projects:
   - sudo_attributes
   - tarantula
   - wwidea/cross_site_sniper
+  - macker
