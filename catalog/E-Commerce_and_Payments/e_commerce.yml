@@ -8,3 +8,5 @@ projects:
   - radiant-shop-extension
   - shippinglogic
   - spree
+  - money-currencylayer-bank
+  - money-openexchangerates-bank
