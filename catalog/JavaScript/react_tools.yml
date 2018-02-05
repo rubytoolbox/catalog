@@ -1,0 +1,6 @@
+name: React Tools
+description: Tools for integrating with ReactJS
+projects:
+  - react-rails
+  - react_on_rails
+  - webpacker-react

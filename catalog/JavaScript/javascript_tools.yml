@@ -1,5 +1,5 @@
 name: JavaScript Tools
-description: 
+description:
 projects:
   - barista
   - coffee-script
@@ -24,4 +24,5 @@ projects:
   - SrBuj
   - uglifier
   - vendorer
+  - webpacker
   - wiselinks
