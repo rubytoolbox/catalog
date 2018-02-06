@@ -11,5 +11,6 @@ projects:
   - paperclip
   - papermill
   - refile
+  - shrine
   - simple-image-uploader
   - technoweenie/attachment_fu
