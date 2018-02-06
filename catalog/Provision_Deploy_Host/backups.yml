@@ -10,5 +10,6 @@ projects:
   - dbmanager
   - dotbox
   - dumper
+  - pg_drive_backup
   - porter
   - sweety_backy
