@@ -6,6 +6,7 @@ projects:
   - faye
   - faye-rails
   - libwebsocket
+  - litecable
   - private_pub
   - socky-server
   - websocket
