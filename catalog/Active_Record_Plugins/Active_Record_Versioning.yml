@@ -10,6 +10,7 @@ projects:
   - changeling
   - has_draft
   - historical
+  - logidze
   - paper_trail
   - record_history
   - shadow
