@@ -5,6 +5,7 @@ projects:
   - Graylog2/graylog2-server
   - indy
   - log_file
+  - logs
   - logstash/logstash
   - ntail
   - request-log-analyzer
