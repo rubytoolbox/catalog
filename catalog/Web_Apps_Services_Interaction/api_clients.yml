@@ -49,6 +49,7 @@ projects:
   - octokit
   - octopi
   - omniauth-cloudsdale
+  - postwill
   - quimby
   - rebay
   - right_flexiscale
