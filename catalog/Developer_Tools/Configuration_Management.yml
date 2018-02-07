@@ -1,5 +1,5 @@
 name: Configuration Management
-description: 
+description:
 projects:
   - acts_as_configurable
   - amberbit-config
@@ -24,6 +24,7 @@ projects:
   - dotenv
   - dotenv-rails
   - dynamic_configuration
+  - envyable
   - figaro
   - gaston
   - global
