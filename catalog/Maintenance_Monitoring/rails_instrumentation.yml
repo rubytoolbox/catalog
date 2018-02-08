@@ -23,6 +23,6 @@ projects:
   - rails_instrument
   - rails_metrics
   - rails_view_annotator
-  - scoutapp/scout-plugins
+  - scout_apm
   - slowgrowl
   - system-metrics
