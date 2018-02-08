@@ -3,6 +3,7 @@ description:
 projects:
   - acts_as_configurable
   - amberbit-config
+  - anyway_config
   - app
   - app_config
   - application_configuration
