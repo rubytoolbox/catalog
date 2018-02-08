@@ -1,6 +1,8 @@
 name: HTTP Pub/Sub
 description: 
 projects:
+  - actioncable
+  - anycable
   - danthes
   - em-websocket
   - faye
