@@ -1,11 +1,12 @@
 name: API Builders
-description: 
+description:
 projects:
   - active_model_serializers
   - acts_as_api
   - api-versions
   - apiary
   - bldr
+  - fast_jsonapi
   - grape
   - jbuilder
   - rabl
