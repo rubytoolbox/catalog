@@ -2,8 +2,8 @@ name: Benchmarking
 description: 
 projects:
   - bench_press
-  - benchmarkable
   - benchmark-ips
+  - benchmarkable
   - better-benchmark
   - dev_panel
   - method_profiler
