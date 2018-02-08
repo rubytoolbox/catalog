@@ -3,6 +3,7 @@ description:
 projects:
   - bench_press
   - benchmarkable
+  - benchmark-ips
   - better-benchmark
   - dev_panel
   - method_profiler
