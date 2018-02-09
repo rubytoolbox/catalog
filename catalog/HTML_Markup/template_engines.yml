@@ -9,8 +9,8 @@ projects:
   - erector
   - erubi
   - erubis
-  - fortitude
   - faml
+  - fortitude
   - haml
   - hamlit
   - hammer_builder
