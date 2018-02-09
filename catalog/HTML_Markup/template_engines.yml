@@ -1,12 +1,15 @@
 name: Template Engines
 description: 
 projects:
+  - arbre
   - cadenza
   - curly-templates
   - deface
   - ember
   - erector
+  - erubi
   - erubis
+  - fortitude
   - haml
   - hammer_builder
   - handlebars_assets
