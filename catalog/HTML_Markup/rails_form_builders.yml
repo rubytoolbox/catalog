@@ -6,6 +6,7 @@ projects:
   - bootstrap_forms
   - campo
   - cocoon
+  - comfy_bootstrap_form
   - formize
   - formtastic
   - formula
