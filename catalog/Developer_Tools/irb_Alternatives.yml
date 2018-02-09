@@ -1,7 +1,7 @@
 name: irb Alternatives
 description: 
 projects:
-  - fir
+  - fir-repl
   - pry
   - rib
   - ripl
