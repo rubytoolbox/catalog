@@ -1,5 +1,5 @@
 name: Template Engines
-description: 
+description:
 projects:
   - arbre
   - cadenza
@@ -10,7 +10,9 @@ projects:
   - erubi
   - erubis
   - fortitude
+  - faml
   - haml
+  - hamlit
   - hammer_builder
   - handlebars_assets
   - inversion
