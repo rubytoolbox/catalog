@@ -1,5 +1,5 @@
 name: Form Builders
-description: 
+description:
 projects:
   - airblade/air_budd_form_builder
   - bootstrap_form
@@ -9,8 +9,10 @@ projects:
   - formize
   - formtastic
   - formula
+  - formular
   - mongoid_form
   - nested_form
   - parsley_simple_form
   - simple_form
   - twitter_bootstrap_form_for
+
