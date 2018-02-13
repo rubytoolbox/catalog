@@ -1,8 +1,8 @@
 name: Microformats
 description: 
 projects:
-  - schema_dot_org
   - html-schema
   - microformats_helper
   - mofo
   - prism
+  - schema_dot_org
