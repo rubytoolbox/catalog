@@ -13,8 +13,8 @@ projects:
   - MIAConverter
   - mini_magick
   - mojo_magick
-  - paperclip-optimizer
   - pango
+  - paperclip-optimizer
   - rmagick
   - rsvg2
   - skeptick

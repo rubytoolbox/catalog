@@ -16,8 +16,8 @@ projects:
   - gtk3
   - gtksourceview2
   - gtksourceview3
-  - pango
   - monkeybars
+  - pango
   - qtbindings
   - shoes
   - vte
