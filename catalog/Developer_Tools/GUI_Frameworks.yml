@@ -1,10 +1,28 @@
 name: GUI Frameworks
-description: 
+description:
 projects:
+  - cairo-gobject
+  - clutter-gdk
+  - clutter-gstreamer
+  - clutter-gtk
+  - clutter
   - ffi-tk
   - fxruby
+  - gdk3
+  - gdk_pixbuf2
+  - goffice
+  - gsf
   - gtk2
+  - gtk3
+  - gtksourceview2
+  - gtksourceview3
+  - pango
   - monkeybars
   - qtbindings
   - shoes
+  - vte
+  - vte3
+  - webkit-gtk
+  - webkit-gtk2
+  - webkit2-gtk
   - wxruby
