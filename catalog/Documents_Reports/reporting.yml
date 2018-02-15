@@ -1,5 +1,5 @@
 name: Reports & Spreadsheets
-description: 
+description:
 projects:
   - activeadmin-axlsx
   - acts_as_xlsx
@@ -9,6 +9,8 @@ projects:
   - dossier
   - dynamic_reports
   - excel_rails
+  - gnumeric
+  - goffice
   - google-spreadsheet-ruby
   - mk/reports_as_sparkline
   - mondrian-olap
