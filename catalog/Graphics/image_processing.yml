@@ -1,8 +1,8 @@
 name: Image Processing
 description:
 projects:
-  - chunky_png
   - cairo
+  - chunky_png
   - core_image
   - devil
   - fabien/im_magick

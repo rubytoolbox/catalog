@@ -2,10 +2,10 @@ name: GUI Frameworks
 description:
 projects:
   - cairo-gobject
+  - clutter
   - clutter-gdk
   - clutter-gstreamer
   - clutter-gtk
-  - clutter
   - ffi-tk
   - fxruby
   - gdk3
