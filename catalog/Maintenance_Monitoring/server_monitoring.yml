@@ -12,6 +12,7 @@ projects:
   - new_relic_ping
   - outpost
   - ramon
+  - rspec-webservice_matchers
   - sensu
   - visage-app
   - webstats
