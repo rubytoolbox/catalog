@@ -12,6 +12,7 @@ projects:
   - display_case
   - draper
   - garnish
+  - komponent
   - rails_presenter
   - resubject
   - view_models
