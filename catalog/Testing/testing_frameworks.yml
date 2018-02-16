@@ -5,6 +5,7 @@ projects:
   - bacon
   - detest
   - dtf
+  - fix
   - kintama
   - lemon
   - micronaut
