@@ -1,6 +1,7 @@
 name: PDF Processing
-description: 
+description:
 projects:
   - pdf-reader
   - pdf_info
+  - poppler
   - stevedore

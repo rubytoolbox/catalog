@@ -1,5 +1,5 @@
 name: PDF Generation
-description: 
+description:
 projects:
   - acts_as_flying_saucer
   - doc_raptor
@@ -8,6 +8,7 @@ projects:
   - invoice_printer
   - kitabu
   - pdfkit
+  - poppler
   - prawn
   - prawn-rails
   - prawnto
