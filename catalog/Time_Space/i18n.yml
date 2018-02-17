@@ -11,6 +11,7 @@ projects:
   - globalize
   - globalize2
   - globalize3
+  - globalize-accessors
   - has_translations
   - http_accept_language
   - human_attribute
@@ -39,6 +40,7 @@ projects:
   - rails_locale_detection
   - raul/translate_routes
   - ready_for_i18n
+  - route_translator
   - talk_like_a_pirate
   - to_lang
   - tr8n

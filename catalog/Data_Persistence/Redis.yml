@@ -2,7 +2,9 @@ name: Redis Clients
 description: 
 projects:
   - acts_as_hashish
+  - hiredis
   - ohm
+  - readthis
   - redis
   - redis-aid
   - redis-attrs

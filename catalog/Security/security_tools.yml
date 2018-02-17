@@ -7,7 +7,6 @@ projects:
   - codesake-dawn
   - loofah
   - look/xss_terminate
-  - macker
   - mhartl/find_mass_assignment
   - param_protected
   - rails_xss
