@@ -1,0 +1,31 @@
+name: Gnome libraries
+description: Ruby bindings for the Gnome libraries.
+projects:
+  - atk
+  - cairo-gobject
+  - clutter
+  - clutter-gdk
+  - clutter-gstreamer
+  - clutter-gtk
+  - gdk3
+  - gdk_pixbuf2
+  - gio2
+  - glib2
+  - gnumeric
+  - gobject-introspection
+  - goffice
+  - gsf
+  - gstreamer
+  - gtk2
+  - gtk3
+  - gtksourceview2
+  - gtksourceview3
+  - gvlc
+  - pango
+  - poppler
+  - rsvg2
+  - vte
+  - vte3
+  - webkit-gtk
+  - webkit-gtk2
+  - webkit2-gtk
