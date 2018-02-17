@@ -23,6 +23,7 @@ projects:
   - sheets
   - simple_xlsx_writer
   - spreadsheet
+  - spreadsheet_architect
   - spreadsheet_report
   - statistics
   - thinreports
