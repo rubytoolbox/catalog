@@ -2,6 +2,7 @@ name: GUI Frameworks
 description: 
 projects:
   - ffi-tk
+  - flammarion
   - fxruby
   - gtk2
   - monkeybars
