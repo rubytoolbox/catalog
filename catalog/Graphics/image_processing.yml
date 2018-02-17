@@ -1,7 +1,8 @@
 name: Image Processing
-description: 
+description:
 projects:
   - chunky_png
+  - cairo
   - core_image
   - devil
   - fabien/im_magick
@@ -12,6 +13,8 @@ projects:
   - MIAConverter
   - mini_magick
   - mojo_magick
+  - pango
   - paperclip-optimizer
   - rmagick
+  - rsvg2
   - skeptick
