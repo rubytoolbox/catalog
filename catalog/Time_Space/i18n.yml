@@ -9,9 +9,9 @@ projects:
   - dylanz/i18n_backend_database
   - fast_gettext
   - globalize
+  - globalize-accessors
   - globalize2
   - globalize3
-  - globalize-accessors
   - has_translations
   - http_accept_language
   - human_attribute
