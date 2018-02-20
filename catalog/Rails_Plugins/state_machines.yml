@@ -16,3 +16,4 @@ projects:
   - status-manager
   - transitions
   - workflow
+  - state_machines-activerecord
