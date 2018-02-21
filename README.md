@@ -29,7 +29,7 @@ The folder structure is as follows:
 catalog/
   CATEGORY_GROUP_1_PERMALINK/
     _meta.yml # Allows to add metadata about category group
-    category_1_permalink.yml # Definition of category and it's projects
+    category_1_permalink.yml # Definition of category and its projects
     ...
   ...
 ```
