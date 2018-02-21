@@ -1,7 +1,6 @@
 name: Image Processing
 description:
 projects:
-  - MIAConverter
   - cairo
   - chunky_png
   - core_image
@@ -11,6 +10,7 @@ projects:
   - image_sorcery
   - image_squeeze
   - magickly
+  - MIAConverter
   - mini_magick
   - mojo_magick
   - pango
