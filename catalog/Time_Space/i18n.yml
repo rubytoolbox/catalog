@@ -9,6 +9,7 @@ projects:
   - dylanz/i18n_backend_database
   - fast_gettext
   - globalize
+  - globalize-accessors
   - globalize2
   - globalize3
   - has_translations
@@ -39,6 +40,7 @@ projects:
   - rails_locale_detection
   - raul/translate_routes
   - ready_for_i18n
+  - route_translator
   - talk_like_a_pirate
   - to_lang
   - tr8n

@@ -18,5 +18,6 @@ projects:
   - lumber
   - mongodb_logger
   - rake_bubbler
+  - sentry-raven
   - whoops
   - yell
