@@ -1,0 +1,10 @@
+name: Service Objects
+description:
+projects:
+  - decent_exposure
+  - interactor
+  - mutations
+  - simple_service
+  - surrounded
+  - trailblazer-activity
+
