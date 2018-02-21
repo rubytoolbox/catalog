@@ -1,4 +1,4 @@
 name: Mock API Servers
-description:
+description: Applications allowing to mock API endpoints
 projects:
   - iridakos/duckrails
