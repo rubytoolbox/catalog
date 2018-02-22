@@ -16,12 +16,14 @@ projects:
   - nesta
   - Opal
   - puffer_pages
+  - push_type
   - radiant
   - railfrog/railfrog
   - refinerycms
   - refinerycms-menus
   - regulate
   - snippr
+  - spina
   - static
   - station
   - svenfuchs/adva_cms
