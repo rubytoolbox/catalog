@@ -16,16 +16,19 @@ projects:
   - nesta
   - Opal
   - puffer_pages
+  - pushtype/push_type
   - radiant
   - railfrog/railfrog
   - refinerycms
   - refinerycms-menus
   - regulate
   - snippr
+  - SpinaCMS/Spina
   - static
   - station
   - svenfuchs/adva_cms
   - thinkdry/blank-application
+  - TrestleAdmin/trestle
   - ubiquo
   - zen
   - zena
