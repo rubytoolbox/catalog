@@ -14,6 +14,7 @@ projects:
   - inline_forms
   - lipsiadmin
   - puffer
+  - trestle
   - qadmin
   - rails_admin
   - relevance/streamlined
