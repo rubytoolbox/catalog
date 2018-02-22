@@ -1,5 +1,5 @@
 name: Rails Admin Interfaces
-description: 
+description:
 projects:
   - ab_admin
   - active_scaffold
@@ -14,8 +14,8 @@ projects:
   - inline_forms
   - lipsiadmin
   - puffer
-  - trestle
   - qadmin
   - rails_admin
   - relevance/streamlined
+  - trestle
   - typus
