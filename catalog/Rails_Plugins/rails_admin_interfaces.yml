@@ -5,7 +5,6 @@ projects:
   - active_scaffold
   - activeadmin
   - admin_assistant
-  - admin_data
   - administrate
   - dry_crud
   - fullstack-admin
