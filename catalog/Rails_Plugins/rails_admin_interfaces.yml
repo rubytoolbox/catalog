@@ -7,7 +7,6 @@ projects:
   - admin_assistant
   - admin_data
   - administrate
-  - commondream/control_center
   - dry_crud
   - fullstack-admin
   - inline_forms
