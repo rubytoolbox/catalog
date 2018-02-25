@@ -13,6 +13,5 @@ projects:
   - puffer
   - qadmin
   - rails_admin
-  - relevance/streamlined
   - trestle
   - typus
