@@ -11,7 +11,6 @@ projects:
   - dry_crud
   - fullstack-admin
   - inline_forms
-  - lipsiadmin
   - puffer
   - qadmin
   - rails_admin
