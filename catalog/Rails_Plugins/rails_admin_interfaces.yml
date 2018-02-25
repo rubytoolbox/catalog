@@ -6,7 +6,6 @@ projects:
   - activeadmin
   - admin_assistant
   - admin_data
-  - admin_interface
   - administrate
   - commondream/control_center
   - dry_crud
