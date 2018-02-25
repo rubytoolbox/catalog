@@ -1,6 +1,7 @@
 name: Service Objects
 description:
 projects:
+  - active_interaction
   - decent_exposure
   - interactor
   - mutations
