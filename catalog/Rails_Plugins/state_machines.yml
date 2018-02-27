@@ -11,9 +11,9 @@ projects:
   - stamina
   - state-fu
   - state_machine
+  - state_machines
   - state_objects
   - stateflow
   - status-manager
   - transitions
   - workflow
-  - state_machines
