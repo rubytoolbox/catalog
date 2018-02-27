@@ -1,6 +1,7 @@
 name: Web servers
 description: 
 projects:
+  - agoo
   - ebb
   - hoof
   - mongrel
