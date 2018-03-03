@@ -2,6 +2,7 @@ name: Service Objects
 description:
 projects:
   - decent_exposure
+  - dry-transaction
   - interactor
   - mutations
   - simple_service
