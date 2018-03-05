@@ -10,3 +10,4 @@ projects:
   - markable
   - rocket_tag
   - taggregator
+  - acts-as-taggable-array-on
