@@ -2,6 +2,7 @@ name: Rails Tagging
 description: 
 projects:
   - acts-as-taggable-on
+  - acts-as-taggable-array-on
   - acts_as_taggable_on_steroids
   - clortho
   - geemus/acts_as_taggable_redux
@@ -10,4 +11,3 @@ projects:
   - markable
   - rocket_tag
   - taggregator
-  - acts-as-taggable-array-on
