@@ -7,6 +7,7 @@ projects:
   - app
   - app_config
   - application_configuration
+  - chamber
   - config-me
   - config_fun
   - config_newton
