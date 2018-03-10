@@ -11,6 +11,7 @@ projects:
   - stamina
   - state-fu
   - state_machine
+  - state_machines
   - state_objects
   - stateflow
   - status-manager
