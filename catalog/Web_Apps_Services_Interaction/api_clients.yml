@@ -49,6 +49,7 @@ projects:
   - octokit
   - octopi
   - omniauth-cloudsdale
+  - pocus
   - postwill
   - quimby
   - rebay
