@@ -2,6 +2,9 @@ name: Packaging to Executables
 description: 
 projects:
   - crate
+  - loureirorg/rb2exe
   - ocra
+  - pmq20/ruby-packer
   - releasy
   - rubyscript2exe
+  - stephan-nordnes-eriksen/ruby_ship
