@@ -3,6 +3,7 @@ description:
 projects:
   - active_interaction
   - decent_exposure
+  - dry-transaction
   - interactor
   - mutations
   - simple_service
