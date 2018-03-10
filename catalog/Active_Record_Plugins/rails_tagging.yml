@@ -1,6 +1,7 @@
 name: Rails Tagging
 description: 
 projects:
+  - acts-as-taggable-array-on
   - acts-as-taggable-on
   - acts_as_taggable_on_steroids
   - clortho
