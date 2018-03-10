@@ -6,6 +6,7 @@ projects:
   - data_miner
   - docparser
   - fletcher
+  - horsefield
   - link_thumbnailer
   - metainspector
   - pismo
