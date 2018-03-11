@@ -306,6 +306,7 @@
           "name": "Rails Tagging",
           "description": null,
           "projects": [
+            "acts-as-taggable-array-on",
             "acts-as-taggable-on",
             "acts_as_taggable_on_steroids",
             "clortho",
@@ -466,7 +467,6 @@
           "name": "Business Logic Frameworks",
           "description": "Tools to help with Domain Driven Design approach and organize app's  Control Flow.",
           "projects": [
-            "active_interaction",
             "trailblazer",
             "zertico"
           ],
@@ -485,7 +485,9 @@
           "name": "Service Objects",
           "description": null,
           "projects": [
+            "active_interaction",
             "decent_exposure",
+            "dry-transaction",
             "interactor",
             "mutations",
             "simple_service",
@@ -712,6 +714,7 @@
             "comfortable_mexican_sofa",
             "copy",
             "DigitPaint/skyline",
+            "drg_cms",
             "fullstack-cms",
             "knewter/ansuz",
             "locomotive_cms",
@@ -1011,6 +1014,7 @@
             "app",
             "app_config",
             "application_configuration",
+            "chamber",
             "config-me",
             "config_fun",
             "config_newton",
@@ -1135,6 +1139,7 @@
             "optionalargument",
             "pluginfactory",
             "powerpack",
+            "rearmed",
             "rubytree",
             "rucursive",
             "rumonade",
@@ -1433,6 +1438,7 @@
             "sheets",
             "simple_xlsx_writer",
             "spreadsheet",
+            "spreadsheet_architect",
             "spreadsheet_report",
             "statistics",
             "thinreports",
@@ -2162,9 +2168,12 @@
           "description": null,
           "projects": [
             "crate",
+            "loureirorg/rb2exe",
             "ocra",
+            "pmq20/ruby-packer",
             "releasy",
-            "rubyscript2exe"
+            "rubyscript2exe",
+            "stephan-nordnes-eriksen/ruby_ship"
           ],
           "permalink": "packaging_to_executables"
         }
@@ -2324,6 +2333,7 @@
           "name": "Web servers",
           "description": null,
           "projects": [
+            "agoo",
             "ebb",
             "hoof",
             "mongrel",
@@ -2456,6 +2466,14 @@
           "permalink": "rails_app_templates"
         },
         {
+          "name": "Rails Extensions",
+          "description": "Extensions and Add-ons for the Ruby-on-Rails web-application framework",
+          "projects": [
+            "rearmed_rails"
+          ],
+          "permalink": "rails_extensions"
+        },
+        {
           "name": "Rails File Uploads",
           "description": null,
           "projects": [
@@ -2546,6 +2564,7 @@
             "stamina",
             "state-fu",
             "state_machine",
+            "state_machines",
             "state_objects",
             "stateflow",
             "status-manager",
@@ -3270,6 +3289,7 @@
             "data_miner",
             "docparser",
             "fletcher",
+            "horsefield",
             "link_thumbnailer",
             "metainspector",
             "pismo",
@@ -3331,6 +3351,7 @@
             "octokit",
             "octopi",
             "omniauth-cloudsdale",
+            "pocus",
             "postwill",
             "quimby",
             "rebay",
