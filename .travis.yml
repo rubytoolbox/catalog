@@ -5,11 +5,13 @@ script:
 deploy:
   # Docs: https://docs.travis-ci.com/user/deployment/pages/
   provider: pages
-  skip_cleanup: true
+  skip-cleanup: true
+  keep-history: true
   # Personal access token for rubytoolbox-bot user, public_repo scope
   github_token: $GITHUB_TOKEN
   name: Ruby Toolbox Bot
   email: bot@ruby-toolbox.com
   local_dir: build
+  verbose: true
   on:
     branch: master
