@@ -15,6 +15,7 @@ projects:
   - merb-core
   - padrino
   - pakyow
+  - plezi
   - rack
   - rails
   - ramaze
