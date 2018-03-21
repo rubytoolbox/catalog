@@ -68,6 +68,7 @@ projects:
   - semrush
   - smslist
   - spotlite
+  - tdlib-ruby
   - tedkulp-freshbooks.rb
   - tickspot-rb
   - tinder
