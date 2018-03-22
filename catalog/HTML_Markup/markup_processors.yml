@@ -4,6 +4,7 @@ projects:
   - bluecloth
   - creole
   - kramdown
+  - markdown_helper
   - markup
   - maruku
   - mcbean
@@ -17,4 +18,3 @@ projects:
   - smiley
   - stupid_formatter
   - vkhater-redcarpet
-  - markdown_helper
