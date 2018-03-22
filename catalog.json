@@ -1390,6 +1390,7 @@
           "description": null,
           "projects": [
             "acts_as_flying_saucer",
+            "combine_pdf",
             "doc_raptor",
             "gambas",
             "gimli",
