@@ -340,7 +340,6 @@
             "bj",
             "bunny",
             "cloud-crowd",
-            "concurrent-ruby",
             "delayed_job",
             "delayed_job_active_record",
             "frenzy_bunnies",
@@ -996,6 +995,7 @@
           "description": null,
           "projects": [
             "celluloid",
+            "concurrent-ruby",
             "cool.io",
             "dataflow",
             "eventmachine",
