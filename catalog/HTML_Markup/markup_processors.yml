@@ -4,6 +4,7 @@ projects:
   - bluecloth
   - creole
   - kramdown
+  - markdown_helper
   - markup
   - markup_helper
   - maruku
