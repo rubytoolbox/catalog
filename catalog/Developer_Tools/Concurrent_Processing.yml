@@ -1,7 +1,8 @@
 name: Concurrent Processing
-description: 
+description:
 projects:
   - celluloid
+  - concurrent-ruby
   - cool.io
   - dataflow
   - eventmachine

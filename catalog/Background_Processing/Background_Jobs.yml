@@ -1,5 +1,5 @@
 name: Background Jobs
-description: 
+description:
 projects:
   - acts_as_executor
   - amqp
@@ -10,7 +10,6 @@ projects:
   - bj
   - bunny
   - cloud-crowd
-  - concurrent-ruby
   - delayed_job
   - delayed_job_active_record
   - frenzy_bunnies
