@@ -5,6 +5,7 @@ projects:
   - creole
   - kramdown
   - markup
+  - markup_helper
   - maruku
   - mcbean
   - minidown
