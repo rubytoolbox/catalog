@@ -5,6 +5,7 @@ projects:
   - acts_as_paranoid
   - ajh/acts_as_soft_deletable
   - destroyed_at
+  - discard
   - expectedbehavior/acts_as_archival
   - immortal
   - paranoia
