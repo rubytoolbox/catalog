@@ -8,3 +8,4 @@ projects:
   - multi_json
   - oj
   - yajl-ruby
+  - json-stream-path
