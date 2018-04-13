@@ -1,6 +1,7 @@
 name: Active Record Named Scopes
 description: 
 projects:
+  - deep_pluck
   - filterrific
   - internuity/quick_scopes
   - pacecar
