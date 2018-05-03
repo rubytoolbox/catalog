@@ -19,6 +19,7 @@ projects:
   - remote_table
   - reportable
   - roo
+  - robust_excel_ole
   - rubyXL
   - ruport
   - schacon/munger
