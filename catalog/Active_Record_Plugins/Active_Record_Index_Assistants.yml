@@ -2,7 +2,6 @@ name: Active Record Index Assistants
 description: 
 projects:
   - automatic_foreign_key
-  - eladmeidar/rails_indexes
   - foreigner
   - immigrant
   - lol_dba
