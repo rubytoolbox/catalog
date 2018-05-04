@@ -18,8 +18,8 @@ projects:
   - oxcelix
   - remote_table
   - reportable
-  - roo
   - robust_excel_ole
+  - roo
   - rubyXL
   - ruport
   - schacon/munger
