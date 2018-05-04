@@ -3,7 +3,7 @@ description:
 projects:
   - activeadmin-axlsx
   - acts_as_xlsx
-  - axlsx
+  - axlsx 
   - axlsx_rails
   - compendium
   - dossier
