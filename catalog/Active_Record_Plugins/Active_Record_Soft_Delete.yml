@@ -14,3 +14,4 @@ projects:
   - permanent_records
   - rails3_acts_as_paranoid
   - soft_deletion
+  - discard
