@@ -2560,6 +2560,7 @@
           "projects": [
             "aasm",
             "alter-ego",
+            "finite_machine",
             "golem_statemachine",
             "micromachine",
             "ruote",
