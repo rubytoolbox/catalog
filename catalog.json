@@ -78,6 +78,7 @@
           "name": "Active Record Named Scopes",
           "description": null,
           "projects": [
+            "deep_pluck",
             "filterrific",
             "internuity/quick_scopes",
             "pacecar",
