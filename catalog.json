@@ -219,6 +219,8 @@
             "kaminari",
             "kaminari-bootstrap",
             "paged_scopes",
+            "pagy",
+            "pagy-extras",
             "simply_paginate",
             "sorted",
             "will_paginate"
