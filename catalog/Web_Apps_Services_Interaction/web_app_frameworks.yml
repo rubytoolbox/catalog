@@ -1,5 +1,5 @@
 name: Web App Frameworks
-description:
+description: Software Frameworks that are designed to support the development of web applications including web services, web resources, and web APIs
 projects:
   - bats
   - camping
