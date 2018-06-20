@@ -2,6 +2,7 @@ name: Web Content Scrapers
 description: 
 projects:
   - anemone
+  - arachnid2
   - cobweb
   - data_miner
   - docparser
@@ -13,3 +14,4 @@ projects:
   - sinew
   - url_scraper
   - wiki-api
+  - wombat
