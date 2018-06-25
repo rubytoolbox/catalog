@@ -11,3 +11,4 @@ projects:
   - ruby-progressbar
   - shell-spinner
   - spinning_cursor
+  - tty-progressbar
