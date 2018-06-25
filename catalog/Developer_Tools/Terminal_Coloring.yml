@@ -6,5 +6,6 @@ projects:
   - colorize
   - lolcat
   - paint
+  - pastel
   - rainbow
   - term-ansicolor
