@@ -40,5 +40,6 @@ projects:
   - settingslogic
   - simpleconfig
   - store_configurable
+  - tty-config
   - user_config
   - yettings
