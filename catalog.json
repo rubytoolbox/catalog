@@ -2813,6 +2813,7 @@
           "name": "Cucumber Tools",
           "description": null,
           "projects": [
+            "cql",
             "cucover",
             "cucumber-in-the-yard",
             "cucumber-nagios",
@@ -2820,9 +2821,12 @@
             "cucumber-screenshot",
             "cucumber-sinatra",
             "cucumberator",
+            "cuke_cataloger",
+            "cuke_modeler",
             "cuke_sniffer",
             "cukesparse",
             "cuporter",
+            "gherkin_lint",
             "stepdown",
             "viewcumber",
             "yard-cucumber"
