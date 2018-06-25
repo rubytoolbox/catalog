@@ -981,23 +981,6 @@
           "permalink": "CLI_Option_Parsers"
         },
         {
-          "name": "CLI Progress Bars",
-          "description": null,
-          "projects": [
-            "fuubar",
-            "multi_progress_bar",
-            "powerbar",
-            "progress",
-            "progress-meter",
-            "progress_bar",
-            "progressbar",
-            "ruby-progressbar",
-            "shell-spinner",
-            "spinning_cursor"
-          ],
-          "permalink": "CLI_Progress_Bars"
-        },
-        {
           "name": "Concurrent Processing",
           "description": null,
           "projects": [
@@ -1167,6 +1150,7 @@
             "colorize",
             "lolcat",
             "paint",
+            "pastel",
             "rainbow",
             "term-ansicolor"
           ],
@@ -1333,6 +1317,23 @@
             "ruco"
           ],
           "permalink": "text_editors_in_ruby"
+        },
+        {
+          "name": "CLI Progress Bars",
+          "description": null,
+          "projects": [
+            "fuubar",
+            "multi_progress_bar",
+            "powerbar",
+            "progress",
+            "progress-meter",
+            "progress_bar",
+            "progressbar",
+            "ruby-progressbar",
+            "shell-spinner",
+            "spinning_cursor"
+          ],
+          "permalink": "CLI_Progress_Bars"
         }
       ],
       "description": null,
