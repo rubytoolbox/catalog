@@ -3547,6 +3547,28 @@
           "permalink": "social_networking"
         },
         {
+          "name": "XML Mapping",
+          "description": null,
+          "projects": [
+            "data_active",
+            "gyoku",
+            "happymapper",
+            "nokogiri-happymapper",
+            "nori",
+            "representative",
+            "roxml",
+            "sax-machine",
+            "sax_stream",
+            "saxerator",
+            "saxy",
+            "sxrb",
+            "xml-fu",
+            "xml-mapping",
+            "xml_active"
+          ],
+          "permalink": "xml_mapping"
+        },
+        {
           "name": "Web App Frameworks",
           "description": null,
           "projects": [
@@ -3578,28 +3600,6 @@
             "vanilla"
           ],
           "permalink": "web_app_frameworks"
-        },
-        {
-          "name": "XML Mapping",
-          "description": null,
-          "projects": [
-            "data_active",
-            "gyoku",
-            "happymapper",
-            "nokogiri-happymapper",
-            "nori",
-            "representative",
-            "roxml",
-            "sax-machine",
-            "sax_stream",
-            "saxerator",
-            "saxy",
-            "sxrb",
-            "xml-fu",
-            "xml-mapping",
-            "xml_active"
-          ],
-          "permalink": "xml_mapping"
         }
       ],
       "description": null,
