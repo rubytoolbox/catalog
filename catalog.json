@@ -3304,6 +3304,7 @@
           "description": null,
           "projects": [
             "anemone",
+            "arachnid2",
             "cobweb",
             "data_miner",
             "docparser",
@@ -3314,7 +3315,8 @@
             "pismo",
             "sinew",
             "url_scraper",
-            "wiki-api"
+            "wiki-api",
+            "wombat"
           ],
           "permalink": "Web_Content_Scrapers"
         },
@@ -3547,30 +3549,8 @@
           "permalink": "social_networking"
         },
         {
-          "name": "XML Mapping",
-          "description": null,
-          "projects": [
-            "data_active",
-            "gyoku",
-            "happymapper",
-            "nokogiri-happymapper",
-            "nori",
-            "representative",
-            "roxml",
-            "sax-machine",
-            "sax_stream",
-            "saxerator",
-            "saxy",
-            "sxrb",
-            "xml-fu",
-            "xml-mapping",
-            "xml_active"
-          ],
-          "permalink": "xml_mapping"
-        },
-        {
           "name": "Web App Frameworks",
-          "description": null,
+          "description": "Software Frameworks that are designed to support the development of web applications including web services, web resources, and web APIs",
           "projects": [
             "bats",
             "camping",
@@ -3600,6 +3580,28 @@
             "vanilla"
           ],
           "permalink": "web_app_frameworks"
+        },
+        {
+          "name": "XML Mapping",
+          "description": null,
+          "projects": [
+            "data_active",
+            "gyoku",
+            "happymapper",
+            "nokogiri-happymapper",
+            "nori",
+            "representative",
+            "roxml",
+            "sax-machine",
+            "sax_stream",
+            "saxerator",
+            "saxy",
+            "sxrb",
+            "xml-fu",
+            "xml-mapping",
+            "xml_active"
+          ],
+          "permalink": "xml_mapping"
         }
       ],
       "description": null,
