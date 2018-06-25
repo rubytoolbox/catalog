@@ -981,6 +981,24 @@
           "permalink": "CLI_Option_Parsers"
         },
         {
+          "name": "CLI Progress Bars",
+          "description": null,
+          "projects": [
+            "fuubar",
+            "multi_progress_bar",
+            "powerbar",
+            "progress",
+            "progress-meter",
+            "progress_bar",
+            "progressbar",
+            "ruby-progressbar",
+            "shell-spinner",
+            "spinning_cursor",
+            "tty-progressbar"
+          ],
+          "permalink": "CLI_Progress_Bars"
+        },
+        {
           "name": "Concurrent Processing",
           "description": null,
           "projects": [
@@ -1038,6 +1056,7 @@
             "settingslogic",
             "simpleconfig",
             "store_configurable",
+            "tty-config",
             "user_config",
             "yettings"
           ],
@@ -1317,23 +1336,6 @@
             "ruco"
           ],
           "permalink": "text_editors_in_ruby"
-        },
-        {
-          "name": "CLI Progress Bars",
-          "description": null,
-          "projects": [
-            "fuubar",
-            "multi_progress_bar",
-            "powerbar",
-            "progress",
-            "progress-meter",
-            "progress_bar",
-            "progressbar",
-            "ruby-progressbar",
-            "shell-spinner",
-            "spinning_cursor"
-          ],
-          "permalink": "CLI_Progress_Bars"
         }
       ],
       "description": null,
