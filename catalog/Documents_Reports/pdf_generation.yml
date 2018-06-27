@@ -3,6 +3,7 @@ description:
 projects:
   - acts_as_flying_saucer
   - breezy_pdf
+  - breezy_pdf_lite
   - combine_pdf
   - doc_raptor
   - gambas
