@@ -1,5 +1,5 @@
 name: JSON Parsers
-description: 
+description: JSON parsers are used to read data from a web server and display the data in a web page.
 projects:
   - crack
   - json
