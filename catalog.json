@@ -1396,6 +1396,35 @@
           "permalink": "PDF_Processing"
         },
         {
+          "name": "PDF Generation",
+          "description": null,
+          "projects": [
+            "acts_as_flying_saucer",
+            "breezy_pdf",
+            "breezy_pdf_lite",
+            "combine_pdf",
+            "doc_raptor",
+            "gambas",
+            "gimli",
+            "invoice_printer",
+            "kitabu",
+            "pdfkit",
+            "poppler",
+            "prawn",
+            "prawn-rails",
+            "prawnto",
+            "prawnto_2",
+            "princely",
+            "rghost",
+            "rtex",
+            "shrimp",
+            "wicked_pdf",
+            "wisepdf",
+            "wkhtmltopdf"
+          ],
+          "permalink": "pdf_generation"
+        },
+        {
           "name": "Reports & Spreadsheets",
           "description": null,
           "projects": [
@@ -1435,34 +1464,6 @@
             "write_xlsx_rails"
           ],
           "permalink": "reporting"
-        },
-        {
-          "name": "PDF Generation",
-          "description": null,
-          "projects": [
-            "acts_as_flying_saucer",
-            "breezy_pdf",
-            "combine_pdf",
-            "doc_raptor",
-            "gambas",
-            "gimli",
-            "invoice_printer",
-            "kitabu",
-            "pdfkit",
-            "poppler",
-            "prawn",
-            "prawn-rails",
-            "prawnto",
-            "prawnto_2",
-            "princely",
-            "rghost",
-            "rtex",
-            "shrimp",
-            "wicked_pdf",
-            "wisepdf",
-            "wkhtmltopdf"
-          ],
-          "permalink": "pdf_generation"
         }
       ],
       "description": null,
