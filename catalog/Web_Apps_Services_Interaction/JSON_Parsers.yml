@@ -1,5 +1,5 @@
 name: JSON Parsers
-description: JSON parsers are used to read data from a web server and display the data in a web page.
+description: JSON parsers convert data serialized in the popular JSON data exchange format to and from Ruby objects
 projects:
   - crack
   - json
