@@ -1,5 +1,5 @@
 name: JSON Parsers
-description: 
+description: JSON parsers convert data serialized in the popular JSON data exchange format to and from Ruby objects
 projects:
   - crack
   - json
