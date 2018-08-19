@@ -3164,6 +3164,7 @@
             "jhubert/ruby-date-recur",
             "jruby-rfc2445",
             "kjwierenga/ical-scheduler",
+            "montrose",
             "nickstenning/recurring_event",
             "recurrence",
             "recurring",
