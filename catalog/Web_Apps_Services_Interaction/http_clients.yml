@@ -17,6 +17,8 @@ projects:
   - httpclient
   - httpi
   - hyperclient
+  - lhc
+  - lhs
   - mechanize
   - multipart-post
   - nestful
