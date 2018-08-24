@@ -2,6 +2,7 @@ name: Rails Authorization
 description: 
 projects:
   - 10to1/roleify
+  - access-granted
   - acl9
   - action_policy
   - aegis
