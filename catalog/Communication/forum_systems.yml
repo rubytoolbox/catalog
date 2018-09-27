@@ -1,7 +1,6 @@
 name: Forum Systems
 description:
 projects:
-  - engagecsm
   - forem
   - forum_monster
   - jonthewayne/altered_beast

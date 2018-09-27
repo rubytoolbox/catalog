@@ -6,7 +6,6 @@ projects:
   - fxruby
   - gtk2
   - gtk3
-  - monkeybars
   - qtbindings
   - shoes
   - wxruby

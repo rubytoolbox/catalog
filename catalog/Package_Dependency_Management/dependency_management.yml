@@ -6,7 +6,6 @@ projects:
   - braid
   - brewdler
   - bundler
-  - cached_externals
   - checkzilla
   - externals
   - gemrat

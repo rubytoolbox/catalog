@@ -12,6 +12,10 @@ group :test do
   gem "simplecov"
 end
 
+group :development, :test do
+  gem "pry"
+end
+
 group :development do
   gem "guard-bundler"
   gem "guard-rspec"

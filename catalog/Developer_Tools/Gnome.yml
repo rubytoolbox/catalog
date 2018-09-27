@@ -20,7 +20,6 @@ projects:
   - gtk3
   - gtksourceview2
   - gtksourceview3
-  - gvlc
   - pango
   - poppler
   - rsvg2

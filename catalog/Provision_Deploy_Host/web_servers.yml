@@ -1,5 +1,5 @@
 name: Web servers
-description: 
+description:
 projects:
   - agoo
   - ebb
@@ -8,7 +8,6 @@ projects:
   - mongrel
   - mongrel2
   - passenger
-  - pow
   - puma
   - skinny
   - thin
