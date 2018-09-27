@@ -44,6 +44,17 @@ RSpec.describe Catalog do
                    .map(&:name)
     end
 
+    let(:prerelease_gems) do
+      ::Gem::Source.new("https://rubygems.org")
+                   .load_specs(:prerelease)
+                   .map(&:name)
+                   .uniq
+    end
+
+    let(:available_gems) do
+      published_gems | prerelease_gems
+    end
+
     let(:referenced_gems) do
       described_class.new.as_json[:category_groups]
                      .flat_map { |group| group[:categories] }
@@ -53,7 +64,7 @@ RSpec.describe Catalog do
     end
 
     it "references only actually existing gems" do
-      expect(referenced_gems - published_gems).to be == []
+      expect(referenced_gems - available_gems).to be == []
     end
   end
 end
