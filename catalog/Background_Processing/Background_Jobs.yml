@@ -19,7 +19,6 @@ projects:
   - job_reactor
   - kr/beanstalkd
   - later
-  - lazy_caching
   - navvy
   - ncr/background-fu
   - qu

@@ -1,5 +1,5 @@
 name: Rails Presenters
-description: 
+description:
 projects:
   - action_presenter
   - active_decorator
@@ -7,7 +7,6 @@ projects:
   - apotomo
   - cells
   - classic_presenter
-  - cubisme
   - delegate_presenter
   - display_case
   - draper

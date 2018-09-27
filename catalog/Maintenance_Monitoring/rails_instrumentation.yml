@@ -1,5 +1,5 @@
 name: App Instrumentation
-description: 
+description:
 projects:
   - better_errors
   - bullet
@@ -9,7 +9,6 @@ projects:
   - fozzie
   - fozzie_rails
   - harness
-  - how_slow
   - meta_request
   - metriks
   - metriksd
