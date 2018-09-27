@@ -1,6 +1,7 @@
 language: ruby
 script:
   - bundle exec rspec
+  - bundle exec rubocop
   - bundle exec rake export
 deploy:
   # See https://github.com/travis-ci/travis-ci/issues/9312

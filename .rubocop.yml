@@ -9,6 +9,8 @@ require: rubocop-rspec
 AllCops:
   Exclude:
     - 'tmp/**/*.rb'
+    # See https://qiita.com/ozhaan/items/40ea864757162e931be1
+    - 'vendor/**/*'
 
 Metrics/BlockLength:
   Exclude:
@@ -42,6 +44,12 @@ Style/DoubleNegation:
 Style/StringLiterals:
   EnforcedStyle: double_quotes
 
-Style/TrailingCommaInLiteral:
+Style/TrailingCommaInArrayLiteral:
   EnforcedStyleForMultiline: comma
 
+Style/TrailingCommaInHashLiteral:
+  EnforcedStyleForMultiline: comma
+
+# I actually use this a lot with `private :foo=`
+Style/AccessModifierDeclarations:
+  Enabled: false
