@@ -9,6 +9,8 @@ require: rubocop-rspec
 AllCops:
   Exclude:
     - 'tmp/**/*.rb'
+    # See https://qiita.com/ozhaan/items/40ea864757162e931be1
+    - 'vendor/**/*'
 
 Metrics/BlockLength:
   Exclude:
