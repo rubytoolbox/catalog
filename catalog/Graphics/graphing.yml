@@ -1,5 +1,5 @@
 name: Graphing
-description: 
+description: Tools to generate graphical representation of data (called charts or graphs)
 projects:
   - adamwiggins/rifgraf
   - chartkick
