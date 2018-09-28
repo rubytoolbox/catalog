@@ -1,6 +1,7 @@
 name: PDF Processing
 description:
 projects:
+  - hexapdf
   - pdf-reader
   - pdf_info
   - poppler
