@@ -3,980 +3,200 @@
     {
       "categories": [
         {
-          "name": "Active Record Bit Fields",
-          "description": "Use an integer field to store a set of booleans using bitwise logic",
-          "projects": [
-            "active_flag",
-            "bitfield_attribute",
-            "bitfields",
-            "bitmask_attributes",
-            "flag_shih_tzu",
-            "has-bit-field"
-          ],
-          "permalink": "Active_Record_Bit_Fields"
-        },
-        {
-          "name": "Active Record DB Adapters",
+          "name": "Microformats",
           "description": null,
           "projects": [
-            "activerecord-jdbc-adapter",
-            "activerecord-jdbcderby-adapter",
-            "activerecord-jdbcmysql-adapter",
-            "activerecord-jdbcpostgresql-adapter",
-            "activerecord-nulldb-adapter",
-            "activerecord-oracle_enhanced-adapter",
-            "activerecord-sqlserver-adapter",
-            "odbc_adapter",
-            "oracle-enhanced-enhanced"
+            "html-schema",
+            "microformats_helper",
+            "mofo",
+            "prism",
+            "schema_dot_org"
           ],
-          "permalink": "Active_Record_DB_Adapters"
+          "permalink": "microformats"
         },
         {
-          "name": "Active Record Default Values",
+          "name": "Rails Wizards",
           "description": null,
           "projects": [
-            "active_record_defaults",
-            "default_value_for"
+            "adkron/actsaswizard",
+            "jimweirich/partially_valid",
+            "multi-step",
+            "sbmsuite/wizard",
+            "wicked",
+            "wizardly"
           ],
-          "permalink": "Active_Record_Default_Values"
+          "permalink": "rails_wizards"
         },
         {
-          "name": "Active Record Enumerations",
+          "name": "Form Builders",
           "description": null,
           "projects": [
-            "active_enum",
-            "attribute_choices",
-            "classy_enum",
-            "const_enum",
-            "easy_attributes",
-            "enum_column3",
-            "enumerate_by",
-            "enumerate_it",
-            "enumerated_attribute",
-            "enumerize",
-            "enumify",
-            "power_enum",
-            "simple_enum"
+            "airblade/air_budd_form_builder",
+            "bootstrap_form",
+            "bootstrap_forms",
+            "campo",
+            "cocoon",
+            "comfy_bootstrap_form",
+            "formize",
+            "formtastic",
+            "formula",
+            "formular",
+            "mongoid_form",
+            "nested_form",
+            "parsley_simple_form",
+            "simple_form",
+            "twitter_bootstrap_form_for"
           ],
-          "permalink": "Active_Record_Enumerations"
+          "permalink": "rails_form_builders"
         },
         {
-          "name": "Active Record Index Assistants",
+          "name": "Breadcrumb Builders",
           "description": null,
           "projects": [
-            "automatic_foreign_key",
-            "eladmeidar/rails_indexes",
-            "foreigner",
-            "immigrant",
-            "lol_dba",
-            "redhillonrails_core",
-            "schema_plus"
+            "ariane",
+            "breadcrumble",
+            "breadcrumbs",
+            "breadcrumbs_on_rails",
+            "crumble",
+            "crummy",
+            "gretel"
           ],
-          "permalink": "Active_Record_Index_Assistants"
+          "permalink": "Breadcrumb_Builders"
         },
         {
-          "name": "Active Record Named Scopes",
+          "name": "Markup processors",
           "description": null,
           "projects": [
-            "deep_pluck",
-            "filterrific",
-            "internuity/quick_scopes",
-            "pacecar",
-            "random_record",
-            "randumb",
-            "ransack",
-            "scope-builder",
-            "searchlogic",
-            "sexy_scopes",
-            "technoweenie/can_search",
-            "trailblazer-finder",
-            "trixy_scopes",
-            "utility_scopes"
+            "bluecloth",
+            "creole",
+            "kramdown",
+            "markdown_helper",
+            "markup",
+            "maruku",
+            "mcbean",
+            "minidown",
+            "multi_markdown",
+            "pandoc-ruby",
+            "rdiscount",
+            "redcarpet",
+            "RedCloth",
+            "rpeg-markdown",
+            "smiley",
+            "stupid_formatter",
+            "vkhater-redcarpet"
           ],
-          "permalink": "Active_Record_Named_Scopes"
+          "permalink": "markup_processors"
         },
         {
-          "name": "Active Record Nesting",
+          "name": "Template Engines",
           "description": null,
           "projects": [
-            "acts_as_dag",
-            "acts_as_ordered_tree",
-            "acts_as_tree",
-            "ancestry",
-            "arboreal",
-            "awesome_nested_set",
-            "chris/better_nested_set",
-            "closure_tree",
-            "rails/acts_as_nested_set"
+            "arbre",
+            "cadenza",
+            "curly-templates",
+            "deface",
+            "ember",
+            "erector",
+            "erubi",
+            "erubis",
+            "faml",
+            "fortitude",
+            "haml",
+            "hamlit",
+            "hammer_builder",
+            "handlebars_assets",
+            "inversion",
+            "judofyr/parkaby",
+            "liquid",
+            "markaby",
+            "markerb",
+            "mustache",
+            "PageTemplate",
+            "ruty",
+            "scottpersinger/laminate",
+            "slim",
+            "sweet-lang",
+            "tagz",
+            "temple",
+            "tilt",
+            "wlang"
           ],
-          "permalink": "Active_Record_Nesting"
+          "permalink": "template_engines"
         },
         {
-          "name": "Active Record Sharding",
+          "name": "Table Builders",
           "description": null,
           "projects": [
-            "activerecord-turntable",
-            "ar-octopus",
-            "data_fabric",
-            "db-charmer",
-            "mixonic/ShardTheLove",
-            "multi_db",
-            "technoweenie/masochism"
+            "active-list",
+            "datagrid",
+            "easy_table",
+            "fancygrid",
+            "gridder",
+            "magic_grid",
+            "sorting_table_for",
+            "table-for",
+            "table_cloth",
+            "table_for_collection",
+            "table_go",
+            "tableasy",
+            "tableficate",
+            "tabletastic",
+            "wice_grid"
           ],
-          "permalink": "Active_Record_Sharding"
+          "permalink": "Table_Builders"
         },
         {
-          "name": "Active Record Soft Delete",
+          "name": "Syntax Highlighting",
           "description": null,
           "projects": [
-            "acts_as_archive",
-            "acts_as_paranoid",
-            "ajh/acts_as_soft_deletable",
-            "destroyed_at",
-            "discard",
-            "expectedbehavior/acts_as_archival",
-            "immortal",
-            "paranoia",
-            "paranoid",
-            "paranoid2",
-            "permanent_records",
-            "rails3_acts_as_paranoid",
-            "soft_deletion"
+            "albeano",
+            "albino",
+            "code_rippa",
+            "coderay",
+            "highlight",
+            "ink",
+            "ioquatix/jquery-syntax",
+            "michaeledgar/harsh",
+            "rack-coderay",
+            "rack-pygmentize",
+            "rouge",
+            "technoweenie/ultraviolence",
+            "tm_syntax_highlighting",
+            "ultraviolet"
           ],
-          "permalink": "Active_Record_Soft_Delete"
+          "permalink": "syntax_highlighting"
         },
         {
-          "name": "Active Record Sortables",
+          "name": "Rails Menu Builders",
           "description": null,
           "projects": [
-            "acts_as_list",
-            "acts_as_restful_list",
-            "ranked-model",
-            "resort",
-            "sortable"
+            "active_link_to",
+            "bjeanes/tab_fu",
+            "brewski/menu_components",
+            "danielharan/semantic-menu",
+            "dpickett/tab_menu",
+            "menu_helper",
+            "navi",
+            "navigasmic",
+            "ramenu",
+            "semantic_navigation",
+            "simple-navigation",
+            "simple-navigation-bootstrap",
+            "simple_navigation",
+            "simple_navigation_renderers",
+            "tabs_on_rails",
+            "tabulous",
+            "xebec"
           ],
-          "permalink": "Active_Record_Sortables"
-        },
-        {
-          "name": "Active Record User Stamping",
-          "description": null,
-          "projects": [
-            "acts_as_audited",
-            "ar-audit-tracer",
-            "darcy/acts_as_loggable",
-            "grosser/record_activities",
-            "jnunemaker/user_stamp",
-            "userstamp"
-          ],
-          "permalink": "Active_Record_User_Stamping"
-        },
-        {
-          "name": "Active Record Value Cleanup",
-          "description": null,
-          "projects": [
-            "attribute_normalizer",
-            "auto_strip_attributes",
-            "clean_room",
-            "normatron",
-            "rubiety/nilify_blanks",
-            "sanitized_attributes",
-            "scrubby",
-            "strip_attributes",
-            "strip_control_chars",
-            "vacuum_cleaner"
-          ],
-          "permalink": "Active_Record_Value_Cleanup"
-        },
-        {
-          "name": "Active Record Versioning",
-          "description": null,
-          "projects": [
-            "acts-as-approvable",
-            "acts_as_revisable",
-            "acts_as_revisionable",
-            "acts_as_versioned",
-            "auditable",
-            "audited",
-            "changeling",
-            "has_draft",
-            "historical",
-            "logidze",
-            "paper_trail",
-            "record_history",
-            "shadow",
-            "simple_audit",
-            "simply_versioned",
-            "version_fu",
-            "vestal_versions"
-          ],
-          "permalink": "Active_Record_Versioning"
-        },
-        {
-          "name": "Pagination",
-          "description": null,
-          "projects": [
-            "ajax_pagination",
-            "kaminari",
-            "kaminari-bootstrap",
-            "paged_scopes",
-            "pagy",
-            "pagy-extras",
-            "simply_paginate",
-            "sorted",
-            "will_paginate"
-          ],
-          "permalink": "pagination"
-        },
-        {
-          "name": "Rails Comments",
-          "description": null,
-          "projects": [
-            "acts_as_commentable",
-            "commenter",
-            "commontator",
-            "disqus",
-            "elight/acts_as_commentable_with_threading",
-            "is_reviewable",
-            "opinio",
-            "phusion/juvia"
-          ],
-          "permalink": "rails_comments"
-        },
-        {
-          "name": "Rails DB Bootstrapping",
-          "description": null,
-          "projects": [
-            "dibber",
-            "ffmike/db-populate",
-            "has_alter_ego",
-            "populator",
-            "seed-fu",
-            "seed_dumper",
-            "seedbank",
-            "sevenwire/bootstrapper"
-          ],
-          "permalink": "rails_db_bootstrapping"
-        },
-        {
-          "name": "Rails Ratings",
-          "description": null,
-          "projects": [
-            "acts-as-rated",
-            "acts_as_rateable",
-            "ajaxful_rating",
-            "edgarjs/ajaxful-rating",
-            "has_ratings",
-            "letsrate",
-            "mongoid-rating",
-            "mongoid_rateable",
-            "zachinglis/is_rateable"
-          ],
-          "permalink": "rails_ratings"
-        },
-        {
-          "name": "Rails Search",
-          "description": null,
-          "projects": [
-            "acts_as_ferret",
-            "acts_as_fulltextable",
-            "acts_as_indexed",
-            "acts_as_solr",
-            "acts_as_solr_reloaded",
-            "chewy",
-            "delsolr",
-            "elasticsearch",
-            "elasticsearch-rails",
-            "elastictastic",
-            "ferret",
-            "pg_search",
-            "redis-search",
-            "rsolr",
-            "ruby_simple_search",
-            "scoped_search",
-            "searchkick",
-            "searchlight",
-            "slingshot-rb",
-            "solr_query",
-            "sunspot",
-            "sunspot_rails",
-            "sunspot_solr",
-            "texticle",
-            "thinking-sphinx",
-            "tire",
-            "xapian_db",
-            "xapit"
-          ],
-          "permalink": "rails_search"
-        },
-        {
-          "name": "Rails Tagging",
-          "description": null,
-          "projects": [
-            "acts-as-taggable-array-on",
-            "acts-as-taggable-on",
-            "acts_as_taggable_on_steroids",
-            "clortho",
-            "geemus/acts_as_taggable_redux",
-            "gutentag",
-            "is_taggable",
-            "markable",
-            "rocket_tag",
-            "taggregator"
-          ],
-          "permalink": "rails_tagging"
+          "permalink": "rails_menu_builders"
         }
       ],
       "description": null,
-      "name": "Active Record Plugins",
-      "permalink": "Active_Record_Plugins"
+      "name": "HTML & Markup",
+      "permalink": "HTML_Markup"
     },
     {
       "categories": [
-        {
-          "name": "Background Jobs",
-          "description": null,
-          "projects": [
-            "acts_as_executor",
-            "amqp",
-            "backburner",
-            "backgrounded",
-            "barttenbrinke/worker_queue",
-            "beetle",
-            "bj",
-            "bunny",
-            "cloud-crowd",
-            "delayed_job",
-            "delayed_job_active_record",
-            "frenzy_bunnies",
-            "girl_friday",
-            "gnufied/backgroundrb",
-            "jnstq/job_fu",
-            "job_reactor",
-            "kr/beanstalkd",
-            "later",
-            "navvy",
-            "ncr/background-fu",
-            "qu",
-            "quebert",
-            "queue_classic",
-            "rabbit_jobs",
-            "resque",
-            "resque-mongo",
-            "rock-queue",
-            "runner",
-            "seanohalpin/smqueue",
-            "shoryuken",
-            "sidekiq",
-            "stalker",
-            "starling",
-            "sucker_punch",
-            "workling"
-          ],
-          "permalink": "Background_Jobs"
-        },
-        {
-          "name": "Daemon Management",
-          "description": null,
-          "projects": [
-            "daemon-spawn",
-            "daemon_controller",
-            "foreman",
-            "lunchy"
-          ],
-          "permalink": "daemon_management"
-        },
-        {
-          "name": "Daemonizing",
-          "description": null,
-          "projects": [
-            "daemon-kit",
-            "daemonizer",
-            "daemons",
-            "daemons-rails",
-            "dante",
-            "dougal/daemon_generator",
-            "fallen",
-            "foreverb",
-            "looper",
-            "robustthread",
-            "simple-daemon",
-            "titan"
-          ],
-          "permalink": "daemonizing"
-        },
-        {
-          "name": "Scheduling",
-          "description": null,
-          "projects": [
-            "clockwork",
-            "latimes/craken",
-            "recurrent",
-            "resque-scheduler",
-            "rufus-scheduler",
-            "sidekiq-cron",
-            "Swirrl/Taskit",
-            "whenever"
-          ],
-          "permalink": "scheduling"
-        }
-      ],
-      "description": null,
-      "name": "Background Processing",
-      "permalink": "Background_Processing"
-    },
-    {
-      "categories": [
-        {
-          "name": "Font-Face Servers",
-          "description": null,
-          "projects": [
-            "fistface",
-            "garrickvanburen/Fontue",
-            "rack-fontserve"
-          ],
-          "permalink": "Font_Face_Servers"
-        },
-        {
-          "name": "CSS with Ruby",
-          "description": null,
-          "projects": [
-            "airblade/css_dryer",
-            "anjlab-bootstrap-rails",
-            "bootstrap-sass",
-            "bourbon",
-            "compass",
-            "cowboyd/less.rb",
-            "deadweight",
-            "less",
-            "patterns",
-            "rainpress",
-            "sass",
-            "sass-rails",
-            "smurfville",
-            "stylish",
-            "stylus",
-            "twitter-bootstrap-rails",
-            "twitter-bootswatch-rails",
-            "twitter-bootswatch-rails-fontawesome",
-            "twitter-bootswatch-rails-helpers"
-          ],
-          "permalink": "css_with_ruby"
-        }
-      ],
-      "description": null,
-      "name": "CSS",
-      "permalink": "CSS"
-    },
-    {
-      "categories": [
-        {
-          "name": "Business Logic Frameworks",
-          "description": "Tools to help with Domain Driven Design approach and organize app's  Control Flow.",
-          "projects": [
-            "trailblazer",
-            "zertico"
-          ],
-          "permalink": "Business_Logic_Frameworks"
-        },
-        {
-          "name": "Form Objects",
-          "description": null,
-          "projects": [
-            "reform"
-          ],
-          "permalink": "Form_Objects"
-        },
-        {
-          "name": "Service Objects",
-          "description": null,
-          "projects": [
-            "active_interaction",
-            "decent_exposure",
-            "dry-transaction",
-            "interactor",
-            "mutations",
-            "simple_service",
-            "surrounded",
-            "trailblazer-activity"
-          ],
-          "permalink": "Service_Objects"
-        },
-        {
-          "name": "View Objects",
-          "description": "Framework agnostic gems that implement Decorator / View Object pattern.",
-          "projects": [
-            "cells",
-            "hanami-view"
-          ],
-          "permalink": "View_Objects"
-        }
-      ],
-      "description": "Software Architecture layers and tools",
-      "name": "Code Organization",
-      "permalink": "Code_Organization"
-    },
-    {
-      "categories": [
-        {
-          "name": "Code Metrics",
-          "description": null,
-          "projects": [
-            "cane",
-            "coco",
-            "code_statistics",
-            "code_stats2",
-            "cover_me",
-            "coveralls",
-            "flay",
-            "flog",
-            "foodcritic",
-            "guard-rubocop",
-            "jslint_on_rails",
-            "kevinrutherford/crap4r",
-            "metric_abc",
-            "metric_fu",
-            "outlaw",
-            "pelusa",
-            "rails_best_practices",
-            "rcov",
-            "rcov_plugin",
-            "reek",
-            "roodi",
-            "rubocop",
-            "rubycritic",
-            "Saikuro",
-            "sandi_meter",
-            "simplecov",
-            "tailor",
-            "thoughtbot/report_card"
-          ],
-          "permalink": "code_metrics"
-        }
-      ],
-      "description": null,
-      "name": "Code Quality",
-      "permalink": "Code_Quality"
-    },
-    {
-      "categories": [
-        {
-          "name": "Asynchronous E-Mail",
-          "description": null,
-          "projects": [
-            "jusnavigandi/mail_queue",
-            "mailhopper",
-            "popthis",
-            "resque_mail_queue",
-            "resque_mailer"
-          ],
-          "permalink": "Asynchronous_E-Mail"
-        },
-        {
-          "name": "E-Mail Preview",
-          "description": null,
-          "projects": [
-            "letter_opener",
-            "mail_view",
-            "mailcatcher",
-            "post_office",
-            "rails_email_preview",
-            "sanitize_email"
-          ],
-          "permalink": "EMail_Fake_Servers"
-        },
-        {
-          "name": "Exchange Clients",
-          "description": null,
-          "projects": [
-            "ews-api",
-            "exchanger",
-            "rews",
-            "rexchange",
-            "viewpoint"
-          ],
-          "permalink": "Exchange_Clients"
-        },
-        {
-          "name": "Inline CSS for E-Mail",
-          "description": null,
-          "projects": [
-            "actionmailer_inline_css",
-            "incurve",
-            "inline-style",
-            "inline_styles",
-            "inline_styles_mailer",
-            "mail_style",
-            "packrat",
-            "premailer",
-            "premailer-rails3",
-            "roadie"
-          ],
-          "permalink": "Inline_CSS_for_E-Mail"
-        },
-        {
-          "name": "CRM Apps",
-          "description": null,
-          "projects": [
-            "alchemy_crm",
-            "brobertsaz/railscrm",
-            "djcp/cohort",
-            "fat_free_crm",
-            "myitcrm/myitcrm2",
-            "nutshell-crm",
-            "thomasn/forgetmenot"
-          ],
-          "permalink": "crm_apps"
-        },
-        {
-          "name": "E-Mail Sending",
-          "description": null,
-          "projects": [
-            "actionmailer",
-            "capistrano_mailer",
-            "mail",
-            "mailit",
-            "pony",
-            "sendgrid-rails",
-            "tmail"
-          ],
-          "permalink": "e_mail"
-        },
-        {
-          "name": "E-Mail Processing",
-          "description": null,
-          "projects": [
-            "griddler",
-            "look/fetcher",
-            "mail_room",
-            "mailman",
-            "newman",
-            "siannopollo/mail_fetcher",
-            "sortah",
-            "tinnef"
-          ],
-          "permalink": "e_mail_processing"
-        },
-        {
-          "name": "Forum Systems",
-          "description": null,
-          "projects": [
-            "forem",
-            "forum_monster",
-            "jonthewayne/altered_beast",
-            "thredded"
-          ],
-          "permalink": "forum_systems"
-        },
-        {
-          "name": "IRC Bots",
-          "description": null,
-          "projects": [
-            "autumn",
-            "cinch",
-            "cogbot",
-            "craigw/sprinkles",
-            "em-irc",
-            "gifbot",
-            "irc-qik-bot",
-            "isaac",
-            "lita-irc",
-            "ponder",
-            "radar/summer",
-            "rbot"
-          ],
-          "permalink": "irc_bots"
-        }
-      ],
-      "description": null,
-      "name": "Communication",
-      "permalink": "Communication"
-    },
-    {
-      "categories": [
-        {
-          "name": "Blog Engines",
-          "description": null,
-          "projects": [
-            "blogit",
-            "governor",
-            "imathis/octopress",
-            "refinerycms-blog",
-            "serious",
-            "toto",
-            "typo"
-          ],
-          "permalink": "Blog_Engines"
-        },
-        {
-          "name": "Content Management",
-          "description": null,
-          "projects": [
-            "alchemy_cms",
-            "browsercms",
-            "cantierecreativo/railsyardcms",
-            "casein",
-            "comfortable_mexican_sofa",
-            "copy",
-            "DigitPaint/skyline",
-            "drg_cms",
-            "fullstack-cms",
-            "knewter/ansuz",
-            "locomotive_cms",
-            "lolita",
-            "manageable_content",
-            "nesta",
-            "Opal",
-            "puffer_pages",
-            "push_type",
-            "radiant",
-            "railfrog/railfrog",
-            "refinerycms",
-            "refinerycms-menus",
-            "regulate",
-            "snippr",
-            "spina",
-            "static",
-            "station",
-            "svenfuchs/adva_cms",
-            "thinkdry/blank-application",
-            "ubiquo",
-            "zen",
-            "zena"
-          ],
-          "permalink": "content_management_systems"
-        },
-        {
-          "name": "Static Website Generation",
-          "description": null,
-          "projects": [
-            "ace",
-            "awestruct",
-            "bonsai",
-            "brochure",
-            "deplot",
-            "dynamicmatic",
-            "frank",
-            "high_voltage",
-            "jekyll",
-            "korma",
-            "machined",
-            "middleman",
-            "nanoc",
-            "ruhoh",
-            "stasis",
-            "staticmatic",
-            "webby",
-            "webgen"
-          ],
-          "permalink": "static_website_generation"
-        },
-        {
-          "name": "Wiki Apps",
-          "description": null,
-          "projects": [
-            "AndyMoreland/kii",
-            "benatkin/weaky",
-            "bomberstudios/bliki",
-            "cargo_wiki",
-            "gitki",
-            "gollum",
-            "gollum_rails",
-            "instiki",
-            "irwi",
-            "jm/perwikity",
-            "manveru/rakki",
-            "meekish/collective",
-            "olelo",
-            "queso/signal-wiki",
-            "semanticart/hoboken",
-            "soywiki",
-            "sr/git-wiki"
-          ],
-          "permalink": "wiki_apps"
-        }
-      ],
-      "description": null,
-      "name": "Content Management & Blogging",
-      "permalink": "Content_Management_Blogging"
-    },
-    {
-      "categories": [
-        {
-          "name": "Amazon DynamoDB",
-          "description": null,
-          "projects": [
-            "active_dynamodb",
-            "dynamoid",
-            "dynoid",
-            "fake_dynamo"
-          ],
-          "permalink": "Amazon_DynamoDB"
-        },
-        {
-          "name": "CSV Parsers",
-          "description": null,
-          "projects": [
-            "ccsv",
-            "conformist",
-            "csv_importer",
-            "csv_pirate",
-            "fastercsv",
-            "fasterer-csv",
-            "hasherize_csv",
-            "postgres-copy",
-            "rcsvreader",
-            "simple_importer",
-            "smarter_csv",
-            "tabular"
-          ],
-          "permalink": "CSV_Parsers"
-        },
-        {
-          "name": "Data Migration",
-          "description": null,
-          "projects": [
-            "active_importer",
-            "mysql2psql",
-            "taps"
-          ],
-          "permalink": "Data_Migration"
-        },
-        {
-          "name": "Redis Clients",
-          "description": null,
-          "projects": [
-            "acts_as_hashish",
-            "hiredis",
-            "ohm",
-            "readthis",
-            "redis",
-            "redis-aid",
-            "redis-attrs",
-            "redis-objects",
-            "redis-store",
-            "redis_orm",
-            "redlics"
-          ],
-          "permalink": "Redis"
-        },
-        {
-          "name": "SQL Database Adapters",
-          "description": null,
-          "projects": [
-            "ibm_db",
-            "jdbc-mysql",
-            "jdbc-postgres",
-            "kbam",
-            "mysql",
-            "mysql2",
-            "mysqlplus",
-            "pg",
-            "postgres-pr",
-            "postgresql_cursor",
-            "ruby-mysql",
-            "ruby-oci8",
-            "ruby-odbc",
-            "sqlite3",
-            "sqlite3-ruby"
-          ],
-          "permalink": "SQL_Database_Adapters"
-        },
-        {
-          "name": "CouchDB Clients",
-          "description": null,
-          "projects": [
-            "couch_foo",
-            "couch_potato",
-            "couchrest",
-            "couchrest_model",
-            "hpoydar/couchrest-rails",
-            "paulca/stuffing",
-            "quilt",
-            "relaxdb",
-            "simply_stored"
-          ],
-          "permalink": "couchdb_clients"
-        },
-        {
-          "name": "MongoDB Clients",
-          "description": null,
-          "projects": [
-            "mince",
-            "mongo",
-            "mongo_mapper",
-            "mongodb_model",
-            "mongoid",
-            "mongomatic",
-            "perpetuity"
-          ],
-          "permalink": "mongodb_clients"
-        },
-        {
-          "name": "Object-relational mapping",
-          "description": null,
-          "projects": [
-            "activerecord",
-            "dm-core",
-            "og",
-            "orm_adapter",
-            "rom",
-            "sequel",
-            "squeel"
-          ],
-          "permalink": "orm"
-        }
-      ],
-      "description": null,
-      "name": "Data Persistence",
-      "permalink": "Data_Persistence"
-    },
-    {
-      "categories": [
-        {
-          "name": "Benchmarking",
-          "description": null,
-          "projects": [
-            "bench_press",
-            "benchmark-ips",
-            "benchmarkable",
-            "better-benchmark",
-            "dev_panel",
-            "method_profiler",
-            "rbench",
-            "tach"
-          ],
-          "permalink": "Benchmarking"
-        },
-        {
-          "name": "CLI Option Parsers",
-          "description": null,
-          "projects": [
-            "acclaim",
-            "arg0",
-            "choice",
-            "clamp",
-            "clap",
-            "cmdparse",
-            "cocaine",
-            "commander",
-            "config_parser",
-            "cri",
-            "docopt",
-            "getopt",
-            "getoptions",
-            "gli",
-            "highline",
-            "methadone",
-            "micro-optparse",
-            "mixlib-cli",
-            "OptionParser",
-            "optitron",
-            "quickl",
-            "slop",
-            "trollop"
-          ],
-          "permalink": "CLI_Option_Parsers"
-        },
         {
           "name": "CLI Progress Bars",
           "description": null,
@@ -1009,6 +229,23 @@
             "workers"
           ],
           "permalink": "Concurrent_Processing"
+        },
+        {
+          "name": "git Tools",
+          "description": null,
+          "projects": [
+            "ezgit",
+            "gas",
+            "git",
+            "githug",
+            "gitolite",
+            "gitsu",
+            "grit",
+            "gritano",
+            "octonore",
+            "rugged"
+          ],
+          "permalink": "git_Tools"
         },
         {
           "name": "Configuration Management",
@@ -1060,40 +297,6 @@
           "permalink": "Configuration_Management"
         },
         {
-          "name": "Deprecation Tools",
-          "description": null,
-          "projects": [
-            "deprecated",
-            "structured_warnings"
-          ],
-          "permalink": "Deprecation_Tools"
-        },
-        {
-          "name": "GUI Frameworks",
-          "description": null,
-          "projects": [
-            "ffi-tk",
-            "flammarion",
-            "fxruby",
-            "gtk2",
-            "gtk3",
-            "qtbindings",
-            "shoes",
-            "wxruby"
-          ],
-          "permalink": "GUI_Frameworks"
-        },
-        {
-          "name": "Gem and Library Inspection",
-          "description": null,
-          "projects": [
-            "gemedit",
-            "open_gem",
-            "qwandry"
-          ],
-          "permalink": "Gem_and_Library_Inspection"
-        },
-        {
           "name": "Gnome libraries",
           "description": "Ruby bindings for the Gnome libraries.",
           "projects": [
@@ -1128,6 +331,216 @@
           "permalink": "Gnome"
         },
         {
+          "name": "Ruby Version Management",
+          "description": null,
+          "projects": [
+            "hmans/rbfu",
+            "phoet/which_ruby",
+            "postmodern/chruby",
+            "postmodern/ruby-install",
+            "rvm/rvm",
+            "senny/rvm.el",
+            "sstephenson/rbenv",
+            "sstephenson/ruby-build",
+            "vertiginous/pik"
+          ],
+          "permalink": "ruby_version_management"
+        },
+        {
+          "name": "Deprecation Tools",
+          "description": null,
+          "projects": [
+            "deprecated",
+            "structured_warnings"
+          ],
+          "permalink": "Deprecation_Tools"
+        },
+        {
+          "name": "Terminal Coloring",
+          "description": null,
+          "projects": [
+            "ansi",
+            "colored",
+            "colorize",
+            "lolcat",
+            "paint",
+            "pastel",
+            "rainbow",
+            "term-ansicolor"
+          ],
+          "permalink": "Terminal_Coloring"
+        },
+        {
+          "name": "Rails Version Management",
+          "description": "Tools for managing the Rails versions of new or existing apps",
+          "projects": [
+            "brandonweiss/railyard"
+          ],
+          "permalink": "rails_version_management"
+        },
+        {
+          "name": "Gem and Library Inspection",
+          "description": null,
+          "projects": [
+            "gemedit",
+            "open_gem",
+            "qwandry"
+          ],
+          "permalink": "Gem_and_Library_Inspection"
+        },
+        {
+          "name": "GUI Frameworks",
+          "description": null,
+          "projects": [
+            "ffi-tk",
+            "flammarion",
+            "fxruby",
+            "gtk2",
+            "gtk3",
+            "qtbindings",
+            "shoes",
+            "wxruby"
+          ],
+          "permalink": "GUI_Frameworks"
+        },
+        {
+          "name": "Gem Creation",
+          "description": null,
+          "projects": [
+            "bones",
+            "echoe",
+            "enginex",
+            "gem-newgem",
+            "gem-release",
+            "gem_hadar",
+            "hoe",
+            "inochi",
+            "jeweler",
+            "juwelier",
+            "newgem",
+            "ore",
+            "rag",
+            "rookie",
+            "rubygems-tasks",
+            "simple-gem"
+          ],
+          "permalink": "gem_creation"
+        },
+        {
+          "name": "Benchmarking",
+          "description": null,
+          "projects": [
+            "bench_press",
+            "benchmark-ips",
+            "benchmarkable",
+            "better-benchmark",
+            "dev_panel",
+            "method_profiler",
+            "rbench",
+            "tach"
+          ],
+          "permalink": "Benchmarking"
+        },
+        {
+          "name": "irb Alternatives",
+          "description": null,
+          "projects": [
+            "fir-repl",
+            "pry",
+            "rib",
+            "ripl"
+          ],
+          "permalink": "irb_Alternatives"
+        },
+        {
+          "name": "Text Editors in Ruby",
+          "description": null,
+          "projects": [
+            "arcadia",
+            "diakonos",
+            "redcar",
+            "ruber",
+            "ruco"
+          ],
+          "permalink": "text_editors_in_ruby"
+        },
+        {
+          "name": "Project Management",
+          "description": null,
+          "projects": [
+            "branston",
+            "chiliproject/chiliproject",
+            "dim/retrospectiva",
+            "edavis10/redmine",
+            "git_time_extractor",
+            "gitlabhq/gitlabhq",
+            "joshrendek/reru_scrum",
+            "joshrendek/taskrey",
+            "malclocke/fulcrum",
+            "pickler",
+            "shingara/oupsnow",
+            "teambox/teambox"
+          ],
+          "permalink": "project_management"
+        },
+        {
+          "name": "Presentation Software",
+          "description": null,
+          "projects": [
+            "cykod/CoderDeck",
+            "davist11/jQuery-Presentation",
+            "geraldb/s6",
+            "LeaVerou/CSSS",
+            "showoff",
+            "slidedown",
+            "slideshow"
+          ],
+          "permalink": "presentation_software"
+        },
+        {
+          "name": "Scripting Frameworks",
+          "description": null,
+          "projects": [
+            "boson",
+            "lucie",
+            "main",
+            "rake",
+            "sake",
+            "thor"
+          ],
+          "permalink": "scripting_frameworks"
+        },
+        {
+          "name": "CLI Option Parsers",
+          "description": null,
+          "projects": [
+            "acclaim",
+            "arg0",
+            "choice",
+            "clamp",
+            "clap",
+            "cmdparse",
+            "cocaine",
+            "commander",
+            "config_parser",
+            "cri",
+            "docopt",
+            "getopt",
+            "getoptions",
+            "gli",
+            "highline",
+            "methadone",
+            "micro-optparse",
+            "mixlib-cli",
+            "OptionParser",
+            "optitron",
+            "quickl",
+            "slop",
+            "trollop"
+          ],
+          "permalink": "CLI_Option_Parsers"
+        },
+        {
           "name": "Ruby Core Extensions",
           "description": null,
           "projects": [
@@ -1154,72 +567,6 @@
             "zucker"
           ],
           "permalink": "Ruby_Core_Extensions"
-        },
-        {
-          "name": "Terminal Coloring",
-          "description": null,
-          "projects": [
-            "ansi",
-            "colored",
-            "colorize",
-            "lolcat",
-            "paint",
-            "pastel",
-            "rainbow",
-            "term-ansicolor"
-          ],
-          "permalink": "Terminal_Coloring"
-        },
-        {
-          "name": "Gem Creation",
-          "description": null,
-          "projects": [
-            "bones",
-            "echoe",
-            "enginex",
-            "gem-newgem",
-            "gem-release",
-            "gem_hadar",
-            "hoe",
-            "inochi",
-            "jeweler",
-            "juwelier",
-            "newgem",
-            "ore",
-            "rag",
-            "rookie",
-            "rubygems-tasks",
-            "simple-gem"
-          ],
-          "permalink": "gem_creation"
-        },
-        {
-          "name": "git Tools",
-          "description": null,
-          "projects": [
-            "ezgit",
-            "gas",
-            "git",
-            "githug",
-            "gitolite",
-            "gitsu",
-            "grit",
-            "gritano",
-            "octonore",
-            "rugged"
-          ],
-          "permalink": "git_Tools"
-        },
-        {
-          "name": "irb Alternatives",
-          "description": null,
-          "projects": [
-            "fir-repl",
-            "pry",
-            "rib",
-            "ripl"
-          ],
-          "permalink": "irb_Alternatives"
         },
         {
           "name": "irb Tools",
@@ -1249,88 +596,6 @@
             "wirble"
           ],
           "permalink": "irb_tools"
-        },
-        {
-          "name": "Presentation Software",
-          "description": null,
-          "projects": [
-            "cykod/CoderDeck",
-            "davist11/jQuery-Presentation",
-            "geraldb/s6",
-            "LeaVerou/CSSS",
-            "showoff",
-            "slidedown",
-            "slideshow"
-          ],
-          "permalink": "presentation_software"
-        },
-        {
-          "name": "Project Management",
-          "description": null,
-          "projects": [
-            "branston",
-            "chiliproject/chiliproject",
-            "dim/retrospectiva",
-            "edavis10/redmine",
-            "git_time_extractor",
-            "gitlabhq/gitlabhq",
-            "joshrendek/reru_scrum",
-            "joshrendek/taskrey",
-            "malclocke/fulcrum",
-            "pickler",
-            "shingara/oupsnow",
-            "teambox/teambox"
-          ],
-          "permalink": "project_management"
-        },
-        {
-          "name": "Rails Version Management",
-          "description": "Tools for managing the Rails versions of new or existing apps",
-          "projects": [
-            "brandonweiss/railyard"
-          ],
-          "permalink": "rails_version_management"
-        },
-        {
-          "name": "Ruby Version Management",
-          "description": null,
-          "projects": [
-            "hmans/rbfu",
-            "phoet/which_ruby",
-            "postmodern/chruby",
-            "postmodern/ruby-install",
-            "rvm/rvm",
-            "senny/rvm.el",
-            "sstephenson/rbenv",
-            "sstephenson/ruby-build",
-            "vertiginous/pik"
-          ],
-          "permalink": "ruby_version_management"
-        },
-        {
-          "name": "Scripting Frameworks",
-          "description": null,
-          "projects": [
-            "boson",
-            "lucie",
-            "main",
-            "rake",
-            "sake",
-            "thor"
-          ],
-          "permalink": "scripting_frameworks"
-        },
-        {
-          "name": "Text Editors in Ruby",
-          "description": null,
-          "projects": [
-            "arcadia",
-            "diakonos",
-            "redcar",
-            "ruber",
-            "ruco"
-          ],
-          "permalink": "text_editors_in_ruby"
         }
       ],
       "description": null,
@@ -1340,133 +605,344 @@
     {
       "categories": [
         {
-          "name": "Documentation Generators",
+          "name": "Code Metrics",
           "description": null,
           "projects": [
-            "annotator",
-            "apipie-rails",
-            "binman",
-            "breakpointer/ajax-rdoc",
-            "doc",
-            "erbook",
-            "hanna",
-            "jeromegn/DocumentUp",
-            "md2man",
-            "rdoc",
-            "rocco",
-            "ronn",
-            "rspec_api_documentation",
-            "sdoc",
-            "yard"
+            "cane",
+            "coco",
+            "code_statistics",
+            "code_stats2",
+            "cover_me",
+            "coveralls",
+            "flay",
+            "flog",
+            "foodcritic",
+            "guard-rubocop",
+            "jslint_on_rails",
+            "kevinrutherford/crap4r",
+            "metric_abc",
+            "metric_fu",
+            "outlaw",
+            "pelusa",
+            "rails_best_practices",
+            "rcov",
+            "rcov_plugin",
+            "reek",
+            "roodi",
+            "rubocop",
+            "rubycritic",
+            "Saikuro",
+            "sandi_meter",
+            "simplecov",
+            "tailor",
+            "thoughtbot/report_card"
           ],
-          "permalink": "documentation_tools"
-        },
-        {
-          "name": "Gem Doc Viewers",
-          "description": null,
-          "projects": [
-            "bdoc",
-            "gembox",
-            "imownbey/docbox",
-            "jnewland/sinatra-rubygems"
-          ],
-          "permalink": "gem_doc_viewers"
+          "permalink": "code_metrics"
         }
       ],
       "description": null,
-      "name": "Documentation Tools",
-      "permalink": "Documentation_Tools"
+      "name": "Code Quality",
+      "permalink": "Code_Quality"
     },
     {
       "categories": [
         {
-          "name": "PDF Processing",
+          "name": "CSS with Ruby",
           "description": null,
           "projects": [
-            "pdf-reader",
-            "pdf_info",
-            "poppler",
-            "stevedore"
+            "airblade/css_dryer",
+            "anjlab-bootstrap-rails",
+            "bootstrap-sass",
+            "bourbon",
+            "compass",
+            "cowboyd/less.rb",
+            "deadweight",
+            "less",
+            "patterns",
+            "rainpress",
+            "sass",
+            "sass-rails",
+            "smurfville",
+            "stylish",
+            "stylus",
+            "twitter-bootstrap-rails",
+            "twitter-bootswatch-rails",
+            "twitter-bootswatch-rails-fontawesome",
+            "twitter-bootswatch-rails-helpers"
           ],
-          "permalink": "PDF_Processing"
+          "permalink": "css_with_ruby"
         },
         {
-          "name": "PDF Generation",
+          "name": "Font-Face Servers",
           "description": null,
           "projects": [
-            "acts_as_flying_saucer",
-            "breezy_pdf",
-            "breezy_pdf_lite",
-            "combine_pdf",
-            "doc_raptor",
-            "gambas",
-            "gimli",
-            "invoice_printer",
-            "kitabu",
-            "pdfkit",
-            "poppler",
-            "prawn",
-            "prawn-rails",
-            "prawnto",
-            "prawnto_2",
-            "princely",
-            "rghost",
-            "rtex",
-            "shrimp",
-            "wicked_pdf",
-            "wisepdf",
-            "wkhtmltopdf"
+            "fistface",
+            "garrickvanburen/Fontue",
+            "rack-fontserve"
           ],
-          "permalink": "pdf_generation"
-        },
-        {
-          "name": "Reports & Spreadsheets",
-          "description": null,
-          "projects": [
-            "activeadmin-axlsx",
-            "acts_as_xlsx",
-            "axlsx",
-            "axlsx_rails",
-            "compendium",
-            "dossier",
-            "dynamic_reports",
-            "excel_rails",
-            "gnumeric",
-            "goffice",
-            "google-spreadsheet-ruby",
-            "mk/reports_as_sparkline",
-            "mondrian-olap",
-            "odf-report",
-            "oxcelix",
-            "remote_table",
-            "reportable",
-            "robust_excel_ole",
-            "roo",
-            "rubyXL",
-            "ruport",
-            "schacon/munger",
-            "sheets",
-            "simple_xlsx_writer",
-            "spreadsheet",
-            "spreadsheet_architect",
-            "spreadsheet_report",
-            "statistics",
-            "thinreports",
-            "to_spreadsheet",
-            "workbook",
-            "wrap_excel",
-            "write_xlsx",
-            "write_xlsx_rails"
-          ],
-          "permalink": "reporting"
+          "permalink": "Font_Face_Servers"
         }
       ],
       "description": null,
-      "name": "Documents & Reports",
-      "permalink": "Documents_Reports"
+      "name": "CSS",
+      "permalink": "CSS"
     },
     {
       "categories": [
+        {
+          "name": "Background Jobs",
+          "description": null,
+          "projects": [
+            "acts_as_executor",
+            "amqp",
+            "backburner",
+            "backgrounded",
+            "barttenbrinke/worker_queue",
+            "beetle",
+            "bj",
+            "bunny",
+            "cloud-crowd",
+            "delayed_job",
+            "delayed_job_active_record",
+            "frenzy_bunnies",
+            "girl_friday",
+            "gnufied/backgroundrb",
+            "jnstq/job_fu",
+            "job_reactor",
+            "kr/beanstalkd",
+            "later",
+            "navvy",
+            "ncr/background-fu",
+            "qu",
+            "quebert",
+            "queue_classic",
+            "rabbit_jobs",
+            "resque",
+            "resque-mongo",
+            "rock-queue",
+            "runner",
+            "seanohalpin/smqueue",
+            "shoryuken",
+            "sidekiq",
+            "stalker",
+            "starling",
+            "sucker_punch",
+            "workling"
+          ],
+          "permalink": "Background_Jobs"
+        },
+        {
+          "name": "Scheduling",
+          "description": null,
+          "projects": [
+            "clockwork",
+            "latimes/craken",
+            "recurrent",
+            "resque-scheduler",
+            "rufus-scheduler",
+            "sidekiq-cron",
+            "Swirrl/Taskit",
+            "whenever"
+          ],
+          "permalink": "scheduling"
+        },
+        {
+          "name": "Daemon Management",
+          "description": null,
+          "projects": [
+            "daemon-spawn",
+            "daemon_controller",
+            "foreman",
+            "lunchy"
+          ],
+          "permalink": "daemon_management"
+        },
+        {
+          "name": "Daemonizing",
+          "description": null,
+          "projects": [
+            "daemon-kit",
+            "daemonizer",
+            "daemons",
+            "daemons-rails",
+            "dante",
+            "dougal/daemon_generator",
+            "fallen",
+            "foreverb",
+            "looper",
+            "robustthread",
+            "simple-daemon",
+            "titan"
+          ],
+          "permalink": "daemonizing"
+        }
+      ],
+      "description": null,
+      "name": "Background Processing",
+      "permalink": "Background_Processing"
+    },
+    {
+      "categories": [
+        {
+          "name": "Object-relational mapping",
+          "description": null,
+          "projects": [
+            "activerecord",
+            "dm-core",
+            "og",
+            "orm_adapter",
+            "rom",
+            "sequel",
+            "squeel"
+          ],
+          "permalink": "orm"
+        },
+        {
+          "name": "MongoDB Clients",
+          "description": null,
+          "projects": [
+            "mince",
+            "mongo",
+            "mongo_mapper",
+            "mongodb_model",
+            "mongoid",
+            "mongomatic",
+            "perpetuity"
+          ],
+          "permalink": "mongodb_clients"
+        },
+        {
+          "name": "CSV Parsers",
+          "description": null,
+          "projects": [
+            "ccsv",
+            "conformist",
+            "csv_importer",
+            "csv_pirate",
+            "fastercsv",
+            "fasterer-csv",
+            "hasherize_csv",
+            "postgres-copy",
+            "rcsvreader",
+            "simple_importer",
+            "smarter_csv",
+            "tabular"
+          ],
+          "permalink": "CSV_Parsers"
+        },
+        {
+          "name": "SQL Database Adapters",
+          "description": null,
+          "projects": [
+            "ibm_db",
+            "jdbc-mysql",
+            "jdbc-postgres",
+            "kbam",
+            "mysql",
+            "mysql2",
+            "mysqlplus",
+            "pg",
+            "postgres-pr",
+            "postgresql_cursor",
+            "ruby-mysql",
+            "ruby-oci8",
+            "ruby-odbc",
+            "sqlite3",
+            "sqlite3-ruby"
+          ],
+          "permalink": "SQL_Database_Adapters"
+        },
+        {
+          "name": "CouchDB Clients",
+          "description": null,
+          "projects": [
+            "couch_foo",
+            "couch_potato",
+            "couchrest",
+            "couchrest_model",
+            "hpoydar/couchrest-rails",
+            "paulca/stuffing",
+            "quilt",
+            "relaxdb",
+            "simply_stored"
+          ],
+          "permalink": "couchdb_clients"
+        },
+        {
+          "name": "Data Migration",
+          "description": null,
+          "projects": [
+            "active_importer",
+            "mysql2psql",
+            "taps"
+          ],
+          "permalink": "Data_Migration"
+        },
+        {
+          "name": "Amazon DynamoDB",
+          "description": null,
+          "projects": [
+            "active_dynamodb",
+            "dynamoid",
+            "dynoid",
+            "fake_dynamo"
+          ],
+          "permalink": "Amazon_DynamoDB"
+        },
+        {
+          "name": "Redis Clients",
+          "description": null,
+          "projects": [
+            "acts_as_hashish",
+            "hiredis",
+            "ohm",
+            "readthis",
+            "redis",
+            "redis-aid",
+            "redis-attrs",
+            "redis-objects",
+            "redis-store",
+            "redis_orm",
+            "redlics"
+          ],
+          "permalink": "Redis"
+        }
+      ],
+      "description": null,
+      "name": "Data Persistence",
+      "permalink": "Data_Persistence"
+    },
+    {
+      "categories": [
+        {
+          "name": "Online Shops",
+          "description": null,
+          "projects": [
+            "carter",
+            "drhenner/ror_ecommerce",
+            "invoicing",
+            "money-currencylayer-bank",
+            "money-openexchangerates-bank",
+            "nimbleshop",
+            "radiant-shop-extension",
+            "shippinglogic",
+            "solidus",
+            "spree"
+          ],
+          "permalink": "e_commerce"
+        },
+        {
+          "name": "Subscription Management",
+          "description": null,
+          "projects": [
+            "cainlevy/freemium",
+            "fastspring-saasy",
+            "jackpot",
+            "subly",
+            "subscription_fu"
+          ],
+          "permalink": "Subscription_Management"
+        },
         {
           "name": "Payments",
           "description": null,
@@ -1490,40 +966,837 @@
             "stripe_event"
           ],
           "permalink": "Payments"
-        },
-        {
-          "name": "Subscription Management",
-          "description": null,
-          "projects": [
-            "cainlevy/freemium",
-            "fastspring-saasy",
-            "jackpot",
-            "subly",
-            "subscription_fu"
-          ],
-          "permalink": "Subscription_Management"
-        },
-        {
-          "name": "Online Shops",
-          "description": null,
-          "projects": [
-            "carter",
-            "drhenner/ror_ecommerce",
-            "invoicing",
-            "money-currencylayer-bank",
-            "money-openexchangerates-bank",
-            "nimbleshop",
-            "radiant-shop-extension",
-            "shippinglogic",
-            "solidus",
-            "spree"
-          ],
-          "permalink": "e_commerce"
         }
       ],
       "description": null,
       "name": "E-Commerce and Payments",
       "permalink": "E-Commerce_and_Payments"
+    },
+    {
+      "categories": [
+        {
+          "name": "Asset Management",
+          "description": null,
+          "projects": [
+            "active_assets",
+            "asset_hat",
+            "asset_packager",
+            "cornflakesuperstar/minified_cache",
+            "css_splitter",
+            "half-pipe",
+            "jammit",
+            "raptest",
+            "smart_asset",
+            "smurf",
+            "sprocketize",
+            "timcharper/bundle-fu",
+            "voxxit/assemblage",
+            "yolk/rucksack"
+          ],
+          "permalink": "Asset_Management"
+        },
+        {
+          "name": "Deployment Automation",
+          "description": null,
+          "projects": [
+            "blazing",
+            "capistrano",
+            "dandelion",
+            "debloy",
+            "deprec",
+            "git-deploy",
+            "gofer",
+            "hercules",
+            "heroku",
+            "heroku-rails",
+            "heroku_san",
+            "humidifier-reservoir",
+            "inploy",
+            "instance_selector",
+            "mina",
+            "mpalmer/giddyup",
+            "negroku",
+            "paratrooper",
+            "pulsar",
+            "railsmachine/moonshine",
+            "remi/phd",
+            "rubber",
+            "ruploy",
+            "saizai/superdeploy",
+            "shelly",
+            "vigil",
+            "vlad",
+            "whiskey_disk"
+          ],
+          "permalink": "deployment_automation"
+        },
+        {
+          "name": "System Provisioning",
+          "description": null,
+          "projects": [
+            "automateit",
+            "babushka",
+            "benschwarz/passenger-stack",
+            "boris",
+            "chef",
+            "knife-esx",
+            "puppet",
+            "rudy",
+            "sprinkle",
+            "supply_drop",
+            "teleport",
+            "vagrant"
+          ],
+          "permalink": "systems_integration"
+        },
+        {
+          "name": "Amazon Web Services",
+          "description": null,
+          "projects": [
+            "amazon-ec2",
+            "amazon-ses",
+            "aws",
+            "aws-s3",
+            "aws-sdk",
+            "aws-ses",
+            "ec2-blackout",
+            "fog",
+            "humidifier",
+            "right_aws",
+            "s3",
+            "s3utils",
+            "vfs"
+          ],
+          "permalink": "Amazon_Web_Services"
+        },
+        {
+          "name": "Continuous Integration",
+          "description": null,
+          "projects": [
+            "appelier/bigtuna",
+            "cap_gun",
+            "cerberus",
+            "ci-go-nfo",
+            "cijoe",
+            "dcrec1/signal",
+            "goldberg",
+            "integrity",
+            "jenkins",
+            "tddium",
+            "thoughtworks/cruisecontrol.rb",
+            "travis-ci/travis-ci",
+            "update_status"
+          ],
+          "permalink": "continuous_integration"
+        },
+        {
+          "name": "Backups",
+          "description": null,
+          "projects": [
+            "astrails-safe",
+            "backup",
+            "backupit",
+            "copyhacker/backup_fu",
+            "db2fog",
+            "db2s3",
+            "dbmanager",
+            "dotbox",
+            "dumper",
+            "pg_drive_backup",
+            "porter",
+            "sweety_backy"
+          ],
+          "permalink": "backups"
+        },
+        {
+          "name": "Web servers",
+          "description": null,
+          "projects": [
+            "agoo",
+            "ebb",
+            "hoof",
+            "iodine",
+            "mongrel",
+            "mongrel2",
+            "passenger",
+            "puma",
+            "skinny",
+            "thin",
+            "trinidad",
+            "unicorn",
+            "yarn"
+          ],
+          "permalink": "web_servers"
+        },
+        {
+          "name": "Asset Distribution",
+          "description": null,
+          "projects": [
+            "asset_hash",
+            "asset_sync",
+            "cloudfront_asset_host",
+            "jammit-s3"
+          ],
+          "permalink": "Asset_Distribution"
+        }
+      ],
+      "description": null,
+      "name": "Provision, Deploy & Host",
+      "permalink": "Provision_Deploy_Host"
+    },
+    {
+      "categories": [
+        {
+          "name": "Active Record Value Cleanup",
+          "description": null,
+          "projects": [
+            "attribute_normalizer",
+            "auto_strip_attributes",
+            "clean_room",
+            "normatron",
+            "rubiety/nilify_blanks",
+            "sanitized_attributes",
+            "scrubby",
+            "strip_attributes",
+            "strip_control_chars",
+            "vacuum_cleaner"
+          ],
+          "permalink": "Active_Record_Value_Cleanup"
+        },
+        {
+          "name": "Active Record Soft Delete",
+          "description": null,
+          "projects": [
+            "acts_as_archive",
+            "acts_as_paranoid",
+            "ajh/acts_as_soft_deletable",
+            "destroyed_at",
+            "discard",
+            "expectedbehavior/acts_as_archival",
+            "immortal",
+            "paranoia",
+            "paranoid",
+            "paranoid2",
+            "permanent_records",
+            "rails3_acts_as_paranoid",
+            "soft_deletion"
+          ],
+          "permalink": "Active_Record_Soft_Delete"
+        },
+        {
+          "name": "Pagination",
+          "description": null,
+          "projects": [
+            "ajax_pagination",
+            "kaminari",
+            "kaminari-bootstrap",
+            "paged_scopes",
+            "pagy",
+            "pagy-extras",
+            "simply_paginate",
+            "sorted",
+            "will_paginate"
+          ],
+          "permalink": "pagination"
+        },
+        {
+          "name": "Active Record Enumerations",
+          "description": null,
+          "projects": [
+            "active_enum",
+            "attribute_choices",
+            "classy_enum",
+            "const_enum",
+            "easy_attributes",
+            "enum_column3",
+            "enumerate_by",
+            "enumerate_it",
+            "enumerated_attribute",
+            "enumerize",
+            "enumify",
+            "power_enum",
+            "simple_enum"
+          ],
+          "permalink": "Active_Record_Enumerations"
+        },
+        {
+          "name": "Rails Comments",
+          "description": null,
+          "projects": [
+            "acts_as_commentable",
+            "commenter",
+            "commontator",
+            "disqus",
+            "elight/acts_as_commentable_with_threading",
+            "is_reviewable",
+            "opinio",
+            "phusion/juvia"
+          ],
+          "permalink": "rails_comments"
+        },
+        {
+          "name": "Rails DB Bootstrapping",
+          "description": null,
+          "projects": [
+            "dibber",
+            "ffmike/db-populate",
+            "has_alter_ego",
+            "populator",
+            "seed-fu",
+            "seed_dumper",
+            "seedbank",
+            "sevenwire/bootstrapper"
+          ],
+          "permalink": "rails_db_bootstrapping"
+        },
+        {
+          "name": "Active Record Sharding",
+          "description": null,
+          "projects": [
+            "activerecord-turntable",
+            "ar-octopus",
+            "data_fabric",
+            "db-charmer",
+            "mixonic/ShardTheLove",
+            "multi_db",
+            "technoweenie/masochism"
+          ],
+          "permalink": "Active_Record_Sharding"
+        },
+        {
+          "name": "Active Record Named Scopes",
+          "description": null,
+          "projects": [
+            "deep_pluck",
+            "filterrific",
+            "internuity/quick_scopes",
+            "pacecar",
+            "random_record",
+            "randumb",
+            "ransack",
+            "scope-builder",
+            "searchlogic",
+            "sexy_scopes",
+            "technoweenie/can_search",
+            "trailblazer-finder",
+            "trixy_scopes",
+            "utility_scopes"
+          ],
+          "permalink": "Active_Record_Named_Scopes"
+        },
+        {
+          "name": "Rails Ratings",
+          "description": null,
+          "projects": [
+            "acts-as-rated",
+            "acts_as_rateable",
+            "ajaxful_rating",
+            "edgarjs/ajaxful-rating",
+            "has_ratings",
+            "letsrate",
+            "mongoid-rating",
+            "mongoid_rateable",
+            "zachinglis/is_rateable"
+          ],
+          "permalink": "rails_ratings"
+        },
+        {
+          "name": "Active Record Index Assistants",
+          "description": null,
+          "projects": [
+            "automatic_foreign_key",
+            "eladmeidar/rails_indexes",
+            "foreigner",
+            "immigrant",
+            "lol_dba",
+            "redhillonrails_core",
+            "schema_plus"
+          ],
+          "permalink": "Active_Record_Index_Assistants"
+        },
+        {
+          "name": "Active Record Sortables",
+          "description": null,
+          "projects": [
+            "acts_as_list",
+            "acts_as_restful_list",
+            "ranked-model",
+            "resort",
+            "sortable"
+          ],
+          "permalink": "Active_Record_Sortables"
+        },
+        {
+          "name": "Active Record Default Values",
+          "description": null,
+          "projects": [
+            "active_record_defaults",
+            "default_value_for"
+          ],
+          "permalink": "Active_Record_Default_Values"
+        },
+        {
+          "name": "Rails Search",
+          "description": null,
+          "projects": [
+            "acts_as_ferret",
+            "acts_as_fulltextable",
+            "acts_as_indexed",
+            "acts_as_solr",
+            "acts_as_solr_reloaded",
+            "chewy",
+            "delsolr",
+            "elasticsearch",
+            "elasticsearch-rails",
+            "elastictastic",
+            "ferret",
+            "pg_search",
+            "redis-search",
+            "rsolr",
+            "ruby_simple_search",
+            "scoped_search",
+            "searchkick",
+            "searchlight",
+            "slingshot-rb",
+            "solr_query",
+            "sunspot",
+            "sunspot_rails",
+            "sunspot_solr",
+            "texticle",
+            "thinking-sphinx",
+            "tire",
+            "xapian_db",
+            "xapit"
+          ],
+          "permalink": "rails_search"
+        },
+        {
+          "name": "Active Record User Stamping",
+          "description": null,
+          "projects": [
+            "acts_as_audited",
+            "ar-audit-tracer",
+            "darcy/acts_as_loggable",
+            "grosser/record_activities",
+            "jnunemaker/user_stamp",
+            "userstamp"
+          ],
+          "permalink": "Active_Record_User_Stamping"
+        },
+        {
+          "name": "Rails Tagging",
+          "description": null,
+          "projects": [
+            "acts-as-taggable-array-on",
+            "acts-as-taggable-on",
+            "acts_as_taggable_on_steroids",
+            "clortho",
+            "geemus/acts_as_taggable_redux",
+            "gutentag",
+            "is_taggable",
+            "markable",
+            "rocket_tag",
+            "taggregator"
+          ],
+          "permalink": "rails_tagging"
+        },
+        {
+          "name": "Active Record DB Adapters",
+          "description": null,
+          "projects": [
+            "activerecord-jdbc-adapter",
+            "activerecord-jdbcderby-adapter",
+            "activerecord-jdbcmysql-adapter",
+            "activerecord-jdbcpostgresql-adapter",
+            "activerecord-nulldb-adapter",
+            "activerecord-oracle_enhanced-adapter",
+            "activerecord-sqlserver-adapter",
+            "odbc_adapter",
+            "oracle-enhanced-enhanced"
+          ],
+          "permalink": "Active_Record_DB_Adapters"
+        },
+        {
+          "name": "Active Record Versioning",
+          "description": null,
+          "projects": [
+            "acts-as-approvable",
+            "acts_as_revisable",
+            "acts_as_revisionable",
+            "acts_as_versioned",
+            "auditable",
+            "audited",
+            "changeling",
+            "has_draft",
+            "historical",
+            "logidze",
+            "paper_trail",
+            "record_history",
+            "shadow",
+            "simple_audit",
+            "simply_versioned",
+            "version_fu",
+            "vestal_versions"
+          ],
+          "permalink": "Active_Record_Versioning"
+        },
+        {
+          "name": "Active Record Nesting",
+          "description": null,
+          "projects": [
+            "acts_as_dag",
+            "acts_as_ordered_tree",
+            "acts_as_tree",
+            "ancestry",
+            "arboreal",
+            "awesome_nested_set",
+            "chris/better_nested_set",
+            "closure_tree",
+            "rails/acts_as_nested_set"
+          ],
+          "permalink": "Active_Record_Nesting"
+        },
+        {
+          "name": "Active Record Bit Fields",
+          "description": "Use an integer field to store a set of booleans using bitwise logic",
+          "projects": [
+            "active_flag",
+            "bitfield_attribute",
+            "bitfields",
+            "bitmask_attributes",
+            "flag_shih_tzu",
+            "has-bit-field"
+          ],
+          "permalink": "Active_Record_Bit_Fields"
+        }
+      ],
+      "description": null,
+      "name": "Active Record Plugins",
+      "permalink": "Active_Record_Plugins"
+    },
+    {
+      "categories": [
+        {
+          "name": "Random Data Generation",
+          "description": null,
+          "projects": [
+            "cheap_random",
+            "data-anonymization",
+            "faker",
+            "ffaker",
+            "forgery",
+            "randexp",
+            "random_data"
+          ],
+          "permalink": "random_data_generation"
+        },
+        {
+          "name": "Cucumber Steps",
+          "description": null,
+          "projects": [
+            "aruba",
+            "cucumber-farmer",
+            "cucumber_factory",
+            "email_spec",
+            "macros4cuke",
+            "mundo-pepino",
+            "pickle"
+          ],
+          "permalink": "Cucumber_Steps"
+        },
+        {
+          "name": "Distributed Testing",
+          "description": null,
+          "projects": [
+            "aslakhellesoy/rspec-distributed",
+            "brynary/testjour",
+            "hydra",
+            "parallel_tests",
+            "qxjit/deep-test",
+            "specjour",
+            "spin",
+            "spork",
+            "spring",
+            "test-queue",
+            "testbot",
+            "zeus",
+            "zeus-parallel_tests"
+          ],
+          "permalink": "distributed_testing"
+        },
+        {
+          "name": "Unit Test Frameworks",
+          "description": null,
+          "projects": [
+            "assert",
+            "bacon",
+            "detest",
+            "dtf",
+            "fix",
+            "kintama",
+            "lemon",
+            "micronaut",
+            "minitest",
+            "riot",
+            "rspec",
+            "rubydoctest",
+            "shindo",
+            "test-unit",
+            "test_inline",
+            "testrocket",
+            "testy",
+            "wrong"
+          ],
+          "permalink": "testing_frameworks"
+        },
+        {
+          "name": "Acceptance Test Frameworks",
+          "description": null,
+          "projects": [
+            "bewildr",
+            "coulda",
+            "cucumber",
+            "filet",
+            "mountain_berry_fields",
+            "saki",
+            "spinach",
+            "steak",
+            "stella",
+            "stories",
+            "turnip",
+            "unencumbered"
+          ],
+          "permalink": "Acceptance_Test_Frameworks"
+        },
+        {
+          "name": "Rails Fixture Replacement",
+          "description": null,
+          "projects": [
+            "blueprints",
+            "dm-sweatshop",
+            "fabrication",
+            "factory_girl",
+            "fixjour",
+            "fixture_builder",
+            "fixture_replacement",
+            "machinist",
+            "miniskirt",
+            "object_daddy",
+            "seedomatic",
+            "sham",
+            "spawn",
+            "transactionata"
+          ],
+          "permalink": "rails_fixture_replacement"
+        },
+        {
+          "name": "A/B Testing",
+          "description": null,
+          "projects": [
+            "abingo",
+            "abingo_port",
+            "absurdity",
+            "bandit",
+            "fluidfeatures",
+            "fluidfeatures-rails",
+            "paulmars/seven_minute_abs",
+            "split",
+            "validation_issues",
+            "vanity"
+          ],
+          "permalink": "A_B_Testing"
+        },
+        {
+          "name": "Test::Unit Extensions",
+          "description": null,
+          "projects": [
+            "contest",
+            "jm/context",
+            "pending",
+            "shoulda"
+          ],
+          "permalink": "Test_Unit_Extensions"
+        },
+        {
+          "name": "Time Warping",
+          "description": null,
+          "projects": [
+            "delorean",
+            "quantum_leap",
+            "time-warp",
+            "time-zone-warp",
+            "time_travel",
+            "timecop"
+          ],
+          "permalink": "time_warping"
+        },
+        {
+          "name": "Continuous Testing",
+          "description": null,
+          "projects": [
+            "autotest",
+            "autotest-fsevent",
+            "autotest-growl",
+            "guard",
+            "guard-rspec",
+            "infinity_test",
+            "kicker",
+            "rack-livereload",
+            "tconsole",
+            "tork",
+            "watchr",
+            "ZenTest"
+          ],
+          "permalink": "continuous_testing"
+        },
+        {
+          "name": "Cucumber Tools",
+          "description": null,
+          "projects": [
+            "cql",
+            "cucover",
+            "cucumber-in-the-yard",
+            "cucumber-nagios",
+            "cucumber-pride",
+            "cucumber-screenshot",
+            "cucumber-sinatra",
+            "cucumberator",
+            "cuke_cataloger",
+            "cuke_modeler",
+            "cuke_sniffer",
+            "cukesparse",
+            "cuporter",
+            "gherkin_lint",
+            "stepdown",
+            "viewcumber",
+            "yard-cucumber"
+          ],
+          "permalink": "Cucumber_Tools"
+        },
+        {
+          "name": "Testing Rails Engines",
+          "description": null,
+          "projects": [
+            "combustion",
+            "multiengine",
+            "test_engine"
+          ],
+          "permalink": "Testing_Rails_Engines"
+        },
+        {
+          "name": "Browser testing",
+          "description": null,
+          "projects": [
+            "akephalos",
+            "capybara",
+            "capybara-webkit",
+            "celerity",
+            "culerity",
+            "headless",
+            "paytonrules/selenium-on-rails",
+            "polonium",
+            "poltergeist",
+            "selenium-client",
+            "selenium-webdriver",
+            "site_prism",
+            "tooth",
+            "watir",
+            "watir-webdriver",
+            "webrat"
+          ],
+          "permalink": "browser_testing"
+        },
+        {
+          "name": "Mocking Web Requests",
+          "description": null,
+          "projects": [
+            "appendto/jquery-mockjax",
+            "artifice",
+            "fakeweb",
+            "mockjax",
+            "mocktra",
+            "netrecorder",
+            "rest-assured",
+            "sonar",
+            "stale_fish",
+            "vcr",
+            "webmock"
+          ],
+          "permalink": "mocking_web_requests"
+        },
+        {
+          "name": "Mocking",
+          "description": null,
+          "projects": [
+            "bogus",
+            "cross-stub",
+            "facon",
+            "flexmock",
+            "jm/stump",
+            "mocha",
+            "mock_redis",
+            "mocoso",
+            "rr",
+            "rspec-mocks",
+            "simple_mock",
+            "spy",
+            "surrogate",
+            "verified_double"
+          ],
+          "permalink": "mocking"
+        }
+      ],
+      "description": null,
+      "name": "Testing",
+      "permalink": "Testing"
+    },
+    {
+      "categories": [
+        {
+          "name": "View Objects",
+          "description": "Framework agnostic gems that implement Decorator / View Object pattern.",
+          "projects": [
+            "cells",
+            "hanami-view"
+          ],
+          "permalink": "View_Objects"
+        },
+        {
+          "name": "Form Objects",
+          "description": null,
+          "projects": [
+            "reform"
+          ],
+          "permalink": "Form_Objects"
+        },
+        {
+          "name": "Business Logic Frameworks",
+          "description": "Tools to help with Domain Driven Design approach and organize app's  Control Flow.",
+          "projects": [
+            "trailblazer",
+            "zertico"
+          ],
+          "permalink": "Business_Logic_Frameworks"
+        },
+        {
+          "name": "Service Objects",
+          "description": null,
+          "projects": [
+            "active_interaction",
+            "decent_exposure",
+            "dry-transaction",
+            "interactor",
+            "mutations",
+            "simple_service",
+            "surrounded",
+            "trailblazer-activity"
+          ],
+          "permalink": "Service_Objects"
+        }
+      ],
+      "description": "Software Architecture layers and tools",
+      "name": "Code Organization",
+      "permalink": "Code_Organization"
     },
     {
       "categories": [
@@ -1577,397 +1850,6 @@
     {
       "categories": [
         {
-          "name": "QR Codes",
-          "description": null,
-          "projects": [
-            "pngqr",
-            "qrencoder",
-            "qrscanner",
-            "qrtools",
-            "rqr",
-            "rqrcode",
-            "rqrcode-rails3",
-            "rqrcode_png",
-            "zbar",
-            "zxing"
-          ],
-          "permalink": "QR_Codes"
-        },
-        {
-          "name": "Graphing",
-          "description": "Tools to generate graphical representation of data (called charts or graphs)",
-          "projects": [
-            "adamwiggins/rifgraf",
-            "chartkick",
-            "gchart",
-            "gchartrb",
-            "google_visualr",
-            "googlecharts",
-            "graphite-api",
-            "gruff",
-            "highcharts-rails",
-            "michelson/lazy_high_charts",
-            "ofc2",
-            "pullmonkey/open_flash_chart",
-            "rchart",
-            "rdp/ruby_gnuplot",
-            "rubyvis",
-            "rudionrails/google_charts",
-            "scruffy",
-            "seer",
-            "sparklines",
-            "technical_graph",
-            "xaviershay/tufte-graph"
-          ],
-          "permalink": "graphing"
-        },
-        {
-          "name": "Image Processing",
-          "description": null,
-          "projects": [
-            "cairo",
-            "chunky_png",
-            "core_image",
-            "devil",
-            "fabien/im_magick",
-            "image_science",
-            "image_sorcery",
-            "image_squeeze",
-            "magickly",
-            "MIAConverter",
-            "mini_magick",
-            "mojo_magick",
-            "pango",
-            "paperclip-optimizer",
-            "rmagick",
-            "rsvg2",
-            "skeptick"
-          ],
-          "permalink": "image_processing"
-        },
-        {
-          "name": "Visualizing Data",
-          "description": null,
-          "projects": [
-            "DmitryBaranovskiy/raphael",
-            "ruby-graphviz",
-            "ruby-processing"
-          ],
-          "permalink": "visualizing_data"
-        }
-      ],
-      "description": null,
-      "name": "Graphics",
-      "permalink": "Graphics"
-    },
-    {
-      "categories": [
-        {
-          "name": "Breadcrumb Builders",
-          "description": null,
-          "projects": [
-            "ariane",
-            "breadcrumble",
-            "breadcrumbs",
-            "breadcrumbs_on_rails",
-            "crumble",
-            "crummy",
-            "gretel"
-          ],
-          "permalink": "Breadcrumb_Builders"
-        },
-        {
-          "name": "Table Builders",
-          "description": null,
-          "projects": [
-            "active-list",
-            "datagrid",
-            "easy_table",
-            "fancygrid",
-            "gridder",
-            "magic_grid",
-            "sorting_table_for",
-            "table-for",
-            "table_cloth",
-            "table_for_collection",
-            "table_go",
-            "tableasy",
-            "tableficate",
-            "tabletastic",
-            "wice_grid"
-          ],
-          "permalink": "Table_Builders"
-        },
-        {
-          "name": "Markup processors",
-          "description": null,
-          "projects": [
-            "bluecloth",
-            "creole",
-            "kramdown",
-            "markdown_helper",
-            "markup",
-            "maruku",
-            "mcbean",
-            "minidown",
-            "multi_markdown",
-            "pandoc-ruby",
-            "rdiscount",
-            "redcarpet",
-            "RedCloth",
-            "rpeg-markdown",
-            "smiley",
-            "stupid_formatter",
-            "vkhater-redcarpet"
-          ],
-          "permalink": "markup_processors"
-        },
-        {
-          "name": "Microformats",
-          "description": null,
-          "projects": [
-            "html-schema",
-            "microformats_helper",
-            "mofo",
-            "prism",
-            "schema_dot_org"
-          ],
-          "permalink": "microformats"
-        },
-        {
-          "name": "Form Builders",
-          "description": null,
-          "projects": [
-            "airblade/air_budd_form_builder",
-            "bootstrap_form",
-            "bootstrap_forms",
-            "campo",
-            "cocoon",
-            "comfy_bootstrap_form",
-            "formize",
-            "formtastic",
-            "formula",
-            "formular",
-            "mongoid_form",
-            "nested_form",
-            "parsley_simple_form",
-            "simple_form",
-            "twitter_bootstrap_form_for"
-          ],
-          "permalink": "rails_form_builders"
-        },
-        {
-          "name": "Rails Menu Builders",
-          "description": null,
-          "projects": [
-            "active_link_to",
-            "bjeanes/tab_fu",
-            "brewski/menu_components",
-            "danielharan/semantic-menu",
-            "dpickett/tab_menu",
-            "menu_helper",
-            "navi",
-            "navigasmic",
-            "ramenu",
-            "semantic_navigation",
-            "simple-navigation",
-            "simple-navigation-bootstrap",
-            "simple_navigation",
-            "simple_navigation_renderers",
-            "tabs_on_rails",
-            "tabulous",
-            "xebec"
-          ],
-          "permalink": "rails_menu_builders"
-        },
-        {
-          "name": "Rails Wizards",
-          "description": null,
-          "projects": [
-            "adkron/actsaswizard",
-            "jimweirich/partially_valid",
-            "multi-step",
-            "sbmsuite/wizard",
-            "wicked",
-            "wizardly"
-          ],
-          "permalink": "rails_wizards"
-        },
-        {
-          "name": "Syntax Highlighting",
-          "description": null,
-          "projects": [
-            "albeano",
-            "albino",
-            "code_rippa",
-            "coderay",
-            "highlight",
-            "ink",
-            "ioquatix/jquery-syntax",
-            "michaeledgar/harsh",
-            "rack-coderay",
-            "rack-pygmentize",
-            "rouge",
-            "technoweenie/ultraviolence",
-            "tm_syntax_highlighting",
-            "ultraviolet"
-          ],
-          "permalink": "syntax_highlighting"
-        },
-        {
-          "name": "Template Engines",
-          "description": null,
-          "projects": [
-            "arbre",
-            "cadenza",
-            "curly-templates",
-            "deface",
-            "ember",
-            "erector",
-            "erubi",
-            "erubis",
-            "faml",
-            "fortitude",
-            "haml",
-            "hamlit",
-            "hammer_builder",
-            "handlebars_assets",
-            "inversion",
-            "judofyr/parkaby",
-            "liquid",
-            "markaby",
-            "markerb",
-            "mustache",
-            "PageTemplate",
-            "ruty",
-            "scottpersinger/laminate",
-            "slim",
-            "sweet-lang",
-            "tagz",
-            "temple",
-            "tilt",
-            "wlang"
-          ],
-          "permalink": "template_engines"
-        }
-      ],
-      "description": null,
-      "name": "HTML & Markup",
-      "permalink": "HTML_Markup"
-    },
-    {
-      "categories": [
-        {
-          "name": "JavaScript Runtimes",
-          "description": null,
-          "projects": [
-            "execjs",
-            "therubyracer"
-          ],
-          "permalink": "JavaScript_runtimes"
-        },
-        {
-          "name": "JavaScript Testing",
-          "description": null,
-          "projects": [
-            "alexyoung/riotjs",
-            "evergreen",
-            "gerbil-rails",
-            "hanoi",
-            "jasmine",
-            "jcov",
-            "jquery/testswarm",
-            "konacha",
-            "opal-spec",
-            "paulca/whenever.js",
-            "relevance/blue-ridge",
-            "screw-unit",
-            "screw-unit-server"
-          ],
-          "permalink": "javascript_testing"
-        },
-        {
-          "name": "JavaScript Tools",
-          "description": null,
-          "projects": [
-            "barista",
-            "coffee-script",
-            "dom_routes",
-            "dynamojs_rails",
-            "gon",
-            "indexable",
-            "jabs",
-            "jake",
-            "juicer",
-            "MadRabbit/frontcompiler",
-            "mousetrap-rails",
-            "NV/js-preprocessor",
-            "opal",
-            "opal-rails",
-            "packr",
-            "paloma",
-            "poke_js",
-            "rack-jquery",
-            "rake-minify",
-            "sprockets",
-            "SrBuj",
-            "uglifier",
-            "vendorer",
-            "webpacker",
-            "wiselinks"
-          ],
-          "permalink": "javascript_tools"
-        },
-        {
-          "name": "Prototype Replacements",
-          "description": null,
-          "projects": [
-            "CodeOfficer/jquery-ui-rails-helpers",
-            "jrails",
-            "right-rails",
-            "rubaidh/yui_on_rails"
-          ],
-          "permalink": "prototype_replacements"
-        },
-        {
-          "name": "Rails In-Place Editing",
-          "description": null,
-          "projects": [
-            "amerine/in_place_editing",
-            "best_in_place",
-            "best_in_place_mongoid",
-            "best_in_placeish",
-            "flvorful/super_inplace_controls",
-            "janv/rest_in_place",
-            "jeditable-rails",
-            "jintastic",
-            "nakajima/better-edit-in-place",
-            "on_the_spot",
-            "rakuto/jrails_in_place_editing",
-            "redlinesoftware/in_place_editor",
-            "simplificator/inplace",
-            "stepheneb/in_place_rich_editing"
-          ],
-          "permalink": "rails_in_place_editing"
-        },
-        {
-          "name": "React Tools",
-          "description": "Tools for integrating with ReactJS",
-          "projects": [
-            "react-rails",
-            "react_on_rails",
-            "webpacker-react"
-          ],
-          "permalink": "react_tools"
-        }
-      ],
-      "description": null,
-      "name": "JavaScript",
-      "permalink": "JavaScript"
-    },
-    {
-      "categories": [
-        {
           "name": "Log Analysis",
           "description": null,
           "projects": [
@@ -1981,6 +1863,28 @@
             "request-log-analyzer"
           ],
           "permalink": "Log_Analysis"
+        },
+        {
+          "name": "Server Monitoring",
+          "description": null,
+          "projects": [
+            "amnesia",
+            "bluepill",
+            "eye",
+            "god",
+            "health_checker",
+            "health_monitor",
+            "health_rails",
+            "nagios_check",
+            "new_relic_ping",
+            "outpost",
+            "ramon",
+            "rspec-webservice_matchers",
+            "sensu",
+            "visage-app",
+            "webstats"
+          ],
+          "permalink": "server_monitoring"
         },
         {
           "name": "Logging",
@@ -2068,28 +1972,6 @@
             "system-metrics"
           ],
           "permalink": "rails_instrumentation"
-        },
-        {
-          "name": "Server Monitoring",
-          "description": null,
-          "projects": [
-            "amnesia",
-            "bluepill",
-            "eye",
-            "god",
-            "health_checker",
-            "health_monitor",
-            "health_rails",
-            "nagios_check",
-            "new_relic_ping",
-            "outpost",
-            "ramon",
-            "rspec-webservice_matchers",
-            "sensu",
-            "visage-app",
-            "webstats"
-          ],
-          "permalink": "server_monitoring"
         }
       ],
       "description": null,
@@ -2098,37 +1980,6 @@
     },
     {
       "categories": [
-        {
-          "name": "Networking Tools",
-          "description": null,
-          "projects": [
-            "ipaddress",
-            "macker",
-            "maxminddb"
-          ],
-          "permalink": "networking_tools"
-        }
-      ],
-      "description": null,
-      "name": "Networking",
-      "permalink": "Networking"
-    },
-    {
-      "categories": [
-        {
-          "name": "Bundler Tools",
-          "description": null,
-          "projects": [
-            "appraisal",
-            "bundler-auto-update",
-            "bundler-console",
-            "guard-bundler",
-            "noexec",
-            "rubygems-bundler",
-            "spitball"
-          ],
-          "permalink": "Bundler_Tools"
-        },
         {
           "name": "Gem Hosting",
           "description": null,
@@ -2173,6 +2024,20 @@
           "permalink": "packaging_systems"
         },
         {
+          "name": "Bundler Tools",
+          "description": null,
+          "projects": [
+            "appraisal",
+            "bundler-auto-update",
+            "bundler-console",
+            "guard-bundler",
+            "noexec",
+            "rubygems-bundler",
+            "spitball"
+          ],
+          "permalink": "Bundler_Tools"
+        },
+        {
           "name": "Packaging to Executables",
           "description": null,
           "projects": [
@@ -2193,1090 +2058,6 @@
     },
     {
       "categories": [
-        {
-          "name": "Amazon Web Services",
-          "description": null,
-          "projects": [
-            "amazon-ec2",
-            "amazon-ses",
-            "aws",
-            "aws-s3",
-            "aws-sdk",
-            "aws-ses",
-            "ec2-blackout",
-            "fog",
-            "humidifier",
-            "right_aws",
-            "s3",
-            "s3utils",
-            "vfs"
-          ],
-          "permalink": "Amazon_Web_Services"
-        },
-        {
-          "name": "Asset Distribution",
-          "description": null,
-          "projects": [
-            "asset_hash",
-            "asset_sync",
-            "cloudfront_asset_host",
-            "jammit-s3"
-          ],
-          "permalink": "Asset_Distribution"
-        },
-        {
-          "name": "Asset Management",
-          "description": null,
-          "projects": [
-            "active_assets",
-            "asset_hat",
-            "asset_packager",
-            "cornflakesuperstar/minified_cache",
-            "css_splitter",
-            "half-pipe",
-            "jammit",
-            "raptest",
-            "smart_asset",
-            "smurf",
-            "sprocketize",
-            "timcharper/bundle-fu",
-            "voxxit/assemblage",
-            "yolk/rucksack"
-          ],
-          "permalink": "Asset_Management"
-        },
-        {
-          "name": "Backups",
-          "description": null,
-          "projects": [
-            "astrails-safe",
-            "backup",
-            "backupit",
-            "copyhacker/backup_fu",
-            "db2fog",
-            "db2s3",
-            "dbmanager",
-            "dotbox",
-            "dumper",
-            "pg_drive_backup",
-            "porter",
-            "sweety_backy"
-          ],
-          "permalink": "backups"
-        },
-        {
-          "name": "Continuous Integration",
-          "description": null,
-          "projects": [
-            "appelier/bigtuna",
-            "cap_gun",
-            "cerberus",
-            "ci-go-nfo",
-            "cijoe",
-            "dcrec1/signal",
-            "goldberg",
-            "integrity",
-            "jenkins",
-            "tddium",
-            "thoughtworks/cruisecontrol.rb",
-            "travis-ci/travis-ci",
-            "update_status"
-          ],
-          "permalink": "continuous_integration"
-        },
-        {
-          "name": "Deployment Automation",
-          "description": null,
-          "projects": [
-            "blazing",
-            "capistrano",
-            "dandelion",
-            "debloy",
-            "deprec",
-            "git-deploy",
-            "gofer",
-            "hercules",
-            "heroku",
-            "heroku-rails",
-            "heroku_san",
-            "humidifier-reservoir",
-            "inploy",
-            "instance_selector",
-            "mina",
-            "mpalmer/giddyup",
-            "negroku",
-            "paratrooper",
-            "pulsar",
-            "railsmachine/moonshine",
-            "remi/phd",
-            "rubber",
-            "ruploy",
-            "saizai/superdeploy",
-            "shelly",
-            "vigil",
-            "vlad",
-            "whiskey_disk"
-          ],
-          "permalink": "deployment_automation"
-        },
-        {
-          "name": "System Provisioning",
-          "description": null,
-          "projects": [
-            "automateit",
-            "babushka",
-            "benschwarz/passenger-stack",
-            "boris",
-            "chef",
-            "knife-esx",
-            "puppet",
-            "rudy",
-            "sprinkle",
-            "supply_drop",
-            "teleport",
-            "vagrant"
-          ],
-          "permalink": "systems_integration"
-        },
-        {
-          "name": "Web servers",
-          "description": null,
-          "projects": [
-            "agoo",
-            "ebb",
-            "hoof",
-            "iodine",
-            "mongrel",
-            "mongrel2",
-            "passenger",
-            "puma",
-            "skinny",
-            "thin",
-            "trinidad",
-            "unicorn",
-            "yarn"
-          ],
-          "permalink": "web_servers"
-        }
-      ],
-      "description": null,
-      "name": "Provision, Deploy & Host",
-      "permalink": "Provision_Deploy_Host"
-    },
-    {
-      "categories": [
-        {
-          "name": "Rails Activity Feeds",
-          "description": null,
-          "projects": [
-            "chalk_dust",
-            "my_feeds",
-            "parolkar/pfeed",
-            "public_activity",
-            "streama",
-            "timeline_fu",
-            "unread"
-          ],
-          "permalink": "Rails_Activity_Feeds"
-        },
-        {
-          "name": "Rails Class Diagrams",
-          "description": null,
-          "projects": [
-            "railroady",
-            "rails-erd"
-          ],
-          "permalink": "Rails_Class_Diagrams"
-        },
-        {
-          "name": "Recommendation Engines",
-          "description": null,
-          "projects": [
-            "coletivo",
-            "recommendable",
-            "recommendify",
-            "similus",
-            "slope_one"
-          ],
-          "permalink": "Recommendation_Engines"
-        },
-        {
-          "name": "Reputation Engines",
-          "description": null,
-          "projects": [
-            "activerecord-reputation-system",
-            "badginator",
-            "honor",
-            "merit",
-            "recognition",
-            "reputation"
-          ],
-          "permalink": "Reputation_Engines"
-        },
-        {
-          "name": "User Messaging Systems",
-          "description": null,
-          "projects": [
-            "acts-as-messageable",
-            "cacheable_flash",
-            "discuss",
-            "frodefi/rails-messaging",
-            "growlyflash",
-            "inboxes",
-            "mailboxer",
-            "maktoub"
-          ],
-          "permalink": "User_Messaging_Systems"
-        },
-        {
-          "name": "Rails Admin Interfaces",
-          "description": null,
-          "projects": [
-            "ab_admin",
-            "active_scaffold",
-            "activeadmin",
-            "admin_assistant",
-            "admin_data",
-            "admin_interface",
-            "administrate",
-            "commondream/control_center",
-            "dry_crud",
-            "fullstack-admin",
-            "inline_forms",
-            "lipsiadmin",
-            "puffer",
-            "qadmin",
-            "rails_admin",
-            "relevance/streamlined",
-            "trestle",
-            "typus"
-          ],
-          "permalink": "rails_admin_interfaces"
-        },
-        {
-          "name": "Rails App Templates",
-          "description": null,
-          "projects": [
-            "appscrolls",
-            "appsta",
-            "cybele",
-            "ffmike/BigOldRailsTemplate",
-            "iboard/CBA",
-            "icebreaker",
-            "imajes/rails-template",
-            "jm/rails-templates",
-            "prologue",
-            "rails_apps_composer",
-            "rails_templater",
-            "RailsApps/rails3-application-templates",
-            "suspenders",
-            "thesilverspoon"
-          ],
-          "permalink": "rails_app_templates"
-        },
-        {
-          "name": "Rails Extensions",
-          "description": "Extensions and Add-ons for the Ruby-on-Rails web-application framework",
-          "projects": [
-            "rearmed_rails"
-          ],
-          "permalink": "rails_extensions"
-        },
-        {
-          "name": "Rails File Uploads",
-          "description": null,
-          "projects": [
-            "attached",
-            "carrierwave",
-            "dragonfly",
-            "fileclip",
-            "fileuploader-rails",
-            "imagery",
-            "jquery.fileupload-rails",
-            "paperclip",
-            "papermill",
-            "refile",
-            "shrine",
-            "simple-image-uploader",
-            "technoweenie/attachment_fu"
-          ],
-          "permalink": "rails_file_uploads"
-        },
-        {
-          "name": "Rails Permalinks & Slugs",
-          "description": null,
-          "projects": [
-            "acts_as_param",
-            "babosa",
-            "canonical-rails",
-            "find_by_param",
-            "friendly_id",
-            "has_permalink",
-            "has_slug",
-            "ismasan/sluggable-finder",
-            "ludo/to_slug",
-            "norbauer/salty_slugs",
-            "obfuscate_id",
-            "permalink_fu",
-            "slug",
-            "slugged",
-            "stringex"
-          ],
-          "permalink": "rails_permalinks___slugs"
-        },
-        {
-          "name": "Rails Presenters",
-          "description": null,
-          "projects": [
-            "action_presenter",
-            "active_decorator",
-            "active_presenter",
-            "apotomo",
-            "cells",
-            "classic_presenter",
-            "delegate_presenter",
-            "display_case",
-            "draper",
-            "garnish",
-            "komponent",
-            "rails_presenter",
-            "resubject",
-            "view_models",
-            "viewtastic"
-          ],
-          "permalink": "rails_presenters"
-        },
-        {
-          "name": "Rails Subdomains",
-          "description": null,
-          "projects": [
-            "jfernandez/submarine",
-            "shuber/subdomain_account",
-            "sso_what",
-            "subdomain-fu",
-            "subdomain_routes"
-          ],
-          "permalink": "rails_subdomains"
-        },
-        {
-          "name": "State Machines",
-          "description": null,
-          "projects": [
-            "aasm",
-            "alter-ego",
-            "finite_machine",
-            "golem_statemachine",
-            "micromachine",
-            "ruote",
-            "simple_state_machine",
-            "simple_states",
-            "stamina",
-            "state-fu",
-            "state_machine",
-            "state_machines",
-            "state_objects",
-            "stateflow",
-            "status-manager",
-            "transitions",
-            "workflow"
-          ],
-          "permalink": "state_machines"
-        }
-      ],
-      "description": null,
-      "name": "Rails Plugins",
-      "permalink": "Rails_Plugins"
-    },
-    {
-      "categories": [
-        {
-          "name": "Encryption",
-          "description": null,
-          "projects": [
-            "attr_encrypted",
-            "crypt_keeper",
-            "encrypted_strings",
-            "jamesotron/Lockbox",
-            "jmckible/lucifer",
-            "miscreant",
-            "mongoid-encrypted-fields",
-            "pkcs11",
-            "rbnacl",
-            "sentry",
-            "strongbox",
-            "symmetric-encryption"
-          ],
-          "permalink": "encryption"
-        },
-        {
-          "name": "JSON Web Tokens (JWTs)",
-          "description": null,
-          "projects": [
-            "json-jwt",
-            "json_web_token",
-            "jwt"
-          ],
-          "permalink": "jwt"
-        },
-        {
-          "name": "LDAP",
-          "description": null,
-          "projects": [
-            "binarylogic/authlogic_ldap",
-            "devise_ldap_authenticatable",
-            "net-ldap",
-            "omniauth-ldap",
-            "ruby-activeldap",
-            "ruby-net-ldap",
-            "simple_ldap_authenticator",
-            "treequel",
-            "tsaleh/ldap-activerecord-gateway"
-          ],
-          "permalink": "ldap"
-        },
-        {
-          "name": "Rails Authentication",
-          "description": null,
-          "projects": [
-            "adauth",
-            "authlogic",
-            "authorizme",
-            "clearance",
-            "current_user",
-            "cz_auth",
-            "devise",
-            "devise_oauth2_providable",
-            "doorkeeper",
-            "envylabs/BlueLightSpecial",
-            "letmein",
-            "monban",
-            "omniauth",
-            "rack-cas",
-            "rpx_now",
-            "sorcery",
-            "switch_user",
-            "technoweenie/restful-authentication",
-            "userbin"
-          ],
-          "permalink": "rails_authentication"
-        },
-        {
-          "name": "Rails Authorization",
-          "description": null,
-          "projects": [
-            "10to1/roleify",
-            "access-granted",
-            "acl9",
-            "action_policy",
-            "aegis",
-            "allowy",
-            "authority",
-            "baldwindavid/padlock_authorization",
-            "canable",
-            "canard",
-            "cancan",
-            "cancancan",
-            "cantango",
-            "consul",
-            "cream",
-            "declarative_authorization",
-            "easy_roles",
-            "moulin_rouge",
-            "pundit",
-            "rails-auth",
-            "rend-acl",
-            "restful_acl",
-            "role_model",
-            "roleable",
-            "rolify",
-            "six",
-            "the_role",
-            "timcharper/role_requirement",
-            "trust",
-            "walruz"
-          ],
-          "permalink": "rails_authorization"
-        },
-        {
-          "name": "Rails Captcha",
-          "description": null,
-          "projects": [
-            "acts_as_textcaptcha",
-            "captcha",
-            "galetahub-simple_captcha",
-            "gotcha",
-            "humanizer",
-            "jike_captcha",
-            "macarthy/simple-captcha-mirror",
-            "recaptcha",
-            "rsanheim/brain_buster",
-            "subwindow/negative-captcha"
-          ],
-          "permalink": "rails_captcha"
-        },
-        {
-          "name": "Security Tools",
-          "description": null,
-          "projects": [
-            "active_model_otp",
-            "alpaca",
-            "brakeman",
-            "codesake-dawn",
-            "loofah",
-            "look/xss_terminate",
-            "mhartl/find_mass_assignment",
-            "param_protected",
-            "rails_xss",
-            "ryanlowe/audit_mass_assignment",
-            "shellex",
-            "sudo_attributes",
-            "tarantula",
-            "wwidea/cross_site_sniper"
-          ],
-          "permalink": "security_tools"
-        },
-        {
-          "name": "Spam Detection",
-          "description": null,
-          "projects": [
-            "akismetor",
-            "defender",
-            "defensio/defensio-ruby",
-            "mattapayne/rdefensio",
-            "rakismet",
-            "viking"
-          ],
-          "permalink": "spam_detection"
-        }
-      ],
-      "description": null,
-      "name": "Security",
-      "permalink": "Security"
-    },
-    {
-      "categories": [
-        {
-          "name": "A/B Testing",
-          "description": null,
-          "projects": [
-            "abingo",
-            "abingo_port",
-            "absurdity",
-            "bandit",
-            "fluidfeatures",
-            "fluidfeatures-rails",
-            "paulmars/seven_minute_abs",
-            "split",
-            "validation_issues",
-            "vanity"
-          ],
-          "permalink": "A_B_Testing"
-        },
-        {
-          "name": "Acceptance Test Frameworks",
-          "description": null,
-          "projects": [
-            "bewildr",
-            "coulda",
-            "cucumber",
-            "filet",
-            "mountain_berry_fields",
-            "saki",
-            "spinach",
-            "steak",
-            "stella",
-            "stories",
-            "turnip",
-            "unencumbered"
-          ],
-          "permalink": "Acceptance_Test_Frameworks"
-        },
-        {
-          "name": "Cucumber Steps",
-          "description": null,
-          "projects": [
-            "aruba",
-            "cucumber-farmer",
-            "cucumber_factory",
-            "email_spec",
-            "macros4cuke",
-            "mundo-pepino",
-            "pickle"
-          ],
-          "permalink": "Cucumber_Steps"
-        },
-        {
-          "name": "Cucumber Tools",
-          "description": null,
-          "projects": [
-            "cql",
-            "cucover",
-            "cucumber-in-the-yard",
-            "cucumber-nagios",
-            "cucumber-pride",
-            "cucumber-screenshot",
-            "cucumber-sinatra",
-            "cucumberator",
-            "cuke_cataloger",
-            "cuke_modeler",
-            "cuke_sniffer",
-            "cukesparse",
-            "cuporter",
-            "gherkin_lint",
-            "stepdown",
-            "viewcumber",
-            "yard-cucumber"
-          ],
-          "permalink": "Cucumber_Tools"
-        },
-        {
-          "name": "Test::Unit Extensions",
-          "description": null,
-          "projects": [
-            "contest",
-            "jm/context",
-            "pending",
-            "shoulda"
-          ],
-          "permalink": "Test_Unit_Extensions"
-        },
-        {
-          "name": "Testing Rails Engines",
-          "description": null,
-          "projects": [
-            "combustion",
-            "multiengine",
-            "test_engine"
-          ],
-          "permalink": "Testing_Rails_Engines"
-        },
-        {
-          "name": "Browser testing",
-          "description": null,
-          "projects": [
-            "akephalos",
-            "capybara",
-            "capybara-webkit",
-            "celerity",
-            "culerity",
-            "headless",
-            "paytonrules/selenium-on-rails",
-            "polonium",
-            "poltergeist",
-            "selenium-client",
-            "selenium-webdriver",
-            "site_prism",
-            "tooth",
-            "watir",
-            "watir-webdriver",
-            "webrat"
-          ],
-          "permalink": "browser_testing"
-        },
-        {
-          "name": "Continuous Testing",
-          "description": null,
-          "projects": [
-            "autotest",
-            "autotest-fsevent",
-            "autotest-growl",
-            "guard",
-            "guard-rspec",
-            "infinity_test",
-            "kicker",
-            "rack-livereload",
-            "tconsole",
-            "tork",
-            "watchr",
-            "ZenTest"
-          ],
-          "permalink": "continuous_testing"
-        },
-        {
-          "name": "Distributed Testing",
-          "description": null,
-          "projects": [
-            "aslakhellesoy/rspec-distributed",
-            "brynary/testjour",
-            "hydra",
-            "parallel_tests",
-            "qxjit/deep-test",
-            "specjour",
-            "spin",
-            "spork",
-            "spring",
-            "test-queue",
-            "testbot",
-            "zeus",
-            "zeus-parallel_tests"
-          ],
-          "permalink": "distributed_testing"
-        },
-        {
-          "name": "Mocking",
-          "description": null,
-          "projects": [
-            "bogus",
-            "cross-stub",
-            "facon",
-            "flexmock",
-            "jm/stump",
-            "mocha",
-            "mock_redis",
-            "mocoso",
-            "rr",
-            "rspec-mocks",
-            "simple_mock",
-            "spy",
-            "surrogate",
-            "verified_double"
-          ],
-          "permalink": "mocking"
-        },
-        {
-          "name": "Mocking Web Requests",
-          "description": null,
-          "projects": [
-            "appendto/jquery-mockjax",
-            "artifice",
-            "fakeweb",
-            "mockjax",
-            "mocktra",
-            "netrecorder",
-            "rest-assured",
-            "sonar",
-            "stale_fish",
-            "vcr",
-            "webmock"
-          ],
-          "permalink": "mocking_web_requests"
-        },
-        {
-          "name": "Rails Fixture Replacement",
-          "description": null,
-          "projects": [
-            "blueprints",
-            "dm-sweatshop",
-            "fabrication",
-            "factory_girl",
-            "fixjour",
-            "fixture_builder",
-            "fixture_replacement",
-            "machinist",
-            "miniskirt",
-            "object_daddy",
-            "seedomatic",
-            "sham",
-            "spawn",
-            "transactionata"
-          ],
-          "permalink": "rails_fixture_replacement"
-        },
-        {
-          "name": "Random Data Generation",
-          "description": null,
-          "projects": [
-            "cheap_random",
-            "data-anonymization",
-            "faker",
-            "ffaker",
-            "forgery",
-            "randexp",
-            "random_data"
-          ],
-          "permalink": "random_data_generation"
-        },
-        {
-          "name": "Unit Test Frameworks",
-          "description": null,
-          "projects": [
-            "assert",
-            "bacon",
-            "detest",
-            "dtf",
-            "fix",
-            "kintama",
-            "lemon",
-            "micronaut",
-            "minitest",
-            "riot",
-            "rspec",
-            "rubydoctest",
-            "shindo",
-            "test-unit",
-            "test_inline",
-            "testrocket",
-            "testy",
-            "wrong"
-          ],
-          "permalink": "testing_frameworks"
-        },
-        {
-          "name": "Time Warping",
-          "description": null,
-          "projects": [
-            "delorean",
-            "quantum_leap",
-            "time-warp",
-            "time-zone-warp",
-            "time_travel",
-            "timecop"
-          ],
-          "permalink": "time_warping"
-        }
-      ],
-      "description": null,
-      "name": "Testing",
-      "permalink": "Testing"
-    },
-    {
-      "categories": [
-        {
-          "name": "Natural Language Date Parsing",
-          "description": null,
-          "projects": [
-            "chronic",
-            "chronic_between",
-            "chronic_duration",
-            "kronic",
-            "nickel",
-            "text_parser",
-            "tickle"
-          ],
-          "permalink": "Natural_Language_Date_Parsing"
-        },
-        {
-          "name": "Calendars",
-          "description": null,
-          "projects": [
-            "calendar_helper",
-            "calendrier",
-            "event_cal",
-            "event_calendar",
-            "fnando/has_calendar",
-            "icalendar",
-            "later_dude",
-            "namxam/weekly_builder",
-            "ri_cal",
-            "selene"
-          ],
-          "permalink": "calendars"
-        },
-        {
-          "name": "Geocoding & Maps",
-          "description": null,
-          "projects": [
-            "activerecord-postgis-adapter",
-            "acts_as_geocodable",
-            "address_standardization",
-            "autometal-geoip",
-            "cartographie",
-            "gdal",
-            "gdal-helper",
-            "geocoder",
-            "geokit",
-            "geokit-rails",
-            "GeoRuby",
-            "georuby",
-            "georuby-ext",
-            "georuby_box",
-            "georuby_remake",
-            "gmaps4rails",
-            "graticule",
-            "leaflet-rails",
-            "map_layers",
-            "mongoid_geospatial",
-            "nofxx-georuby",
-            "parolkar/geo_mere_laal",
-            "postgis_adapter",
-            "ppe-georuby",
-            "queso/ym4r-gm",
-            "rgdal",
-            "rgeo"
-          ],
-          "permalink": "geocoding___maps"
-        },
-        {
-          "name": "I18n",
-          "description": null,
-          "projects": [
-            "activerecord_translatable",
-            "ai/r18n",
-            "c3po",
-            "copycopter_client",
-            "delocalize",
-            "dylanz/i18n_backend_database",
-            "fast_gettext",
-            "globalize",
-            "globalize-accessors",
-            "globalize2",
-            "globalize3",
-            "has_translations",
-            "http_accept_language",
-            "human_attribute",
-            "i15r",
-            "i18n",
-            "i18n-inflector-rails",
-            "i18n-js",
-            "i18n-tasks",
-            "i18n_auto_scoping",
-            "i18n_routing",
-            "it",
-            "locale_detector",
-            "localeapp",
-            "model_translations",
-            "mongo-i18n",
-            "mongoid_translate",
-            "numbers_and_words",
-            "phrase",
-            "pig_latin",
-            "puret",
-            "rack-i18n_routes",
-            "rack-locale_chooser",
-            "rack-user-locale",
-            "rails-i18nterface",
-            "rails-translate-models",
-            "rails_locale_detection",
-            "raul/translate_routes",
-            "ready_for_i18n",
-            "route_translator",
-            "talk_like_a_pirate",
-            "to_lang",
-            "tr8n",
-            "traduction"
-          ],
-          "permalink": "i18n"
-        },
-        {
-          "name": "Recurring Events",
-          "description": null,
-          "projects": [
-            "angelic/schedule_fu",
-            "ice_cube",
-            "jhubert/ruby-date-recur",
-            "jruby-rfc2445",
-            "kjwierenga/ical-scheduler",
-            "montrose",
-            "nickstenning/recurring_event",
-            "recurrence",
-            "recurring",
-            "runt"
-          ],
-          "permalink": "recurring_events"
-        }
-      ],
-      "description": null,
-      "name": "Time & Space",
-      "permalink": "Time_Space"
-    },
-    {
-      "categories": [
-        {
-          "name": "API Builders",
-          "description": null,
-          "projects": [
-            "active_model_serializers",
-            "acts_as_api",
-            "api-versions",
-            "apiary",
-            "bldr",
-            "fast_jsonapi",
-            "grape",
-            "jbuilder",
-            "rabl",
-            "representable",
-            "roar",
-            "rocket_pants",
-            "roy",
-            "surrealist",
-            "versioncake",
-            "versionist",
-            "windsor",
-            "xmlrpc-rack_server"
-          ],
-          "permalink": "API_Builders"
-        },
-        {
-          "name": "HTTP Pub/Sub",
-          "description": null,
-          "projects": [
-            "actioncable",
-            "anycable",
-            "danthes",
-            "em-websocket",
-            "faye",
-            "faye-rails",
-            "iodine",
-            "libwebsocket",
-            "litecable",
-            "private_pub",
-            "socky-server",
-            "websocket",
-            "websocket-rack"
-          ],
-          "permalink": "HTTP_Pub_Sub"
-        },
-        {
-          "name": "JSON Parsers",
-          "description": "JSON parsers convert data serialized in the popular JSON data exchange format to and from Ruby objects",
-          "projects": [
-            "crack",
-            "json",
-            "json-jruby",
-            "json_pure",
-            "multi_json",
-            "oj",
-            "yajl-ruby"
-          ],
-          "permalink": "JSON_Parsers"
-        },
-        {
-          "name": "Multitenancy",
-          "description": null,
-          "projects": [
-            "activerecord-connections",
-            "acts_as_tenant",
-            "apartment",
-            "consolo/acts_as_restricted_subdomain",
-            "milia",
-            "multitenant",
-            "multitenant-mysql",
-            "multitenant-pg",
-            "whitelabel"
-          ],
-          "permalink": "Multitenancy"
-        },
-        {
-          "name": "URL Rewriting",
-          "description": null,
-          "projects": [
-            "desviar",
-            "rack-rewrite",
-            "redirect",
-            "refraction"
-          ],
-          "permalink": "URL_Rewriting"
-        },
-        {
-          "name": "User Agent Detection",
-          "description": null,
-          "projects": [
-            "active_device",
-            "agent_orange",
-            "browser",
-            "browsernizer",
-            "device_detector",
-            "divining_rod",
-            "is_it_mobile",
-            "mobvious",
-            "mobylette",
-            "rack-useragent-filter",
-            "user-agent",
-            "user_agent_parser",
-            "useragent"
-          ],
-          "permalink": "User_Agent_Detection"
-        },
         {
           "name": "Web Analytics",
           "description": null,
@@ -3299,27 +2080,6 @@
             "yaga"
           ],
           "permalink": "Web_Analytics"
-        },
-        {
-          "name": "Web Content Scrapers",
-          "description": null,
-          "projects": [
-            "anemone",
-            "arachnid2",
-            "cobweb",
-            "data_miner",
-            "docparser",
-            "fletcher",
-            "horsefield",
-            "link_thumbnailer",
-            "metainspector",
-            "pismo",
-            "sinew",
-            "url_scraper",
-            "wiki-api",
-            "wombat"
-          ],
-          "permalink": "Web_Content_Scrapers"
         },
         {
           "name": "API Clients",
@@ -3415,6 +2175,133 @@
           "permalink": "api_clients"
         },
         {
+          "name": "Multitenancy",
+          "description": null,
+          "projects": [
+            "activerecord-connections",
+            "acts_as_tenant",
+            "apartment",
+            "consolo/acts_as_restricted_subdomain",
+            "milia",
+            "multitenant",
+            "multitenant-mysql",
+            "multitenant-pg",
+            "whitelabel"
+          ],
+          "permalink": "Multitenancy"
+        },
+        {
+          "name": "Web App Frameworks",
+          "description": "Software Frameworks that are designed to support the development of web applications including web services, web resources, and web APIs",
+          "projects": [
+            "bats",
+            "camping",
+            "cramp",
+            "cuba",
+            "e",
+            "gin",
+            "hanami",
+            "harbor",
+            "hobo",
+            "lattice",
+            "marley",
+            "merb-core",
+            "padrino",
+            "pakyow",
+            "plezi",
+            "rack",
+            "rails",
+            "ramaze",
+            "rango",
+            "raptor",
+            "renee",
+            "scorched",
+            "sinatra",
+            "strelka",
+            "vanilla"
+          ],
+          "permalink": "web_app_frameworks"
+        },
+        {
+          "name": "HTTP Pub/Sub",
+          "description": null,
+          "projects": [
+            "actioncable",
+            "anycable",
+            "danthes",
+            "em-websocket",
+            "faye",
+            "faye-rails",
+            "iodine",
+            "libwebsocket",
+            "litecable",
+            "private_pub",
+            "socky-server",
+            "websocket",
+            "websocket-rack"
+          ],
+          "permalink": "HTTP_Pub_Sub"
+        },
+        {
+          "name": "JSON Parsers",
+          "description": "JSON parsers convert data serialized in the popular JSON data exchange format to and from Ruby objects",
+          "projects": [
+            "crack",
+            "json",
+            "json-jruby",
+            "json_pure",
+            "multi_json",
+            "oj",
+            "yajl-ruby"
+          ],
+          "permalink": "JSON_Parsers"
+        },
+        {
+          "name": "API Builders",
+          "description": null,
+          "projects": [
+            "active_model_serializers",
+            "acts_as_api",
+            "api-versions",
+            "apiary",
+            "bldr",
+            "fast_jsonapi",
+            "grape",
+            "jbuilder",
+            "rabl",
+            "representable",
+            "roar",
+            "rocket_pants",
+            "roy",
+            "surrealist",
+            "versioncake",
+            "versionist",
+            "windsor",
+            "xmlrpc-rack_server"
+          ],
+          "permalink": "API_Builders"
+        },
+        {
+          "name": "User Agent Detection",
+          "description": null,
+          "projects": [
+            "active_device",
+            "agent_orange",
+            "browser",
+            "browsernizer",
+            "device_detector",
+            "divining_rod",
+            "is_it_mobile",
+            "mobvious",
+            "mobylette",
+            "rack-useragent-filter",
+            "user-agent",
+            "user_agent_parser",
+            "useragent"
+          ],
+          "permalink": "User_Agent_Detection"
+        },
+        {
           "name": "Atom & RSS Feed Parsing",
           "description": null,
           "projects": [
@@ -3439,6 +2326,94 @@
             "syndication"
           ],
           "permalink": "feed_parsing"
+        },
+        {
+          "name": "Social Network Builders",
+          "description": null,
+          "projects": [
+            "acts_as_follower",
+            "acts_as_friendable",
+            "amico",
+            "bborn/communityengine",
+            "has_many_friends",
+            "inkwell",
+            "insoshi/insoshi",
+            "leaderboard",
+            "likeable",
+            "omnicontacts",
+            "parolkar/has_profile_items",
+            "sjlombardo/acts_as_network",
+            "social_stream",
+            "socialization",
+            "stevenbristol/lovd-by-less",
+            "timothyf/enginey"
+          ],
+          "permalink": "social_networking"
+        },
+        {
+          "name": "XML Mapping",
+          "description": null,
+          "projects": [
+            "data_active",
+            "gyoku",
+            "happymapper",
+            "nokogiri-happymapper",
+            "nori",
+            "representative",
+            "roxml",
+            "sax-machine",
+            "sax_stream",
+            "saxerator",
+            "saxy",
+            "sxrb",
+            "xml-fu",
+            "xml-mapping",
+            "xml_active"
+          ],
+          "permalink": "xml_mapping"
+        },
+        {
+          "name": "URL Rewriting",
+          "description": null,
+          "projects": [
+            "desviar",
+            "rack-rewrite",
+            "redirect",
+            "refraction"
+          ],
+          "permalink": "URL_Rewriting"
+        },
+        {
+          "name": "SOAP Clients",
+          "description": null,
+          "projects": [
+            "handsoap",
+            "lolsoap",
+            "savon",
+            "serviceproxy"
+          ],
+          "permalink": "soap"
+        },
+        {
+          "name": "Web Content Scrapers",
+          "description": null,
+          "projects": [
+            "anemone",
+            "arachnid2",
+            "cobweb",
+            "data_miner",
+            "docparser",
+            "fletcher",
+            "horsefield",
+            "link_thumbnailer",
+            "metainspector",
+            "pismo",
+            "sinew",
+            "url_scraper",
+            "wiki-api",
+            "wombat"
+          ],
+          "permalink": "Web_Content_Scrapers"
         },
         {
           "name": "HTML parsing",
@@ -3515,99 +2490,1124 @@
             "toast"
           ],
           "permalink": "rails_controller_abstractions"
-        },
-        {
-          "name": "SOAP Clients",
-          "description": null,
-          "projects": [
-            "handsoap",
-            "lolsoap",
-            "savon",
-            "serviceproxy"
-          ],
-          "permalink": "soap"
-        },
-        {
-          "name": "Social Network Builders",
-          "description": null,
-          "projects": [
-            "acts_as_follower",
-            "acts_as_friendable",
-            "amico",
-            "bborn/communityengine",
-            "has_many_friends",
-            "inkwell",
-            "insoshi/insoshi",
-            "leaderboard",
-            "likeable",
-            "omnicontacts",
-            "parolkar/has_profile_items",
-            "sjlombardo/acts_as_network",
-            "social_stream",
-            "socialization",
-            "stevenbristol/lovd-by-less",
-            "timothyf/enginey"
-          ],
-          "permalink": "social_networking"
-        },
-        {
-          "name": "Web App Frameworks",
-          "description": "Software Frameworks that are designed to support the development of web applications including web services, web resources, and web APIs",
-          "projects": [
-            "bats",
-            "camping",
-            "cramp",
-            "cuba",
-            "e",
-            "gin",
-            "hanami",
-            "harbor",
-            "hobo",
-            "lattice",
-            "marley",
-            "merb-core",
-            "padrino",
-            "pakyow",
-            "plezi",
-            "rack",
-            "rails",
-            "ramaze",
-            "rango",
-            "raptor",
-            "renee",
-            "scorched",
-            "sinatra",
-            "strelka",
-            "vanilla"
-          ],
-          "permalink": "web_app_frameworks"
-        },
-        {
-          "name": "XML Mapping",
-          "description": null,
-          "projects": [
-            "data_active",
-            "gyoku",
-            "happymapper",
-            "nokogiri-happymapper",
-            "nori",
-            "representative",
-            "roxml",
-            "sax-machine",
-            "sax_stream",
-            "saxerator",
-            "saxy",
-            "sxrb",
-            "xml-fu",
-            "xml-mapping",
-            "xml_active"
-          ],
-          "permalink": "xml_mapping"
         }
       ],
       "description": null,
       "name": "Web Apps, Services & Interaction",
       "permalink": "Web_Apps_Services_Interaction"
+    },
+    {
+      "categories": [
+        {
+          "name": "CRM Apps",
+          "description": null,
+          "projects": [
+            "alchemy_crm",
+            "brobertsaz/railscrm",
+            "djcp/cohort",
+            "fat_free_crm",
+            "myitcrm/myitcrm2",
+            "nutshell-crm",
+            "thomasn/forgetmenot"
+          ],
+          "permalink": "crm_apps"
+        },
+        {
+          "name": "Exchange Clients",
+          "description": null,
+          "projects": [
+            "ews-api",
+            "exchanger",
+            "rews",
+            "rexchange",
+            "viewpoint"
+          ],
+          "permalink": "Exchange_Clients"
+        },
+        {
+          "name": "Inline CSS for E-Mail",
+          "description": null,
+          "projects": [
+            "actionmailer_inline_css",
+            "incurve",
+            "inline-style",
+            "inline_styles",
+            "inline_styles_mailer",
+            "mail_style",
+            "packrat",
+            "premailer",
+            "premailer-rails3",
+            "roadie"
+          ],
+          "permalink": "Inline_CSS_for_E-Mail"
+        },
+        {
+          "name": "Asynchronous E-Mail",
+          "description": null,
+          "projects": [
+            "jusnavigandi/mail_queue",
+            "mailhopper",
+            "popthis",
+            "resque_mail_queue",
+            "resque_mailer"
+          ],
+          "permalink": "Asynchronous_E-Mail"
+        },
+        {
+          "name": "IRC Bots",
+          "description": null,
+          "projects": [
+            "autumn",
+            "cinch",
+            "cogbot",
+            "craigw/sprinkles",
+            "em-irc",
+            "gifbot",
+            "irc-qik-bot",
+            "isaac",
+            "lita-irc",
+            "ponder",
+            "radar/summer",
+            "rbot"
+          ],
+          "permalink": "irc_bots"
+        },
+        {
+          "name": "E-Mail Sending",
+          "description": null,
+          "projects": [
+            "actionmailer",
+            "capistrano_mailer",
+            "mail",
+            "mailit",
+            "pony",
+            "sendgrid-rails",
+            "tmail"
+          ],
+          "permalink": "e_mail"
+        },
+        {
+          "name": "Forum Systems",
+          "description": null,
+          "projects": [
+            "forem",
+            "forum_monster",
+            "jonthewayne/altered_beast",
+            "thredded"
+          ],
+          "permalink": "forum_systems"
+        },
+        {
+          "name": "E-Mail Processing",
+          "description": null,
+          "projects": [
+            "griddler",
+            "look/fetcher",
+            "mail_room",
+            "mailman",
+            "newman",
+            "siannopollo/mail_fetcher",
+            "sortah",
+            "tinnef"
+          ],
+          "permalink": "e_mail_processing"
+        },
+        {
+          "name": "E-Mail Preview",
+          "description": null,
+          "projects": [
+            "letter_opener",
+            "mail_view",
+            "mailcatcher",
+            "post_office",
+            "rails_email_preview",
+            "sanitize_email"
+          ],
+          "permalink": "EMail_Fake_Servers"
+        }
+      ],
+      "description": null,
+      "name": "Communication",
+      "permalink": "Communication"
+    },
+    {
+      "categories": [
+        {
+          "name": "I18n",
+          "description": null,
+          "projects": [
+            "activerecord_translatable",
+            "ai/r18n",
+            "c3po",
+            "copycopter_client",
+            "delocalize",
+            "dylanz/i18n_backend_database",
+            "fast_gettext",
+            "globalize",
+            "globalize-accessors",
+            "globalize2",
+            "globalize3",
+            "has_translations",
+            "http_accept_language",
+            "human_attribute",
+            "i15r",
+            "i18n",
+            "i18n-inflector-rails",
+            "i18n-js",
+            "i18n-tasks",
+            "i18n_auto_scoping",
+            "i18n_routing",
+            "it",
+            "locale_detector",
+            "localeapp",
+            "model_translations",
+            "mongo-i18n",
+            "mongoid_translate",
+            "numbers_and_words",
+            "phrase",
+            "pig_latin",
+            "puret",
+            "rack-i18n_routes",
+            "rack-locale_chooser",
+            "rack-user-locale",
+            "rails-i18nterface",
+            "rails-translate-models",
+            "rails_locale_detection",
+            "raul/translate_routes",
+            "ready_for_i18n",
+            "route_translator",
+            "talk_like_a_pirate",
+            "to_lang",
+            "tr8n",
+            "traduction"
+          ],
+          "permalink": "i18n"
+        },
+        {
+          "name": "Geocoding & Maps",
+          "description": null,
+          "projects": [
+            "activerecord-postgis-adapter",
+            "acts_as_geocodable",
+            "address_standardization",
+            "autometal-geoip",
+            "cartographie",
+            "gdal",
+            "gdal-helper",
+            "geocoder",
+            "geokit",
+            "geokit-rails",
+            "GeoRuby",
+            "georuby",
+            "georuby-ext",
+            "georuby_box",
+            "georuby_remake",
+            "gmaps4rails",
+            "graticule",
+            "leaflet-rails",
+            "map_layers",
+            "mongoid_geospatial",
+            "nofxx-georuby",
+            "parolkar/geo_mere_laal",
+            "postgis_adapter",
+            "ppe-georuby",
+            "queso/ym4r-gm",
+            "rgdal",
+            "rgeo"
+          ],
+          "permalink": "geocoding___maps"
+        },
+        {
+          "name": "Recurring Events",
+          "description": null,
+          "projects": [
+            "angelic/schedule_fu",
+            "ice_cube",
+            "jhubert/ruby-date-recur",
+            "jruby-rfc2445",
+            "kjwierenga/ical-scheduler",
+            "montrose",
+            "nickstenning/recurring_event",
+            "recurrence",
+            "recurring",
+            "runt"
+          ],
+          "permalink": "recurring_events"
+        },
+        {
+          "name": "Calendars",
+          "description": null,
+          "projects": [
+            "calendar_helper",
+            "calendrier",
+            "event_cal",
+            "event_calendar",
+            "fnando/has_calendar",
+            "icalendar",
+            "later_dude",
+            "namxam/weekly_builder",
+            "ri_cal",
+            "selene"
+          ],
+          "permalink": "calendars"
+        },
+        {
+          "name": "Natural Language Date Parsing",
+          "description": null,
+          "projects": [
+            "chronic",
+            "chronic_between",
+            "chronic_duration",
+            "kronic",
+            "nickel",
+            "text_parser",
+            "tickle"
+          ],
+          "permalink": "Natural_Language_Date_Parsing"
+        }
+      ],
+      "description": null,
+      "name": "Time & Space",
+      "permalink": "Time_Space"
+    },
+    {
+      "categories": [
+        {
+          "name": "PDF Processing",
+          "description": null,
+          "projects": [
+            "pdf-reader",
+            "pdf_info",
+            "poppler",
+            "stevedore"
+          ],
+          "permalink": "PDF_Processing"
+        },
+        {
+          "name": "PDF Generation",
+          "description": null,
+          "projects": [
+            "acts_as_flying_saucer",
+            "breezy_pdf",
+            "breezy_pdf_lite",
+            "combine_pdf",
+            "doc_raptor",
+            "gambas",
+            "gimli",
+            "invoice_printer",
+            "kitabu",
+            "pdfkit",
+            "poppler",
+            "prawn",
+            "prawn-rails",
+            "prawnto",
+            "prawnto_2",
+            "princely",
+            "rghost",
+            "rtex",
+            "shrimp",
+            "wicked_pdf",
+            "wisepdf",
+            "wkhtmltopdf"
+          ],
+          "permalink": "pdf_generation"
+        },
+        {
+          "name": "Reports & Spreadsheets",
+          "description": null,
+          "projects": [
+            "activeadmin-axlsx",
+            "acts_as_xlsx",
+            "axlsx",
+            "axlsx_rails",
+            "compendium",
+            "dossier",
+            "dynamic_reports",
+            "excel_rails",
+            "gnumeric",
+            "goffice",
+            "google-spreadsheet-ruby",
+            "mk/reports_as_sparkline",
+            "mondrian-olap",
+            "odf-report",
+            "oxcelix",
+            "remote_table",
+            "reportable",
+            "robust_excel_ole",
+            "roo",
+            "rubyXL",
+            "ruport",
+            "schacon/munger",
+            "sheets",
+            "simple_xlsx_writer",
+            "spreadsheet",
+            "spreadsheet_architect",
+            "spreadsheet_report",
+            "statistics",
+            "thinreports",
+            "to_spreadsheet",
+            "workbook",
+            "wrap_excel",
+            "write_xlsx",
+            "write_xlsx_rails"
+          ],
+          "permalink": "reporting"
+        }
+      ],
+      "description": null,
+      "name": "Documents & Reports",
+      "permalink": "Documents_Reports"
+    },
+    {
+      "categories": [
+        {
+          "name": "Documentation Generators",
+          "description": null,
+          "projects": [
+            "annotator",
+            "apipie-rails",
+            "binman",
+            "breakpointer/ajax-rdoc",
+            "doc",
+            "erbook",
+            "hanna",
+            "jeromegn/DocumentUp",
+            "md2man",
+            "rdoc",
+            "rocco",
+            "ronn",
+            "rspec_api_documentation",
+            "sdoc",
+            "yard"
+          ],
+          "permalink": "documentation_tools"
+        },
+        {
+          "name": "Gem Doc Viewers",
+          "description": null,
+          "projects": [
+            "bdoc",
+            "gembox",
+            "imownbey/docbox",
+            "jnewland/sinatra-rubygems"
+          ],
+          "permalink": "gem_doc_viewers"
+        }
+      ],
+      "description": null,
+      "name": "Documentation Tools",
+      "permalink": "Documentation_Tools"
+    },
+    {
+      "categories": [
+        {
+          "name": "Networking Tools",
+          "description": null,
+          "projects": [
+            "ipaddress",
+            "macker",
+            "maxminddb"
+          ],
+          "permalink": "networking_tools"
+        }
+      ],
+      "description": null,
+      "name": "Networking",
+      "permalink": "Networking"
+    },
+    {
+      "categories": [
+        {
+          "name": "Reputation Engines",
+          "description": null,
+          "projects": [
+            "activerecord-reputation-system",
+            "badginator",
+            "honor",
+            "merit",
+            "recognition",
+            "reputation"
+          ],
+          "permalink": "Reputation_Engines"
+        },
+        {
+          "name": "State Machines",
+          "description": null,
+          "projects": [
+            "aasm",
+            "alter-ego",
+            "finite_machine",
+            "golem_statemachine",
+            "micromachine",
+            "ruote",
+            "simple_state_machine",
+            "simple_states",
+            "stamina",
+            "state-fu",
+            "state_machine",
+            "state_machines",
+            "state_objects",
+            "stateflow",
+            "status-manager",
+            "transitions",
+            "workflow"
+          ],
+          "permalink": "state_machines"
+        },
+        {
+          "name": "Rails App Templates",
+          "description": null,
+          "projects": [
+            "appscrolls",
+            "appsta",
+            "cybele",
+            "ffmike/BigOldRailsTemplate",
+            "iboard/CBA",
+            "icebreaker",
+            "imajes/rails-template",
+            "jm/rails-templates",
+            "prologue",
+            "rails_apps_composer",
+            "rails_templater",
+            "RailsApps/rails3-application-templates",
+            "suspenders",
+            "thesilverspoon"
+          ],
+          "permalink": "rails_app_templates"
+        },
+        {
+          "name": "User Messaging Systems",
+          "description": null,
+          "projects": [
+            "acts-as-messageable",
+            "cacheable_flash",
+            "discuss",
+            "frodefi/rails-messaging",
+            "growlyflash",
+            "inboxes",
+            "mailboxer",
+            "maktoub"
+          ],
+          "permalink": "User_Messaging_Systems"
+        },
+        {
+          "name": "Recommendation Engines",
+          "description": null,
+          "projects": [
+            "coletivo",
+            "recommendable",
+            "recommendify",
+            "similus",
+            "slope_one"
+          ],
+          "permalink": "Recommendation_Engines"
+        },
+        {
+          "name": "Rails Subdomains",
+          "description": null,
+          "projects": [
+            "jfernandez/submarine",
+            "shuber/subdomain_account",
+            "sso_what",
+            "subdomain-fu",
+            "subdomain_routes"
+          ],
+          "permalink": "rails_subdomains"
+        },
+        {
+          "name": "Rails Activity Feeds",
+          "description": null,
+          "projects": [
+            "chalk_dust",
+            "my_feeds",
+            "parolkar/pfeed",
+            "public_activity",
+            "streama",
+            "timeline_fu",
+            "unread"
+          ],
+          "permalink": "Rails_Activity_Feeds"
+        },
+        {
+          "name": "Rails Extensions",
+          "description": "Extensions and Add-ons for the Ruby-on-Rails web-application framework",
+          "projects": [
+            "rearmed_rails"
+          ],
+          "permalink": "rails_extensions"
+        },
+        {
+          "name": "Rails Presenters",
+          "description": null,
+          "projects": [
+            "action_presenter",
+            "active_decorator",
+            "active_presenter",
+            "apotomo",
+            "cells",
+            "classic_presenter",
+            "delegate_presenter",
+            "display_case",
+            "draper",
+            "garnish",
+            "komponent",
+            "rails_presenter",
+            "resubject",
+            "view_models",
+            "viewtastic"
+          ],
+          "permalink": "rails_presenters"
+        },
+        {
+          "name": "Rails Class Diagrams",
+          "description": null,
+          "projects": [
+            "railroady",
+            "rails-erd"
+          ],
+          "permalink": "Rails_Class_Diagrams"
+        },
+        {
+          "name": "Rails Admin Interfaces",
+          "description": null,
+          "projects": [
+            "ab_admin",
+            "active_scaffold",
+            "activeadmin",
+            "admin_assistant",
+            "admin_data",
+            "admin_interface",
+            "administrate",
+            "commondream/control_center",
+            "dry_crud",
+            "fullstack-admin",
+            "inline_forms",
+            "lipsiadmin",
+            "puffer",
+            "qadmin",
+            "rails_admin",
+            "relevance/streamlined",
+            "trestle",
+            "typus"
+          ],
+          "permalink": "rails_admin_interfaces"
+        },
+        {
+          "name": "Rails Permalinks & Slugs",
+          "description": null,
+          "projects": [
+            "acts_as_param",
+            "babosa",
+            "canonical-rails",
+            "find_by_param",
+            "friendly_id",
+            "has_permalink",
+            "has_slug",
+            "ismasan/sluggable-finder",
+            "ludo/to_slug",
+            "norbauer/salty_slugs",
+            "obfuscate_id",
+            "permalink_fu",
+            "slug",
+            "slugged",
+            "stringex"
+          ],
+          "permalink": "rails_permalinks___slugs"
+        },
+        {
+          "name": "Rails File Uploads",
+          "description": null,
+          "projects": [
+            "attached",
+            "carrierwave",
+            "dragonfly",
+            "fileclip",
+            "fileuploader-rails",
+            "imagery",
+            "jquery.fileupload-rails",
+            "paperclip",
+            "papermill",
+            "refile",
+            "shrine",
+            "simple-image-uploader",
+            "technoweenie/attachment_fu"
+          ],
+          "permalink": "rails_file_uploads"
+        }
+      ],
+      "description": null,
+      "name": "Rails Plugins",
+      "permalink": "Rails_Plugins"
+    },
+    {
+      "categories": [
+        {
+          "name": "QR Codes",
+          "description": null,
+          "projects": [
+            "pngqr",
+            "qrencoder",
+            "qrscanner",
+            "qrtools",
+            "rqr",
+            "rqrcode",
+            "rqrcode-rails3",
+            "rqrcode_png",
+            "zbar",
+            "zxing"
+          ],
+          "permalink": "QR_Codes"
+        },
+        {
+          "name": "Visualizing Data",
+          "description": null,
+          "projects": [
+            "DmitryBaranovskiy/raphael",
+            "ruby-graphviz",
+            "ruby-processing"
+          ],
+          "permalink": "visualizing_data"
+        },
+        {
+          "name": "Graphing",
+          "description": "Tools to generate graphical representation of data (called charts or graphs)",
+          "projects": [
+            "adamwiggins/rifgraf",
+            "chartkick",
+            "gchart",
+            "gchartrb",
+            "google_visualr",
+            "googlecharts",
+            "graphite-api",
+            "gruff",
+            "highcharts-rails",
+            "michelson/lazy_high_charts",
+            "ofc2",
+            "pullmonkey/open_flash_chart",
+            "rchart",
+            "rdp/ruby_gnuplot",
+            "rubyvis",
+            "rudionrails/google_charts",
+            "scruffy",
+            "seer",
+            "sparklines",
+            "technical_graph",
+            "xaviershay/tufte-graph"
+          ],
+          "permalink": "graphing"
+        },
+        {
+          "name": "Image Processing",
+          "description": null,
+          "projects": [
+            "cairo",
+            "chunky_png",
+            "core_image",
+            "devil",
+            "fabien/im_magick",
+            "image_science",
+            "image_sorcery",
+            "image_squeeze",
+            "magickly",
+            "MIAConverter",
+            "mini_magick",
+            "mojo_magick",
+            "pango",
+            "paperclip-optimizer",
+            "rmagick",
+            "rsvg2",
+            "skeptick"
+          ],
+          "permalink": "image_processing"
+        }
+      ],
+      "description": null,
+      "name": "Graphics",
+      "permalink": "Graphics"
+    },
+    {
+      "categories": [
+        {
+          "name": "JavaScript Tools",
+          "description": null,
+          "projects": [
+            "barista",
+            "coffee-script",
+            "dom_routes",
+            "dynamojs_rails",
+            "gon",
+            "indexable",
+            "jabs",
+            "jake",
+            "juicer",
+            "MadRabbit/frontcompiler",
+            "mousetrap-rails",
+            "NV/js-preprocessor",
+            "opal",
+            "opal-rails",
+            "packr",
+            "paloma",
+            "poke_js",
+            "rack-jquery",
+            "rake-minify",
+            "sprockets",
+            "SrBuj",
+            "uglifier",
+            "vendorer",
+            "webpacker",
+            "wiselinks"
+          ],
+          "permalink": "javascript_tools"
+        },
+        {
+          "name": "Rails In-Place Editing",
+          "description": null,
+          "projects": [
+            "amerine/in_place_editing",
+            "best_in_place",
+            "best_in_place_mongoid",
+            "best_in_placeish",
+            "flvorful/super_inplace_controls",
+            "janv/rest_in_place",
+            "jeditable-rails",
+            "jintastic",
+            "nakajima/better-edit-in-place",
+            "on_the_spot",
+            "rakuto/jrails_in_place_editing",
+            "redlinesoftware/in_place_editor",
+            "simplificator/inplace",
+            "stepheneb/in_place_rich_editing"
+          ],
+          "permalink": "rails_in_place_editing"
+        },
+        {
+          "name": "Prototype Replacements",
+          "description": null,
+          "projects": [
+            "CodeOfficer/jquery-ui-rails-helpers",
+            "jrails",
+            "right-rails",
+            "rubaidh/yui_on_rails"
+          ],
+          "permalink": "prototype_replacements"
+        },
+        {
+          "name": "JavaScript Runtimes",
+          "description": null,
+          "projects": [
+            "execjs",
+            "therubyracer"
+          ],
+          "permalink": "JavaScript_runtimes"
+        },
+        {
+          "name": "React Tools",
+          "description": "Tools for integrating with ReactJS",
+          "projects": [
+            "react-rails",
+            "react_on_rails",
+            "webpacker-react"
+          ],
+          "permalink": "react_tools"
+        },
+        {
+          "name": "JavaScript Testing",
+          "description": null,
+          "projects": [
+            "alexyoung/riotjs",
+            "evergreen",
+            "gerbil-rails",
+            "hanoi",
+            "jasmine",
+            "jcov",
+            "jquery/testswarm",
+            "konacha",
+            "opal-spec",
+            "paulca/whenever.js",
+            "relevance/blue-ridge",
+            "screw-unit",
+            "screw-unit-server"
+          ],
+          "permalink": "javascript_testing"
+        }
+      ],
+      "description": null,
+      "name": "JavaScript",
+      "permalink": "JavaScript"
+    },
+    {
+      "categories": [
+        {
+          "name": "Blog Engines",
+          "description": null,
+          "projects": [
+            "blogit",
+            "governor",
+            "imathis/octopress",
+            "refinerycms-blog",
+            "serious",
+            "toto",
+            "typo"
+          ],
+          "permalink": "Blog_Engines"
+        },
+        {
+          "name": "Content Management",
+          "description": null,
+          "projects": [
+            "alchemy_cms",
+            "browsercms",
+            "cantierecreativo/railsyardcms",
+            "casein",
+            "comfortable_mexican_sofa",
+            "copy",
+            "DigitPaint/skyline",
+            "drg_cms",
+            "fullstack-cms",
+            "knewter/ansuz",
+            "locomotive_cms",
+            "lolita",
+            "manageable_content",
+            "nesta",
+            "Opal",
+            "puffer_pages",
+            "push_type",
+            "radiant",
+            "railfrog/railfrog",
+            "refinerycms",
+            "refinerycms-menus",
+            "regulate",
+            "snippr",
+            "spina",
+            "static",
+            "station",
+            "svenfuchs/adva_cms",
+            "thinkdry/blank-application",
+            "ubiquo",
+            "zen",
+            "zena"
+          ],
+          "permalink": "content_management_systems"
+        },
+        {
+          "name": "Wiki Apps",
+          "description": null,
+          "projects": [
+            "AndyMoreland/kii",
+            "benatkin/weaky",
+            "bomberstudios/bliki",
+            "cargo_wiki",
+            "gitki",
+            "gollum",
+            "gollum_rails",
+            "instiki",
+            "irwi",
+            "jm/perwikity",
+            "manveru/rakki",
+            "meekish/collective",
+            "olelo",
+            "queso/signal-wiki",
+            "semanticart/hoboken",
+            "soywiki",
+            "sr/git-wiki"
+          ],
+          "permalink": "wiki_apps"
+        },
+        {
+          "name": "Static Website Generation",
+          "description": null,
+          "projects": [
+            "ace",
+            "awestruct",
+            "bonsai",
+            "brochure",
+            "deplot",
+            "dynamicmatic",
+            "frank",
+            "high_voltage",
+            "jekyll",
+            "korma",
+            "machined",
+            "middleman",
+            "nanoc",
+            "ruhoh",
+            "stasis",
+            "staticmatic",
+            "webby",
+            "webgen"
+          ],
+          "permalink": "static_website_generation"
+        }
+      ],
+      "description": null,
+      "name": "Content Management & Blogging",
+      "permalink": "Content_Management_Blogging"
+    },
+    {
+      "categories": [
+        {
+          "name": "Rails Authentication",
+          "description": null,
+          "projects": [
+            "adauth",
+            "authlogic",
+            "authorizme",
+            "clearance",
+            "current_user",
+            "cz_auth",
+            "devise",
+            "devise_oauth2_providable",
+            "doorkeeper",
+            "envylabs/BlueLightSpecial",
+            "letmein",
+            "monban",
+            "omniauth",
+            "rack-cas",
+            "rpx_now",
+            "sorcery",
+            "switch_user",
+            "technoweenie/restful-authentication",
+            "userbin"
+          ],
+          "permalink": "rails_authentication"
+        },
+        {
+          "name": "Encryption",
+          "description": null,
+          "projects": [
+            "attr_encrypted",
+            "crypt_keeper",
+            "encrypted_strings",
+            "jamesotron/Lockbox",
+            "jmckible/lucifer",
+            "miscreant",
+            "mongoid-encrypted-fields",
+            "pkcs11",
+            "rbnacl",
+            "sentry",
+            "strongbox",
+            "symmetric-encryption"
+          ],
+          "permalink": "encryption"
+        },
+        {
+          "name": "Spam Detection",
+          "description": null,
+          "projects": [
+            "akismetor",
+            "defender",
+            "defensio/defensio-ruby",
+            "mattapayne/rdefensio",
+            "rakismet",
+            "viking"
+          ],
+          "permalink": "spam_detection"
+        },
+        {
+          "name": "LDAP",
+          "description": null,
+          "projects": [
+            "binarylogic/authlogic_ldap",
+            "devise_ldap_authenticatable",
+            "net-ldap",
+            "omniauth-ldap",
+            "ruby-activeldap",
+            "ruby-net-ldap",
+            "simple_ldap_authenticator",
+            "treequel",
+            "tsaleh/ldap-activerecord-gateway"
+          ],
+          "permalink": "ldap"
+        },
+        {
+          "name": "Security Tools",
+          "description": null,
+          "projects": [
+            "active_model_otp",
+            "alpaca",
+            "brakeman",
+            "codesake-dawn",
+            "loofah",
+            "look/xss_terminate",
+            "mhartl/find_mass_assignment",
+            "param_protected",
+            "rails_xss",
+            "ryanlowe/audit_mass_assignment",
+            "shellex",
+            "sudo_attributes",
+            "tarantula",
+            "wwidea/cross_site_sniper"
+          ],
+          "permalink": "security_tools"
+        },
+        {
+          "name": "Rails Authorization",
+          "description": null,
+          "projects": [
+            "10to1/roleify",
+            "access-granted",
+            "acl9",
+            "action_policy",
+            "aegis",
+            "allowy",
+            "authority",
+            "baldwindavid/padlock_authorization",
+            "canable",
+            "canard",
+            "cancan",
+            "cancancan",
+            "cantango",
+            "consul",
+            "cream",
+            "declarative_authorization",
+            "easy_roles",
+            "moulin_rouge",
+            "pundit",
+            "rails-auth",
+            "rend-acl",
+            "restful_acl",
+            "role_model",
+            "roleable",
+            "rolify",
+            "six",
+            "the_role",
+            "timcharper/role_requirement",
+            "trust",
+            "walruz"
+          ],
+          "permalink": "rails_authorization"
+        },
+        {
+          "name": "Rails Captcha",
+          "description": null,
+          "projects": [
+            "acts_as_textcaptcha",
+            "captcha",
+            "galetahub-simple_captcha",
+            "gotcha",
+            "humanizer",
+            "jike_captcha",
+            "macarthy/simple-captcha-mirror",
+            "recaptcha",
+            "rsanheim/brain_buster",
+            "subwindow/negative-captcha"
+          ],
+          "permalink": "rails_captcha"
+        },
+        {
+          "name": "JSON Web Tokens (JWTs)",
+          "description": null,
+          "projects": [
+            "json-jwt",
+            "json_web_token",
+            "jwt"
+          ],
+          "permalink": "jwt"
+        }
+      ],
+      "description": null,
+      "name": "Security",
+      "permalink": "Security"
     }
   ]
 }
