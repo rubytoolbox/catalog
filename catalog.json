@@ -2776,6 +2776,7 @@
           "name": "PDF Processing",
           "description": null,
           "projects": [
+            "hexapdf",
             "pdf-reader",
             "pdf_info",
             "poppler",
@@ -2794,6 +2795,7 @@
             "doc_raptor",
             "gambas",
             "gimli",
+            "hexapdf",
             "invoice_printer",
             "kitabu",
             "pdfkit",
