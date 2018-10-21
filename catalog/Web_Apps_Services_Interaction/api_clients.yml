@@ -12,6 +12,7 @@ projects:
   - colombo
   - contacts
   - createsend
+  - describe
   - disqus_api
   - ebay
   - eztz
