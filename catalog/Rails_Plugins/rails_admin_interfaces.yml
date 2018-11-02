@@ -1,7 +1,6 @@
 name: Rails Admin Interfaces
 description:
 projects:
-  - forestadmin
   - ab_admin
   - active_scaffold
   - activeadmin
@@ -11,6 +10,7 @@ projects:
   - administrate
   - commondream/control_center
   - dry_crud
+  - forestadmin
   - fullstack-admin
   - inline_forms
   - lipsiadmin
