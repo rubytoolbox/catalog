@@ -10,7 +10,7 @@ projects:
   - administrate
   - commondream/control_center
   - dry_crud
-  - forestadmin
+  - forest-rails
   - fullstack-admin
   - inline_forms
   - lipsiadmin
