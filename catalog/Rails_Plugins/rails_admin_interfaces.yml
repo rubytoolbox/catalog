@@ -1,6 +1,7 @@
 name: Rails Admin Interfaces
 description:
 projects:
+  - forestadmin
   - ab_admin
   - active_scaffold
   - activeadmin
