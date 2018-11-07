@@ -17,7 +17,9 @@ projects:
   - lograge
   - lumber
   - mongodb_logger
+  - ougai
   - rake_bubbler
+  - semantic_logger
   - sentry-raven
   - whoops
   - yell
