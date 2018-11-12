@@ -4,8 +4,10 @@ projects:
   - feed-normalizer
   - feed_me
   - feed_parser
+  - feedfilter
   - feedjira
   - feedme
+  - feedparser
   - feedtosis
   - feedzirra
   - opds
