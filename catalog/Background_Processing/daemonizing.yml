@@ -13,3 +13,4 @@ projects:
   - robustthread
   - simple-daemon
   - titan
+  - multi_daemons
