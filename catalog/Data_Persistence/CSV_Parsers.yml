@@ -5,6 +5,11 @@ projects:
   - conformist
   - csv_importer
   - csv_pirate
+  - csvhuman
+  - csvjson
+  - csvreader
+  - csvrecord
+  - csvyaml
   - fastercsv
   - fasterer-csv
   - hasherize_csv
