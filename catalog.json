@@ -771,6 +771,7 @@
             "fallen",
             "foreverb",
             "looper",
+            "multi_daemons",
             "robustthread",
             "simple-daemon",
             "titan"
