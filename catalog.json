@@ -3069,6 +3069,7 @@
             "draper",
             "garnish",
             "komponent",
+            "meta_presenter",
             "rails_presenter",
             "resubject",
             "view_models",
