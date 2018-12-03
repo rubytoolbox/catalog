@@ -2268,6 +2268,7 @@
             "fast_jsonapi",
             "grape",
             "jbuilder",
+            "nativeson",
             "rabl",
             "representable",
             "roar",
