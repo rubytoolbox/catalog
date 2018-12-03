@@ -14,5 +14,6 @@ projects:
   - rocco
   - ronn
   - rspec_api_documentation
+  - schemadoc
   - sdoc
   - yard
