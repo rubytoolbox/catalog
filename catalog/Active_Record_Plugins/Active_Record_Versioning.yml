@@ -1,5 +1,5 @@
 name: Active Record Versioning
-description: 
+description: Keep track of changes to database records for auditing and restoring
 projects:
   - acts-as-approvable
   - acts_as_revisable

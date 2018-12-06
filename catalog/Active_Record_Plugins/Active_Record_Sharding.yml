@@ -1,5 +1,5 @@
 name: Active Record Sharding
-description: 
+description: Distribute read and write queries to your database across several database servers to help with scaling
 projects:
   - activerecord-turntable
   - ar-octopus

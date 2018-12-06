@@ -1,5 +1,5 @@
 name: Active Record Nesting
-description: 
+description: Model database records as nested data structures
 projects:
   - acts_as_dag
   - acts_as_ordered_tree

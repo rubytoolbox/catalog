@@ -1,5 +1,5 @@
-name: Unit Test Frameworks
-description: 
+name: Test Frameworks
+description:
 projects:
   - assert
   - bacon

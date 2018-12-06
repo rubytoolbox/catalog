@@ -1,11 +1,12 @@
 name: Continuous Testing
-description: 
+description:
 projects:
   - autotest
   - autotest-fsevent
   - autotest-growl
   - guard
   - guard-rspec
+  - guard-rubocop
   - infinity_test
   - kicker
   - rack-livereload

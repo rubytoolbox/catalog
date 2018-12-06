@@ -1,5 +1,5 @@
 name: Web UI frameworks
-description: Full-featured Web UI frameworks with ready layouts and lots of ready-to-use components
+description: Full-featured Web UI frameworks with built-in grids and ready-to-use components
 projects:
   - bootstrap
   - bootstrap-sass

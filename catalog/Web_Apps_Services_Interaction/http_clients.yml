@@ -1,5 +1,5 @@
 name: HTTP clients
-description: 
+description:
 projects:
   - activeresource-response
   - api-client
