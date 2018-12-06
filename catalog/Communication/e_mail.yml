@@ -1,5 +1,5 @@
-name: E-Mail Sending
-description: 
+name: E-Mail Delivery
+description: Easily send e-mails from your Ruby programs
 projects:
   - actionmailer
   - capistrano_mailer
