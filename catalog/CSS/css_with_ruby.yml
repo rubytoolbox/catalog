@@ -1,12 +1,11 @@
 name: CSS with Ruby
-description: 
+description:
 projects:
   - airblade/css_dryer
   - anjlab-bootstrap-rails
   - bootstrap-sass
   - bourbon
   - compass
-  - cowboyd/less.rb
   - deadweight
   - less
   - patterns
