@@ -1,5 +1,5 @@
-name: CLI Progress Bars
-description: 
+name: Command Line Progress Bars
+description: Display progress of your terminal program nicely
 projects:
   - fuubar
   - multi_progress_bar

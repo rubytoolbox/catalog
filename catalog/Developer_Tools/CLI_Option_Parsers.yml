@@ -1,5 +1,5 @@
-name: CLI Option Parsers
-description: 
+name: Command Line Option Parsers
+description: Utilities to process arguments to terminal command line programs easily
 projects:
   - acclaim
   - arg0

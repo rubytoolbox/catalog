@@ -1,0 +1,12 @@
+name: Web UI frameworks
+description: Full-featured Web UI frameworks with ready layouts and lots of ready-to-use components
+projects:
+  - bootstrap
+  - bootstrap-sass
+  - semantic-ui-sass
+  - shipyard-framework
+  - stylish
+  - twitter-bootstrap-rails
+  - twitter-bootswatch-rails
+  - twitter-bootswatch-rails-fontawesome
+  - twitter-bootswatch-rails-helpers
