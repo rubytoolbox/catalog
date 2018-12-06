@@ -198,8 +198,8 @@
     {
       "categories": [
         {
-          "name": "CLI Progress Bars",
-          "description": null,
+          "name": "Command Line Progress Bars",
+          "description": "Display progress of your terminal program nicely",
           "projects": [
             "fuubar",
             "multi_progress_bar",
@@ -512,8 +512,8 @@
           "permalink": "scripting_frameworks"
         },
         {
-          "name": "CLI Option Parsers",
-          "description": null,
+          "name": "Command Line Option Parsers",
+          "description": "Utilities to process arguments to terminal command line programs easily",
           "projects": [
             "acclaim",
             "arg0",
@@ -648,15 +648,28 @@
     {
       "categories": [
         {
-          "name": "CSS with Ruby",
-          "description": null,
+          "name": "Web UI frameworks",
+          "description": "Full-featured Web UI frameworks with ready layouts and lots of ready-to-use components",
+          "projects": [
+            "bootstrap",
+            "bootstrap-sass",
+            "semantic-ui-sass",
+            "shipyard-framework",
+            "stylish",
+            "twitter-bootstrap-rails",
+            "twitter-bootswatch-rails",
+            "twitter-bootswatch-rails-fontawesome",
+            "twitter-bootswatch-rails-helpers"
+          ],
+          "permalink": "web_ui_frameworks"
+        },
+        {
+          "name": "CSS Tools",
+          "description": "Tools to make working with Cascading Stylesheets (CSS) easier",
           "projects": [
             "airblade/css_dryer",
-            "anjlab-bootstrap-rails",
-            "bootstrap-sass",
             "bourbon",
             "compass",
-            "cowboyd/less.rb",
             "deadweight",
             "less",
             "patterns",
@@ -664,12 +677,7 @@
             "sass",
             "sass-rails",
             "smurfville",
-            "stylish",
-            "stylus",
-            "twitter-bootstrap-rails",
-            "twitter-bootswatch-rails",
-            "twitter-bootswatch-rails-fontawesome",
-            "twitter-bootswatch-rails-helpers"
+            "stylus"
           ],
           "permalink": "css_with_ruby"
         },
@@ -2586,8 +2594,8 @@
           "permalink": "irc_bots"
         },
         {
-          "name": "E-Mail Sending",
-          "description": null,
+          "name": "E-Mail Delivery",
+          "description": "Easily send e-mails from your Ruby programs",
           "projects": [
             "actionmailer",
             "capistrano_mailer",
