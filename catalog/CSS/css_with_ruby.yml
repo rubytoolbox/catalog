@@ -2,7 +2,6 @@ name: CSS with Ruby
 description:
 projects:
   - airblade/css_dryer
-  - anjlab-bootstrap-rails
   - bootstrap-sass
   - bourbon
   - compass
