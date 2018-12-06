@@ -618,7 +618,6 @@
             "flay",
             "flog",
             "foodcritic",
-            "guard-rubocop",
             "jslint_on_rails",
             "kevinrutherford/crap4r",
             "metric_abc",
@@ -631,6 +630,7 @@
             "reek",
             "roodi",
             "rubocop",
+            "rubocop-rspec",
             "rubycritic",
             "Saikuro",
             "sandi_meter",
@@ -649,7 +649,7 @@
       "categories": [
         {
           "name": "Web UI frameworks",
-          "description": "Full-featured Web UI frameworks with ready layouts and lots of ready-to-use components",
+          "description": "Full-featured Web UI frameworks with built-in grids and ready-to-use components",
           "projects": [
             "bootstrap",
             "bootstrap-sass",
@@ -700,7 +700,7 @@
       "categories": [
         {
           "name": "Background Jobs",
-          "description": null,
+          "description": "Process slow tasks asynchronously to keep response times low, improve fault-tolerance and aid with horizontal scaling",
           "projects": [
             "acts_as_executor",
             "amqp",
@@ -742,7 +742,7 @@
         },
         {
           "name": "Scheduling",
-          "description": null,
+          "description": "Execute tasks on a schedule",
           "projects": [
             "clockwork",
             "latimes/craken",
@@ -757,7 +757,7 @@
         },
         {
           "name": "Daemon Management",
-          "description": null,
+          "description": "Simplify the management of multiple processes",
           "projects": [
             "daemon-spawn",
             "daemon_controller",
@@ -768,7 +768,7 @@
         },
         {
           "name": "Daemonizing",
-          "description": null,
+          "description": "Turn your program into a service running in the background",
           "projects": [
             "daemon-kit",
             "daemonizer",
@@ -1124,7 +1124,7 @@
           "permalink": "backups"
         },
         {
-          "name": "Web servers",
+          "name": "Web Servers",
           "description": null,
           "projects": [
             "agoo",
@@ -1180,7 +1180,7 @@
         },
         {
           "name": "Active Record Soft Delete",
-          "description": null,
+          "description": "Keep deleted records in the database for auditing and restoring",
           "projects": [
             "acts_as_archive",
             "acts_as_paranoid",
@@ -1189,6 +1189,7 @@
             "discard",
             "expectedbehavior/acts_as_archival",
             "immortal",
+            "paper_trail",
             "paranoia",
             "paranoid",
             "paranoid2",
@@ -1200,7 +1201,7 @@
         },
         {
           "name": "Pagination",
-          "description": null,
+          "description": "Split large data collections into subsets to display on multiple pages",
           "projects": [
             "ajax_pagination",
             "kaminari",
@@ -1266,7 +1267,7 @@
         },
         {
           "name": "Active Record Sharding",
-          "description": null,
+          "description": "Distribute read and write queries to your database across several database servers to help with scaling",
           "projects": [
             "activerecord-turntable",
             "ar-octopus",
@@ -1317,7 +1318,7 @@
         },
         {
           "name": "Active Record Index Assistants",
-          "description": null,
+          "description": "Utilities to point you at potentially missing database indices",
           "projects": [
             "automatic_foreign_key",
             "eladmeidar/rails_indexes",
@@ -1433,7 +1434,7 @@
         },
         {
           "name": "Active Record Versioning",
-          "description": null,
+          "description": "Keep track of changes to database records for auditing and restoring",
           "projects": [
             "acts-as-approvable",
             "acts_as_revisable",
@@ -1457,7 +1458,7 @@
         },
         {
           "name": "Active Record Nesting",
-          "description": null,
+          "description": "Model database records as nested data structures",
           "projects": [
             "acts_as_dag",
             "acts_as_ordered_tree",
@@ -1540,7 +1541,7 @@
           "permalink": "distributed_testing"
         },
         {
-          "name": "Unit Test Frameworks",
+          "name": "Test Frameworks",
           "description": null,
           "projects": [
             "assert",
@@ -1654,6 +1655,7 @@
             "autotest-growl",
             "guard",
             "guard-rspec",
+            "guard-rubocop",
             "infinity_test",
             "kicker",
             "rack-livereload",
