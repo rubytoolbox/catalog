@@ -1,8 +1,7 @@
-name: CSS with Ruby
-description:
+name: CSS Tools
+description: Tools to make working with Cascading Stylesheets (CSS) easier
 projects:
   - airblade/css_dryer
-  - bootstrap-sass
   - bourbon
   - compass
   - deadweight
@@ -12,9 +11,4 @@ projects:
   - sass
   - sass-rails
   - smurfville
-  - stylish
   - stylus
-  - twitter-bootstrap-rails
-  - twitter-bootswatch-rails
-  - twitter-bootswatch-rails-fontawesome
-  - twitter-bootswatch-rails-helpers
