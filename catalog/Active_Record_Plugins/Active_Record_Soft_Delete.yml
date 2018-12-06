@@ -1,5 +1,5 @@
 name: Active Record Soft Delete
-description: 
+description: Keep deleted records in the database for auditing and restoring
 projects:
   - acts_as_archive
   - acts_as_paranoid
@@ -8,6 +8,7 @@ projects:
   - discard
   - expectedbehavior/acts_as_archival
   - immortal
+  - paper_trail
   - paranoia
   - paranoid
   - paranoid2

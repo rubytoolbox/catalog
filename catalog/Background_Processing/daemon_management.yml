@@ -1,5 +1,5 @@
 name: Daemon Management
-description: 
+description: Simplify the management of multiple processes
 projects:
   - daemon-spawn
   - daemon_controller

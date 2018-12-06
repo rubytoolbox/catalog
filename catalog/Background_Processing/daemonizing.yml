@@ -1,5 +1,5 @@
 name: Daemonizing
-description:
+description: Turn your program into a service running in the background
 projects:
   - daemon-kit
   - daemonizer

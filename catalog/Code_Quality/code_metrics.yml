@@ -1,5 +1,5 @@
 name: Code Metrics
-description: 
+description:
 projects:
   - cane
   - coco
@@ -10,7 +10,6 @@ projects:
   - flay
   - flog
   - foodcritic
-  - guard-rubocop
   - jslint_on_rails
   - kevinrutherford/crap4r
   - metric_abc
@@ -23,6 +22,7 @@ projects:
   - reek
   - roodi
   - rubocop
+  - rubocop-rspec
   - rubycritic
   - Saikuro
   - sandi_meter

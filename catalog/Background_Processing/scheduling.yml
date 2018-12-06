@@ -1,5 +1,5 @@
 name: Scheduling
-description: 
+description: Execute tasks on a schedule
 projects:
   - clockwork
   - latimes/craken

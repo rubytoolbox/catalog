@@ -1,5 +1,5 @@
 name: Pagination
-description:
+description: Split large data collections into subsets to display on multiple pages
 projects:
   - ajax_pagination
   - kaminari

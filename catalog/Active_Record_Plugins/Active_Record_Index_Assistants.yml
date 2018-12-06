@@ -1,5 +1,5 @@
 name: Active Record Index Assistants
-description: 
+description: Utilities to point you at potentially missing database indices
 projects:
   - automatic_foreign_key
   - eladmeidar/rails_indexes
