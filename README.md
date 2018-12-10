@@ -1,6 +1,6 @@
 # Ruby Toolbox Catalog [![Build Status](https://travis-ci.org/rubytoolbox/catalog.svg?branch=master)](https://travis-ci.org/rubytoolbox/catalog)
 
-Welcome to [the Ruby Toolbox][rubytoolbox] catalog!
+Welcome to the [Ruby Toolbox][rubytoolbox] catalog!
 
 This repository contains the mapping of category groups, categories and ruby
 open source projects and is based on a database dump of [the old Ruby Toolbox
