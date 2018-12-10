@@ -1,5 +1,5 @@
 name: Google Cloud
-description:
+description: Official and community-built utilities for working with Google's Cloud services
 projects:
   - fog
   - google-cloud-asset

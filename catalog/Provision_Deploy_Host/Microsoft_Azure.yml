@@ -1,5 +1,5 @@
 name: Microsoft Azure
-description:
+description: Official and community-built utilities for working with Microsoft's Azure cloud services
 projects:
   - azure-acs
   - azure-armrest

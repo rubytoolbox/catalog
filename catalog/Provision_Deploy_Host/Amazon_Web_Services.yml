@@ -1,5 +1,5 @@
 name: Amazon Web Services
-description:
+description: Official and community-built utilities for working with Amazon's AWS cloud services
 projects:
   - amazon-ec2
   - amazon-ses
