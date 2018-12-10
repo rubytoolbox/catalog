@@ -1,0 +1,26 @@
+name: Microsoft Azure
+description: Official and community-built utilities for working with Microsoft's Azure cloud services
+projects:
+  - azure-acs
+  - azure-armrest
+  - azure-auth
+  - azure-contrib
+  - azure-core
+  - azure-credentials
+  - azure-directory
+  - azure-documentdb-sdk
+  - azure-fix
+  - azure-loganalytics-datacollector-api
+  - azure-multistorage
+  - azure-plus
+  - azure-profile
+  - azure-push
+  - azure-sas
+  - azure-signature
+  - azure-storage
+  - azure-storage-blob
+  - azure-storage-common
+  - azure-storage-file
+  - azure-storage-queue
+  - azure-storage-table
+  - fog
