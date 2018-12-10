@@ -4,6 +4,7 @@ projects:
   - crack
   - json
   - json-jruby
+  - json-stream-path
   - json_pure
   - multi_json
   - oj
