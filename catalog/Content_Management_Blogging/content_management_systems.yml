@@ -1,5 +1,5 @@
 name: Content Management
-description: 
+description:
 projects:
   - alchemy_cms
   - browsercms
@@ -9,6 +9,7 @@ projects:
   - copy
   - DigitPaint/skyline
   - drg_cms
+  - fae-rails
   - fullstack-cms
   - knewter/ansuz
   - locomotive_cms
