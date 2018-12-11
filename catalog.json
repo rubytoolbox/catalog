@@ -334,6 +334,7 @@
           "name": "Ruby Version Management",
           "description": null,
           "projects": [
+            "asdf-vm/asdf-ruby",
             "hmans/rbfu",
             "phoet/which_ruby",
             "postmodern/chruby",
