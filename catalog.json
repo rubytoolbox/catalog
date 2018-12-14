@@ -895,6 +895,22 @@
           "permalink": "Data_Migration"
         },
         {
+          "name": "Active Record Database Adapters",
+          "description": "ActiveRecord comes with built-in support for SQLite, PostgreSQL and MySQL on the offical C-based Ruby implementation commonly referred to as \"MRI\". These extensions let you connect to other relational databases or use other Ruby implementations like JRuby.",
+          "projects": [
+            "activerecord-jdbc-adapter",
+            "activerecord-jdbcderby-adapter",
+            "activerecord-jdbcmysql-adapter",
+            "activerecord-jdbcpostgresql-adapter",
+            "activerecord-nulldb-adapter",
+            "activerecord-oracle_enhanced-adapter",
+            "activerecord-sqlserver-adapter",
+            "odbc_adapter",
+            "oracle-enhanced-enhanced"
+          ],
+          "permalink": "Active_Record_DB_Adapters"
+        },
+        {
           "name": "Amazon DynamoDB",
           "description": null,
           "projects": [
@@ -1664,22 +1680,6 @@
             "taggregator"
           ],
           "permalink": "rails_tagging"
-        },
-        {
-          "name": "Active Record DB Adapters",
-          "description": null,
-          "projects": [
-            "activerecord-jdbc-adapter",
-            "activerecord-jdbcderby-adapter",
-            "activerecord-jdbcmysql-adapter",
-            "activerecord-jdbcpostgresql-adapter",
-            "activerecord-nulldb-adapter",
-            "activerecord-oracle_enhanced-adapter",
-            "activerecord-sqlserver-adapter",
-            "odbc_adapter",
-            "oracle-enhanced-enhanced"
-          ],
-          "permalink": "Active_Record_DB_Adapters"
         },
         {
           "name": "Active Record Versioning",
