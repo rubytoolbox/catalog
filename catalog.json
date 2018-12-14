@@ -3801,6 +3801,20 @@
     {
       "categories": [
         {
+          "name": "MediaWiki Clients",
+          "description": "Libraries for interacting with MediaWiki, the open source Wiki platform that is also used on Wikipedia",
+          "projects": [
+            "infoboxer",
+            "mediawiki-butt",
+            "mediawiki-gateway",
+            "mediawiki_api",
+            "mediawiktory",
+            "sunflower",
+            "wikipedia-client"
+          ],
+          "permalink": "MediaWiki_Clients"
+        },
+        {
           "name": "Other Clients",
           "description": null,
           "projects": [
