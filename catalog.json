@@ -607,15 +607,26 @@
     {
       "categories": [
         {
+          "name": "Code Coverage",
+          "description": "Utilities that report which code is being run. Most commonly this is used as test coverage which reports what parts of your code are not tested, but there are also tools to find dead production code",
+          "projects": [
+            "cover_me",
+            "coveralls",
+            "coverband",
+            "rcov",
+            "simplecov",
+            "single_cov"
+          ],
+          "permalink": "code_coverage"
+        },
+        {
           "name": "Code Metrics",
-          "description": null,
+          "description": "Utilities to improve code quality by reporting common code smells like complexity, unsafe defaults, unused variables or stylistic inconsistencies",
           "projects": [
             "cane",
             "coco",
             "code_statistics",
             "code_stats2",
-            "cover_me",
-            "coveralls",
             "flay",
             "flog",
             "foodcritic",
@@ -626,8 +637,6 @@
             "outlaw",
             "pelusa",
             "rails_best_practices",
-            "rcov",
-            "rcov_plugin",
             "reek",
             "roodi",
             "rubocop",
@@ -635,7 +644,6 @@
             "rubycritic",
             "Saikuro",
             "sandi_meter",
-            "simplecov",
             "tailor",
             "thoughtbot/report_card"
           ],
