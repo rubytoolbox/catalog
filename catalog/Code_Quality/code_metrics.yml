@@ -1,12 +1,13 @@
 name: Code Metrics
 description:
+    Utilities to improve code quality by reporting common code
+    smells like complexity, unsafe defaults, unused variables or stylistic
+    inconsistencies
 projects:
   - cane
   - coco
   - code_statistics
   - code_stats2
-  - cover_me
-  - coveralls
   - flay
   - flog
   - foodcritic
@@ -17,8 +18,6 @@ projects:
   - outlaw
   - pelusa
   - rails_best_practices
-  - rcov
-  - rcov_plugin
   - reek
   - roodi
   - rubocop
@@ -26,6 +25,5 @@ projects:
   - rubycritic
   - Saikuro
   - sandi_meter
-  - simplecov
   - tailor
   - thoughtbot/report_card
