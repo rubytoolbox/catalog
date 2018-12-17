@@ -1750,6 +1750,25 @@
     {
       "categories": [
         {
+          "name": "RSpec Matchers",
+          "description": "Additional RSpec test matchers that help you write more expressive examples",
+          "projects": [
+            "aruba",
+            "db-query-matchers",
+            "email_spec",
+            "rspec-become-matcher",
+            "rspec-collection_matchers",
+            "rspec-composable_json_matchers",
+            "rspec-graphql_matchers",
+            "rspec-html-matchers",
+            "rspec-instrumentation-matcher",
+            "rspec-json_matcher",
+            "rspec-mail_matcher",
+            "shoulda-matchers"
+          ],
+          "permalink": "RSpec_Matchers"
+        },
+        {
           "name": "Random Data Generation",
           "description": null,
           "projects": [
