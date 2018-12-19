@@ -1867,7 +1867,7 @@
             "blueprints",
             "dm-sweatshop",
             "fabrication",
-            "factory_girl",
+            "factory_bot",
             "fixjour",
             "fixture_builder",
             "fixture_replacement",
