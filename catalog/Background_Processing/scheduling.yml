@@ -6,6 +6,7 @@ projects:
   - recurrent
   - resque-scheduler
   - rufus-scheduler
+  - sidecloq
   - sidekiq-cron
   - Swirrl/Taskit
   - whenever
