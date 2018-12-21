@@ -5,6 +5,7 @@ projects:
   - concurrent-ruby
   - cool.io
   - dataflow
+  - eventbox
   - eventmachine
   - tribe
   - wires
