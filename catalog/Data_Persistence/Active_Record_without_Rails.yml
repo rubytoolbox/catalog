@@ -3,5 +3,5 @@ description:
   These projects helps when using Active Record outside a Rails project.
 projects:
   - active_record_migrations
-  - standalone_migrations
   - otr-activerecord
+  - standalone_migrations
