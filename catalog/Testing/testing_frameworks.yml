@@ -19,3 +19,4 @@ projects:
   - testrocket
   - testy
   - wrong
+  - yard-doctest
