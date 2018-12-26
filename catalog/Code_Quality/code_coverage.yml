@@ -10,3 +10,4 @@ projects:
   - rcov
   - simplecov
   - single_cov
+  - undercover
