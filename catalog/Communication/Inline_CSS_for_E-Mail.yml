@@ -9,5 +9,6 @@ projects:
   - mail_style
   - packrat
   - premailer
+  - premailer-rails
   - premailer-rails3
   - roadie
