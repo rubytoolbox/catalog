@@ -22,6 +22,7 @@ projects:
   - navvy
   - ncr/background-fu
   - qu
+  - que
   - quebert
   - queue_classic
   - rabbit_jobs
