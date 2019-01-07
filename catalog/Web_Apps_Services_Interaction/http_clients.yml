@@ -1,5 +1,5 @@
 name: HTTP clients
-description:
+description: Easily interact with HTTP-based services
 projects:
   - activeresource-response
   - api-client
