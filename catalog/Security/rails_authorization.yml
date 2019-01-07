@@ -1,5 +1,5 @@
-name: Rails Authorization
-description: 
+name: Authorization
+description:
 projects:
   - 10to1/roleify
   - access-granted
