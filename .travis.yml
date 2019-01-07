@@ -8,9 +8,6 @@ script:
 cache:
   - bundler
 deploy:
-  # See https://github.com/travis-ci/travis-ci/issues/9312
-  edge:
-    branch: v1.8.47
   # Docs: https://docs.travis-ci.com/user/deployment/pages/
   provider: pages
   github-token: $GITHUB_TOKEN
