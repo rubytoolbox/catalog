@@ -3323,7 +3323,8 @@
             "rails_admin",
             "relevance/streamlined",
             "trestle",
-            "typus"
+            "typus",
+            "wallaby"
           ],
           "permalink": "rails_admin_interfaces"
         },
