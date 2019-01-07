@@ -1,5 +1,5 @@
 name: Gem Creation
-description: 
+description:
 projects:
   - bones
   - echoe
@@ -7,6 +7,7 @@ projects:
   - gem-newgem
   - gem-release
   - gem_hadar
+  - gemsmith
   - hoe
   - inochi
   - jeweler
