@@ -1,5 +1,5 @@
 name: Concurrent Processing
-description:
+description: Tools that simplify the writing of concurrent Ruby programs
 projects:
   - celluloid
   - concurrent-ruby
