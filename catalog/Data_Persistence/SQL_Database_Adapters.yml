@@ -1,5 +1,5 @@
 name: SQL Database Adapters
-description: 
+description: Low-level adapters for interfacing with various SQL database servers
 projects:
   - ibm_db
   - jdbc-mysql
