@@ -1,5 +1,5 @@
-name: Rails File Uploads
-description: 
+name: File Uploads
+description:
 projects:
   - attached
   - carrierwave
