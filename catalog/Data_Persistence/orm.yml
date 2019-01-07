@@ -1,5 +1,7 @@
 name: Object-relational mapping
-description: 
+description:
+  Libraries that map SQL database tables and rows to Ruby classes and objects in order to enable easy interaction
+  with the data persistence layer from your program
 projects:
   - activerecord
   - dm-core
