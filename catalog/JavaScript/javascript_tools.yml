@@ -1,5 +1,5 @@
 name: JavaScript Tools
-description:
+description: Utilities for working with JavaScript in Ruby
 projects:
   - barista
   - coffee-script
