@@ -223,6 +223,7 @@
             "concurrent-ruby",
             "cool.io",
             "dataflow",
+            "eventbox",
             "eventmachine",
             "tribe",
             "wires",
@@ -758,6 +759,7 @@
             "recurrent",
             "resque-scheduler",
             "rufus-scheduler",
+            "sidecloq",
             "sidekiq-cron",
             "Swirrl/Taskit",
             "whenever"
@@ -802,6 +804,16 @@
     },
     {
       "categories": [
+        {
+          "name": "ActiveRecord without Rails",
+          "description": "Projects that help in using ActiveRecord outside of a Rails project.",
+          "projects": [
+            "active_record_migrations",
+            "otr-activerecord",
+            "standalone_migrations"
+          ],
+          "permalink": "ActiveRecord_without_Rails"
+        },
         {
           "name": "Object-relational mapping",
           "description": null,
@@ -1837,7 +1849,8 @@
             "test_inline",
             "testrocket",
             "testy",
-            "wrong"
+            "wrong",
+            "yard-doctest"
           ],
           "permalink": "testing_frameworks"
         },
