@@ -407,9 +407,10 @@
         },
         {
           "name": "Gem Creation",
-          "description": null,
+          "description": "Tools that aid in creating, maintaining and publishing Rubygems",
           "projects": [
             "bones",
+            "bundler",
             "echoe",
             "enginex",
             "gem-newgem",
@@ -735,6 +736,7 @@
             "navvy",
             "ncr/background-fu",
             "qu",
+            "que",
             "quebert",
             "queue_classic",
             "rabbit_jobs",
