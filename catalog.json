@@ -89,7 +89,7 @@
         },
         {
           "name": "Template Engines",
-          "description": null,
+          "description": "Generate HTML and other markup based on dynamic content",
           "projects": [
             "arbre",
             "cadenza",
@@ -217,7 +217,7 @@
         },
         {
           "name": "Concurrent Processing",
-          "description": null,
+          "description": "Tools that simplify the writing of concurrent Ruby programs",
           "projects": [
             "celluloid",
             "concurrent-ruby",
@@ -504,7 +504,7 @@
         },
         {
           "name": "Scripting Frameworks",
-          "description": null,
+          "description": "Libraries that simplify the writing of command-line interfaces for your Ruby programs",
           "projects": [
             "boson",
             "lucie",
@@ -547,7 +547,7 @@
         },
         {
           "name": "Ruby Core Extensions",
-          "description": null,
+          "description": "Libraries that enhance Ruby's core classes like Hash or String with additional features",
           "projects": [
             "activesupport",
             "deep_tree",
@@ -821,7 +821,7 @@
         },
         {
           "name": "Object-relational mapping",
-          "description": null,
+          "description": "Libraries that map SQL database tables and rows to Ruby classes and objects in order to enable easy interaction with the data persistence layer from your program",
           "projects": [
             "activerecord",
             "dm-core",
@@ -873,7 +873,7 @@
         },
         {
           "name": "SQL Database Adapters",
-          "description": null,
+          "description": "Low-level adapters for interfacing with various SQL database servers",
           "projects": [
             "ibm_db",
             "jdbc-mysql",
@@ -1415,7 +1415,7 @@
         },
         {
           "name": "Web Servers",
-          "description": null,
+          "description": "Expose HTTP-based services from Ruby. Usually these are used with a rack-based Ruby web framework.",
           "projects": [
             "agoo",
             "ebb",
@@ -1835,7 +1835,7 @@
         },
         {
           "name": "Test Frameworks",
-          "description": null,
+          "description": "Frameworks for writing automated tests for your software",
           "projects": [
             "assert",
             "bacon",
@@ -1996,7 +1996,7 @@
         },
         {
           "name": "Browser testing",
-          "description": null,
+          "description": "Write and run automated tests of your web app in a real-world browser environment",
           "projects": [
             "akephalos",
             "capybara",
@@ -2657,7 +2657,7 @@
         },
         {
           "name": "HTTP clients",
-          "description": null,
+          "description": "Easily interact with HTTP-based services",
           "projects": [
             "activeresource-response",
             "api-client",
@@ -3095,7 +3095,7 @@
       "categories": [
         {
           "name": "Documentation Generators",
-          "description": null,
+          "description": "Tools for creating API documentation of your Ruby software and it's exposed interfaces",
           "projects": [
             "annotator",
             "apipie-rails",
@@ -3352,8 +3352,8 @@
           "permalink": "rails_permalinks___slugs"
         },
         {
-          "name": "Rails File Uploads",
-          "description": null,
+          "name": "File Uploads",
+          "description": "Handle file uploads in Ruby-based web applications, including streamlined storage on cloud services, the extraction of file metadata and handling of post-processing tasks like resizing and cropping of images",
           "projects": [
             "attached",
             "carrierwave",
@@ -3466,7 +3466,7 @@
       "categories": [
         {
           "name": "JavaScript Tools",
-          "description": null,
+          "description": "Utilities for working with JavaScript in Ruby",
           "projects": [
             "barista",
             "coffee-script",
@@ -3684,8 +3684,8 @@
     {
       "categories": [
         {
-          "name": "Rails Authentication",
-          "description": null,
+          "name": "Web Authentication",
+          "description": "Handle the authentication of users in web applications written in frameworks like Rails",
           "projects": [
             "adauth",
             "authlogic",
@@ -3779,8 +3779,8 @@
           "permalink": "security_tools"
         },
         {
-          "name": "Rails Authorization",
-          "description": null,
+          "name": "User Authorization",
+          "description": "Narrow down the visibility and accessibility of operations for users based on roles and similar access control patterns",
           "projects": [
             "10to1/roleify",
             "access-granted",
