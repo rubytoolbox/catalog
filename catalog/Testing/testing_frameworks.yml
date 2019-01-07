@@ -1,5 +1,5 @@
 name: Test Frameworks
-description:
+description: Frameworks for writing automated tests for your software
 projects:
   - assert
   - bacon

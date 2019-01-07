@@ -1,5 +1,7 @@
-name: Rails File Uploads
-description: 
+name: File Uploads
+description:
+  Handle file uploads in Ruby-based web applications, including streamlined storage on cloud services, the extraction
+  of file metadata and handling of post-processing tasks like resizing and cropping of images
 projects:
   - attached
   - carrierwave

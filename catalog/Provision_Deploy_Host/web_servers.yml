@@ -1,5 +1,5 @@
 name: Web Servers
-description:
+description: Expose HTTP-based services from Ruby. Usually these are used with a rack-based Ruby web framework.
 projects:
   - agoo
   - ebb

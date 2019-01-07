@@ -1,5 +1,7 @@
-name: Rails Authorization
-description: 
+name: User Authorization
+description:
+  Narrow down the visibility and accessibility of operations for users
+  based on roles and similar access control patterns
 projects:
   - 10to1/roleify
   - access-granted

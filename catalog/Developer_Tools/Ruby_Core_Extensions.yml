@@ -1,5 +1,5 @@
 name: Ruby Core Extensions
-description: 
+description: Libraries that enhance Ruby's core classes like Hash or String with additional features
 projects:
   - activesupport
   - deep_tree

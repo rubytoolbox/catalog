@@ -1,5 +1,5 @@
 name: Scripting Frameworks
-description: 
+description:  Libraries that simplify the writing of command-line interfaces for your Ruby programs
 projects:
   - boson
   - lucie

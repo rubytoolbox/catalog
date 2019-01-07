@@ -1,5 +1,5 @@
 name: Documentation Generators
-description: 
+description: Tools for creating API documentation of your Ruby software and it's exposed interfaces
 projects:
   - annotator
   - apipie-rails

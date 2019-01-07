@@ -1,5 +1,5 @@
-name: Rails Authentication
-description: 
+name: Web Authentication
+description: Handle the authentication of users in web applications written in frameworks like Rails
 projects:
   - adauth
   - authlogic

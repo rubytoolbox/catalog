@@ -1,5 +1,5 @@
 name: Template Engines
-description:
+description: Generate HTML and other markup based on dynamic content
 projects:
   - arbre
   - cadenza
