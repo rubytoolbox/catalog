@@ -1,8 +1,9 @@
 name: Web Content Scrapers
-description: 
+description:
 projects:
   - anemone
   - arachnid2
+  - boilerpipe-ruby
   - cobweb
   - data_miner
   - docparser
