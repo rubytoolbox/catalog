@@ -2625,6 +2625,7 @@
           "projects": [
             "anemone",
             "arachnid2",
+            "boilerpipe-ruby",
             "cobweb",
             "data_miner",
             "docparser",
