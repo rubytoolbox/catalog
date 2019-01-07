@@ -1,7 +1,8 @@
 name: Gem Creation
-description:
+description: Tools that aid in creating, maintaining and publishing Rubygems
 projects:
   - bones
+  - bundler
   - echoe
   - enginex
   - gem-newgem
