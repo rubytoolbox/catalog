@@ -617,7 +617,8 @@
             "coverband",
             "rcov",
             "simplecov",
-            "single_cov"
+            "single_cov",
+            "undercover"
           ],
           "permalink": "code_coverage"
         },
