@@ -11,6 +11,7 @@ projects:
   - flay
   - flog
   - foodcritic
+  - git-cop
   - jslint_on_rails
   - kevinrutherford/crap4r
   - metric_abc

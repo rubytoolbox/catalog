@@ -1,9 +1,10 @@
 name: git Tools
-description: 
+description:
 projects:
   - ezgit
   - gas
   - git
+  - git-cop
   - githug
   - gitolite
   - gitsu
