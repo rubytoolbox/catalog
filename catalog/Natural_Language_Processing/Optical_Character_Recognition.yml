@@ -1,0 +1,5 @@
+name: Optical Character Recognition
+description: Libraries to recognize written text in images
+projects:
+  - rtesseract
+  - tesseract-ocr
