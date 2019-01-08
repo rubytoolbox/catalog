@@ -2066,6 +2066,22 @@
     {
       "categories": [
         {
+          "name": "Optical Character Recognition",
+          "description": "Libraries to recognize written text in images",
+          "projects": [
+            "rtesseract",
+            "tesseract-ocr"
+          ],
+          "permalink": "Optical_Character_Recognition"
+        }
+      ],
+      "description": null,
+      "name": "Natural Language Processing",
+      "permalink": "Natural_Language_Processing"
+    },
+    {
+      "categories": [
+        {
           "name": "View Objects",
           "description": "Framework agnostic gems that implement Decorator / View Object pattern.",
           "projects": [
