@@ -1,4 +1,7 @@
 name: Form Objects
 description:
 projects:
+  - activemodel-form
+  - dry-validation
   - reform
+  - virtus
