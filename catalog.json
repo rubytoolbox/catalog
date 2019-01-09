@@ -2094,7 +2094,10 @@
           "name": "Form Objects",
           "description": null,
           "projects": [
-            "reform"
+            "activemodel-form",
+            "dry-validation",
+            "reform",
+            "virtus"
           ],
           "permalink": "Form_Objects"
         },
