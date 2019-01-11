@@ -1,0 +1,5 @@
+name: Artificial Neural Networks
+description: Libraries and Frameworks to train and apply ML models based on (Deep) Neural Networks
+projects:
+  - tensor_stream
+  - tensor_stream-opencl
