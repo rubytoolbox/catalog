@@ -12,3 +12,4 @@ projects:
   - shell-spinner
   - spinning_cursor
   - tty-progressbar
+  - whirly
