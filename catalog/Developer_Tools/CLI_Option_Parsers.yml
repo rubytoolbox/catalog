@@ -22,5 +22,6 @@ projects:
   - OptionParser
   - optitron
   - quickl
+  - rationalist
   - slop
   - trollop
