@@ -2888,6 +2888,22 @@
     {
       "categories": [
         {
+          "name": "Artificial Neural Networks",
+          "description": "Libraries and Frameworks to train and apply ML models based on (Deep) Neural Networks",
+          "projects": [
+            "tensor_stream",
+            "tensor_stream-opencl"
+          ],
+          "permalink": "Artificial_Neural_Networks"
+        }
+      ],
+      "description": null,
+      "name": "Machine Learning",
+      "permalink": "Machine_Learning"
+    },
+    {
+      "categories": [
+        {
           "name": "I18n",
           "description": null,
           "projects": [
