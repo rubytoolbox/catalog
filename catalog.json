@@ -1424,6 +1424,7 @@
           "projects": [
             "agoo",
             "ebb",
+            "falcon",
             "hoof",
             "iodine",
             "mongrel",
