@@ -211,7 +211,8 @@
             "ruby-progressbar",
             "shell-spinner",
             "spinning_cursor",
-            "tty-progressbar"
+            "tty-progressbar",
+            "whirly"
           ],
           "permalink": "CLI_Progress_Bars"
         },
@@ -422,6 +423,7 @@
             "inochi",
             "jeweler",
             "juwelier",
+            "microgem",
             "newgem",
             "ore",
             "quik",
@@ -541,6 +543,7 @@
             "OptionParser",
             "optitron",
             "quickl",
+            "rationalist",
             "slop",
             "trollop"
           ],
@@ -2170,6 +2173,7 @@
             "music_player",
             "patchmaster",
             "rubiety/jazz_model",
+            "uke",
             "unimidi"
           ],
           "permalink": "music___midi"
