@@ -1,5 +1,5 @@
 name: Rails Captcha
-description: Captcha is basically used for a CAPTCHA-like system designed to establish that a computer user is human (normally in order to protect websites from bots) and, at the same time, assist in the digitization of books.
+description: Captchas help to establish that a user is human to protect websites from bots and spam by presenting challenges that are hard to solve for computers
 projects:
   - acts_as_textcaptcha
   - captcha
