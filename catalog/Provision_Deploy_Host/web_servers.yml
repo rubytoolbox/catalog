@@ -3,6 +3,7 @@ description: Expose HTTP-based services from Ruby. Usually these are used with a
 projects:
   - agoo
   - ebb
+  - falcon
   - hoof
   - iodine
   - mongrel
