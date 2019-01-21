@@ -6,6 +6,7 @@ projects:
   - capybara-webkit
   - celerity
   - culerity
+  - cuprite
   - headless
   - paytonrules/selenium-on-rails
   - polonium
