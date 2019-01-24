@@ -2703,6 +2703,7 @@
             "httparty",
             "httpclient",
             "httpi",
+            "httpx",
             "hyperclient",
             "lhc",
             "lhs",
