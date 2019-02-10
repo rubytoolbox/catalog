@@ -4,3 +4,4 @@ projects:
   - ipaddress
   - macker
   - maxminddb
+  - wifiwand
