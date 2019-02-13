@@ -1,0 +1,5 @@
+name: Command Line Utilities
+description: Tools for Ruby Code on the Command Line
+projects:
+  - rb
+  - rexe
