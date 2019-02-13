@@ -926,6 +926,16 @@
           "permalink": "Data_Migration"
         },
         {
+          "name": "Connection Pooling",
+          "description": "Connection Pools allow you to share a limited number of active connections to external services like databases between multiple threads per Ruby process",
+          "projects": [
+            "connection_pool",
+            "pond",
+            "pools"
+          ],
+          "permalink": "Connection_Pooling"
+        },
+        {
           "name": "Active Record Database Adapters",
           "description": "ActiveRecord comes with built-in support for SQLite, PostgreSQL and MySQL on the offical C-based Ruby implementation commonly referred to as \"MRI\". These extensions let you connect to other relational databases or use other Ruby implementations like JRuby.",
           "projects": [
