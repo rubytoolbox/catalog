@@ -1,0 +1,8 @@
+name: Connection Pooling
+description:
+  Connection Pools allow you to share a limited number of active connections to external services like
+  databases between multiple threads per Ruby process
+projects:
+  - connection_pool
+  - pond
+  - pools
