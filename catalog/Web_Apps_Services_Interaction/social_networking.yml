@@ -5,6 +5,7 @@ projects:
   - acts_as_friendable
   - amico
   - bborn/communityengine
+  - decidim
   - has_many_friends
   - inkwell
   - insoshi/insoshi
