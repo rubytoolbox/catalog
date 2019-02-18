@@ -3200,7 +3200,8 @@
           "projects": [
             "ipaddress",
             "macker",
-            "maxminddb"
+            "maxminddb",
+            "wifi-wand"
           ],
           "permalink": "networking_tools"
         }
