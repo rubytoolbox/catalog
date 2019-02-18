@@ -2,6 +2,7 @@ name: Content Management
 description:
 projects:
   - alchemy_cms
+  - binda
   - browsercms
   - cantierecreativo/railsyardcms
   - casein
