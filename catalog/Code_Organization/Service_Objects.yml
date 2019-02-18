@@ -6,7 +6,7 @@ projects:
   - dry-transaction
   - interactor
   - mutations
+  - pathway
   - simple_service
   - surrounded
   - trailblazer-activity
-
