@@ -2121,6 +2121,7 @@
           "name": "Business Logic Frameworks",
           "description": "Tools to help with Domain Driven Design approach and organize app's  Control Flow.",
           "projects": [
+            "pathway",
             "trailblazer",
             "zertico"
           ],
@@ -2135,6 +2136,7 @@
             "dry-transaction",
             "interactor",
             "mutations",
+            "pathway",
             "simple_service",
             "surrounded",
             "trailblazer-activity"
@@ -2598,6 +2600,7 @@
             "acts_as_friendable",
             "amico",
             "bborn/communityengine",
+            "decidim",
             "has_many_friends",
             "inkwell",
             "insoshi/insoshi",
@@ -3649,6 +3652,7 @@
           "description": null,
           "projects": [
             "alchemy_cms",
+            "binda",
             "browsercms",
             "cantierecreativo/railsyardcms",
             "casein",
@@ -3845,6 +3849,7 @@
             "aegis",
             "allowy",
             "authority",
+            "authz",
             "baldwindavid/padlock_authorization",
             "canable",
             "canard",
