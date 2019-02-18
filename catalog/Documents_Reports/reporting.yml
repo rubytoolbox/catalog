@@ -18,6 +18,7 @@ projects:
   - oxcelix
   - remote_table
   - reportable
+  - reports_kit
   - robust_excel_ole
   - rods
   - roo
