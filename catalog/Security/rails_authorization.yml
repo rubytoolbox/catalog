@@ -10,6 +10,7 @@ projects:
   - aegis
   - allowy
   - authority
+  - authz
   - baldwindavid/padlock_authorization
   - canable
   - canard
