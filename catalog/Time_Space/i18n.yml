@@ -25,6 +25,7 @@ projects:
   - it
   - locale_detector
   - localeapp
+  - mobility
   - model_translations
   - mongo-i18n
   - mongoid_translate
