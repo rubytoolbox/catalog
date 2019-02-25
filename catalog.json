@@ -629,6 +629,16 @@
           "permalink": "code_coverage"
         },
         {
+          "name": "Code Review Tools",
+          "description": "Utilities that help make code review more consistent and less error-prone by automating checks",
+          "projects": [
+            "danger",
+            "overcommit",
+            "pronto"
+          ],
+          "permalink": "code_review_tools"
+        },
+        {
           "name": "Code Metrics",
           "description": "Utilities to improve code quality by reporting common code smells like complexity, unsafe defaults, unused variables or stylistic inconsistencies",
           "projects": [
