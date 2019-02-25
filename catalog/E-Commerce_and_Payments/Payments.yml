@@ -16,5 +16,6 @@ projects:
   - pin_up
   - remit
   - sepa_king
+  - square_connect
   - stripe
   - stripe_event
