@@ -13,6 +13,7 @@ projects:
   - garnish
   - komponent
   - meta_presenter
+  - oprah
   - rails_presenter
   - resubject
   - view_models
