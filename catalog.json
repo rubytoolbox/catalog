@@ -1045,6 +1045,7 @@
             "pin_up",
             "remit",
             "sepa_king",
+            "square_connect",
             "stripe",
             "stripe_event"
           ],
@@ -3358,6 +3359,7 @@
             "garnish",
             "komponent",
             "meta_presenter",
+            "oprah",
             "rails_presenter",
             "resubject",
             "view_models",
