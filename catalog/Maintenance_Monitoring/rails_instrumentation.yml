@@ -1,6 +1,7 @@
 name: App Instrumentation
 description:
 projects:
+  - appsignal
   - better_errors
   - bullet
   - dashing
