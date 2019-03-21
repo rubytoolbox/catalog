@@ -1,6 +1,7 @@
 name: A/B Testing
 description:
 projects:
+  - abanalyzer
   - abingo
   - abingo_port
   - absurdity
