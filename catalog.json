@@ -1931,6 +1931,7 @@
           "name": "A/B Testing",
           "description": null,
           "projects": [
+            "abanalyzer",
             "abingo",
             "abingo_port",
             "absurdity",
@@ -2310,6 +2311,7 @@
           "name": "App Instrumentation",
           "description": null,
           "projects": [
+            "appsignal",
             "better_errors",
             "bullet",
             "dashing",
@@ -2333,7 +2335,8 @@
             "rails_view_annotator",
             "scout_apm",
             "slowgrowl",
-            "system-metrics"
+            "system-metrics",
+            "yabeda"
           ],
           "permalink": "rails_instrumentation"
         }
