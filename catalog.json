@@ -643,7 +643,8 @@
           "projects": [
             "danger",
             "overcommit",
-            "pronto"
+            "pronto",
+            "shiba"
           ],
           "permalink": "code_review_tools"
         },
@@ -2333,6 +2334,7 @@
             "metriks",
             "metriksd",
             "newrelic_rpm",
+            "nunes",
             "peek",
             "query_trace",
             "rack-bug",
