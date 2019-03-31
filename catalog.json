@@ -450,6 +450,15 @@
           "permalink": "Benchmarking"
         },
         {
+          "name": "Command Line Utilities",
+          "description": "Tools for using Ruby code on the command line",
+          "projects": [
+            "rb",
+            "rexe"
+          ],
+          "permalink": "CommandLineUtilities"
+        },
+        {
           "name": "irb Alternatives",
           "description": null,
           "projects": [
