@@ -279,6 +279,7 @@
             "dotenv",
             "dotenv-rails",
             "dynamic_configuration",
+            "envied",
             "envyable",
             "figaro",
             "gaston",
