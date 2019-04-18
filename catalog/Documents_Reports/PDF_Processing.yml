@@ -2,6 +2,7 @@ name: PDF Processing
 description:
 projects:
   - hexapdf
+  - origami
   - pdf-reader
   - pdf_info
   - poppler
