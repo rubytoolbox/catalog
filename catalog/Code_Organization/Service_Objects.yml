@@ -1,8 +1,7 @@
 name: Service Objects
-description:
+description: Libraries to isolate application domain logic into separate classes.
 projects:
   - active_interaction
-  - decent_exposure
   - dry-transaction
   - interactor
   - mutations
