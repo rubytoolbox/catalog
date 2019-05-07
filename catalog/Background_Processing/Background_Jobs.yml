@@ -29,6 +29,7 @@ projects:
   - resque
   - resque-mongo
   - rock-queue
+  - rocketjob
   - runner
   - seanohalpin/smqueue
   - shoryuken
