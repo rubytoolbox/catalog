@@ -3,6 +3,7 @@ description: Easily send e-mails from your Ruby programs
 projects:
   - actionmailer
   - capistrano_mailer
+  - hanami-mailer
   - mail
   - mailit
   - pony
