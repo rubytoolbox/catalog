@@ -2,4 +2,5 @@ name: View Objects
 description: Framework agnostic gems that implement Decorator / View Object pattern.
 projects:
   - cells
+  - dry-view
   - hanami-view
