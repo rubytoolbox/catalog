@@ -18,6 +18,7 @@ projects:
   - lumber
   - mongodb_logger
   - ougai
+  - rails-pretty-logger
   - rake_bubbler
   - semantic_logger
   - sentry-raven
