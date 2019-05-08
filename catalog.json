@@ -221,6 +221,7 @@
           "name": "Concurrent Processing",
           "description": "Tools that simplify the writing of concurrent Ruby programs",
           "projects": [
+            "async",
             "celluloid",
             "concurrent-ruby",
             "cool.io",
@@ -2128,6 +2129,7 @@
           "description": "Framework agnostic gems that implement Decorator / View Object pattern.",
           "projects": [
             "cells",
+            "dry-view",
             "hanami-view"
           ],
           "permalink": "View_Objects"
@@ -2889,6 +2891,7 @@
           "projects": [
             "actionmailer",
             "capistrano_mailer",
+            "hanami-mailer",
             "mail",
             "mailit",
             "pony",
