@@ -221,6 +221,7 @@
           "name": "Concurrent Processing",
           "description": "Tools that simplify the writing of concurrent Ruby programs",
           "projects": [
+            "async",
             "celluloid",
             "concurrent-ruby",
             "cool.io",
@@ -521,6 +522,7 @@
           "description": "Libraries that simplify the writing of command-line interfaces for your Ruby programs",
           "projects": [
             "boson",
+            "hanami-cli",
             "lucie",
             "main",
             "rake",
@@ -2138,6 +2140,7 @@
             "activemodel-form",
             "dry-validation",
             "reform",
+            "scrivener",
             "virtus"
           ],
           "permalink": "Form_Objects"
@@ -2293,6 +2296,7 @@
             "lumber",
             "mongodb_logger",
             "ougai",
+            "rails-pretty-logger",
             "rake_bubbler",
             "semantic_logger",
             "sentry-raven",
