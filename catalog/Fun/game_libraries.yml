@@ -1,17 +1,27 @@
 name: Game libraries
-description: 
+description:
 projects:
   - chingu
   - chipmunk
+  - dxruby_sdl
   - fidgit
   - flonkerton
   - gamebox
   - gioco
+  - glfw
   - gosu
   - gosu_android
+  - Groogy/rbSFML
   - jemini
   - kolb
+  - LiteRGSS
   - metro
   - minigl
+  - opengl
+  - opengl-bindings
+  - opengl-definitions
   - ray
+  - ruby2d
   - rubygame
+  - sfml-audio-fiddle
+  - shoes

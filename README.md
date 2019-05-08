@@ -41,7 +41,7 @@ Each `category.yml` currently contains:
 
 * `name` (string, required): Human display name of the category name
 * `description` (string, optional): A (markdown-formatted) category description
-* `projects` (array of strings in alphabetical order, required): The list of projects to list in
+* `projects` (array of strings in case-insensitive alphabetical order, required): The list of projects to list in
   that category. For rubygems, this is the plain gem name, for github repos it's
   the full repo slug (`github_user/repo_name`). Projects can be listed in multiple
   categories.
