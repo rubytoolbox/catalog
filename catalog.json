@@ -2040,6 +2040,7 @@
           "projects": [
             "akephalos",
             "capybara",
+            "capybara-chrome",
             "capybara-webkit",
             "celerity",
             "culerity",
