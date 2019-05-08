@@ -59,7 +59,8 @@
             "breadcrumbs_on_rails",
             "crumble",
             "crummy",
-            "gretel"
+            "gretel",
+            "loaf"
           ],
           "permalink": "Breadcrumb_Builders"
         },
@@ -2180,18 +2181,28 @@
           "projects": [
             "chingu",
             "chipmunk",
+            "dxruby_sdl",
             "fidgit",
             "flonkerton",
             "gamebox",
             "gioco",
+            "glfw",
             "gosu",
             "gosu_android",
+            "Groogy/rbSFML",
             "jemini",
             "kolb",
+            "LiteRGSS",
             "metro",
             "minigl",
+            "opengl",
+            "opengl-bindings",
+            "opengl-definitions",
             "ray",
-            "rubygame"
+            "ruby2d",
+            "rubygame",
+            "sfml-audio-fiddle",
+            "shoes"
           ],
           "permalink": "game_libraries"
         },
@@ -3093,6 +3104,7 @@
           "description": null,
           "projects": [
             "hexapdf",
+            "origami",
             "pdf-reader",
             "pdf_info",
             "poppler",
@@ -3114,6 +3126,7 @@
             "hexapdf",
             "invoice_printer",
             "kitabu",
+            "origami",
             "pdfkit",
             "poppler",
             "prawn",
@@ -3671,6 +3684,7 @@
             "blogit",
             "governor",
             "imathis/octopress",
+            "picco_blog",
             "refinerycms-blog",
             "serious",
             "toto",
