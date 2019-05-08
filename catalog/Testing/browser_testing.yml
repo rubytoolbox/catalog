@@ -3,6 +3,7 @@ description: Write and run automated tests of your web app in a real-world brows
 projects:
   - akephalos
   - capybara
+  - capybara-chrome
   - capybara-webkit
   - celerity
   - culerity
