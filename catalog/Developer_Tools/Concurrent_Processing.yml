@@ -1,6 +1,7 @@
 name: Concurrent Processing
 description: Tools that simplify the writing of concurrent Ruby programs
 projects:
+  - async
   - celluloid
   - concurrent-ruby
   - cool.io
