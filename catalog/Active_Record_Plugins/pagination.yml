@@ -7,5 +7,4 @@ projects:
   - pagy
   - pagy-extras
   - simply_paginate
-  - sorted
   - will_paginate
