@@ -2,7 +2,6 @@ name: Rails Search
 description: 
 projects:
   - acts_as_fulltextable
-  - acts_as_solr
   - chewy
   - elasticsearch
   - elasticsearch-rails
