@@ -23,7 +23,6 @@ projects:
   - solr_query
   - sunspot
   - sunspot_rails
-  - sunspot_solr
   - texticle
   - thinking-sphinx
   - tire
