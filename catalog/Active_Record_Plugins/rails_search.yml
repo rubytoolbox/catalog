@@ -18,7 +18,6 @@ projects:
   - solr_query
   - sunspot
   - sunspot_rails
-  - texticle
   - thinking-sphinx
   - tire
   - xapian_db
