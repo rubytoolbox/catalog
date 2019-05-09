@@ -4,7 +4,6 @@ description:
   as test coverage which reports what parts of your code are not tested, but there
   are also tools to find dead production code
 projects:
-  - cover_me
   - coveralls
   - coverband
   - simplecov
