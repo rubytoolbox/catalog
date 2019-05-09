@@ -5,7 +5,6 @@ projects:
   - chewy
   - elasticsearch
   - elasticsearch-rails
-  - elastictastic
   - ferret
   - pg_search
   - rsolr
