@@ -12,5 +12,4 @@ projects:
   - searchlight
   - sunspot
   - thinking-sphinx
-  - tire
   - xapian_db
