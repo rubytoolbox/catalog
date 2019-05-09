@@ -13,7 +13,6 @@ projects:
   - elastictastic
   - ferret
   - pg_search
-  - redis-search
   - rsolr
   - ruby_simple_search
   - scoped_search
