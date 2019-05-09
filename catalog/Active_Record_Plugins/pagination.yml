@@ -2,7 +2,6 @@ name: Pagination
 description: Split large data collections into subsets to display on multiple pages
 projects:
   - kaminari
-  - paged_scopes
   - pagy
   - pagy-extras
   - simply_paginate
