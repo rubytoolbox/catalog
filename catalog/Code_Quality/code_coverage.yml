@@ -7,7 +7,6 @@ projects:
   - cover_me
   - coveralls
   - coverband
-  - rcov
   - simplecov
   - single_cov
   - undercover
