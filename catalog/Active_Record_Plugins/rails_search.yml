@@ -3,7 +3,6 @@ description:
 projects:
   - acts_as_ferret
   - acts_as_fulltextable
-  - acts_as_indexed
   - acts_as_solr
   - acts_as_solr_reloaded
   - chewy
