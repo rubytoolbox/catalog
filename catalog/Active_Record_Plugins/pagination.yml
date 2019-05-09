@@ -3,6 +3,5 @@ description: Split large data collections into subsets to display on multiple pa
 projects:
   - kaminari
   - pagy
-  - pagy-extras
   - simply_paginate
   - will_paginate
