@@ -6,6 +6,7 @@ description:
 projects:
   - coveralls
   - coverband
+  - covered
   - simplecov
   - single_cov
   - undercover
