@@ -3,7 +3,6 @@ description: Split large data collections into subsets to display on multiple pa
 projects:
   - ajax_pagination
   - kaminari
-  - kaminari-bootstrap
   - paged_scopes
   - pagy
   - pagy-extras
