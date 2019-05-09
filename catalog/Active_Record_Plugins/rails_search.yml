@@ -4,7 +4,6 @@ projects:
   - acts_as_fulltextable
   - acts_as_solr
   - chewy
-  - delsolr
   - elasticsearch
   - elasticsearch-rails
   - elastictastic
