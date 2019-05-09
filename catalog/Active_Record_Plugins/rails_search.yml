@@ -13,7 +13,6 @@ projects:
   - searchkick
   - searchlight
   - slingshot-rb
-  - solr_query
   - sunspot
   - sunspot_rails
   - thinking-sphinx
