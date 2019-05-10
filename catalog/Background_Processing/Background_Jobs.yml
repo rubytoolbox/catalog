@@ -17,7 +17,6 @@ projects:
   - queue_classic
   - rabbit_jobs
   - resque
-  - rock-queue
   - rocketjob
   - runner
   - shoryuken
