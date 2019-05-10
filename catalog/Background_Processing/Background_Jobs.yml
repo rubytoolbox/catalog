@@ -14,7 +14,6 @@ projects:
   - jnstq/job_fu
   - job_reactor
   - later
-  - ncr/background-fu
   - que
   - quebert
   - queue_classic
