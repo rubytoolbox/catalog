@@ -2,7 +2,6 @@ name: Background Jobs
 description: Process slow tasks asynchronously to keep response times low, improve fault-tolerance and aid with horizontal scaling
 projects:
   - backburner
-  - barttenbrinke/worker_queue
   - beetle
   - bunny
   - cloud-crowd
