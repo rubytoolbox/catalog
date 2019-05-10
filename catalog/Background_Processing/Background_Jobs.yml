@@ -26,6 +26,5 @@ projects:
   - seanohalpin/smqueue
   - shoryuken
   - sidekiq
-  - stalker
   - sucker_punch
   - workling
