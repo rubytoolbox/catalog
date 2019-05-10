@@ -3,7 +3,6 @@ description: Process slow tasks asynchronously to keep response times low, impro
 projects:
   - acts_as_executor
   - backburner
-  - backgrounded
   - barttenbrinke/worker_queue
   - beetle
   - bj
