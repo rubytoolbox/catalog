@@ -7,7 +7,6 @@ projects:
   - bunny
   - cloud-crowd
   - delayed_job
-  - frenzy_bunnies
   - que
   - quebert
   - queue_classic
