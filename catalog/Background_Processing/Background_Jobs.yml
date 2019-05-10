@@ -17,7 +17,6 @@ projects:
   - gnufied/backgroundrb
   - jnstq/job_fu
   - job_reactor
-  - kr/beanstalkd
   - later
   - navvy
   - ncr/background-fu
