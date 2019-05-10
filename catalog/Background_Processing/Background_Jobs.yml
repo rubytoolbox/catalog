@@ -12,7 +12,6 @@ projects:
   - queue_classic
   - resque
   - rocketjob
-  - runner
   - shoryuken
   - sidekiq
   - sucker_punch
