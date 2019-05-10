@@ -15,7 +15,6 @@ projects:
   - que
   - quebert
   - queue_classic
-  - rabbit_jobs
   - resque
   - rocketjob
   - runner
