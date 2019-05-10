@@ -10,7 +10,6 @@ projects:
   - cloud-crowd
   - delayed_job
   - frenzy_bunnies
-  - jnstq/job_fu
   - job_reactor
   - later
   - que
