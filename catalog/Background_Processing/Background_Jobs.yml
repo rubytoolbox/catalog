@@ -9,7 +9,6 @@ projects:
   - delayed_job
   - frenzy_bunnies
   - job_reactor
-  - later
   - que
   - quebert
   - queue_classic
