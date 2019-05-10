@@ -30,6 +30,5 @@ projects:
   - shoryuken
   - sidekiq
   - stalker
-  - starling
   - sucker_punch
   - workling
