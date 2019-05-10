@@ -5,7 +5,6 @@ projects:
   - backburner
   - barttenbrinke/worker_queue
   - beetle
-  - bj
   - bunny
   - cloud-crowd
   - delayed_job
