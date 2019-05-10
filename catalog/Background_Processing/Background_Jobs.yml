@@ -20,7 +20,6 @@ projects:
   - rock-queue
   - rocketjob
   - runner
-  - seanohalpin/smqueue
   - shoryuken
   - sidekiq
   - sucker_punch
