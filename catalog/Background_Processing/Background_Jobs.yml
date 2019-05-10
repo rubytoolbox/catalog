@@ -8,7 +8,6 @@ projects:
   - cloud-crowd
   - delayed_job
   - frenzy_bunnies
-  - job_reactor
   - que
   - quebert
   - queue_classic
