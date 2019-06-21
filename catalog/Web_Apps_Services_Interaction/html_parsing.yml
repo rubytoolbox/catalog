@@ -5,6 +5,8 @@ projects:
   - libxml-ruby
   - nikkou
   - nokogiri
+  - oga
+  - ox
   - scrapi
   - scrubyt
   - xml-motor
