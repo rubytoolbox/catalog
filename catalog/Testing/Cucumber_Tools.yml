@@ -1,6 +1,7 @@
 name: Cucumber Tools
 description: 
 projects:
+  - chutney
   - cql
   - cucover
   - cucumber-in-the-yard
