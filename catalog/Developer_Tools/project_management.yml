@@ -2,6 +2,7 @@ name: Project Management
 description:
 projects:
   - branston
+  - caperoma
   - chiliproject/chiliproject
   - dim/retrospectiva
   - edavis10/redmine
