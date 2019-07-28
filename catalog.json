@@ -634,6 +634,7 @@
             "cover_me",
             "coveralls",
             "coverband",
+            "covered",
             "rcov",
             "simplecov",
             "single_cov",
