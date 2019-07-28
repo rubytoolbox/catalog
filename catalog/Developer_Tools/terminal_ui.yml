@@ -1,0 +1,22 @@
+name: Terminal UI
+description: Components to build Terminal UIs
+projects:
+  - cli-ui
+  - terminal-table
+  - tty
+  - tty-box
+  - tty-color
+  - tty-command
+  - tty-cursor
+  - tty-font
+  - tty-markdown
+  - tty-pager
+  - tty-pie
+  - tty-progressbar
+  - tty-prompt
+  - tty-reader
+  - tty-screen
+  - tty-spinner
+  - tty-table
+  - tty-tree
+  - vedeu
