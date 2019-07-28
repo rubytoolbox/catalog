@@ -8,3 +8,4 @@ projects:
   - forgery
   - randexp
   - random_data
+  - well_read_faker
