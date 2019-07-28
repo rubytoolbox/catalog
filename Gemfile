@@ -17,12 +17,13 @@ group :development, :test do
 end
 
 group :development do
-  gem "guard-bundler"
-  gem "guard-rspec"
-  gem "guard-rubocop"
+  gem "guard-bundler", require: false
+  gem "guard-rspec", require: false
+  gem "guard-rubocop", require: false
 
-  gem "overcommit"
+  gem "overcommit", require: false
 
-  gem "rubocop"
-  gem "rubocop-rspec"
+  gem "rubocop", require: false
+  gem "rubocop-performance", require: false
+  gem "rubocop-rspec", require: false
 end
