@@ -2696,6 +2696,7 @@
             "data_active",
             "gyoku",
             "happymapper",
+            "lazy-sax-machine",
             "nokogiri-happymapper",
             "nori",
             "representative",
@@ -2764,6 +2765,8 @@
             "libxml-ruby",
             "nikkou",
             "nokogiri",
+            "oga",
+            "ox",
             "scrapi",
             "scrubyt",
             "xml-motor"
