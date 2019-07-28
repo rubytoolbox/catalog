@@ -2196,6 +2196,7 @@
             "interactor",
             "mutations",
             "pathway",
+            "simple_command",
             "simple_service",
             "surrounded",
             "trailblazer-activity"
