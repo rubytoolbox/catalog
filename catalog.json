@@ -1866,7 +1866,8 @@
             "ffaker",
             "forgery",
             "randexp",
-            "random_data"
+            "random_data",
+            "well_read_faker"
           ],
           "permalink": "random_data_generation"
         },
