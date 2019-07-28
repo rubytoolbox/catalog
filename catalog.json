@@ -2369,6 +2369,7 @@
           "name": "App Instrumentation",
           "description": null,
           "projects": [
+            "appoptics_apm",
             "appsignal",
             "better_errors",
             "bullet",
@@ -3845,6 +3846,7 @@
             "monban",
             "omniauth",
             "rack-cas",
+            "rodauth",
             "rpx_now",
             "sorcery",
             "switch_user",
