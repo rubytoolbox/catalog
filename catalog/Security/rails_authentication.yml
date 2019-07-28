@@ -15,6 +15,7 @@ projects:
   - monban
   - omniauth
   - rack-cas
+  - rodauth
   - rpx_now
   - sorcery
   - switch_user
