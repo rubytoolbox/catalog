@@ -2038,6 +2038,7 @@
           "name": "Cucumber Tools",
           "description": null,
           "projects": [
+            "chutney",
             "cql",
             "cucover",
             "cucumber-in-the-yard",
