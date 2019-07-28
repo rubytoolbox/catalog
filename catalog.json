@@ -847,6 +847,7 @@
           "projects": [
             "active_record_migrations",
             "otr-activerecord",
+            "sinatra-activerecord",
             "standalone_migrations"
           ],
           "permalink": "ActiveRecord_without_Rails"
