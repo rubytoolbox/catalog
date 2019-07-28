@@ -1,6 +1,7 @@
 name: App Instrumentation
 description:
 projects:
+  - appoptics_apm
   - appsignal
   - better_errors
   - bullet
