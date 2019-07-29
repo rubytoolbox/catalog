@@ -4,7 +4,6 @@ projects:
   - cheap_random
   - data-anonymization
   - faker
-  - faker_maker
   - ffaker
   - forgery
   - randexp
