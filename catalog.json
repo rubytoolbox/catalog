@@ -3,6 +3,64 @@
     {
       "categories": [
         {
+          "name": "Breadcrumb Builders",
+          "description": null,
+          "projects": [
+            "ariane",
+            "breadcrumble",
+            "breadcrumbs",
+            "breadcrumbs_on_rails",
+            "crumble",
+            "crummy",
+            "gretel",
+            "loaf"
+          ],
+          "permalink": "Breadcrumb_Builders"
+        },
+        {
+          "name": "Syntax Highlighting",
+          "description": null,
+          "projects": [
+            "albeano",
+            "albino",
+            "code_rippa",
+            "coderay",
+            "highlight",
+            "ink",
+            "ioquatix/jquery-syntax",
+            "michaeledgar/harsh",
+            "rack-coderay",
+            "rack-pygmentize",
+            "rouge",
+            "technoweenie/ultraviolence",
+            "tm_syntax_highlighting",
+            "ultraviolet"
+          ],
+          "permalink": "syntax_highlighting"
+        },
+        {
+          "name": "Table Builders",
+          "description": null,
+          "projects": [
+            "active-list",
+            "datagrid",
+            "easy_table",
+            "fancygrid",
+            "gridder",
+            "magic_grid",
+            "sorting_table_for",
+            "table-for",
+            "table_cloth",
+            "table_for_collection",
+            "table_go",
+            "tableasy",
+            "tableficate",
+            "tabletastic",
+            "wice_grid"
+          ],
+          "permalink": "Table_Builders"
+        },
+        {
           "name": "Microformats",
           "description": null,
           "projects": [
@@ -26,67 +84,6 @@
             "wizardly"
           ],
           "permalink": "rails_wizards"
-        },
-        {
-          "name": "Form Builders",
-          "description": null,
-          "projects": [
-            "airblade/air_budd_form_builder",
-            "bootstrap_form",
-            "bootstrap_forms",
-            "campo",
-            "cocoon",
-            "comfy_bootstrap_form",
-            "formize",
-            "formtastic",
-            "formula",
-            "formular",
-            "mongoid_form",
-            "nested_form",
-            "parsley_simple_form",
-            "simple_form",
-            "twitter_bootstrap_form_for"
-          ],
-          "permalink": "rails_form_builders"
-        },
-        {
-          "name": "Breadcrumb Builders",
-          "description": null,
-          "projects": [
-            "ariane",
-            "breadcrumble",
-            "breadcrumbs",
-            "breadcrumbs_on_rails",
-            "crumble",
-            "crummy",
-            "gretel",
-            "loaf"
-          ],
-          "permalink": "Breadcrumb_Builders"
-        },
-        {
-          "name": "Markup processors",
-          "description": null,
-          "projects": [
-            "bluecloth",
-            "creole",
-            "kramdown",
-            "markdown_helper",
-            "markup",
-            "maruku",
-            "mcbean",
-            "minidown",
-            "multi_markdown",
-            "pandoc-ruby",
-            "rdiscount",
-            "redcarpet",
-            "RedCloth",
-            "rpeg-markdown",
-            "smiley",
-            "stupid_formatter",
-            "vkhater-redcarpet"
-          ],
-          "permalink": "markup_processors"
         },
         {
           "name": "Template Engines",
@@ -125,47 +122,26 @@
           "permalink": "template_engines"
         },
         {
-          "name": "Table Builders",
+          "name": "Form Builders",
           "description": null,
           "projects": [
-            "active-list",
-            "datagrid",
-            "easy_table",
-            "fancygrid",
-            "gridder",
-            "magic_grid",
-            "sorting_table_for",
-            "table-for",
-            "table_cloth",
-            "table_for_collection",
-            "table_go",
-            "tableasy",
-            "tableficate",
-            "tabletastic",
-            "wice_grid"
+            "airblade/air_budd_form_builder",
+            "bootstrap_form",
+            "bootstrap_forms",
+            "campo",
+            "cocoon",
+            "comfy_bootstrap_form",
+            "formize",
+            "formtastic",
+            "formula",
+            "formular",
+            "mongoid_form",
+            "nested_form",
+            "parsley_simple_form",
+            "simple_form",
+            "twitter_bootstrap_form_for"
           ],
-          "permalink": "Table_Builders"
-        },
-        {
-          "name": "Syntax Highlighting",
-          "description": null,
-          "projects": [
-            "albeano",
-            "albino",
-            "code_rippa",
-            "coderay",
-            "highlight",
-            "ink",
-            "ioquatix/jquery-syntax",
-            "michaeledgar/harsh",
-            "rack-coderay",
-            "rack-pygmentize",
-            "rouge",
-            "technoweenie/ultraviolence",
-            "tm_syntax_highlighting",
-            "ultraviolet"
-          ],
-          "permalink": "syntax_highlighting"
+          "permalink": "rails_form_builders"
         },
         {
           "name": "Rails Menu Builders",
@@ -190,6 +166,30 @@
             "xebec"
           ],
           "permalink": "rails_menu_builders"
+        },
+        {
+          "name": "Markup processors",
+          "description": null,
+          "projects": [
+            "bluecloth",
+            "creole",
+            "kramdown",
+            "markdown_helper",
+            "markup",
+            "maruku",
+            "mcbean",
+            "minidown",
+            "multi_markdown",
+            "pandoc-ruby",
+            "rdiscount",
+            "redcarpet",
+            "RedCloth",
+            "rpeg-markdown",
+            "smiley",
+            "stupid_formatter",
+            "vkhater-redcarpet"
+          ],
+          "permalink": "markup_processors"
         }
       ],
       "description": null,
@@ -199,910 +199,55 @@
     {
       "categories": [
         {
-          "name": "Command Line Progress Bars",
-          "description": "Display progress of your terminal program nicely",
-          "projects": [
-            "fuubar",
-            "multi_progress_bar",
-            "powerbar",
-            "progress",
-            "progress-meter",
-            "progress_bar",
-            "progressbar",
-            "ruby-progressbar",
-            "shell-spinner",
-            "spinning_cursor",
-            "tty-progressbar",
-            "whirly"
-          ],
-          "permalink": "CLI_Progress_Bars"
-        },
-        {
-          "name": "Concurrent Processing",
-          "description": "Tools that simplify the writing of concurrent Ruby programs",
-          "projects": [
-            "async",
-            "celluloid",
-            "concurrent-ruby",
-            "cool.io",
-            "dataflow",
-            "eventbox",
-            "eventmachine",
-            "tribe",
-            "wires",
-            "workers"
-          ],
-          "permalink": "Concurrent_Processing"
-        },
-        {
-          "name": "git Tools",
+          "name": "Continuous Integration",
           "description": null,
           "projects": [
-            "ezgit",
-            "gas",
-            "git",
-            "git-cop",
-            "githug",
-            "gitolite",
-            "gitsu",
-            "grit",
-            "gritano",
-            "octonore",
-            "rugged"
+            "appelier/bigtuna",
+            "cap_gun",
+            "cerberus",
+            "ci-go-nfo",
+            "cijoe",
+            "dcrec1/signal",
+            "goldberg",
+            "integrity",
+            "jenkins",
+            "tddium",
+            "thoughtworks/cruisecontrol.rb",
+            "travis-ci/travis-ci",
+            "update_status"
           ],
-          "permalink": "git_Tools"
+          "permalink": "continuous_integration"
         },
         {
-          "name": "Configuration Management",
-          "description": null,
+          "name": "Microsoft Azure",
+          "description": "Official and community-built utilities for working with Microsoft's Azure cloud services",
           "projects": [
-            "acts_as_configurable",
-            "amberbit-config",
-            "anyway_config",
-            "app",
-            "app_config",
-            "application_configuration",
-            "chamber",
-            "config-me",
-            "config_fun",
-            "config_newton",
-            "configatron",
-            "configliere",
-            "configloader",
-            "configtoolkit",
-            "configulations",
-            "configurability",
-            "configurable_engine",
-            "configuration",
-            "configus",
-            "confstruct",
-            "constantinople",
-            "dotconfig",
-            "dotenv",
-            "dotenv-rails",
-            "dynamic_configuration",
-            "envied",
-            "envyable",
-            "figaro",
-            "gaston",
-            "global",
-            "informante",
-            "ledermann-rails-settings",
-            "micon",
-            "optimism",
-            "rails-settings",
-            "rails_config",
-            "rconfig",
-            "settingslogic",
-            "simpleconfig",
-            "store_configurable",
-            "tty-config",
-            "user_config",
-            "yettings"
+            "azure-acs",
+            "azure-armrest",
+            "azure-auth",
+            "azure-contrib",
+            "azure-core",
+            "azure-credentials",
+            "azure-directory",
+            "azure-documentdb-sdk",
+            "azure-fix",
+            "azure-loganalytics-datacollector-api",
+            "azure-multistorage",
+            "azure-plus",
+            "azure-profile",
+            "azure-push",
+            "azure-sas",
+            "azure-signature",
+            "azure-storage",
+            "azure-storage-blob",
+            "azure-storage-common",
+            "azure-storage-file",
+            "azure-storage-queue",
+            "azure-storage-table",
+            "fog"
           ],
-          "permalink": "Configuration_Management"
+          "permalink": "Microsoft_Azure"
         },
-        {
-          "name": "Gnome libraries",
-          "description": "Ruby bindings for the Gnome libraries.",
-          "projects": [
-            "atk",
-            "cairo-gobject",
-            "clutter",
-            "clutter-gdk",
-            "clutter-gstreamer",
-            "clutter-gtk",
-            "gdk3",
-            "gdk_pixbuf2",
-            "gio2",
-            "glib2",
-            "gnumeric",
-            "gobject-introspection",
-            "goffice",
-            "gsf",
-            "gstreamer",
-            "gtk2",
-            "gtk3",
-            "gtksourceview2",
-            "gtksourceview3",
-            "pango",
-            "poppler",
-            "rsvg2",
-            "vte",
-            "vte3",
-            "webkit-gtk",
-            "webkit-gtk2",
-            "webkit2-gtk"
-          ],
-          "permalink": "Gnome"
-        },
-        {
-          "name": "Terminal UI",
-          "description": "Components to build Terminal UIs",
-          "projects": [
-            "cli-ui",
-            "terminal-table",
-            "tty",
-            "tty-box",
-            "tty-color",
-            "tty-command",
-            "tty-cursor",
-            "tty-font",
-            "tty-markdown",
-            "tty-pager",
-            "tty-pie",
-            "tty-progressbar",
-            "tty-prompt",
-            "tty-reader",
-            "tty-screen",
-            "tty-spinner",
-            "tty-table",
-            "tty-tree",
-            "vedeu"
-          ],
-          "permalink": "terminal_ui"
-        },
-        {
-          "name": "Ruby Version Management",
-          "description": null,
-          "projects": [
-            "asdf-vm/asdf-ruby",
-            "hmans/rbfu",
-            "phoet/which_ruby",
-            "postmodern/chruby",
-            "postmodern/ruby-install",
-            "rvm/rvm",
-            "senny/rvm.el",
-            "sstephenson/rbenv",
-            "sstephenson/ruby-build",
-            "vertiginous/pik"
-          ],
-          "permalink": "ruby_version_management"
-        },
-        {
-          "name": "Deprecation Tools",
-          "description": null,
-          "projects": [
-            "deprecated",
-            "structured_warnings"
-          ],
-          "permalink": "Deprecation_Tools"
-        },
-        {
-          "name": "Terminal Coloring",
-          "description": null,
-          "projects": [
-            "ansi",
-            "colored",
-            "colorize",
-            "lolcat",
-            "paint",
-            "pastel",
-            "rainbow",
-            "term-ansicolor"
-          ],
-          "permalink": "Terminal_Coloring"
-        },
-        {
-          "name": "Rails Version Management",
-          "description": "Tools for managing the Rails versions of new or existing apps",
-          "projects": [
-            "brandonweiss/railyard"
-          ],
-          "permalink": "rails_version_management"
-        },
-        {
-          "name": "Gem and Library Inspection",
-          "description": null,
-          "projects": [
-            "gemedit",
-            "open_gem",
-            "qwandry"
-          ],
-          "permalink": "Gem_and_Library_Inspection"
-        },
-        {
-          "name": "GUI Frameworks",
-          "description": null,
-          "projects": [
-            "ffi-tk",
-            "flammarion",
-            "fxruby",
-            "gtk2",
-            "gtk3",
-            "qtbindings",
-            "shoes",
-            "wxruby"
-          ],
-          "permalink": "GUI_Frameworks"
-        },
-        {
-          "name": "Gem Creation",
-          "description": "Tools that aid in creating, maintaining and publishing Rubygems",
-          "projects": [
-            "bones",
-            "bundler",
-            "echoe",
-            "enginex",
-            "gem-newgem",
-            "gem-release",
-            "gem_hadar",
-            "gemsmith",
-            "hoe",
-            "inochi",
-            "jeweler",
-            "juwelier",
-            "microgem",
-            "newgem",
-            "ore",
-            "quik",
-            "rag",
-            "rookie",
-            "rubygems-tasks",
-            "simple-gem"
-          ],
-          "permalink": "gem_creation"
-        },
-        {
-          "name": "Benchmarking",
-          "description": null,
-          "projects": [
-            "bench_press",
-            "benchmark-ips",
-            "benchmarkable",
-            "better-benchmark",
-            "dev_panel",
-            "method_profiler",
-            "rbench",
-            "tach"
-          ],
-          "permalink": "Benchmarking"
-        },
-        {
-          "name": "Command Line Utilities",
-          "description": "Tools for using Ruby code on the command line",
-          "projects": [
-            "rb",
-            "rexe"
-          ],
-          "permalink": "CommandLineUtilities"
-        },
-        {
-          "name": "irb Alternatives",
-          "description": null,
-          "projects": [
-            "fir-repl",
-            "pry",
-            "rib",
-            "ripl"
-          ],
-          "permalink": "irb_Alternatives"
-        },
-        {
-          "name": "Text Editors in Ruby",
-          "description": null,
-          "projects": [
-            "arcadia",
-            "diakonos",
-            "redcar",
-            "ruber",
-            "ruco"
-          ],
-          "permalink": "text_editors_in_ruby"
-        },
-        {
-          "name": "Project Management",
-          "description": null,
-          "projects": [
-            "branston",
-            "caperoma",
-            "chiliproject/chiliproject",
-            "dim/retrospectiva",
-            "edavis10/redmine",
-            "git_time_extractor",
-            "gitlabhq/gitlabhq",
-            "joshrendek/reru_scrum",
-            "joshrendek/taskrey",
-            "malclocke/fulcrum",
-            "pickler",
-            "shingara/oupsnow",
-            "teambox/teambox"
-          ],
-          "permalink": "project_management"
-        },
-        {
-          "name": "Presentation Software",
-          "description": null,
-          "projects": [
-            "cykod/CoderDeck",
-            "davist11/jQuery-Presentation",
-            "geraldb/s6",
-            "LeaVerou/CSSS",
-            "showoff",
-            "slidedown",
-            "slideshow"
-          ],
-          "permalink": "presentation_software"
-        },
-        {
-          "name": "Scripting Frameworks",
-          "description": "Libraries that simplify the writing of command-line interfaces for your Ruby programs",
-          "projects": [
-            "boson",
-            "hanami-cli",
-            "lucie",
-            "main",
-            "rake",
-            "sake",
-            "thor"
-          ],
-          "permalink": "scripting_frameworks"
-        },
-        {
-          "name": "Command Line Option Parsers",
-          "description": "Utilities to process arguments to terminal command line programs easily",
-          "projects": [
-            "acclaim",
-            "arg0",
-            "choice",
-            "cl",
-            "clamp",
-            "clap",
-            "cmdparse",
-            "cocaine",
-            "commander",
-            "config_parser",
-            "cri",
-            "docopt",
-            "getopt",
-            "getoptions",
-            "gli",
-            "highline",
-            "methadone",
-            "micro-optparse",
-            "mixlib-cli",
-            "OptionParser",
-            "optitron",
-            "quickl",
-            "rationalist",
-            "slop",
-            "trollop"
-          ],
-          "permalink": "CLI_Option_Parsers"
-        },
-        {
-          "name": "Ruby Core Extensions",
-          "description": "Libraries that enhance Ruby's core classes like Hash or String with additional features",
-          "projects": [
-            "activesupport",
-            "deep_tree",
-            "docile",
-            "extlib",
-            "facets",
-            "fast_underscore",
-            "hamster",
-            "hashie",
-            "hashy",
-            "named-parameters",
-            "optionalargument",
-            "pluginfactory",
-            "powerpack",
-            "rearmed",
-            "rubytree",
-            "rucursive",
-            "rumonade",
-            "suggest_rb",
-            "tagen",
-            "vernacular",
-            "vernacular-ast",
-            "zucker"
-          ],
-          "permalink": "Ruby_Core_Extensions"
-        },
-        {
-          "name": "irb Tools",
-          "description": null,
-          "projects": [
-            "alias",
-            "awesome_print",
-            "bond",
-            "clipboard",
-            "davidrichards/sirb",
-            "every_day_irb",
-            "fancy_irb",
-            "gilesbowkett/utility-belt",
-            "hirb",
-            "interactive_editor",
-            "irbtools",
-            "irbtools-more",
-            "looksee",
-            "marco-polo",
-            "ori",
-            "pry-rails",
-            "racksh",
-            "ryanb/dotfiles",
-            "sketches",
-            "table_print",
-            "wirb",
-            "wirble"
-          ],
-          "permalink": "irb_tools"
-        }
-      ],
-      "description": null,
-      "name": "Developer Tools",
-      "permalink": "Developer_Tools"
-    },
-    {
-      "categories": [
-        {
-          "name": "Code Coverage",
-          "description": "Utilities that report which code is being run. Most commonly this is used as test coverage which reports what parts of your code are not tested, but there are also tools to find dead production code",
-          "projects": [
-            "cover_me",
-            "coveralls",
-            "coverband",
-            "covered",
-            "rcov",
-            "simplecov",
-            "single_cov",
-            "undercover"
-          ],
-          "permalink": "code_coverage"
-        },
-        {
-          "name": "Code Review Tools",
-          "description": "Utilities that help make code review more consistent and less error-prone by automating checks",
-          "projects": [
-            "danger",
-            "overcommit",
-            "pronto",
-            "shiba"
-          ],
-          "permalink": "code_review_tools"
-        },
-        {
-          "name": "Code Metrics",
-          "description": "Utilities to improve code quality by reporting common code smells like complexity, unsafe defaults, unused variables or stylistic inconsistencies",
-          "projects": [
-            "cane",
-            "coco",
-            "code_statistics",
-            "code_stats2",
-            "flay",
-            "flog",
-            "foodcritic",
-            "git-cop",
-            "jslint_on_rails",
-            "kevinrutherford/crap4r",
-            "metric_abc",
-            "metric_fu",
-            "outlaw",
-            "pelusa",
-            "rails_best_practices",
-            "reek",
-            "roodi",
-            "rubocop",
-            "rubocop-rspec",
-            "rubycritic",
-            "Saikuro",
-            "sandi_meter",
-            "tailor",
-            "thoughtbot/report_card"
-          ],
-          "permalink": "code_metrics"
-        }
-      ],
-      "description": null,
-      "name": "Code Quality",
-      "permalink": "Code_Quality"
-    },
-    {
-      "categories": [
-        {
-          "name": "Web UI frameworks",
-          "description": "Full-featured Web UI frameworks with built-in grids and ready-to-use components",
-          "projects": [
-            "bootstrap",
-            "bootstrap-sass",
-            "semantic-ui-sass",
-            "shipyard-framework",
-            "stylish",
-            "twitter-bootstrap-rails",
-            "twitter-bootswatch-rails",
-            "twitter-bootswatch-rails-fontawesome",
-            "twitter-bootswatch-rails-helpers"
-          ],
-          "permalink": "web_ui_frameworks"
-        },
-        {
-          "name": "CSS Tools",
-          "description": "Tools to make working with Cascading Stylesheets (CSS) easier",
-          "projects": [
-            "airblade/css_dryer",
-            "bourbon",
-            "compass",
-            "deadweight",
-            "less",
-            "patterns",
-            "rainpress",
-            "sass",
-            "sass-rails",
-            "smurfville",
-            "stylus"
-          ],
-          "permalink": "css_with_ruby"
-        },
-        {
-          "name": "Font-Face Servers",
-          "description": null,
-          "projects": [
-            "fistface",
-            "garrickvanburen/Fontue",
-            "rack-fontserve"
-          ],
-          "permalink": "Font_Face_Servers"
-        }
-      ],
-      "description": null,
-      "name": "CSS",
-      "permalink": "CSS"
-    },
-    {
-      "categories": [
-        {
-          "name": "Background Jobs",
-          "description": "Process slow tasks asynchronously to keep response times low, improve fault-tolerance and aid with horizontal scaling",
-          "projects": [
-            "acts_as_executor",
-            "amqp",
-            "backburner",
-            "backgrounded",
-            "barttenbrinke/worker_queue",
-            "beetle",
-            "bj",
-            "bunny",
-            "cloud-crowd",
-            "delayed_job",
-            "delayed_job_active_record",
-            "frenzy_bunnies",
-            "girl_friday",
-            "gnufied/backgroundrb",
-            "jnstq/job_fu",
-            "job_reactor",
-            "kr/beanstalkd",
-            "later",
-            "navvy",
-            "ncr/background-fu",
-            "qu",
-            "que",
-            "quebert",
-            "queue_classic",
-            "rabbit_jobs",
-            "resque",
-            "resque-mongo",
-            "rock-queue",
-            "rocketjob",
-            "runner",
-            "seanohalpin/smqueue",
-            "shoryuken",
-            "sidekiq",
-            "stalker",
-            "starling",
-            "sucker_punch",
-            "workling"
-          ],
-          "permalink": "Background_Jobs"
-        },
-        {
-          "name": "Scheduling",
-          "description": "Execute tasks on a schedule",
-          "projects": [
-            "clockwork",
-            "latimes/craken",
-            "recurrent",
-            "resque-scheduler",
-            "rufus-scheduler",
-            "sidecloq",
-            "sidekiq-cron",
-            "simple_scheduler",
-            "Swirrl/Taskit",
-            "whenever"
-          ],
-          "permalink": "scheduling"
-        },
-        {
-          "name": "Daemon Management",
-          "description": "Simplify the management of multiple processes",
-          "projects": [
-            "daemon-spawn",
-            "daemon_controller",
-            "foreman",
-            "lunchy"
-          ],
-          "permalink": "daemon_management"
-        },
-        {
-          "name": "Daemonizing",
-          "description": "Turn your program into a service running in the background",
-          "projects": [
-            "daemon-kit",
-            "daemonizer",
-            "daemons",
-            "daemons-rails",
-            "dante",
-            "dougal/daemon_generator",
-            "fallen",
-            "foreverb",
-            "looper",
-            "multi_daemons",
-            "robustthread",
-            "simple-daemon",
-            "titan"
-          ],
-          "permalink": "daemonizing"
-        }
-      ],
-      "description": null,
-      "name": "Background Processing",
-      "permalink": "Background_Processing"
-    },
-    {
-      "categories": [
-        {
-          "name": "ActiveRecord without Rails",
-          "description": "Projects that help in using ActiveRecord outside of a Rails project.",
-          "projects": [
-            "active_record_migrations",
-            "otr-activerecord",
-            "sinatra-activerecord",
-            "standalone_migrations"
-          ],
-          "permalink": "ActiveRecord_without_Rails"
-        },
-        {
-          "name": "Object-relational mapping",
-          "description": "Libraries that map SQL database tables and rows to Ruby classes and objects in order to enable easy interaction with the data persistence layer from your program",
-          "projects": [
-            "activerecord",
-            "dm-core",
-            "og",
-            "orm_adapter",
-            "rom",
-            "sequel",
-            "squeel"
-          ],
-          "permalink": "orm"
-        },
-        {
-          "name": "MongoDB Clients",
-          "description": null,
-          "projects": [
-            "mince",
-            "mongo",
-            "mongo_mapper",
-            "mongodb_model",
-            "mongoid",
-            "mongomatic",
-            "perpetuity"
-          ],
-          "permalink": "mongodb_clients"
-        },
-        {
-          "name": "CSV Parsers",
-          "description": null,
-          "projects": [
-            "ccsv",
-            "conformist",
-            "csv_importer",
-            "csv_pirate",
-            "csvhuman",
-            "csvjson",
-            "csvreader",
-            "csvrecord",
-            "csvyaml",
-            "fastercsv",
-            "fasterer-csv",
-            "hasherize_csv",
-            "postgres-copy",
-            "rcsvreader",
-            "simple_importer",
-            "smarter_csv",
-            "tabular"
-          ],
-          "permalink": "CSV_Parsers"
-        },
-        {
-          "name": "SQL Database Adapters",
-          "description": "Low-level adapters for interfacing with various SQL database servers",
-          "projects": [
-            "ibm_db",
-            "jdbc-mysql",
-            "jdbc-postgres",
-            "kbam",
-            "mysql",
-            "mysql2",
-            "mysqlplus",
-            "pg",
-            "postgres-pr",
-            "postgresql_cursor",
-            "ruby-mysql",
-            "ruby-oci8",
-            "ruby-odbc",
-            "sqlite3",
-            "sqlite3-ruby"
-          ],
-          "permalink": "SQL_Database_Adapters"
-        },
-        {
-          "name": "CouchDB Clients",
-          "description": null,
-          "projects": [
-            "couch_foo",
-            "couch_potato",
-            "couchrest",
-            "couchrest_model",
-            "hpoydar/couchrest-rails",
-            "paulca/stuffing",
-            "quilt",
-            "relaxdb",
-            "simply_stored"
-          ],
-          "permalink": "couchdb_clients"
-        },
-        {
-          "name": "Data Migration",
-          "description": null,
-          "projects": [
-            "active_importer",
-            "mysql2psql",
-            "taps"
-          ],
-          "permalink": "Data_Migration"
-        },
-        {
-          "name": "Connection Pooling",
-          "description": "Connection Pools allow you to share a limited number of active connections to external services like databases between multiple threads per Ruby process",
-          "projects": [
-            "connection_pool",
-            "pond",
-            "pools"
-          ],
-          "permalink": "Connection_Pooling"
-        },
-        {
-          "name": "Active Record Database Adapters",
-          "description": "ActiveRecord comes with built-in support for SQLite, PostgreSQL and MySQL on the offical C-based Ruby implementation commonly referred to as \"MRI\". These extensions let you connect to other relational databases or use other Ruby implementations like JRuby.",
-          "projects": [
-            "activerecord-jdbc-adapter",
-            "activerecord-jdbcderby-adapter",
-            "activerecord-jdbcmysql-adapter",
-            "activerecord-jdbcpostgresql-adapter",
-            "activerecord-nulldb-adapter",
-            "activerecord-oracle_enhanced-adapter",
-            "activerecord-sqlserver-adapter",
-            "odbc_adapter",
-            "oracle-enhanced-enhanced"
-          ],
-          "permalink": "Active_Record_DB_Adapters"
-        },
-        {
-          "name": "Amazon DynamoDB",
-          "description": null,
-          "projects": [
-            "active_dynamodb",
-            "dynamoid",
-            "dynoid",
-            "fake_dynamo"
-          ],
-          "permalink": "Amazon_DynamoDB"
-        },
-        {
-          "name": "Redis Clients",
-          "description": null,
-          "projects": [
-            "acts_as_hashish",
-            "hiredis",
-            "ohm",
-            "readthis",
-            "redis",
-            "redis-aid",
-            "redis-attrs",
-            "redis-objects",
-            "redis-store",
-            "redis_orm",
-            "redlics"
-          ],
-          "permalink": "Redis"
-        }
-      ],
-      "description": null,
-      "name": "Data Persistence",
-      "permalink": "Data_Persistence"
-    },
-    {
-      "categories": [
-        {
-          "name": "Online Shops",
-          "description": null,
-          "projects": [
-            "carter",
-            "drhenner/ror_ecommerce",
-            "invoicing",
-            "money-currencylayer-bank",
-            "money-openexchangerates-bank",
-            "nimbleshop",
-            "radiant-shop-extension",
-            "shippinglogic",
-            "solidus",
-            "spree"
-          ],
-          "permalink": "e_commerce"
-        },
-        {
-          "name": "Subscription Management",
-          "description": null,
-          "projects": [
-            "cainlevy/freemium",
-            "fastspring-saasy",
-            "jackpot",
-            "subly",
-            "subscription_fu"
-          ],
-          "permalink": "Subscription_Management"
-        },
-        {
-          "name": "Payments",
-          "description": null,
-          "projects": [
-            "activemerchant",
-            "adyen",
-            "amazon_flex_pay",
-            "braintree",
-            "datatrans",
-            "gmo",
-            "mundipagg",
-            "pagseguro_v2",
-            "paypal-express",
-            "paypal-sdk-invoice",
-            "paypal_adaptive",
-            "paypal_calculator",
-            "pin_up",
-            "remit",
-            "sepa_king",
-            "square_connect",
-            "stripe",
-            "stripe_event"
-          ],
-          "permalink": "Payments"
-        }
-      ],
-      "description": null,
-      "name": "E-Commerce and Payments",
-      "permalink": "E-Commerce_and_Payments"
-    },
-    {
-      "categories": [
         {
           "name": "Asset Management",
           "description": null,
@@ -1123,6 +268,77 @@
             "yolk/rucksack"
           ],
           "permalink": "Asset_Management"
+        },
+        {
+          "name": "Backups",
+          "description": null,
+          "projects": [
+            "astrails-safe",
+            "backup",
+            "backupit",
+            "copyhacker/backup_fu",
+            "db2fog",
+            "db2s3",
+            "dbmanager",
+            "dotbox",
+            "dumper",
+            "pg_drive_backup",
+            "porter",
+            "sweety_backy"
+          ],
+          "permalink": "backups"
+        },
+        {
+          "name": "Asset Distribution",
+          "description": null,
+          "projects": [
+            "asset_hash",
+            "asset_sync",
+            "cloudfront_asset_host",
+            "jammit-s3"
+          ],
+          "permalink": "Asset_Distribution"
+        },
+        {
+          "name": "Google Cloud",
+          "description": "Official and community-built utilities for working with Google's Cloud services",
+          "projects": [
+            "fog",
+            "google-cloud-asset",
+            "google-cloud-bigquery",
+            "google-cloud-bigquery-data_transfer",
+            "google-cloud-bigtable",
+            "google-cloud-container",
+            "google-cloud-core",
+            "google-cloud-dataproc",
+            "google-cloud-datastore",
+            "google-cloud-debugger",
+            "google-cloud-dialogflow",
+            "google-cloud-dlp",
+            "google-cloud-dns",
+            "google-cloud-env",
+            "google-cloud-error_reporting",
+            "google-cloud-firestore",
+            "google-cloud-gemserver",
+            "google-cloud-kms",
+            "google-cloud-language",
+            "google-cloud-logging",
+            "google-cloud-monitoring",
+            "google-cloud-os_login",
+            "google-cloud-pubsub",
+            "google-cloud-redis",
+            "google-cloud-resource_manager",
+            "google-cloud-spanner",
+            "google-cloud-speech",
+            "google-cloud-storage",
+            "google-cloud-tasks",
+            "google-cloud-text_to_speech",
+            "google-cloud-trace",
+            "google-cloud-translate",
+            "google-cloud-video_intelligence",
+            "google-cloud-vision"
+          ],
+          "permalink": "Google_Cloud"
         },
         {
           "name": "Deployment Automation",
@@ -1158,55 +374,6 @@
             "whiskey_disk"
           ],
           "permalink": "deployment_automation"
-        },
-        {
-          "name": "System Provisioning",
-          "description": null,
-          "projects": [
-            "automateit",
-            "babushka",
-            "benschwarz/passenger-stack",
-            "boris",
-            "chef",
-            "knife-esx",
-            "puppet",
-            "rudy",
-            "sprinkle",
-            "supply_drop",
-            "teleport",
-            "vagrant"
-          ],
-          "permalink": "systems_integration"
-        },
-        {
-          "name": "Microsoft Azure",
-          "description": "Official and community-built utilities for working with Microsoft's Azure cloud services",
-          "projects": [
-            "azure-acs",
-            "azure-armrest",
-            "azure-auth",
-            "azure-contrib",
-            "azure-core",
-            "azure-credentials",
-            "azure-directory",
-            "azure-documentdb-sdk",
-            "azure-fix",
-            "azure-loganalytics-datacollector-api",
-            "azure-multistorage",
-            "azure-plus",
-            "azure-profile",
-            "azure-push",
-            "azure-sas",
-            "azure-signature",
-            "azure-storage",
-            "azure-storage-blob",
-            "azure-storage-common",
-            "azure-storage-file",
-            "azure-storage-queue",
-            "azure-storage-table",
-            "fog"
-          ],
-          "permalink": "Microsoft_Azure"
         },
         {
           "name": "Amazon Web Services",
@@ -1406,84 +573,23 @@
           "permalink": "Amazon_Web_Services"
         },
         {
-          "name": "Continuous Integration",
+          "name": "System Provisioning",
           "description": null,
           "projects": [
-            "appelier/bigtuna",
-            "cap_gun",
-            "cerberus",
-            "ci-go-nfo",
-            "cijoe",
-            "dcrec1/signal",
-            "goldberg",
-            "integrity",
-            "jenkins",
-            "tddium",
-            "thoughtworks/cruisecontrol.rb",
-            "travis-ci/travis-ci",
-            "update_status"
+            "automateit",
+            "babushka",
+            "benschwarz/passenger-stack",
+            "boris",
+            "chef",
+            "knife-esx",
+            "puppet",
+            "rudy",
+            "sprinkle",
+            "supply_drop",
+            "teleport",
+            "vagrant"
           ],
-          "permalink": "continuous_integration"
-        },
-        {
-          "name": "Google Cloud",
-          "description": "Official and community-built utilities for working with Google's Cloud services",
-          "projects": [
-            "fog",
-            "google-cloud-asset",
-            "google-cloud-bigquery",
-            "google-cloud-bigquery-data_transfer",
-            "google-cloud-bigtable",
-            "google-cloud-container",
-            "google-cloud-core",
-            "google-cloud-dataproc",
-            "google-cloud-datastore",
-            "google-cloud-debugger",
-            "google-cloud-dialogflow",
-            "google-cloud-dlp",
-            "google-cloud-dns",
-            "google-cloud-env",
-            "google-cloud-error_reporting",
-            "google-cloud-firestore",
-            "google-cloud-gemserver",
-            "google-cloud-kms",
-            "google-cloud-language",
-            "google-cloud-logging",
-            "google-cloud-monitoring",
-            "google-cloud-os_login",
-            "google-cloud-pubsub",
-            "google-cloud-redis",
-            "google-cloud-resource_manager",
-            "google-cloud-spanner",
-            "google-cloud-speech",
-            "google-cloud-storage",
-            "google-cloud-tasks",
-            "google-cloud-text_to_speech",
-            "google-cloud-trace",
-            "google-cloud-translate",
-            "google-cloud-video_intelligence",
-            "google-cloud-vision"
-          ],
-          "permalink": "Google_Cloud"
-        },
-        {
-          "name": "Backups",
-          "description": null,
-          "projects": [
-            "astrails-safe",
-            "backup",
-            "backupit",
-            "copyhacker/backup_fu",
-            "db2fog",
-            "db2s3",
-            "dbmanager",
-            "dotbox",
-            "dumper",
-            "pg_drive_backup",
-            "porter",
-            "sweety_backy"
-          ],
-          "permalink": "backups"
+          "permalink": "systems_integration"
         },
         {
           "name": "Web Servers",
@@ -1505,1483 +611,11 @@
             "yarn"
           ],
           "permalink": "web_servers"
-        },
-        {
-          "name": "Asset Distribution",
-          "description": null,
-          "projects": [
-            "asset_hash",
-            "asset_sync",
-            "cloudfront_asset_host",
-            "jammit-s3"
-          ],
-          "permalink": "Asset_Distribution"
         }
       ],
       "description": null,
       "name": "Provision, Deploy & Host",
       "permalink": "Provision_Deploy_Host"
-    },
-    {
-      "categories": [
-        {
-          "name": "Active Record Value Cleanup",
-          "description": null,
-          "projects": [
-            "attribute_normalizer",
-            "auto_strip_attributes",
-            "clean_room",
-            "normatron",
-            "rubiety/nilify_blanks",
-            "sanitized_attributes",
-            "scrubby",
-            "strip_attributes",
-            "strip_control_chars",
-            "vacuum_cleaner"
-          ],
-          "permalink": "Active_Record_Value_Cleanup"
-        },
-        {
-          "name": "Active Record Soft Delete",
-          "description": "Keep deleted records in the database for auditing and restoring",
-          "projects": [
-            "acts_as_archive",
-            "acts_as_paranoid",
-            "ajh/acts_as_soft_deletable",
-            "destroyed_at",
-            "discard",
-            "expectedbehavior/acts_as_archival",
-            "immortal",
-            "paper_trail",
-            "paranoia",
-            "paranoid",
-            "paranoid2",
-            "permanent_records",
-            "rails3_acts_as_paranoid",
-            "soft_deletion"
-          ],
-          "permalink": "Active_Record_Soft_Delete"
-        },
-        {
-          "name": "Pagination",
-          "description": "Split large data collections into subsets to display on multiple pages",
-          "projects": [
-            "ajax_pagination",
-            "kaminari",
-            "kaminari-bootstrap",
-            "paged_scopes",
-            "pagy",
-            "pagy-extras",
-            "simply_paginate",
-            "sorted",
-            "will_paginate"
-          ],
-          "permalink": "pagination"
-        },
-        {
-          "name": "Active Record Enumerations",
-          "description": null,
-          "projects": [
-            "active_enum",
-            "attribute_choices",
-            "classy_enum",
-            "const_enum",
-            "easy_attributes",
-            "enum_column3",
-            "enumerate_by",
-            "enumerate_it",
-            "enumerated_attribute",
-            "enumerize",
-            "enumify",
-            "power_enum",
-            "simple_enum"
-          ],
-          "permalink": "Active_Record_Enumerations"
-        },
-        {
-          "name": "Rails Comments",
-          "description": null,
-          "projects": [
-            "acts_as_commentable",
-            "commenter",
-            "commontator",
-            "disqus",
-            "elight/acts_as_commentable_with_threading",
-            "is_reviewable",
-            "opinio",
-            "phusion/juvia"
-          ],
-          "permalink": "rails_comments"
-        },
-        {
-          "name": "Rails DB Bootstrapping",
-          "description": null,
-          "projects": [
-            "dibber",
-            "ffmike/db-populate",
-            "has_alter_ego",
-            "populator",
-            "seed-fu",
-            "seed_dumper",
-            "seedbank",
-            "sevenwire/bootstrapper"
-          ],
-          "permalink": "rails_db_bootstrapping"
-        },
-        {
-          "name": "Active Record Sharding",
-          "description": "Distribute read and write queries to your database across several database servers to help with scaling",
-          "projects": [
-            "activerecord-turntable",
-            "ar-octopus",
-            "data_fabric",
-            "db-charmer",
-            "mixonic/ShardTheLove",
-            "multi_db",
-            "technoweenie/masochism"
-          ],
-          "permalink": "Active_Record_Sharding"
-        },
-        {
-          "name": "Active Record Named Scopes",
-          "description": null,
-          "projects": [
-            "deep_pluck",
-            "filterrific",
-            "internuity/quick_scopes",
-            "pacecar",
-            "random_record",
-            "randumb",
-            "ransack",
-            "scope-builder",
-            "searchlogic",
-            "sexy_scopes",
-            "technoweenie/can_search",
-            "trailblazer-finder",
-            "trixy_scopes",
-            "utility_scopes"
-          ],
-          "permalink": "Active_Record_Named_Scopes"
-        },
-        {
-          "name": "Rails Ratings",
-          "description": null,
-          "projects": [
-            "acts-as-rated",
-            "acts_as_rateable",
-            "ajaxful_rating",
-            "edgarjs/ajaxful-rating",
-            "has_ratings",
-            "letsrate",
-            "mongoid-rating",
-            "mongoid_rateable",
-            "zachinglis/is_rateable"
-          ],
-          "permalink": "rails_ratings"
-        },
-        {
-          "name": "Active Record Index Assistants",
-          "description": "Utilities to point you at potentially missing database indices",
-          "projects": [
-            "automatic_foreign_key",
-            "eladmeidar/rails_indexes",
-            "foreigner",
-            "immigrant",
-            "lol_dba",
-            "redhillonrails_core",
-            "schema_plus"
-          ],
-          "permalink": "Active_Record_Index_Assistants"
-        },
-        {
-          "name": "Active Record Sortables",
-          "description": null,
-          "projects": [
-            "acts_as_list",
-            "acts_as_restful_list",
-            "ranked-model",
-            "resort",
-            "sortable"
-          ],
-          "permalink": "Active_Record_Sortables"
-        },
-        {
-          "name": "Active Record Default Values",
-          "description": null,
-          "projects": [
-            "active_record_defaults",
-            "default_value_for"
-          ],
-          "permalink": "Active_Record_Default_Values"
-        },
-        {
-          "name": "Rails Search",
-          "description": null,
-          "projects": [
-            "acts_as_ferret",
-            "acts_as_fulltextable",
-            "acts_as_indexed",
-            "acts_as_solr",
-            "acts_as_solr_reloaded",
-            "chewy",
-            "delsolr",
-            "elasticsearch",
-            "elasticsearch-rails",
-            "elastictastic",
-            "ferret",
-            "pg_search",
-            "redis-search",
-            "rsolr",
-            "ruby_simple_search",
-            "scoped_search",
-            "searchkick",
-            "searchlight",
-            "slingshot-rb",
-            "solr_query",
-            "sunspot",
-            "sunspot_rails",
-            "sunspot_solr",
-            "texticle",
-            "thinking-sphinx",
-            "tire",
-            "xapian_db",
-            "xapit"
-          ],
-          "permalink": "rails_search"
-        },
-        {
-          "name": "Active Record User Stamping",
-          "description": null,
-          "projects": [
-            "acts_as_audited",
-            "ar-audit-tracer",
-            "darcy/acts_as_loggable",
-            "grosser/record_activities",
-            "jnunemaker/user_stamp",
-            "userstamp"
-          ],
-          "permalink": "Active_Record_User_Stamping"
-        },
-        {
-          "name": "Rails Tagging",
-          "description": null,
-          "projects": [
-            "acts-as-taggable-array-on",
-            "acts-as-taggable-on",
-            "acts_as_taggable_on_steroids",
-            "clortho",
-            "geemus/acts_as_taggable_redux",
-            "gutentag",
-            "is_taggable",
-            "markable",
-            "rocket_tag",
-            "taggregator"
-          ],
-          "permalink": "rails_tagging"
-        },
-        {
-          "name": "Active Record Versioning",
-          "description": "Keep track of changes to database records for auditing and restoring",
-          "projects": [
-            "acts-as-approvable",
-            "acts_as_revisable",
-            "acts_as_revisionable",
-            "acts_as_versioned",
-            "auditable",
-            "audited",
-            "changeling",
-            "has_draft",
-            "historical",
-            "logidze",
-            "paper_trail",
-            "record_history",
-            "shadow",
-            "simple_audit",
-            "simply_versioned",
-            "version_fu",
-            "vestal_versions"
-          ],
-          "permalink": "Active_Record_Versioning"
-        },
-        {
-          "name": "Active Record Nesting",
-          "description": "Model database records as nested data structures",
-          "projects": [
-            "acts_as_dag",
-            "acts_as_ordered_tree",
-            "acts_as_tree",
-            "ancestry",
-            "arboreal",
-            "awesome_nested_set",
-            "chris/better_nested_set",
-            "closure_tree",
-            "rails/acts_as_nested_set"
-          ],
-          "permalink": "Active_Record_Nesting"
-        },
-        {
-          "name": "Active Record Bit Fields",
-          "description": "Use an integer field to store a set of booleans using bitwise logic",
-          "projects": [
-            "active_flag",
-            "bitfield_attribute",
-            "bitfields",
-            "bitmask_attributes",
-            "flag_shih_tzu",
-            "has-bit-field"
-          ],
-          "permalink": "Active_Record_Bit_Fields"
-        }
-      ],
-      "description": null,
-      "name": "Active Record Plugins",
-      "permalink": "Active_Record_Plugins"
-    },
-    {
-      "categories": [
-        {
-          "name": "RSpec Matchers",
-          "description": "Additional RSpec test matchers that help you write more expressive examples",
-          "projects": [
-            "aruba",
-            "db-query-matchers",
-            "email_spec",
-            "rspec-become-matcher",
-            "rspec-collection_matchers",
-            "rspec-composable_json_matchers",
-            "rspec-graphql_matchers",
-            "rspec-html-matchers",
-            "rspec-instrumentation-matcher",
-            "rspec-json_matcher",
-            "rspec-mail_matcher",
-            "shoulda-matchers"
-          ],
-          "permalink": "RSpec_Matchers"
-        },
-        {
-          "name": "Random Data Generation",
-          "description": null,
-          "projects": [
-            "cheap_random",
-            "data-anonymization",
-            "faker",
-            "ffaker",
-            "forgery",
-            "randexp",
-            "random_data",
-            "well_read_faker"
-          ],
-          "permalink": "random_data_generation"
-        },
-        {
-          "name": "Cucumber Steps",
-          "description": null,
-          "projects": [
-            "aruba",
-            "cucumber-farmer",
-            "cucumber_factory",
-            "email_spec",
-            "macros4cuke",
-            "mundo-pepino",
-            "pickle"
-          ],
-          "permalink": "Cucumber_Steps"
-        },
-        {
-          "name": "Distributed Testing",
-          "description": null,
-          "projects": [
-            "aslakhellesoy/rspec-distributed",
-            "brynary/testjour",
-            "hydra",
-            "parallel_tests",
-            "qxjit/deep-test",
-            "specjour",
-            "spin",
-            "spork",
-            "spring",
-            "test-queue",
-            "testbot",
-            "zeus",
-            "zeus-parallel_tests"
-          ],
-          "permalink": "distributed_testing"
-        },
-        {
-          "name": "Test Frameworks",
-          "description": "Frameworks for writing automated tests for your software",
-          "projects": [
-            "assert",
-            "bacon",
-            "detest",
-            "dtf",
-            "fix",
-            "kintama",
-            "lemon",
-            "micronaut",
-            "minitest",
-            "riot",
-            "rspec",
-            "rubydoctest",
-            "shindo",
-            "test-unit",
-            "test_inline",
-            "testrocket",
-            "testy",
-            "wrong",
-            "yard-doctest"
-          ],
-          "permalink": "testing_frameworks"
-        },
-        {
-          "name": "Acceptance Test Frameworks",
-          "description": null,
-          "projects": [
-            "bewildr",
-            "coulda",
-            "cucumber",
-            "filet",
-            "mountain_berry_fields",
-            "saki",
-            "spinach",
-            "steak",
-            "stella",
-            "stories",
-            "turnip",
-            "unencumbered"
-          ],
-          "permalink": "Acceptance_Test_Frameworks"
-        },
-        {
-          "name": "Rails Fixture Replacement",
-          "description": null,
-          "projects": [
-            "blueprints",
-            "dm-sweatshop",
-            "fabrication",
-            "factory_bot",
-            "fixjour",
-            "fixture_builder",
-            "fixture_replacement",
-            "machinist",
-            "miniskirt",
-            "object_daddy",
-            "seedomatic",
-            "sham",
-            "spawn",
-            "transactionata"
-          ],
-          "permalink": "rails_fixture_replacement"
-        },
-        {
-          "name": "A/B Testing",
-          "description": null,
-          "projects": [
-            "abanalyzer",
-            "abingo",
-            "abingo_port",
-            "absurdity",
-            "bandit",
-            "field_test",
-            "fluidfeatures",
-            "fluidfeatures-rails",
-            "paulmars/seven_minute_abs",
-            "split",
-            "validation_issues",
-            "vanity"
-          ],
-          "permalink": "A_B_Testing"
-        },
-        {
-          "name": "Test::Unit Extensions",
-          "description": null,
-          "projects": [
-            "contest",
-            "jm/context",
-            "pending",
-            "shoulda"
-          ],
-          "permalink": "Test_Unit_Extensions"
-        },
-        {
-          "name": "Time Warping",
-          "description": null,
-          "projects": [
-            "delorean",
-            "quantum_leap",
-            "time-warp",
-            "time-zone-warp",
-            "time_travel",
-            "timecop"
-          ],
-          "permalink": "time_warping"
-        },
-        {
-          "name": "Continuous Testing",
-          "description": null,
-          "projects": [
-            "autotest",
-            "autotest-fsevent",
-            "autotest-growl",
-            "guard",
-            "guard-rspec",
-            "guard-rubocop",
-            "infinity_test",
-            "kicker",
-            "rack-livereload",
-            "tconsole",
-            "tork",
-            "watchr",
-            "ZenTest"
-          ],
-          "permalink": "continuous_testing"
-        },
-        {
-          "name": "Cucumber Tools",
-          "description": null,
-          "projects": [
-            "chutney",
-            "cql",
-            "cucover",
-            "cucumber-in-the-yard",
-            "cucumber-nagios",
-            "cucumber-pride",
-            "cucumber-screenshot",
-            "cucumber-sinatra",
-            "cucumberator",
-            "cuke_cataloger",
-            "cuke_modeler",
-            "cuke_sniffer",
-            "cukesparse",
-            "cuporter",
-            "gherkin_lint",
-            "stepdown",
-            "viewcumber",
-            "yard-cucumber"
-          ],
-          "permalink": "Cucumber_Tools"
-        },
-        {
-          "name": "Testing Rails Engines",
-          "description": null,
-          "projects": [
-            "combustion",
-            "multiengine",
-            "test_engine"
-          ],
-          "permalink": "Testing_Rails_Engines"
-        },
-        {
-          "name": "Browser testing",
-          "description": "Write and run automated tests of your web app in a real-world browser environment",
-          "projects": [
-            "akephalos",
-            "capybara",
-            "capybara-chrome",
-            "capybara-webkit",
-            "celerity",
-            "culerity",
-            "cuprite",
-            "headless",
-            "paytonrules/selenium-on-rails",
-            "polonium",
-            "poltergeist",
-            "selenium-client",
-            "selenium-webdriver",
-            "site_prism",
-            "tooth",
-            "watir",
-            "watir-webdriver",
-            "webrat"
-          ],
-          "permalink": "browser_testing"
-        },
-        {
-          "name": "Mocking Web Requests",
-          "description": null,
-          "projects": [
-            "appendto/jquery-mockjax",
-            "artifice",
-            "fakeweb",
-            "mockjax",
-            "mocktra",
-            "netrecorder",
-            "rest-assured",
-            "sonar",
-            "stale_fish",
-            "vcr",
-            "webmock"
-          ],
-          "permalink": "mocking_web_requests"
-        },
-        {
-          "name": "Mocking",
-          "description": null,
-          "projects": [
-            "bogus",
-            "cross-stub",
-            "facon",
-            "flexmock",
-            "jm/stump",
-            "mocha",
-            "mock_redis",
-            "mocoso",
-            "rr",
-            "rspec-mocks",
-            "simple_mock",
-            "spy",
-            "surrogate",
-            "verified_double"
-          ],
-          "permalink": "mocking"
-        }
-      ],
-      "description": null,
-      "name": "Testing",
-      "permalink": "Testing"
-    },
-    {
-      "categories": [
-        {
-          "name": "Optical Character Recognition",
-          "description": "Libraries to recognize written text in images",
-          "projects": [
-            "rtesseract",
-            "tesseract-ocr"
-          ],
-          "permalink": "Optical_Character_Recognition"
-        }
-      ],
-      "description": null,
-      "name": "Natural Language Processing",
-      "permalink": "Natural_Language_Processing"
-    },
-    {
-      "categories": [
-        {
-          "name": "View Objects",
-          "description": "Framework agnostic gems that implement Decorator / View Object pattern.",
-          "projects": [
-            "cells",
-            "dry-view",
-            "hanami-view"
-          ],
-          "permalink": "View_Objects"
-        },
-        {
-          "name": "Form Objects",
-          "description": null,
-          "projects": [
-            "activemodel-form",
-            "dry-validation",
-            "reform",
-            "scrivener",
-            "virtus"
-          ],
-          "permalink": "Form_Objects"
-        },
-        {
-          "name": "Business Logic Frameworks",
-          "description": "Tools to help with Domain Driven Design approach and organize app's  Control Flow.",
-          "projects": [
-            "pathway",
-            "trailblazer",
-            "zertico"
-          ],
-          "permalink": "Business_Logic_Frameworks"
-        },
-        {
-          "name": "Service Objects",
-          "description": "Libraries to isolate application domain logic into separate classes.",
-          "projects": [
-            "active_interaction",
-            "dry-transaction",
-            "interactor",
-            "mutations",
-            "pathway",
-            "simple_command",
-            "simple_service",
-            "surrounded",
-            "trailblazer-activity"
-          ],
-          "permalink": "Service_Objects"
-        }
-      ],
-      "description": "Software Architecture layers and tools",
-      "name": "Code Organization",
-      "permalink": "Code_Organization"
-    },
-    {
-      "categories": [
-        {
-          "name": "Game libraries",
-          "description": null,
-          "projects": [
-            "chingu",
-            "chipmunk",
-            "dxruby_sdl",
-            "fidgit",
-            "flonkerton",
-            "gamebox",
-            "gioco",
-            "glfw",
-            "gosu",
-            "gosu_android",
-            "Groogy/rbSFML",
-            "jemini",
-            "kolb",
-            "LiteRGSS",
-            "metro",
-            "minigl",
-            "opengl",
-            "opengl-bindings",
-            "opengl-definitions",
-            "ray",
-            "ruby2d",
-            "rubygame",
-            "sfml-audio-fiddle",
-            "shoes"
-          ],
-          "permalink": "game_libraries"
-        },
-        {
-          "name": "Music & MIDI",
-          "description": null,
-          "projects": [
-            "adamjmurray/cosy",
-            "coltrane",
-            "cultome_player",
-            "diamond",
-            "Gabrielg1976/ruby_music_projects",
-            "gilesbowkett/archaeopteryx",
-            "gitara",
-            "micromidi",
-            "midiator",
-            "midilib",
-            "music_player",
-            "patchmaster",
-            "rubiety/jazz_model",
-            "uke",
-            "unimidi"
-          ],
-          "permalink": "music___midi"
-        }
-      ],
-      "description": null,
-      "name": "Fun",
-      "permalink": "Fun"
-    },
-    {
-      "categories": [
-        {
-          "name": "Log Analysis",
-          "description": null,
-          "projects": [
-            "central_logger",
-            "Graylog2/graylog2-server",
-            "indy",
-            "log_file",
-            "logs",
-            "logstash/logstash",
-            "ntail",
-            "request-log-analyzer"
-          ],
-          "permalink": "Log_Analysis"
-        },
-        {
-          "name": "Server Monitoring",
-          "description": null,
-          "projects": [
-            "amnesia",
-            "bluepill",
-            "eye",
-            "god",
-            "health_checker",
-            "health_monitor",
-            "health_rails",
-            "nagios_check",
-            "new_relic_ping",
-            "outpost",
-            "ramon",
-            "rspec-webservice_matchers",
-            "sensu",
-            "visage-app",
-            "webstats"
-          ],
-          "permalink": "server_monitoring"
-        },
-        {
-          "name": "Logging",
-          "description": null,
-          "projects": [
-            "best_boy",
-            "cabin",
-            "clogger",
-            "fluentd",
-            "frogger",
-            "gelf",
-            "hatchet",
-            "httplog",
-            "justlogging-rails",
-            "log4r",
-            "logging",
-            "logging-rails",
-            "logging_assist",
-            "lograge",
-            "lumber",
-            "mongodb_logger",
-            "ougai",
-            "rails-pretty-logger",
-            "rake_bubbler",
-            "semantic_logger",
-            "sentry-raven",
-            "whoops",
-            "yell"
-          ],
-          "permalink": "Logging"
-        },
-        {
-          "name": "Maintenance Mode",
-          "description": null,
-          "projects": [
-            "rack-maintenance",
-            "turnout"
-          ],
-          "permalink": "Maintenance_Mode"
-        },
-        {
-          "name": "Exception Notification",
-          "description": null,
-          "projects": [
-            "airbrake",
-            "bugsnag",
-            "errbit/errbit",
-            "exception_engine",
-            "exception_notification",
-            "exceptional",
-            "honeybadger",
-            "lilypad",
-            "rack_hoptoad",
-            "rails_exception_handler",
-            "raygun4ruby",
-            "rollbar",
-            "toadhopper"
-          ],
-          "permalink": "exception_notification"
-        },
-        {
-          "name": "App Instrumentation",
-          "description": null,
-          "projects": [
-            "appoptics_apm",
-            "appsignal",
-            "better_errors",
-            "bullet",
-            "dashing",
-            "dashing-rails",
-            "fnordmetric",
-            "fozzie",
-            "fozzie_rails",
-            "harness",
-            "meta_request",
-            "metriks",
-            "metriksd",
-            "newrelic_rpm",
-            "nunes",
-            "peek",
-            "query_trace",
-            "rack-bug",
-            "rack-insight",
-            "rackamole",
-            "rails-footnotes",
-            "rails_instrument",
-            "rails_metrics",
-            "rails_view_annotator",
-            "scout_apm",
-            "slowgrowl",
-            "system-metrics",
-            "yabeda"
-          ],
-          "permalink": "rails_instrumentation"
-        }
-      ],
-      "description": null,
-      "name": "Maintenance & Monitoring",
-      "permalink": "Maintenance_Monitoring"
-    },
-    {
-      "categories": [
-        {
-          "name": "Gem Hosting",
-          "description": null,
-          "projects": [
-            "gemfury",
-            "geminabox",
-            "stickler"
-          ],
-          "permalink": "Gem_Hosting"
-        },
-        {
-          "name": "Dependency Management",
-          "description": null,
-          "projects": [
-            "berkshelf",
-            "bling",
-            "braid",
-            "brewdler",
-            "bundler",
-            "checkzilla",
-            "externals",
-            "gemrat",
-            "giternal",
-            "halorgium/gem_resolver",
-            "isolate",
-            "librarian",
-            "motion-bundler",
-            "piston"
-          ],
-          "permalink": "dependency_management"
-        },
-        {
-          "name": "Packaging Systems",
-          "description": null,
-          "projects": [
-            "mislav/coral",
-            "rip",
-            "rtomayko/rpg",
-            "rubygems-update",
-            "slimgems"
-          ],
-          "permalink": "packaging_systems"
-        },
-        {
-          "name": "Bundler Tools",
-          "description": null,
-          "projects": [
-            "appraisal",
-            "bundler-auto-update",
-            "bundler-console",
-            "guard-bundler",
-            "noexec",
-            "rubygems-bundler",
-            "spitball"
-          ],
-          "permalink": "Bundler_Tools"
-        },
-        {
-          "name": "Packaging to Executables",
-          "description": null,
-          "projects": [
-            "crate",
-            "loureirorg/rb2exe",
-            "ocra",
-            "pmq20/ruby-packer",
-            "releasy",
-            "rubyscript2exe",
-            "stephan-nordnes-eriksen/ruby_ship"
-          ],
-          "permalink": "packaging_to_executables"
-        }
-      ],
-      "description": null,
-      "name": "Package & Dependency Management",
-      "permalink": "Package_Dependency_Management"
-    },
-    {
-      "categories": [
-        {
-          "name": "Web Analytics",
-          "description": null,
-          "projects": [
-            "ga_events",
-            "gabba",
-            "gabbara",
-            "garb",
-            "gattica",
-            "google-analytics-rails",
-            "googlepagerank",
-            "legato",
-            "mixpanel_rails",
-            "PageRankr",
-            "rack-google-analytics",
-            "rack_clicky",
-            "redis_analytics",
-            "rugalytics",
-            "wwwtf",
-            "yaga"
-          ],
-          "permalink": "Web_Analytics"
-        },
-        {
-          "name": "Multitenancy",
-          "description": null,
-          "projects": [
-            "activerecord-connections",
-            "acts_as_tenant",
-            "apartment",
-            "consolo/acts_as_restricted_subdomain",
-            "milia",
-            "multitenant",
-            "multitenant-mysql",
-            "multitenant-pg",
-            "whitelabel"
-          ],
-          "permalink": "Multitenancy"
-        },
-        {
-          "name": "Web App Frameworks",
-          "description": "Software Frameworks that are designed to support the development of web applications including web services, web resources, and web APIs",
-          "projects": [
-            "bats",
-            "camping",
-            "cramp",
-            "cuba",
-            "e",
-            "gin",
-            "hanami",
-            "harbor",
-            "hobo",
-            "lattice",
-            "marley",
-            "merb-core",
-            "padrino",
-            "pakyow",
-            "plezi",
-            "rack",
-            "rails",
-            "ramaze",
-            "rango",
-            "raptor",
-            "renee",
-            "roda",
-            "scorched",
-            "sinatra",
-            "strelka",
-            "vanilla"
-          ],
-          "permalink": "web_app_frameworks"
-        },
-        {
-          "name": "HTTP Pub/Sub",
-          "description": null,
-          "projects": [
-            "actioncable",
-            "anycable",
-            "danthes",
-            "em-websocket",
-            "faye",
-            "faye-rails",
-            "iodine",
-            "libwebsocket",
-            "litecable",
-            "private_pub",
-            "socky-server",
-            "websocket",
-            "websocket-rack"
-          ],
-          "permalink": "HTTP_Pub_Sub"
-        },
-        {
-          "name": "JSON Parsers",
-          "description": "JSON parsers convert data serialized in the popular JSON data exchange format to and from Ruby objects",
-          "projects": [
-            "crack",
-            "json",
-            "json-jruby",
-            "json-stream-path",
-            "json_pure",
-            "multi_json",
-            "oj",
-            "yajl-ruby"
-          ],
-          "permalink": "JSON_Parsers"
-        },
-        {
-          "name": "API Builders",
-          "description": null,
-          "projects": [
-            "active_model_serializers",
-            "acts_as_api",
-            "api-versions",
-            "apiary",
-            "bldr",
-            "fast_jsonapi",
-            "grape",
-            "jbuilder",
-            "nativeson",
-            "rabl",
-            "representable",
-            "roar",
-            "rocket_pants",
-            "roy",
-            "surrealist",
-            "versioncake",
-            "versionist",
-            "windsor",
-            "xmlrpc-rack_server"
-          ],
-          "permalink": "API_Builders"
-        },
-        {
-          "name": "User Agent Detection",
-          "description": null,
-          "projects": [
-            "active_device",
-            "agent_orange",
-            "browser",
-            "browsernizer",
-            "device_detector",
-            "divining_rod",
-            "is_it_mobile",
-            "mobvious",
-            "mobylette",
-            "rack-useragent-filter",
-            "user-agent",
-            "user_agent_parser",
-            "useragent"
-          ],
-          "permalink": "User_Agent_Detection"
-        },
-        {
-          "name": "Atom & RSS Feed Parsing",
-          "description": null,
-          "projects": [
-            "feed-normalizer",
-            "feed_me",
-            "feed_parser",
-            "feedfilter",
-            "feedjira",
-            "feedme",
-            "feedparser",
-            "feedtosis",
-            "feedzirra",
-            "opds",
-            "opds_monster",
-            "ratom",
-            "rfeedparser",
-            "rss-atom-feed_history",
-            "rss-dcterms",
-            "rss-motor",
-            "rss-nokogiri",
-            "rss-opds",
-            "ruby-feedparser",
-            "simple-rss",
-            "syndication"
-          ],
-          "permalink": "feed_parsing"
-        },
-        {
-          "name": "Social Network Builders",
-          "description": null,
-          "projects": [
-            "acts_as_follower",
-            "acts_as_friendable",
-            "amico",
-            "bborn/communityengine",
-            "decidim",
-            "has_many_friends",
-            "inkwell",
-            "insoshi/insoshi",
-            "leaderboard",
-            "likeable",
-            "omnicontacts",
-            "parolkar/has_profile_items",
-            "sjlombardo/acts_as_network",
-            "social_stream",
-            "socialization",
-            "stevenbristol/lovd-by-less",
-            "timothyf/enginey"
-          ],
-          "permalink": "social_networking"
-        },
-        {
-          "name": "XML Mapping",
-          "description": null,
-          "projects": [
-            "data_active",
-            "gyoku",
-            "happymapper",
-            "lazy-sax-machine",
-            "nokogiri-happymapper",
-            "nori",
-            "representative",
-            "roxml",
-            "sax-machine",
-            "sax_stream",
-            "saxerator",
-            "saxy",
-            "sxrb",
-            "xml-fu",
-            "xml-mapping",
-            "xml_active"
-          ],
-          "permalink": "xml_mapping"
-        },
-        {
-          "name": "URL Rewriting",
-          "description": null,
-          "projects": [
-            "desviar",
-            "rack-rewrite",
-            "redirect",
-            "refraction"
-          ],
-          "permalink": "URL_Rewriting"
-        },
-        {
-          "name": "SOAP Clients",
-          "description": null,
-          "projects": [
-            "handsoap",
-            "lolsoap",
-            "savon",
-            "serviceproxy"
-          ],
-          "permalink": "soap"
-        },
-        {
-          "name": "Web Content Scrapers",
-          "description": null,
-          "projects": [
-            "anemone",
-            "arachnid2",
-            "boilerpipe-ruby",
-            "cobweb",
-            "data_miner",
-            "docparser",
-            "fletcher",
-            "horsefield",
-            "kimurai",
-            "link_thumbnailer",
-            "metainspector",
-            "pismo",
-            "sinew",
-            "url_scraper",
-            "wiki-api",
-            "wombat"
-          ],
-          "permalink": "Web_Content_Scrapers"
-        },
-        {
-          "name": "HTML parsing",
-          "description": null,
-          "projects": [
-            "hpricot",
-            "libxml-ruby",
-            "nikkou",
-            "nokogiri",
-            "oga",
-            "ox",
-            "scrapi",
-            "scrubyt",
-            "xml-motor"
-          ],
-          "permalink": "html_parsing"
-        },
-        {
-          "name": "HTTP clients",
-          "description": "Easily interact with HTTP-based services",
-          "projects": [
-            "activeresource-response",
-            "api-client",
-            "api_smith",
-            "curb",
-            "em-http-request",
-            "excon",
-            "faraday",
-            "flexirest",
-            "frenetic",
-            "htcp",
-            "http",
-            "http-requestor",
-            "httparty",
-            "httpclient",
-            "httpi",
-            "httpx",
-            "hyperclient",
-            "lhc",
-            "lhs",
-            "mechanize",
-            "multipart-post",
-            "nestful",
-            "patron",
-            "persistent_httparty",
-            "rapidash",
-            "remotely",
-            "rest-client",
-            "restfulie",
-            "streamly",
-            "typhoeus",
-            "weary",
-            "wrest"
-          ],
-          "permalink": "http_clients"
-        },
-        {
-          "name": "Mock API Servers",
-          "description": "Applications allowing to mock API endpoints",
-          "projects": [
-            "iridakos/duckrails"
-          ],
-          "permalink": "mock_api_servers"
-        },
-        {
-          "name": "Rails Controller Abstractions",
-          "description": null,
-          "projects": [
-            "arcane",
-            "customs",
-            "decent_exposure",
-            "hcatlin/make_resourceful",
-            "ianwhite/resources_controller",
-            "inherited_resources",
-            "redirect_on_back",
-            "resource_controller",
-            "toast"
-          ],
-          "permalink": "rails_controller_abstractions"
-        }
-      ],
-      "description": null,
-      "name": "Web Apps, Services & Interaction",
-      "permalink": "Web_Apps_Services_Interaction"
-    },
-    {
-      "categories": [
-        {
-          "name": "CRM Apps",
-          "description": null,
-          "projects": [
-            "alchemy_crm",
-            "brobertsaz/railscrm",
-            "djcp/cohort",
-            "fat_free_crm",
-            "myitcrm/myitcrm2",
-            "nutshell-crm",
-            "thomasn/forgetmenot"
-          ],
-          "permalink": "crm_apps"
-        },
-        {
-          "name": "Exchange Clients",
-          "description": null,
-          "projects": [
-            "ews-api",
-            "exchanger",
-            "rews",
-            "rexchange",
-            "viewpoint"
-          ],
-          "permalink": "Exchange_Clients"
-        },
-        {
-          "name": "Inline CSS for E-Mail",
-          "description": null,
-          "projects": [
-            "actionmailer_inline_css",
-            "incurve",
-            "inline-style",
-            "inline_styles",
-            "inline_styles_mailer",
-            "mail_style",
-            "packrat",
-            "premailer",
-            "premailer-rails",
-            "premailer-rails3",
-            "roadie"
-          ],
-          "permalink": "Inline_CSS_for_E-Mail"
-        },
-        {
-          "name": "Asynchronous E-Mail",
-          "description": null,
-          "projects": [
-            "jusnavigandi/mail_queue",
-            "mailhopper",
-            "popthis",
-            "resque_mail_queue",
-            "resque_mailer"
-          ],
-          "permalink": "Asynchronous_E-Mail"
-        },
-        {
-          "name": "IRC Bots",
-          "description": null,
-          "projects": [
-            "autumn",
-            "cinch",
-            "cogbot",
-            "craigw/sprinkles",
-            "em-irc",
-            "gifbot",
-            "irc-qik-bot",
-            "isaac",
-            "lita-irc",
-            "ponder",
-            "radar/summer",
-            "rbot"
-          ],
-          "permalink": "irc_bots"
-        },
-        {
-          "name": "E-Mail Delivery",
-          "description": "Easily send e-mails from your Ruby programs",
-          "projects": [
-            "actionmailer",
-            "capistrano_mailer",
-            "hanami-mailer",
-            "mail",
-            "mailit",
-            "pony",
-            "sendgrid-rails",
-            "tmail"
-          ],
-          "permalink": "e_mail"
-        },
-        {
-          "name": "Forum Systems",
-          "description": null,
-          "projects": [
-            "forem",
-            "forum_monster",
-            "jonthewayne/altered_beast",
-            "thredded"
-          ],
-          "permalink": "forum_systems"
-        },
-        {
-          "name": "E-Mail Processing",
-          "description": null,
-          "projects": [
-            "actionmailbox",
-            "griddler",
-            "look/fetcher",
-            "mail_room",
-            "mailman",
-            "newman",
-            "siannopollo/mail_fetcher",
-            "sortah",
-            "tinnef"
-          ],
-          "permalink": "e_mail_processing"
-        },
-        {
-          "name": "E-Mail Preview",
-          "description": null,
-          "projects": [
-            "letter_opener",
-            "mail_view",
-            "mailcatcher",
-            "post_office",
-            "rails_email_preview",
-            "sanitize_email"
-          ],
-          "permalink": "EMail_Fake_Servers"
-        }
-      ],
-      "description": null,
-      "name": "Communication",
-      "permalink": "Communication"
     },
     {
       "categories": [
@@ -3002,313 +636,94 @@
     {
       "categories": [
         {
-          "name": "I18n",
+          "name": "Rails Class Diagrams",
           "description": null,
           "projects": [
-            "activerecord_translatable",
-            "ai/r18n",
-            "c3po",
-            "copycopter_client",
-            "delocalize",
-            "dylanz/i18n_backend_database",
-            "fast_gettext",
-            "globalize",
-            "globalize-accessors",
-            "globalize2",
-            "globalize3",
-            "has_translations",
-            "http_accept_language",
-            "human_attribute",
-            "i15r",
-            "i18n",
-            "i18n-inflector-rails",
-            "i18n-js",
-            "i18n-tasks",
-            "i18n_auto_scoping",
-            "i18n_routing",
-            "it",
-            "locale_detector",
-            "localeapp",
-            "mobility",
-            "model_translations",
-            "mongo-i18n",
-            "mongoid_translate",
-            "numbers_and_words",
-            "phrase",
-            "pig_latin",
-            "puret",
-            "rack-i18n_routes",
-            "rack-locale_chooser",
-            "rack-user-locale",
-            "rails-i18nterface",
-            "rails-translate-models",
-            "rails_locale_detection",
-            "raul/translate_routes",
-            "ready_for_i18n",
-            "route_translator",
-            "talk_like_a_pirate",
-            "to_lang",
-            "tr8n",
-            "traduction"
+            "railroady",
+            "rails-erd"
           ],
-          "permalink": "i18n"
+          "permalink": "Rails_Class_Diagrams"
         },
         {
-          "name": "Geocoding & Maps",
-          "description": null,
+          "name": "Rails Extensions",
+          "description": "Extensions and Add-ons for the Ruby-on-Rails web-application framework",
           "projects": [
-            "activerecord-postgis-adapter",
-            "acts_as_geocodable",
-            "address_standardization",
-            "autometal-geoip",
-            "cartographie",
-            "gdal",
-            "gdal-helper",
-            "geocoder",
-            "geokit",
-            "geokit-rails",
-            "GeoRuby",
-            "georuby",
-            "georuby-ext",
-            "georuby_box",
-            "georuby_remake",
-            "gmaps4rails",
-            "graticule",
-            "leaflet-rails",
-            "map_layers",
-            "mongoid_geospatial",
-            "nofxx-georuby",
-            "parolkar/geo_mere_laal",
-            "postgis_adapter",
-            "ppe-georuby",
-            "queso/ym4r-gm",
-            "rgdal",
-            "rgeo"
+            "rearmed_rails"
           ],
-          "permalink": "geocoding___maps"
+          "permalink": "rails_extensions"
         },
         {
-          "name": "Recurring Events",
+          "name": "Rails Admin Interfaces",
           "description": null,
           "projects": [
-            "angelic/schedule_fu",
-            "ice_cube",
-            "jhubert/ruby-date-recur",
-            "jruby-rfc2445",
-            "kjwierenga/ical-scheduler",
-            "montrose",
-            "nickstenning/recurring_event",
-            "recurrence",
-            "recurring",
-            "runt"
+            "ab_admin",
+            "active_scaffold",
+            "activeadmin",
+            "admin_assistant",
+            "admin_data",
+            "admin_interface",
+            "administrate",
+            "commondream/control_center",
+            "dry_crud",
+            "forest_liana",
+            "fullstack-admin",
+            "inline_forms",
+            "lipsiadmin",
+            "puffer",
+            "qadmin",
+            "rails_admin",
+            "relevance/streamlined",
+            "trestle",
+            "typus",
+            "wallaby"
           ],
-          "permalink": "recurring_events"
+          "permalink": "rails_admin_interfaces"
         },
         {
-          "name": "Calendars",
+          "name": "Rails Subdomains",
           "description": null,
           "projects": [
-            "calendar_helper",
-            "calendrier",
-            "event_cal",
-            "event_calendar",
-            "fnando/has_calendar",
-            "icalendar",
-            "later_dude",
-            "namxam/weekly_builder",
-            "ri_cal",
-            "selene",
-            "streakable"
+            "jfernandez/submarine",
+            "shuber/subdomain_account",
+            "sso_what",
+            "subdomain-fu",
+            "subdomain_routes"
           ],
-          "permalink": "calendars"
+          "permalink": "rails_subdomains"
         },
         {
-          "name": "Natural Language Date Parsing",
-          "description": null,
+          "name": "File Uploads",
+          "description": "Handle file uploads in Ruby-based web applications, including streamlined storage on cloud services, the extraction of file metadata and handling of post-processing tasks like resizing and cropping of images",
           "projects": [
-            "chronic",
-            "chronic_between",
-            "chronic_duration",
-            "kronic",
-            "nickel",
-            "text_parser",
-            "tickle"
+            "attached",
+            "carrierwave",
+            "dragonfly",
+            "fileclip",
+            "fileuploader-rails",
+            "imagery",
+            "jquery.fileupload-rails",
+            "paperclip",
+            "papermill",
+            "refile",
+            "shrine",
+            "simple-image-uploader",
+            "technoweenie/attachment_fu"
           ],
-          "permalink": "Natural_Language_Date_Parsing"
-        }
-      ],
-      "description": null,
-      "name": "Time & Space",
-      "permalink": "Time_Space"
-    },
-    {
-      "categories": [
-        {
-          "name": "PDF Processing",
-          "description": null,
-          "projects": [
-            "hexapdf",
-            "origami",
-            "pdf-reader",
-            "pdf_info",
-            "poppler",
-            "stevedore"
-          ],
-          "permalink": "PDF_Processing"
+          "permalink": "rails_file_uploads"
         },
         {
-          "name": "PDF Generation",
+          "name": "Rails Activity Feeds",
           "description": null,
           "projects": [
-            "acts_as_flying_saucer",
-            "breezy_pdf",
-            "breezy_pdf_lite",
-            "combine_pdf",
-            "doc_raptor",
-            "gambas",
-            "gimli",
-            "hexapdf",
-            "invoice_printer",
-            "kitabu",
-            "origami",
-            "pdfkit",
-            "poppler",
-            "prawn",
-            "prawn-rails",
-            "prawnto",
-            "prawnto_2",
-            "princely",
-            "rghost",
-            "rtex",
-            "shrimp",
-            "wicked_pdf",
-            "wisepdf",
-            "wkhtmltopdf"
+            "chalk_dust",
+            "my_feeds",
+            "parolkar/pfeed",
+            "public_activity",
+            "streama",
+            "timeline_fu",
+            "unread"
           ],
-          "permalink": "pdf_generation"
-        },
-        {
-          "name": "Reports & Spreadsheets",
-          "description": null,
-          "projects": [
-            "activeadmin-axlsx",
-            "acts_as_xlsx",
-            "axlsx",
-            "axlsx_rails",
-            "compendium",
-            "dossier",
-            "dynamic_reports",
-            "excel_rails",
-            "gnumeric",
-            "goffice",
-            "google-spreadsheet-ruby",
-            "mk/reports_as_sparkline",
-            "mondrian-olap",
-            "odf-report",
-            "oxcelix",
-            "remote_table",
-            "reportable",
-            "reports_kit",
-            "robust_excel_ole",
-            "rods",
-            "roo",
-            "rspreadsheet",
-            "rubyXL",
-            "ruport",
-            "schacon/munger",
-            "sheets",
-            "simple_xlsx_writer",
-            "spreadsheet",
-            "spreadsheet_architect",
-            "spreadsheet_report",
-            "statistics",
-            "thinreports",
-            "to_spreadsheet",
-            "workbook",
-            "wrap_excel",
-            "write_xlsx",
-            "write_xlsx_rails"
-          ],
-          "permalink": "reporting"
-        }
-      ],
-      "description": null,
-      "name": "Documents & Reports",
-      "permalink": "Documents_Reports"
-    },
-    {
-      "categories": [
-        {
-          "name": "Documentation Generators",
-          "description": "Tools for creating API documentation of your Ruby software and it's exposed interfaces",
-          "projects": [
-            "annotator",
-            "apipie-rails",
-            "binman",
-            "breakpointer/ajax-rdoc",
-            "doc",
-            "erbook",
-            "hanna",
-            "jeromegn/DocumentUp",
-            "md2man",
-            "rdoc",
-            "rocco",
-            "ronn",
-            "rspec_api_documentation",
-            "schemadoc",
-            "sdoc",
-            "yard"
-          ],
-          "permalink": "documentation_tools"
-        },
-        {
-          "name": "Gem Doc Viewers",
-          "description": null,
-          "projects": [
-            "bdoc",
-            "gembox",
-            "imownbey/docbox",
-            "jnewland/sinatra-rubygems"
-          ],
-          "permalink": "gem_doc_viewers"
-        }
-      ],
-      "description": null,
-      "name": "Documentation Tools",
-      "permalink": "Documentation_Tools"
-    },
-    {
-      "categories": [
-        {
-          "name": "Networking Tools",
-          "description": null,
-          "projects": [
-            "ipaddress",
-            "macker",
-            "maxminddb",
-            "wifi-wand"
-          ],
-          "permalink": "networking_tools"
-        }
-      ],
-      "description": null,
-      "name": "Networking",
-      "permalink": "Networking"
-    },
-    {
-      "categories": [
-        {
-          "name": "Reputation Engines",
-          "description": null,
-          "projects": [
-            "activerecord-reputation-system",
-            "badginator",
-            "honor",
-            "merit",
-            "recognition",
-            "reputation"
-          ],
-          "permalink": "Reputation_Engines"
+          "permalink": "Rails_Activity_Feeds"
         },
         {
           "name": "State Machines",
@@ -3356,19 +771,17 @@
           "permalink": "rails_app_templates"
         },
         {
-          "name": "User Messaging Systems",
+          "name": "Reputation Engines",
           "description": null,
           "projects": [
-            "acts-as-messageable",
-            "cacheable_flash",
-            "discuss",
-            "frodefi/rails-messaging",
-            "growlyflash",
-            "inboxes",
-            "mailboxer",
-            "maktoub"
+            "activerecord-reputation-system",
+            "badginator",
+            "honor",
+            "merit",
+            "recognition",
+            "reputation"
           ],
-          "permalink": "User_Messaging_Systems"
+          "permalink": "Reputation_Engines"
         },
         {
           "name": "Recommendation Engines",
@@ -3383,38 +796,19 @@
           "permalink": "Recommendation_Engines"
         },
         {
-          "name": "Rails Subdomains",
+          "name": "User Messaging Systems",
           "description": null,
           "projects": [
-            "jfernandez/submarine",
-            "shuber/subdomain_account",
-            "sso_what",
-            "subdomain-fu",
-            "subdomain_routes"
+            "acts-as-messageable",
+            "cacheable_flash",
+            "discuss",
+            "frodefi/rails-messaging",
+            "growlyflash",
+            "inboxes",
+            "mailboxer",
+            "maktoub"
           ],
-          "permalink": "rails_subdomains"
-        },
-        {
-          "name": "Rails Activity Feeds",
-          "description": null,
-          "projects": [
-            "chalk_dust",
-            "my_feeds",
-            "parolkar/pfeed",
-            "public_activity",
-            "streama",
-            "timeline_fu",
-            "unread"
-          ],
-          "permalink": "Rails_Activity_Feeds"
-        },
-        {
-          "name": "Rails Extensions",
-          "description": "Extensions and Add-ons for the Ruby-on-Rails web-application framework",
-          "projects": [
-            "rearmed_rails"
-          ],
-          "permalink": "rails_extensions"
+          "permalink": "User_Messaging_Systems"
         },
         {
           "name": "Rails Presenters",
@@ -3441,42 +835,6 @@
           "permalink": "rails_presenters"
         },
         {
-          "name": "Rails Class Diagrams",
-          "description": null,
-          "projects": [
-            "railroady",
-            "rails-erd"
-          ],
-          "permalink": "Rails_Class_Diagrams"
-        },
-        {
-          "name": "Rails Admin Interfaces",
-          "description": null,
-          "projects": [
-            "ab_admin",
-            "active_scaffold",
-            "activeadmin",
-            "admin_assistant",
-            "admin_data",
-            "admin_interface",
-            "administrate",
-            "commondream/control_center",
-            "dry_crud",
-            "forest_liana",
-            "fullstack-admin",
-            "inline_forms",
-            "lipsiadmin",
-            "puffer",
-            "qadmin",
-            "rails_admin",
-            "relevance/streamlined",
-            "trestle",
-            "typus",
-            "wallaby"
-          ],
-          "permalink": "rails_admin_interfaces"
-        },
-        {
           "name": "Rails Permalinks & Slugs",
           "description": null,
           "projects": [
@@ -3497,26 +855,6 @@
             "stringex"
           ],
           "permalink": "rails_permalinks___slugs"
-        },
-        {
-          "name": "File Uploads",
-          "description": "Handle file uploads in Ruby-based web applications, including streamlined storage on cloud services, the extraction of file metadata and handling of post-processing tasks like resizing and cropping of images",
-          "projects": [
-            "attached",
-            "carrierwave",
-            "dragonfly",
-            "fileclip",
-            "fileuploader-rails",
-            "imagery",
-            "jquery.fileupload-rails",
-            "paperclip",
-            "papermill",
-            "refile",
-            "shrine",
-            "simple-image-uploader",
-            "technoweenie/attachment_fu"
-          ],
-          "permalink": "rails_file_uploads"
         }
       ],
       "description": null,
@@ -3526,31 +864,331 @@
     {
       "categories": [
         {
-          "name": "QR Codes",
+          "name": "Mocking Web Requests",
           "description": null,
           "projects": [
-            "pngqr",
-            "qrencoder",
-            "qrscanner",
-            "qrtools",
-            "rqr",
-            "rqrcode",
-            "rqrcode-rails3",
-            "rqrcode_png",
-            "zbar",
-            "zxing"
+            "appendto/jquery-mockjax",
+            "artifice",
+            "fakeweb",
+            "mockjax",
+            "mocktra",
+            "netrecorder",
+            "rest-assured",
+            "sonar",
+            "stale_fish",
+            "vcr",
+            "webmock"
           ],
-          "permalink": "QR_Codes"
+          "permalink": "mocking_web_requests"
         },
         {
-          "name": "Visualizing Data",
+          "name": "Continuous Testing",
           "description": null,
           "projects": [
-            "DmitryBaranovskiy/raphael",
-            "ruby-graphviz",
-            "ruby-processing"
+            "autotest",
+            "autotest-fsevent",
+            "autotest-growl",
+            "guard",
+            "guard-rspec",
+            "guard-rubocop",
+            "infinity_test",
+            "kicker",
+            "rack-livereload",
+            "tconsole",
+            "tork",
+            "watchr",
+            "ZenTest"
           ],
-          "permalink": "visualizing_data"
+          "permalink": "continuous_testing"
+        },
+        {
+          "name": "Distributed Testing",
+          "description": null,
+          "projects": [
+            "aslakhellesoy/rspec-distributed",
+            "brynary/testjour",
+            "hydra",
+            "parallel_tests",
+            "qxjit/deep-test",
+            "specjour",
+            "spin",
+            "spork",
+            "spring",
+            "test-queue",
+            "testbot",
+            "zeus",
+            "zeus-parallel_tests"
+          ],
+          "permalink": "distributed_testing"
+        },
+        {
+          "name": "Browser testing",
+          "description": "Write and run automated tests of your web app in a real-world browser environment",
+          "projects": [
+            "akephalos",
+            "capybara",
+            "capybara-chrome",
+            "capybara-webkit",
+            "celerity",
+            "culerity",
+            "cuprite",
+            "headless",
+            "paytonrules/selenium-on-rails",
+            "polonium",
+            "poltergeist",
+            "selenium-client",
+            "selenium-webdriver",
+            "site_prism",
+            "tooth",
+            "watir",
+            "watir-webdriver",
+            "webrat"
+          ],
+          "permalink": "browser_testing"
+        },
+        {
+          "name": "Cucumber Tools",
+          "description": null,
+          "projects": [
+            "chutney",
+            "cql",
+            "cucover",
+            "cucumber-in-the-yard",
+            "cucumber-nagios",
+            "cucumber-pride",
+            "cucumber-screenshot",
+            "cucumber-sinatra",
+            "cucumberator",
+            "cuke_cataloger",
+            "cuke_modeler",
+            "cuke_sniffer",
+            "cukesparse",
+            "cuporter",
+            "gherkin_lint",
+            "stepdown",
+            "viewcumber",
+            "yard-cucumber"
+          ],
+          "permalink": "Cucumber_Tools"
+        },
+        {
+          "name": "Cucumber Steps",
+          "description": null,
+          "projects": [
+            "aruba",
+            "cucumber-farmer",
+            "cucumber_factory",
+            "email_spec",
+            "macros4cuke",
+            "mundo-pepino",
+            "pickle"
+          ],
+          "permalink": "Cucumber_Steps"
+        },
+        {
+          "name": "Mocking",
+          "description": null,
+          "projects": [
+            "bogus",
+            "cross-stub",
+            "facon",
+            "flexmock",
+            "jm/stump",
+            "mocha",
+            "mock_redis",
+            "mocoso",
+            "rr",
+            "rspec-mocks",
+            "simple_mock",
+            "spy",
+            "surrogate",
+            "verified_double"
+          ],
+          "permalink": "mocking"
+        },
+        {
+          "name": "RSpec Matchers",
+          "description": "Additional RSpec test matchers that help you write more expressive examples",
+          "projects": [
+            "aruba",
+            "db-query-matchers",
+            "email_spec",
+            "rspec-become-matcher",
+            "rspec-collection_matchers",
+            "rspec-composable_json_matchers",
+            "rspec-graphql_matchers",
+            "rspec-html-matchers",
+            "rspec-instrumentation-matcher",
+            "rspec-json_matcher",
+            "rspec-mail_matcher",
+            "shoulda-matchers"
+          ],
+          "permalink": "RSpec_Matchers"
+        },
+        {
+          "name": "A/B Testing",
+          "description": null,
+          "projects": [
+            "abanalyzer",
+            "abingo",
+            "abingo_port",
+            "absurdity",
+            "bandit",
+            "field_test",
+            "fluidfeatures",
+            "fluidfeatures-rails",
+            "paulmars/seven_minute_abs",
+            "split",
+            "validation_issues",
+            "vanity"
+          ],
+          "permalink": "A_B_Testing"
+        },
+        {
+          "name": "Testing Rails Engines",
+          "description": null,
+          "projects": [
+            "combustion",
+            "multiengine",
+            "test_engine"
+          ],
+          "permalink": "Testing_Rails_Engines"
+        },
+        {
+          "name": "Test::Unit Extensions",
+          "description": null,
+          "projects": [
+            "contest",
+            "jm/context",
+            "pending",
+            "shoulda"
+          ],
+          "permalink": "Test_Unit_Extensions"
+        },
+        {
+          "name": "Rails Fixture Replacement",
+          "description": null,
+          "projects": [
+            "blueprints",
+            "dm-sweatshop",
+            "fabrication",
+            "factory_bot",
+            "fixjour",
+            "fixture_builder",
+            "fixture_replacement",
+            "machinist",
+            "miniskirt",
+            "object_daddy",
+            "seedomatic",
+            "sham",
+            "spawn",
+            "transactionata"
+          ],
+          "permalink": "rails_fixture_replacement"
+        },
+        {
+          "name": "Random Data Generation",
+          "description": null,
+          "projects": [
+            "cheap_random",
+            "data-anonymization",
+            "faker",
+            "ffaker",
+            "forgery",
+            "randexp",
+            "random_data",
+            "well_read_faker"
+          ],
+          "permalink": "random_data_generation"
+        },
+        {
+          "name": "Time Warping",
+          "description": null,
+          "projects": [
+            "delorean",
+            "quantum_leap",
+            "time-warp",
+            "time-zone-warp",
+            "time_travel",
+            "timecop"
+          ],
+          "permalink": "time_warping"
+        },
+        {
+          "name": "Acceptance Test Frameworks",
+          "description": null,
+          "projects": [
+            "bewildr",
+            "coulda",
+            "cucumber",
+            "filet",
+            "mountain_berry_fields",
+            "saki",
+            "spinach",
+            "steak",
+            "stella",
+            "stories",
+            "turnip",
+            "unencumbered"
+          ],
+          "permalink": "Acceptance_Test_Frameworks"
+        },
+        {
+          "name": "Test Frameworks",
+          "description": "Frameworks for writing automated tests for your software",
+          "projects": [
+            "assert",
+            "bacon",
+            "detest",
+            "dtf",
+            "fix",
+            "kintama",
+            "lemon",
+            "micronaut",
+            "minitest",
+            "riot",
+            "rspec",
+            "rubydoctest",
+            "shindo",
+            "test-unit",
+            "test_inline",
+            "testrocket",
+            "testy",
+            "wrong",
+            "yard-doctest"
+          ],
+          "permalink": "testing_frameworks"
+        }
+      ],
+      "description": null,
+      "name": "Testing",
+      "permalink": "Testing"
+    },
+    {
+      "categories": [
+        {
+          "name": "Image Processing",
+          "description": null,
+          "projects": [
+            "cairo",
+            "chunky_png",
+            "core_image",
+            "devil",
+            "fabien/im_magick",
+            "image_science",
+            "image_sorcery",
+            "image_squeeze",
+            "magickly",
+            "MIAConverter",
+            "mini_magick",
+            "mojo_magick",
+            "pango",
+            "paperclip-optimizer",
+            "rmagick",
+            "rsvg2",
+            "skeptick"
+          ],
+          "permalink": "image_processing"
         },
         {
           "name": "Graphing",
@@ -3581,28 +1219,31 @@
           "permalink": "graphing"
         },
         {
-          "name": "Image Processing",
+          "name": "QR Codes",
           "description": null,
           "projects": [
-            "cairo",
-            "chunky_png",
-            "core_image",
-            "devil",
-            "fabien/im_magick",
-            "image_science",
-            "image_sorcery",
-            "image_squeeze",
-            "magickly",
-            "MIAConverter",
-            "mini_magick",
-            "mojo_magick",
-            "pango",
-            "paperclip-optimizer",
-            "rmagick",
-            "rsvg2",
-            "skeptick"
+            "pngqr",
+            "qrencoder",
+            "qrscanner",
+            "qrtools",
+            "rqr",
+            "rqrcode",
+            "rqrcode-rails3",
+            "rqrcode_png",
+            "zbar",
+            "zxing"
           ],
-          "permalink": "image_processing"
+          "permalink": "QR_Codes"
+        },
+        {
+          "name": "Visualizing Data",
+          "description": null,
+          "projects": [
+            "DmitryBaranovskiy/raphael",
+            "ruby-graphviz",
+            "ruby-processing"
+          ],
+          "permalink": "visualizing_data"
         }
       ],
       "description": null,
@@ -3612,409 +1253,705 @@
     {
       "categories": [
         {
-          "name": "JavaScript Tools",
-          "description": "Utilities for working with JavaScript in Ruby",
-          "projects": [
-            "barista",
-            "coffee-script",
-            "dom_routes",
-            "dynamojs_rails",
-            "gon",
-            "indexable",
-            "jabs",
-            "jake",
-            "juicer",
-            "MadRabbit/frontcompiler",
-            "mousetrap-rails",
-            "NV/js-preprocessor",
-            "opal",
-            "opal-rails",
-            "packr",
-            "paloma",
-            "poke_js",
-            "rack-jquery",
-            "rake-minify",
-            "sprockets",
-            "SrBuj",
-            "uglifier",
-            "vendorer",
-            "webpacker",
-            "wiselinks"
-          ],
-          "permalink": "javascript_tools"
-        },
-        {
-          "name": "Rails In-Place Editing",
+          "name": "Text Editors in Ruby",
           "description": null,
           "projects": [
-            "amerine/in_place_editing",
-            "best_in_place",
-            "best_in_place_mongoid",
-            "best_in_placeish",
-            "flvorful/super_inplace_controls",
-            "janv/rest_in_place",
-            "jeditable-rails",
-            "jintastic",
-            "nakajima/better-edit-in-place",
-            "on_the_spot",
-            "rakuto/jrails_in_place_editing",
-            "redlinesoftware/in_place_editor",
-            "simplificator/inplace",
-            "stepheneb/in_place_rich_editing"
+            "arcadia",
+            "diakonos",
+            "redcar",
+            "ruber",
+            "ruco"
           ],
-          "permalink": "rails_in_place_editing"
+          "permalink": "text_editors_in_ruby"
         },
         {
-          "name": "Prototype Replacements",
+          "name": "GUI Frameworks",
           "description": null,
           "projects": [
-            "CodeOfficer/jquery-ui-rails-helpers",
-            "jrails",
-            "right-rails",
-            "rubaidh/yui_on_rails"
+            "ffi-tk",
+            "flammarion",
+            "fxruby",
+            "gtk2",
+            "gtk3",
+            "qtbindings",
+            "shoes",
+            "wxruby"
           ],
-          "permalink": "prototype_replacements"
+          "permalink": "GUI_Frameworks"
         },
         {
-          "name": "JavaScript Runtimes",
+          "name": "Command Line Utilities",
+          "description": "Tools for using Ruby code on the command line",
+          "projects": [
+            "rb",
+            "rexe"
+          ],
+          "permalink": "CommandLineUtilities"
+        },
+        {
+          "name": "Gem Creation",
+          "description": "Tools that aid in creating, maintaining and publishing Rubygems",
+          "projects": [
+            "bones",
+            "bundler",
+            "echoe",
+            "enginex",
+            "gem-newgem",
+            "gem-release",
+            "gem_hadar",
+            "gemsmith",
+            "hoe",
+            "inochi",
+            "jeweler",
+            "juwelier",
+            "microgem",
+            "newgem",
+            "ore",
+            "quik",
+            "rag",
+            "rookie",
+            "rubygems-tasks",
+            "simple-gem"
+          ],
+          "permalink": "gem_creation"
+        },
+        {
+          "name": "irb Alternatives",
           "description": null,
           "projects": [
-            "execjs",
-            "therubyracer"
+            "fir-repl",
+            "pry",
+            "rib",
+            "ripl"
           ],
-          "permalink": "JavaScript_runtimes"
+          "permalink": "irb_Alternatives"
         },
         {
-          "name": "React Tools",
-          "description": "Tools for integrating with ReactJS",
-          "projects": [
-            "react-rails",
-            "react_on_rails",
-            "webpacker-react"
-          ],
-          "permalink": "react_tools"
-        },
-        {
-          "name": "JavaScript Testing",
+          "name": "Project Management",
           "description": null,
           "projects": [
-            "alexyoung/riotjs",
-            "evergreen",
-            "gerbil-rails",
-            "hanoi",
-            "jasmine",
-            "jcov",
-            "jquery/testswarm",
-            "konacha",
-            "opal-spec",
-            "paulca/whenever.js",
-            "relevance/blue-ridge",
-            "screw-unit",
-            "screw-unit-server"
+            "branston",
+            "caperoma",
+            "chiliproject/chiliproject",
+            "dim/retrospectiva",
+            "edavis10/redmine",
+            "git_time_extractor",
+            "gitlabhq/gitlabhq",
+            "joshrendek/reru_scrum",
+            "joshrendek/taskrey",
+            "malclocke/fulcrum",
+            "pickler",
+            "shingara/oupsnow",
+            "teambox/teambox"
           ],
-          "permalink": "javascript_testing"
+          "permalink": "project_management"
+        },
+        {
+          "name": "Terminal UI",
+          "description": "Components to build Terminal UIs",
+          "projects": [
+            "cli-ui",
+            "terminal-table",
+            "tty",
+            "tty-box",
+            "tty-color",
+            "tty-command",
+            "tty-cursor",
+            "tty-font",
+            "tty-markdown",
+            "tty-pager",
+            "tty-pie",
+            "tty-progressbar",
+            "tty-prompt",
+            "tty-reader",
+            "tty-screen",
+            "tty-spinner",
+            "tty-table",
+            "tty-tree",
+            "vedeu"
+          ],
+          "permalink": "terminal_ui"
+        },
+        {
+          "name": "Benchmarking",
+          "description": null,
+          "projects": [
+            "bench_press",
+            "benchmark-ips",
+            "benchmarkable",
+            "better-benchmark",
+            "dev_panel",
+            "method_profiler",
+            "rbench",
+            "tach"
+          ],
+          "permalink": "Benchmarking"
+        },
+        {
+          "name": "Command Line Option Parsers",
+          "description": "Utilities to process arguments to terminal command line programs easily",
+          "projects": [
+            "acclaim",
+            "arg0",
+            "choice",
+            "cl",
+            "clamp",
+            "clap",
+            "cmdparse",
+            "cocaine",
+            "commander",
+            "config_parser",
+            "cri",
+            "docopt",
+            "getopt",
+            "getoptions",
+            "gli",
+            "highline",
+            "methadone",
+            "micro-optparse",
+            "mixlib-cli",
+            "OptionParser",
+            "optitron",
+            "quickl",
+            "rationalist",
+            "slop",
+            "trollop"
+          ],
+          "permalink": "CLI_Option_Parsers"
+        },
+        {
+          "name": "Deprecation Tools",
+          "description": null,
+          "projects": [
+            "deprecated",
+            "structured_warnings"
+          ],
+          "permalink": "Deprecation_Tools"
+        },
+        {
+          "name": "Command Line Progress Bars",
+          "description": "Display progress of your terminal program nicely",
+          "projects": [
+            "fuubar",
+            "multi_progress_bar",
+            "powerbar",
+            "progress",
+            "progress-meter",
+            "progress_bar",
+            "progressbar",
+            "ruby-progressbar",
+            "shell-spinner",
+            "spinning_cursor",
+            "tty-progressbar",
+            "whirly"
+          ],
+          "permalink": "CLI_Progress_Bars"
+        },
+        {
+          "name": "Concurrent Processing",
+          "description": "Tools that simplify the writing of concurrent Ruby programs",
+          "projects": [
+            "async",
+            "celluloid",
+            "concurrent-ruby",
+            "cool.io",
+            "dataflow",
+            "eventbox",
+            "eventmachine",
+            "tribe",
+            "wires",
+            "workers"
+          ],
+          "permalink": "Concurrent_Processing"
+        },
+        {
+          "name": "irb Tools",
+          "description": null,
+          "projects": [
+            "alias",
+            "awesome_print",
+            "bond",
+            "clipboard",
+            "davidrichards/sirb",
+            "every_day_irb",
+            "fancy_irb",
+            "gilesbowkett/utility-belt",
+            "hirb",
+            "interactive_editor",
+            "irbtools",
+            "irbtools-more",
+            "looksee",
+            "marco-polo",
+            "ori",
+            "pry-rails",
+            "racksh",
+            "ryanb/dotfiles",
+            "sketches",
+            "table_print",
+            "wirb",
+            "wirble"
+          ],
+          "permalink": "irb_tools"
+        },
+        {
+          "name": "Scripting Frameworks",
+          "description": "Libraries that simplify the writing of command-line interfaces for your Ruby programs",
+          "projects": [
+            "boson",
+            "hanami-cli",
+            "lucie",
+            "main",
+            "rake",
+            "sake",
+            "thor"
+          ],
+          "permalink": "scripting_frameworks"
+        },
+        {
+          "name": "Rails Version Management",
+          "description": "Tools for managing the Rails versions of new or existing apps",
+          "projects": [
+            "brandonweiss/railyard"
+          ],
+          "permalink": "rails_version_management"
+        },
+        {
+          "name": "git Tools",
+          "description": null,
+          "projects": [
+            "ezgit",
+            "gas",
+            "git",
+            "git-cop",
+            "githug",
+            "gitolite",
+            "gitsu",
+            "grit",
+            "gritano",
+            "octonore",
+            "rugged"
+          ],
+          "permalink": "git_Tools"
+        },
+        {
+          "name": "Gnome libraries",
+          "description": "Ruby bindings for the Gnome libraries.",
+          "projects": [
+            "atk",
+            "cairo-gobject",
+            "clutter",
+            "clutter-gdk",
+            "clutter-gstreamer",
+            "clutter-gtk",
+            "gdk3",
+            "gdk_pixbuf2",
+            "gio2",
+            "glib2",
+            "gnumeric",
+            "gobject-introspection",
+            "goffice",
+            "gsf",
+            "gstreamer",
+            "gtk2",
+            "gtk3",
+            "gtksourceview2",
+            "gtksourceview3",
+            "pango",
+            "poppler",
+            "rsvg2",
+            "vte",
+            "vte3",
+            "webkit-gtk",
+            "webkit-gtk2",
+            "webkit2-gtk"
+          ],
+          "permalink": "Gnome"
+        },
+        {
+          "name": "Configuration Management",
+          "description": null,
+          "projects": [
+            "acts_as_configurable",
+            "amberbit-config",
+            "anyway_config",
+            "app",
+            "app_config",
+            "application_configuration",
+            "chamber",
+            "config-me",
+            "config_fun",
+            "config_newton",
+            "configatron",
+            "configliere",
+            "configloader",
+            "configtoolkit",
+            "configulations",
+            "configurability",
+            "configurable_engine",
+            "configuration",
+            "configus",
+            "confstruct",
+            "constantinople",
+            "dotconfig",
+            "dotenv",
+            "dotenv-rails",
+            "dynamic_configuration",
+            "envied",
+            "envyable",
+            "figaro",
+            "gaston",
+            "global",
+            "informante",
+            "ledermann-rails-settings",
+            "micon",
+            "optimism",
+            "rails-settings",
+            "rails_config",
+            "rconfig",
+            "settingslogic",
+            "simpleconfig",
+            "store_configurable",
+            "tty-config",
+            "user_config",
+            "yettings"
+          ],
+          "permalink": "Configuration_Management"
+        },
+        {
+          "name": "Gem and Library Inspection",
+          "description": null,
+          "projects": [
+            "gemedit",
+            "open_gem",
+            "qwandry"
+          ],
+          "permalink": "Gem_and_Library_Inspection"
+        },
+        {
+          "name": "Terminal Coloring",
+          "description": null,
+          "projects": [
+            "ansi",
+            "colored",
+            "colorize",
+            "lolcat",
+            "paint",
+            "pastel",
+            "rainbow",
+            "term-ansicolor"
+          ],
+          "permalink": "Terminal_Coloring"
+        },
+        {
+          "name": "Ruby Version Management",
+          "description": null,
+          "projects": [
+            "asdf-vm/asdf-ruby",
+            "hmans/rbfu",
+            "phoet/which_ruby",
+            "postmodern/chruby",
+            "postmodern/ruby-install",
+            "rvm/rvm",
+            "senny/rvm.el",
+            "sstephenson/rbenv",
+            "sstephenson/ruby-build",
+            "vertiginous/pik"
+          ],
+          "permalink": "ruby_version_management"
+        },
+        {
+          "name": "Ruby Core Extensions",
+          "description": "Libraries that enhance Ruby's core classes like Hash or String with additional features",
+          "projects": [
+            "activesupport",
+            "deep_tree",
+            "docile",
+            "extlib",
+            "facets",
+            "fast_underscore",
+            "hamster",
+            "hashie",
+            "hashy",
+            "named-parameters",
+            "optionalargument",
+            "pluginfactory",
+            "powerpack",
+            "rearmed",
+            "rubytree",
+            "rucursive",
+            "rumonade",
+            "suggest_rb",
+            "tagen",
+            "vernacular",
+            "vernacular-ast",
+            "zucker"
+          ],
+          "permalink": "Ruby_Core_Extensions"
+        },
+        {
+          "name": "Presentation Software",
+          "description": null,
+          "projects": [
+            "cykod/CoderDeck",
+            "davist11/jQuery-Presentation",
+            "geraldb/s6",
+            "LeaVerou/CSSS",
+            "showoff",
+            "slidedown",
+            "slideshow"
+          ],
+          "permalink": "presentation_software"
         }
       ],
       "description": null,
-      "name": "JavaScript",
-      "permalink": "JavaScript"
+      "name": "Developer Tools",
+      "permalink": "Developer_Tools"
     },
     {
       "categories": [
         {
-          "name": "Blog Engines",
+          "name": "Form Objects",
           "description": null,
           "projects": [
-            "blogit",
-            "governor",
-            "imathis/octopress",
-            "picco_blog",
-            "refinerycms-blog",
-            "serious",
-            "toto",
-            "typo"
+            "activemodel-form",
+            "dry-validation",
+            "reform",
+            "scrivener",
+            "virtus"
           ],
-          "permalink": "Blog_Engines"
+          "permalink": "Form_Objects"
         },
         {
-          "name": "Content Management",
-          "description": null,
+          "name": "View Objects",
+          "description": "Framework agnostic gems that implement Decorator / View Object pattern.",
           "projects": [
-            "alchemy_cms",
-            "binda",
-            "browsercms",
-            "cantierecreativo/railsyardcms",
-            "casein",
-            "comfortable_mexican_sofa",
-            "copy",
-            "DigitPaint/skyline",
-            "drg_cms",
-            "fae-rails",
-            "fullstack-cms",
-            "knewter/ansuz",
-            "locomotivecms",
-            "lolita",
-            "manageable_content",
-            "nesta",
-            "Opal",
-            "puffer_pages",
-            "push_type",
-            "radiant",
-            "railfrog/railfrog",
-            "refinerycms",
-            "refinerycms-menus",
-            "regulate",
-            "snippr",
-            "spina",
-            "static",
-            "station",
-            "svenfuchs/adva_cms",
-            "thinkdry/blank-application",
-            "ubiquo",
-            "zen",
-            "zena"
+            "cells",
+            "dry-view",
+            "hanami-view"
           ],
-          "permalink": "content_management_systems"
+          "permalink": "View_Objects"
         },
         {
-          "name": "Wiki Apps",
-          "description": null,
+          "name": "Business Logic Frameworks",
+          "description": "Tools to help with Domain Driven Design approach and organize app's  Control Flow.",
           "projects": [
-            "AndyMoreland/kii",
-            "benatkin/weaky",
-            "bomberstudios/bliki",
-            "cargo_wiki",
-            "gitki",
-            "gollum",
-            "gollum_rails",
-            "instiki",
-            "irwi",
-            "jm/perwikity",
-            "manveru/rakki",
-            "meekish/collective",
-            "olelo",
-            "queso/signal-wiki",
-            "semanticart/hoboken",
-            "soywiki",
-            "sr/git-wiki"
+            "pathway",
+            "trailblazer",
+            "zertico"
           ],
-          "permalink": "wiki_apps"
+          "permalink": "Business_Logic_Frameworks"
         },
         {
-          "name": "Static Website Generation",
-          "description": null,
+          "name": "Service Objects",
+          "description": "Libraries to isolate application domain logic into separate classes.",
           "projects": [
-            "ace",
-            "awestruct",
-            "bonsai",
-            "brochure",
-            "deplot",
-            "dynamicmatic",
-            "frank",
-            "high_voltage",
-            "jekyll",
-            "korma",
-            "machined",
-            "middleman",
-            "nanoc",
-            "ruhoh",
-            "stasis",
-            "staticmatic",
-            "webby",
-            "webgen"
+            "active_interaction",
+            "dry-transaction",
+            "interactor",
+            "mutations",
+            "pathway",
+            "simple_command",
+            "simple_service",
+            "surrounded",
+            "trailblazer-activity"
           ],
-          "permalink": "static_website_generation"
+          "permalink": "Service_Objects"
         }
       ],
-      "description": null,
-      "name": "Content Management & Blogging",
-      "permalink": "Content_Management_Blogging"
+      "description": "Software Architecture layers and tools",
+      "name": "Code Organization",
+      "permalink": "Code_Organization"
     },
     {
       "categories": [
         {
-          "name": "Web Authentication",
-          "description": "Handle the authentication of users in web applications written in frameworks like Rails",
+          "name": "E-Mail Delivery",
+          "description": "Easily send e-mails from your Ruby programs",
           "projects": [
-            "adauth",
-            "authlogic",
-            "authorizme",
-            "clearance",
-            "current_user",
-            "cz_auth",
-            "devise",
-            "devise_oauth2_providable",
-            "doorkeeper",
-            "envylabs/BlueLightSpecial",
-            "letmein",
-            "monban",
-            "omniauth",
-            "rack-cas",
-            "rodauth",
-            "rpx_now",
-            "sorcery",
-            "switch_user",
-            "technoweenie/restful-authentication",
-            "userbin"
+            "actionmailer",
+            "capistrano_mailer",
+            "hanami-mailer",
+            "mail",
+            "mailit",
+            "pony",
+            "sendgrid-rails",
+            "tmail"
           ],
-          "permalink": "rails_authentication"
+          "permalink": "e_mail"
         },
         {
-          "name": "Encryption",
+          "name": "E-Mail Processing",
           "description": null,
           "projects": [
-            "attr_encrypted",
-            "crypt_keeper",
-            "encrypted_strings",
-            "jamesotron/Lockbox",
-            "jmckible/lucifer",
-            "miscreant",
-            "mongoid-encrypted-fields",
-            "pkcs11",
-            "rbnacl",
-            "sentry",
-            "strongbox",
-            "symmetric-encryption"
+            "actionmailbox",
+            "griddler",
+            "look/fetcher",
+            "mail_room",
+            "mailman",
+            "newman",
+            "siannopollo/mail_fetcher",
+            "sortah",
+            "tinnef"
           ],
-          "permalink": "encryption"
+          "permalink": "e_mail_processing"
         },
         {
-          "name": "Spam Detection",
+          "name": "Exchange Clients",
           "description": null,
           "projects": [
-            "akismetor",
-            "defender",
-            "defensio/defensio-ruby",
-            "mattapayne/rdefensio",
-            "rakismet",
-            "viking"
+            "ews-api",
+            "exchanger",
+            "rews",
+            "rexchange",
+            "viewpoint"
           ],
-          "permalink": "spam_detection"
+          "permalink": "Exchange_Clients"
         },
         {
-          "name": "LDAP",
+          "name": "CRM Apps",
           "description": null,
           "projects": [
-            "binarylogic/authlogic_ldap",
-            "devise_ldap_authenticatable",
-            "net-ldap",
-            "omniauth-ldap",
-            "ruby-activeldap",
-            "ruby-net-ldap",
-            "simple_ldap_authenticator",
-            "treequel",
-            "tsaleh/ldap-activerecord-gateway"
+            "alchemy_crm",
+            "brobertsaz/railscrm",
+            "djcp/cohort",
+            "fat_free_crm",
+            "myitcrm/myitcrm2",
+            "nutshell-crm",
+            "thomasn/forgetmenot"
           ],
-          "permalink": "ldap"
+          "permalink": "crm_apps"
         },
         {
-          "name": "Security Tools",
+          "name": "IRC Bots",
           "description": null,
           "projects": [
-            "active_model_otp",
-            "alpaca",
-            "brakeman",
-            "codesake-dawn",
-            "loofah",
-            "look/xss_terminate",
-            "mhartl/find_mass_assignment",
-            "param_protected",
-            "rails_xss",
-            "ryanlowe/audit_mass_assignment",
-            "shellex",
-            "sudo_attributes",
-            "tarantula",
-            "wwidea/cross_site_sniper"
+            "autumn",
+            "cinch",
+            "cogbot",
+            "craigw/sprinkles",
+            "em-irc",
+            "gifbot",
+            "irc-qik-bot",
+            "isaac",
+            "lita-irc",
+            "ponder",
+            "radar/summer",
+            "rbot"
           ],
-          "permalink": "security_tools"
+          "permalink": "irc_bots"
         },
         {
-          "name": "User Authorization",
-          "description": "Narrow down the visibility and accessibility of operations for users based on roles and similar access control patterns",
-          "projects": [
-            "10to1/roleify",
-            "access-granted",
-            "acl9",
-            "action_policy",
-            "aegis",
-            "allowy",
-            "authority",
-            "authz",
-            "baldwindavid/padlock_authorization",
-            "banken",
-            "canable",
-            "canard",
-            "cancan",
-            "cancancan",
-            "cantango",
-            "consul",
-            "cream",
-            "declarative_authorization",
-            "easy_roles",
-            "moulin_rouge",
-            "pundit",
-            "rails-auth",
-            "rend-acl",
-            "restful_acl",
-            "role_model",
-            "roleable",
-            "rolify",
-            "six",
-            "the_role",
-            "timcharper/role_requirement",
-            "trust",
-            "walruz"
-          ],
-          "permalink": "rails_authorization"
-        },
-        {
-          "name": "Rails Captcha",
-          "description": "Captchas help to establish that a user is human to protect websites from bots and spam by presenting challenges that are hard to solve for computers",
-          "projects": [
-            "acts_as_textcaptcha",
-            "captcha",
-            "galetahub-simple_captcha",
-            "gotcha",
-            "humanizer",
-            "jike_captcha",
-            "macarthy/simple-captcha-mirror",
-            "recaptcha",
-            "rsanheim/brain_buster",
-            "subwindow/negative-captcha"
-          ],
-          "permalink": "rails_captcha"
-        },
-        {
-          "name": "JSON Web Tokens (JWTs)",
+          "name": "Forum Systems",
           "description": null,
           "projects": [
-            "json-jwt",
-            "json_web_token",
-            "jwt"
+            "forem",
+            "forum_monster",
+            "jonthewayne/altered_beast",
+            "thredded"
           ],
-          "permalink": "jwt"
+          "permalink": "forum_systems"
+        },
+        {
+          "name": "E-Mail Preview",
+          "description": null,
+          "projects": [
+            "letter_opener",
+            "mail_view",
+            "mailcatcher",
+            "post_office",
+            "rails_email_preview",
+            "sanitize_email"
+          ],
+          "permalink": "EMail_Fake_Servers"
+        },
+        {
+          "name": "Asynchronous E-Mail",
+          "description": null,
+          "projects": [
+            "jusnavigandi/mail_queue",
+            "mailhopper",
+            "popthis",
+            "resque_mail_queue",
+            "resque_mailer"
+          ],
+          "permalink": "Asynchronous_E-Mail"
+        },
+        {
+          "name": "Inline CSS for E-Mail",
+          "description": null,
+          "projects": [
+            "actionmailer_inline_css",
+            "incurve",
+            "inline-style",
+            "inline_styles",
+            "inline_styles_mailer",
+            "mail_style",
+            "packrat",
+            "premailer",
+            "premailer-rails",
+            "premailer-rails3",
+            "roadie"
+          ],
+          "permalink": "Inline_CSS_for_E-Mail"
         }
       ],
       "description": null,
-      "name": "Security",
-      "permalink": "Security"
+      "name": "Communication",
+      "permalink": "Communication"
     },
     {
       "categories": [
         {
-          "name": "MediaWiki Clients",
-          "description": "Libraries for interacting with MediaWiki, the open source Wiki platform that is also used on Wikipedia",
+          "name": "Font-Face Servers",
+          "description": null,
           "projects": [
-            "infoboxer",
-            "mediawiki-butt",
-            "mediawiki-gateway",
-            "mediawiki_api",
-            "mediawiktory",
-            "sunflower",
-            "wikipedia-client"
+            "fistface",
+            "garrickvanburen/Fontue",
+            "rack-fontserve"
           ],
-          "permalink": "MediaWiki_Clients"
+          "permalink": "Font_Face_Servers"
         },
+        {
+          "name": "Web UI frameworks",
+          "description": "Full-featured Web UI frameworks with built-in grids and ready-to-use components",
+          "projects": [
+            "bootstrap",
+            "bootstrap-sass",
+            "semantic-ui-sass",
+            "shipyard-framework",
+            "stylish",
+            "twitter-bootstrap-rails",
+            "twitter-bootswatch-rails",
+            "twitter-bootswatch-rails-fontawesome",
+            "twitter-bootswatch-rails-helpers"
+          ],
+          "permalink": "web_ui_frameworks"
+        },
+        {
+          "name": "CSS Tools",
+          "description": "Tools to make working with Cascading Stylesheets (CSS) easier",
+          "projects": [
+            "airblade/css_dryer",
+            "bourbon",
+            "compass",
+            "deadweight",
+            "less",
+            "patterns",
+            "rainpress",
+            "sass",
+            "sass-rails",
+            "smurfville",
+            "stylus"
+          ],
+          "permalink": "css_with_ruby"
+        }
+      ],
+      "description": null,
+      "name": "CSS",
+      "permalink": "CSS"
+    },
+    {
+      "categories": [
         {
           "name": "Other Clients",
           "description": null,
@@ -4108,11 +2045,2074 @@
             "zeus-api"
           ],
           "permalink": "api_clients"
+        },
+        {
+          "name": "MediaWiki Clients",
+          "description": "Libraries for interacting with MediaWiki, the open source Wiki platform that is also used on Wikipedia",
+          "projects": [
+            "infoboxer",
+            "mediawiki-butt",
+            "mediawiki-gateway",
+            "mediawiki_api",
+            "mediawiktory",
+            "sunflower",
+            "wikipedia-client"
+          ],
+          "permalink": "MediaWiki_Clients"
         }
       ],
       "description": null,
       "name": "HTTP API Clients",
       "permalink": "HTTP_API_Clients"
+    },
+    {
+      "categories": [
+        {
+          "name": "Active Record Index Assistants",
+          "description": "Utilities to point you at potentially missing database indices",
+          "projects": [
+            "automatic_foreign_key",
+            "eladmeidar/rails_indexes",
+            "foreigner",
+            "immigrant",
+            "lol_dba",
+            "redhillonrails_core",
+            "schema_plus"
+          ],
+          "permalink": "Active_Record_Index_Assistants"
+        },
+        {
+          "name": "Active Record Enumerations",
+          "description": null,
+          "projects": [
+            "active_enum",
+            "attribute_choices",
+            "classy_enum",
+            "const_enum",
+            "easy_attributes",
+            "enum_column3",
+            "enumerate_by",
+            "enumerate_it",
+            "enumerated_attribute",
+            "enumerize",
+            "enumify",
+            "power_enum",
+            "simple_enum"
+          ],
+          "permalink": "Active_Record_Enumerations"
+        },
+        {
+          "name": "Active Record Value Cleanup",
+          "description": null,
+          "projects": [
+            "attribute_normalizer",
+            "auto_strip_attributes",
+            "clean_room",
+            "normatron",
+            "rubiety/nilify_blanks",
+            "sanitized_attributes",
+            "scrubby",
+            "strip_attributes",
+            "strip_control_chars",
+            "vacuum_cleaner"
+          ],
+          "permalink": "Active_Record_Value_Cleanup"
+        },
+        {
+          "name": "Active Record Default Values",
+          "description": null,
+          "projects": [
+            "active_record_defaults",
+            "default_value_for"
+          ],
+          "permalink": "Active_Record_Default_Values"
+        },
+        {
+          "name": "Active Record Sharding",
+          "description": "Distribute read and write queries to your database across several database servers to help with scaling",
+          "projects": [
+            "activerecord-turntable",
+            "ar-octopus",
+            "data_fabric",
+            "db-charmer",
+            "mixonic/ShardTheLove",
+            "multi_db",
+            "technoweenie/masochism"
+          ],
+          "permalink": "Active_Record_Sharding"
+        },
+        {
+          "name": "Rails Ratings",
+          "description": null,
+          "projects": [
+            "acts-as-rated",
+            "acts_as_rateable",
+            "ajaxful_rating",
+            "edgarjs/ajaxful-rating",
+            "has_ratings",
+            "letsrate",
+            "mongoid-rating",
+            "mongoid_rateable",
+            "zachinglis/is_rateable"
+          ],
+          "permalink": "rails_ratings"
+        },
+        {
+          "name": "Pagination",
+          "description": "Split large data collections into subsets to display on multiple pages",
+          "projects": [
+            "ajax_pagination",
+            "kaminari",
+            "kaminari-bootstrap",
+            "paged_scopes",
+            "pagy",
+            "pagy-extras",
+            "simply_paginate",
+            "sorted",
+            "will_paginate"
+          ],
+          "permalink": "pagination"
+        },
+        {
+          "name": "Rails Comments",
+          "description": null,
+          "projects": [
+            "acts_as_commentable",
+            "commenter",
+            "commontator",
+            "disqus",
+            "elight/acts_as_commentable_with_threading",
+            "is_reviewable",
+            "opinio",
+            "phusion/juvia"
+          ],
+          "permalink": "rails_comments"
+        },
+        {
+          "name": "Active Record User Stamping",
+          "description": null,
+          "projects": [
+            "acts_as_audited",
+            "ar-audit-tracer",
+            "darcy/acts_as_loggable",
+            "grosser/record_activities",
+            "jnunemaker/user_stamp",
+            "userstamp"
+          ],
+          "permalink": "Active_Record_User_Stamping"
+        },
+        {
+          "name": "Active Record Named Scopes",
+          "description": null,
+          "projects": [
+            "deep_pluck",
+            "filterrific",
+            "internuity/quick_scopes",
+            "pacecar",
+            "random_record",
+            "randumb",
+            "ransack",
+            "scope-builder",
+            "searchlogic",
+            "sexy_scopes",
+            "technoweenie/can_search",
+            "trailblazer-finder",
+            "trixy_scopes",
+            "utility_scopes"
+          ],
+          "permalink": "Active_Record_Named_Scopes"
+        },
+        {
+          "name": "Active Record Versioning",
+          "description": "Keep track of changes to database records for auditing and restoring",
+          "projects": [
+            "acts-as-approvable",
+            "acts_as_revisable",
+            "acts_as_revisionable",
+            "acts_as_versioned",
+            "auditable",
+            "audited",
+            "changeling",
+            "has_draft",
+            "historical",
+            "logidze",
+            "paper_trail",
+            "record_history",
+            "shadow",
+            "simple_audit",
+            "simply_versioned",
+            "version_fu",
+            "vestal_versions"
+          ],
+          "permalink": "Active_Record_Versioning"
+        },
+        {
+          "name": "Active Record Bit Fields",
+          "description": "Use an integer field to store a set of booleans using bitwise logic",
+          "projects": [
+            "active_flag",
+            "bitfield_attribute",
+            "bitfields",
+            "bitmask_attributes",
+            "flag_shih_tzu",
+            "has-bit-field"
+          ],
+          "permalink": "Active_Record_Bit_Fields"
+        },
+        {
+          "name": "Active Record Soft Delete",
+          "description": "Keep deleted records in the database for auditing and restoring",
+          "projects": [
+            "acts_as_archive",
+            "acts_as_paranoid",
+            "ajh/acts_as_soft_deletable",
+            "destroyed_at",
+            "discard",
+            "expectedbehavior/acts_as_archival",
+            "immortal",
+            "paper_trail",
+            "paranoia",
+            "paranoid",
+            "paranoid2",
+            "permanent_records",
+            "rails3_acts_as_paranoid",
+            "soft_deletion"
+          ],
+          "permalink": "Active_Record_Soft_Delete"
+        },
+        {
+          "name": "Rails DB Bootstrapping",
+          "description": null,
+          "projects": [
+            "dibber",
+            "ffmike/db-populate",
+            "has_alter_ego",
+            "populator",
+            "seed-fu",
+            "seed_dumper",
+            "seedbank",
+            "sevenwire/bootstrapper"
+          ],
+          "permalink": "rails_db_bootstrapping"
+        },
+        {
+          "name": "Active Record Nesting",
+          "description": "Model database records as nested data structures",
+          "projects": [
+            "acts_as_dag",
+            "acts_as_ordered_tree",
+            "acts_as_tree",
+            "ancestry",
+            "arboreal",
+            "awesome_nested_set",
+            "chris/better_nested_set",
+            "closure_tree",
+            "rails/acts_as_nested_set"
+          ],
+          "permalink": "Active_Record_Nesting"
+        },
+        {
+          "name": "Rails Tagging",
+          "description": null,
+          "projects": [
+            "acts-as-taggable-array-on",
+            "acts-as-taggable-on",
+            "acts_as_taggable_on_steroids",
+            "clortho",
+            "geemus/acts_as_taggable_redux",
+            "gutentag",
+            "is_taggable",
+            "markable",
+            "rocket_tag",
+            "taggregator"
+          ],
+          "permalink": "rails_tagging"
+        },
+        {
+          "name": "Active Record Sortables",
+          "description": null,
+          "projects": [
+            "acts_as_list",
+            "acts_as_restful_list",
+            "ranked-model",
+            "resort",
+            "sortable"
+          ],
+          "permalink": "Active_Record_Sortables"
+        },
+        {
+          "name": "Rails Search",
+          "description": null,
+          "projects": [
+            "acts_as_ferret",
+            "acts_as_fulltextable",
+            "acts_as_indexed",
+            "acts_as_solr",
+            "acts_as_solr_reloaded",
+            "chewy",
+            "delsolr",
+            "elasticsearch",
+            "elasticsearch-rails",
+            "elastictastic",
+            "ferret",
+            "pg_search",
+            "redis-search",
+            "rsolr",
+            "ruby_simple_search",
+            "scoped_search",
+            "searchkick",
+            "searchlight",
+            "slingshot-rb",
+            "solr_query",
+            "sunspot",
+            "sunspot_rails",
+            "sunspot_solr",
+            "texticle",
+            "thinking-sphinx",
+            "tire",
+            "xapian_db",
+            "xapit"
+          ],
+          "permalink": "rails_search"
+        }
+      ],
+      "description": null,
+      "name": "Active Record Plugins",
+      "permalink": "Active_Record_Plugins"
+    },
+    {
+      "categories": [
+        {
+          "name": "Object-relational mapping",
+          "description": "Libraries that map SQL database tables and rows to Ruby classes and objects in order to enable easy interaction with the data persistence layer from your program",
+          "projects": [
+            "activerecord",
+            "dm-core",
+            "og",
+            "orm_adapter",
+            "rom",
+            "sequel",
+            "squeel"
+          ],
+          "permalink": "orm"
+        },
+        {
+          "name": "CouchDB Clients",
+          "description": null,
+          "projects": [
+            "couch_foo",
+            "couch_potato",
+            "couchrest",
+            "couchrest_model",
+            "hpoydar/couchrest-rails",
+            "paulca/stuffing",
+            "quilt",
+            "relaxdb",
+            "simply_stored"
+          ],
+          "permalink": "couchdb_clients"
+        },
+        {
+          "name": "SQL Database Adapters",
+          "description": "Low-level adapters for interfacing with various SQL database servers",
+          "projects": [
+            "ibm_db",
+            "jdbc-mysql",
+            "jdbc-postgres",
+            "kbam",
+            "mysql",
+            "mysql2",
+            "mysqlplus",
+            "pg",
+            "postgres-pr",
+            "postgresql_cursor",
+            "ruby-mysql",
+            "ruby-oci8",
+            "ruby-odbc",
+            "sqlite3",
+            "sqlite3-ruby"
+          ],
+          "permalink": "SQL_Database_Adapters"
+        },
+        {
+          "name": "Active Record Database Adapters",
+          "description": "ActiveRecord comes with built-in support for SQLite, PostgreSQL and MySQL on the offical C-based Ruby implementation commonly referred to as \"MRI\". These extensions let you connect to other relational databases or use other Ruby implementations like JRuby.",
+          "projects": [
+            "activerecord-jdbc-adapter",
+            "activerecord-jdbcderby-adapter",
+            "activerecord-jdbcmysql-adapter",
+            "activerecord-jdbcpostgresql-adapter",
+            "activerecord-nulldb-adapter",
+            "activerecord-oracle_enhanced-adapter",
+            "activerecord-sqlserver-adapter",
+            "odbc_adapter",
+            "oracle-enhanced-enhanced"
+          ],
+          "permalink": "Active_Record_DB_Adapters"
+        },
+        {
+          "name": "Connection Pooling",
+          "description": "Connection Pools allow you to share a limited number of active connections to external services like databases between multiple threads per Ruby process",
+          "projects": [
+            "connection_pool",
+            "pond",
+            "pools"
+          ],
+          "permalink": "Connection_Pooling"
+        },
+        {
+          "name": "Amazon DynamoDB",
+          "description": null,
+          "projects": [
+            "active_dynamodb",
+            "dynamoid",
+            "dynoid",
+            "fake_dynamo"
+          ],
+          "permalink": "Amazon_DynamoDB"
+        },
+        {
+          "name": "Data Migration",
+          "description": null,
+          "projects": [
+            "active_importer",
+            "mysql2psql",
+            "taps"
+          ],
+          "permalink": "Data_Migration"
+        },
+        {
+          "name": "MongoDB Clients",
+          "description": null,
+          "projects": [
+            "mince",
+            "mongo",
+            "mongo_mapper",
+            "mongodb_model",
+            "mongoid",
+            "mongomatic",
+            "perpetuity"
+          ],
+          "permalink": "mongodb_clients"
+        },
+        {
+          "name": "ActiveRecord without Rails",
+          "description": "Projects that help in using ActiveRecord outside of a Rails project.",
+          "projects": [
+            "active_record_migrations",
+            "otr-activerecord",
+            "sinatra-activerecord",
+            "standalone_migrations"
+          ],
+          "permalink": "ActiveRecord_without_Rails"
+        },
+        {
+          "name": "CSV Parsers",
+          "description": null,
+          "projects": [
+            "ccsv",
+            "conformist",
+            "csv_importer",
+            "csv_pirate",
+            "csvhuman",
+            "csvjson",
+            "csvreader",
+            "csvrecord",
+            "csvyaml",
+            "fastercsv",
+            "fasterer-csv",
+            "hasherize_csv",
+            "postgres-copy",
+            "rcsvreader",
+            "simple_importer",
+            "smarter_csv",
+            "tabular"
+          ],
+          "permalink": "CSV_Parsers"
+        },
+        {
+          "name": "Redis Clients",
+          "description": null,
+          "projects": [
+            "acts_as_hashish",
+            "hiredis",
+            "ohm",
+            "readthis",
+            "redis",
+            "redis-aid",
+            "redis-attrs",
+            "redis-objects",
+            "redis-store",
+            "redis_orm",
+            "redlics"
+          ],
+          "permalink": "Redis"
+        }
+      ],
+      "description": null,
+      "name": "Data Persistence",
+      "permalink": "Data_Persistence"
+    },
+    {
+      "categories": [
+        {
+          "name": "Documentation Generators",
+          "description": "Tools for creating API documentation of your Ruby software and it's exposed interfaces",
+          "projects": [
+            "annotator",
+            "apipie-rails",
+            "binman",
+            "breakpointer/ajax-rdoc",
+            "doc",
+            "erbook",
+            "hanna",
+            "jeromegn/DocumentUp",
+            "md2man",
+            "rdoc",
+            "rocco",
+            "ronn",
+            "rspec_api_documentation",
+            "schemadoc",
+            "sdoc",
+            "yard"
+          ],
+          "permalink": "documentation_tools"
+        },
+        {
+          "name": "Gem Doc Viewers",
+          "description": null,
+          "projects": [
+            "bdoc",
+            "gembox",
+            "imownbey/docbox",
+            "jnewland/sinatra-rubygems"
+          ],
+          "permalink": "gem_doc_viewers"
+        }
+      ],
+      "description": null,
+      "name": "Documentation Tools",
+      "permalink": "Documentation_Tools"
+    },
+    {
+      "categories": [
+        {
+          "name": "Background Jobs",
+          "description": "Process slow tasks asynchronously to keep response times low, improve fault-tolerance and aid with horizontal scaling",
+          "projects": [
+            "acts_as_executor",
+            "amqp",
+            "backburner",
+            "backgrounded",
+            "barttenbrinke/worker_queue",
+            "beetle",
+            "bj",
+            "bunny",
+            "cloud-crowd",
+            "delayed_job",
+            "delayed_job_active_record",
+            "frenzy_bunnies",
+            "girl_friday",
+            "gnufied/backgroundrb",
+            "jnstq/job_fu",
+            "job_reactor",
+            "kr/beanstalkd",
+            "later",
+            "navvy",
+            "ncr/background-fu",
+            "qu",
+            "que",
+            "quebert",
+            "queue_classic",
+            "rabbit_jobs",
+            "resque",
+            "resque-mongo",
+            "rock-queue",
+            "rocketjob",
+            "runner",
+            "seanohalpin/smqueue",
+            "shoryuken",
+            "sidekiq",
+            "stalker",
+            "starling",
+            "sucker_punch",
+            "workling"
+          ],
+          "permalink": "Background_Jobs"
+        },
+        {
+          "name": "Daemon Management",
+          "description": "Simplify the management of multiple processes",
+          "projects": [
+            "daemon-spawn",
+            "daemon_controller",
+            "foreman",
+            "lunchy"
+          ],
+          "permalink": "daemon_management"
+        },
+        {
+          "name": "Scheduling",
+          "description": "Execute tasks on a schedule",
+          "projects": [
+            "clockwork",
+            "latimes/craken",
+            "recurrent",
+            "resque-scheduler",
+            "rufus-scheduler",
+            "sidecloq",
+            "sidekiq-cron",
+            "simple_scheduler",
+            "Swirrl/Taskit",
+            "whenever"
+          ],
+          "permalink": "scheduling"
+        },
+        {
+          "name": "Daemonizing",
+          "description": "Turn your program into a service running in the background",
+          "projects": [
+            "daemon-kit",
+            "daemonizer",
+            "daemons",
+            "daemons-rails",
+            "dante",
+            "dougal/daemon_generator",
+            "fallen",
+            "foreverb",
+            "looper",
+            "multi_daemons",
+            "robustthread",
+            "simple-daemon",
+            "titan"
+          ],
+          "permalink": "daemonizing"
+        }
+      ],
+      "description": null,
+      "name": "Background Processing",
+      "permalink": "Background_Processing"
+    },
+    {
+      "categories": [
+        {
+          "name": "JavaScript Runtimes",
+          "description": null,
+          "projects": [
+            "execjs",
+            "therubyracer"
+          ],
+          "permalink": "JavaScript_runtimes"
+        },
+        {
+          "name": "JavaScript Tools",
+          "description": "Utilities for working with JavaScript in Ruby",
+          "projects": [
+            "barista",
+            "coffee-script",
+            "dom_routes",
+            "dynamojs_rails",
+            "gon",
+            "indexable",
+            "jabs",
+            "jake",
+            "juicer",
+            "MadRabbit/frontcompiler",
+            "mousetrap-rails",
+            "NV/js-preprocessor",
+            "opal",
+            "opal-rails",
+            "packr",
+            "paloma",
+            "poke_js",
+            "rack-jquery",
+            "rake-minify",
+            "sprockets",
+            "SrBuj",
+            "uglifier",
+            "vendorer",
+            "webpacker",
+            "wiselinks"
+          ],
+          "permalink": "javascript_tools"
+        },
+        {
+          "name": "JavaScript Testing",
+          "description": null,
+          "projects": [
+            "alexyoung/riotjs",
+            "evergreen",
+            "gerbil-rails",
+            "hanoi",
+            "jasmine",
+            "jcov",
+            "jquery/testswarm",
+            "konacha",
+            "opal-spec",
+            "paulca/whenever.js",
+            "relevance/blue-ridge",
+            "screw-unit",
+            "screw-unit-server"
+          ],
+          "permalink": "javascript_testing"
+        },
+        {
+          "name": "React Tools",
+          "description": "Tools for integrating with ReactJS",
+          "projects": [
+            "react-rails",
+            "react_on_rails",
+            "webpacker-react"
+          ],
+          "permalink": "react_tools"
+        },
+        {
+          "name": "Prototype Replacements",
+          "description": null,
+          "projects": [
+            "CodeOfficer/jquery-ui-rails-helpers",
+            "jrails",
+            "right-rails",
+            "rubaidh/yui_on_rails"
+          ],
+          "permalink": "prototype_replacements"
+        },
+        {
+          "name": "Rails In-Place Editing",
+          "description": null,
+          "projects": [
+            "amerine/in_place_editing",
+            "best_in_place",
+            "best_in_place_mongoid",
+            "best_in_placeish",
+            "flvorful/super_inplace_controls",
+            "janv/rest_in_place",
+            "jeditable-rails",
+            "jintastic",
+            "nakajima/better-edit-in-place",
+            "on_the_spot",
+            "rakuto/jrails_in_place_editing",
+            "redlinesoftware/in_place_editor",
+            "simplificator/inplace",
+            "stepheneb/in_place_rich_editing"
+          ],
+          "permalink": "rails_in_place_editing"
+        }
+      ],
+      "description": null,
+      "name": "JavaScript",
+      "permalink": "JavaScript"
+    },
+    {
+      "categories": [
+        {
+          "name": "Natural Language Date Parsing",
+          "description": null,
+          "projects": [
+            "chronic",
+            "chronic_between",
+            "chronic_duration",
+            "kronic",
+            "nickel",
+            "text_parser",
+            "tickle"
+          ],
+          "permalink": "Natural_Language_Date_Parsing"
+        },
+        {
+          "name": "Recurring Events",
+          "description": null,
+          "projects": [
+            "angelic/schedule_fu",
+            "ice_cube",
+            "jhubert/ruby-date-recur",
+            "jruby-rfc2445",
+            "kjwierenga/ical-scheduler",
+            "montrose",
+            "nickstenning/recurring_event",
+            "recurrence",
+            "recurring",
+            "runt"
+          ],
+          "permalink": "recurring_events"
+        },
+        {
+          "name": "Geocoding & Maps",
+          "description": null,
+          "projects": [
+            "activerecord-postgis-adapter",
+            "acts_as_geocodable",
+            "address_standardization",
+            "autometal-geoip",
+            "cartographie",
+            "gdal",
+            "gdal-helper",
+            "geocoder",
+            "geokit",
+            "geokit-rails",
+            "GeoRuby",
+            "georuby",
+            "georuby-ext",
+            "georuby_box",
+            "georuby_remake",
+            "gmaps4rails",
+            "graticule",
+            "leaflet-rails",
+            "map_layers",
+            "mongoid_geospatial",
+            "nofxx-georuby",
+            "parolkar/geo_mere_laal",
+            "postgis_adapter",
+            "ppe-georuby",
+            "queso/ym4r-gm",
+            "rgdal",
+            "rgeo"
+          ],
+          "permalink": "geocoding___maps"
+        },
+        {
+          "name": "I18n",
+          "description": null,
+          "projects": [
+            "activerecord_translatable",
+            "ai/r18n",
+            "c3po",
+            "copycopter_client",
+            "delocalize",
+            "dylanz/i18n_backend_database",
+            "fast_gettext",
+            "globalize",
+            "globalize-accessors",
+            "globalize2",
+            "globalize3",
+            "has_translations",
+            "http_accept_language",
+            "human_attribute",
+            "i15r",
+            "i18n",
+            "i18n-inflector-rails",
+            "i18n-js",
+            "i18n-tasks",
+            "i18n_auto_scoping",
+            "i18n_routing",
+            "it",
+            "locale_detector",
+            "localeapp",
+            "mobility",
+            "model_translations",
+            "mongo-i18n",
+            "mongoid_translate",
+            "numbers_and_words",
+            "phrase",
+            "pig_latin",
+            "puret",
+            "rack-i18n_routes",
+            "rack-locale_chooser",
+            "rack-user-locale",
+            "rails-i18nterface",
+            "rails-translate-models",
+            "rails_locale_detection",
+            "raul/translate_routes",
+            "ready_for_i18n",
+            "route_translator",
+            "talk_like_a_pirate",
+            "to_lang",
+            "tr8n",
+            "traduction"
+          ],
+          "permalink": "i18n"
+        },
+        {
+          "name": "Calendars",
+          "description": null,
+          "projects": [
+            "calendar_helper",
+            "calendrier",
+            "event_cal",
+            "event_calendar",
+            "fnando/has_calendar",
+            "icalendar",
+            "later_dude",
+            "namxam/weekly_builder",
+            "ri_cal",
+            "selene",
+            "streakable"
+          ],
+          "permalink": "calendars"
+        }
+      ],
+      "description": null,
+      "name": "Time & Space",
+      "permalink": "Time_Space"
+    },
+    {
+      "categories": [
+        {
+          "name": "Code Review Tools",
+          "description": "Utilities that help make code review more consistent and less error-prone by automating checks",
+          "projects": [
+            "danger",
+            "overcommit",
+            "pronto",
+            "shiba"
+          ],
+          "permalink": "code_review_tools"
+        },
+        {
+          "name": "Code Metrics",
+          "description": "Utilities to improve code quality by reporting common code smells like complexity, unsafe defaults, unused variables or stylistic inconsistencies",
+          "projects": [
+            "cane",
+            "coco",
+            "code_statistics",
+            "code_stats2",
+            "flay",
+            "flog",
+            "foodcritic",
+            "git-cop",
+            "jslint_on_rails",
+            "kevinrutherford/crap4r",
+            "metric_abc",
+            "metric_fu",
+            "outlaw",
+            "pelusa",
+            "rails_best_practices",
+            "reek",
+            "roodi",
+            "rubocop",
+            "rubocop-rspec",
+            "rubycritic",
+            "Saikuro",
+            "sandi_meter",
+            "tailor",
+            "thoughtbot/report_card"
+          ],
+          "permalink": "code_metrics"
+        },
+        {
+          "name": "Code Coverage",
+          "description": "Utilities that report which code is being run. Most commonly this is used as test coverage which reports what parts of your code are not tested, but there are also tools to find dead production code",
+          "projects": [
+            "cover_me",
+            "coveralls",
+            "coverband",
+            "covered",
+            "rcov",
+            "simplecov",
+            "single_cov",
+            "undercover"
+          ],
+          "permalink": "code_coverage"
+        }
+      ],
+      "description": null,
+      "name": "Code Quality",
+      "permalink": "Code_Quality"
+    },
+    {
+      "categories": [
+        {
+          "name": "LDAP",
+          "description": null,
+          "projects": [
+            "binarylogic/authlogic_ldap",
+            "devise_ldap_authenticatable",
+            "net-ldap",
+            "omniauth-ldap",
+            "ruby-activeldap",
+            "ruby-net-ldap",
+            "simple_ldap_authenticator",
+            "treequel",
+            "tsaleh/ldap-activerecord-gateway"
+          ],
+          "permalink": "ldap"
+        },
+        {
+          "name": "Spam Detection",
+          "description": null,
+          "projects": [
+            "akismetor",
+            "defender",
+            "defensio/defensio-ruby",
+            "mattapayne/rdefensio",
+            "rakismet",
+            "viking"
+          ],
+          "permalink": "spam_detection"
+        },
+        {
+          "name": "User Authorization",
+          "description": "Narrow down the visibility and accessibility of operations for users based on roles and similar access control patterns",
+          "projects": [
+            "10to1/roleify",
+            "access-granted",
+            "acl9",
+            "action_policy",
+            "aegis",
+            "allowy",
+            "authority",
+            "authz",
+            "baldwindavid/padlock_authorization",
+            "banken",
+            "canable",
+            "canard",
+            "cancan",
+            "cancancan",
+            "cantango",
+            "consul",
+            "cream",
+            "declarative_authorization",
+            "easy_roles",
+            "moulin_rouge",
+            "pundit",
+            "rails-auth",
+            "rend-acl",
+            "restful_acl",
+            "role_model",
+            "roleable",
+            "rolify",
+            "six",
+            "the_role",
+            "timcharper/role_requirement",
+            "trust",
+            "walruz"
+          ],
+          "permalink": "rails_authorization"
+        },
+        {
+          "name": "Security Tools",
+          "description": null,
+          "projects": [
+            "active_model_otp",
+            "alpaca",
+            "brakeman",
+            "codesake-dawn",
+            "loofah",
+            "look/xss_terminate",
+            "mhartl/find_mass_assignment",
+            "param_protected",
+            "rails_xss",
+            "ryanlowe/audit_mass_assignment",
+            "shellex",
+            "sudo_attributes",
+            "tarantula",
+            "wwidea/cross_site_sniper"
+          ],
+          "permalink": "security_tools"
+        },
+        {
+          "name": "Rails Captcha",
+          "description": "Captchas help to establish that a user is human to protect websites from bots and spam by presenting challenges that are hard to solve for computers",
+          "projects": [
+            "acts_as_textcaptcha",
+            "captcha",
+            "galetahub-simple_captcha",
+            "gotcha",
+            "humanizer",
+            "jike_captcha",
+            "macarthy/simple-captcha-mirror",
+            "recaptcha",
+            "rsanheim/brain_buster",
+            "subwindow/negative-captcha"
+          ],
+          "permalink": "rails_captcha"
+        },
+        {
+          "name": "Encryption",
+          "description": null,
+          "projects": [
+            "attr_encrypted",
+            "crypt_keeper",
+            "encrypted_strings",
+            "jamesotron/Lockbox",
+            "jmckible/lucifer",
+            "miscreant",
+            "mongoid-encrypted-fields",
+            "pkcs11",
+            "rbnacl",
+            "sentry",
+            "strongbox",
+            "symmetric-encryption"
+          ],
+          "permalink": "encryption"
+        },
+        {
+          "name": "JSON Web Tokens (JWTs)",
+          "description": null,
+          "projects": [
+            "json-jwt",
+            "json_web_token",
+            "jwt"
+          ],
+          "permalink": "jwt"
+        },
+        {
+          "name": "Web Authentication",
+          "description": "Handle the authentication of users in web applications written in frameworks like Rails",
+          "projects": [
+            "adauth",
+            "authlogic",
+            "authorizme",
+            "clearance",
+            "current_user",
+            "cz_auth",
+            "devise",
+            "devise_oauth2_providable",
+            "doorkeeper",
+            "envylabs/BlueLightSpecial",
+            "letmein",
+            "monban",
+            "omniauth",
+            "rack-cas",
+            "rodauth",
+            "rpx_now",
+            "sorcery",
+            "switch_user",
+            "technoweenie/restful-authentication",
+            "userbin"
+          ],
+          "permalink": "rails_authentication"
+        }
+      ],
+      "description": null,
+      "name": "Security",
+      "permalink": "Security"
+    },
+    {
+      "categories": [
+        {
+          "name": "User Agent Detection",
+          "description": null,
+          "projects": [
+            "active_device",
+            "agent_orange",
+            "browser",
+            "browsernizer",
+            "device_detector",
+            "divining_rod",
+            "is_it_mobile",
+            "mobvious",
+            "mobylette",
+            "rack-useragent-filter",
+            "user-agent",
+            "user_agent_parser",
+            "useragent"
+          ],
+          "permalink": "User_Agent_Detection"
+        },
+        {
+          "name": "Multitenancy",
+          "description": null,
+          "projects": [
+            "activerecord-connections",
+            "acts_as_tenant",
+            "apartment",
+            "consolo/acts_as_restricted_subdomain",
+            "milia",
+            "multitenant",
+            "multitenant-mysql",
+            "multitenant-pg",
+            "whitelabel"
+          ],
+          "permalink": "Multitenancy"
+        },
+        {
+          "name": "JSON Parsers",
+          "description": "JSON parsers convert data serialized in the popular JSON data exchange format to and from Ruby objects",
+          "projects": [
+            "crack",
+            "json",
+            "json-jruby",
+            "json-stream-path",
+            "json_pure",
+            "multi_json",
+            "oj",
+            "yajl-ruby"
+          ],
+          "permalink": "JSON_Parsers"
+        },
+        {
+          "name": "Web App Frameworks",
+          "description": "Software Frameworks that are designed to support the development of web applications including web services, web resources, and web APIs",
+          "projects": [
+            "bats",
+            "camping",
+            "cramp",
+            "cuba",
+            "e",
+            "gin",
+            "hanami",
+            "harbor",
+            "hobo",
+            "lattice",
+            "marley",
+            "merb-core",
+            "padrino",
+            "pakyow",
+            "plezi",
+            "rack",
+            "rails",
+            "ramaze",
+            "rango",
+            "raptor",
+            "renee",
+            "roda",
+            "scorched",
+            "sinatra",
+            "strelka",
+            "vanilla"
+          ],
+          "permalink": "web_app_frameworks"
+        },
+        {
+          "name": "Mock API Servers",
+          "description": "Applications allowing to mock API endpoints",
+          "projects": [
+            "iridakos/duckrails"
+          ],
+          "permalink": "mock_api_servers"
+        },
+        {
+          "name": "Atom & RSS Feed Parsing",
+          "description": null,
+          "projects": [
+            "feed-normalizer",
+            "feed_me",
+            "feed_parser",
+            "feedfilter",
+            "feedjira",
+            "feedme",
+            "feedparser",
+            "feedtosis",
+            "feedzirra",
+            "opds",
+            "opds_monster",
+            "ratom",
+            "rfeedparser",
+            "rss-atom-feed_history",
+            "rss-dcterms",
+            "rss-motor",
+            "rss-nokogiri",
+            "rss-opds",
+            "ruby-feedparser",
+            "simple-rss",
+            "syndication"
+          ],
+          "permalink": "feed_parsing"
+        },
+        {
+          "name": "HTTP clients",
+          "description": "Easily interact with HTTP-based services",
+          "projects": [
+            "activeresource-response",
+            "api-client",
+            "api_smith",
+            "curb",
+            "em-http-request",
+            "excon",
+            "faraday",
+            "flexirest",
+            "frenetic",
+            "htcp",
+            "http",
+            "http-requestor",
+            "httparty",
+            "httpclient",
+            "httpi",
+            "httpx",
+            "hyperclient",
+            "lhc",
+            "lhs",
+            "mechanize",
+            "multipart-post",
+            "nestful",
+            "patron",
+            "persistent_httparty",
+            "rapidash",
+            "remotely",
+            "rest-client",
+            "restfulie",
+            "streamly",
+            "typhoeus",
+            "weary",
+            "wrest"
+          ],
+          "permalink": "http_clients"
+        },
+        {
+          "name": "Social Network Builders",
+          "description": null,
+          "projects": [
+            "acts_as_follower",
+            "acts_as_friendable",
+            "amico",
+            "bborn/communityengine",
+            "decidim",
+            "has_many_friends",
+            "inkwell",
+            "insoshi/insoshi",
+            "leaderboard",
+            "likeable",
+            "omnicontacts",
+            "parolkar/has_profile_items",
+            "sjlombardo/acts_as_network",
+            "social_stream",
+            "socialization",
+            "stevenbristol/lovd-by-less",
+            "timothyf/enginey"
+          ],
+          "permalink": "social_networking"
+        },
+        {
+          "name": "SOAP Clients",
+          "description": null,
+          "projects": [
+            "handsoap",
+            "lolsoap",
+            "savon",
+            "serviceproxy"
+          ],
+          "permalink": "soap"
+        },
+        {
+          "name": "Rails Controller Abstractions",
+          "description": null,
+          "projects": [
+            "arcane",
+            "customs",
+            "decent_exposure",
+            "hcatlin/make_resourceful",
+            "ianwhite/resources_controller",
+            "inherited_resources",
+            "redirect_on_back",
+            "resource_controller",
+            "toast"
+          ],
+          "permalink": "rails_controller_abstractions"
+        },
+        {
+          "name": "Web Content Scrapers",
+          "description": null,
+          "projects": [
+            "anemone",
+            "arachnid2",
+            "boilerpipe-ruby",
+            "cobweb",
+            "data_miner",
+            "docparser",
+            "fletcher",
+            "horsefield",
+            "kimurai",
+            "link_thumbnailer",
+            "metainspector",
+            "pismo",
+            "sinew",
+            "url_scraper",
+            "wiki-api",
+            "wombat"
+          ],
+          "permalink": "Web_Content_Scrapers"
+        },
+        {
+          "name": "HTTP Pub/Sub",
+          "description": null,
+          "projects": [
+            "actioncable",
+            "anycable",
+            "danthes",
+            "em-websocket",
+            "faye",
+            "faye-rails",
+            "iodine",
+            "libwebsocket",
+            "litecable",
+            "private_pub",
+            "socky-server",
+            "websocket",
+            "websocket-rack"
+          ],
+          "permalink": "HTTP_Pub_Sub"
+        },
+        {
+          "name": "API Builders",
+          "description": null,
+          "projects": [
+            "active_model_serializers",
+            "acts_as_api",
+            "api-versions",
+            "apiary",
+            "bldr",
+            "fast_jsonapi",
+            "grape",
+            "jbuilder",
+            "nativeson",
+            "rabl",
+            "representable",
+            "roar",
+            "rocket_pants",
+            "roy",
+            "surrealist",
+            "versioncake",
+            "versionist",
+            "windsor",
+            "xmlrpc-rack_server"
+          ],
+          "permalink": "API_Builders"
+        },
+        {
+          "name": "URL Rewriting",
+          "description": null,
+          "projects": [
+            "desviar",
+            "rack-rewrite",
+            "redirect",
+            "refraction"
+          ],
+          "permalink": "URL_Rewriting"
+        },
+        {
+          "name": "XML Mapping",
+          "description": null,
+          "projects": [
+            "data_active",
+            "gyoku",
+            "happymapper",
+            "lazy-sax-machine",
+            "nokogiri-happymapper",
+            "nori",
+            "representative",
+            "roxml",
+            "sax-machine",
+            "sax_stream",
+            "saxerator",
+            "saxy",
+            "sxrb",
+            "xml-fu",
+            "xml-mapping",
+            "xml_active"
+          ],
+          "permalink": "xml_mapping"
+        },
+        {
+          "name": "HTML parsing",
+          "description": null,
+          "projects": [
+            "hpricot",
+            "libxml-ruby",
+            "nikkou",
+            "nokogiri",
+            "oga",
+            "ox",
+            "scrapi",
+            "scrubyt",
+            "xml-motor"
+          ],
+          "permalink": "html_parsing"
+        },
+        {
+          "name": "Web Analytics",
+          "description": null,
+          "projects": [
+            "ga_events",
+            "gabba",
+            "gabbara",
+            "garb",
+            "gattica",
+            "google-analytics-rails",
+            "googlepagerank",
+            "legato",
+            "mixpanel_rails",
+            "PageRankr",
+            "rack-google-analytics",
+            "rack_clicky",
+            "redis_analytics",
+            "rugalytics",
+            "wwwtf",
+            "yaga"
+          ],
+          "permalink": "Web_Analytics"
+        }
+      ],
+      "description": null,
+      "name": "Web Apps, Services & Interaction",
+      "permalink": "Web_Apps_Services_Interaction"
+    },
+    {
+      "categories": [
+        {
+          "name": "Wiki Apps",
+          "description": null,
+          "projects": [
+            "AndyMoreland/kii",
+            "benatkin/weaky",
+            "bomberstudios/bliki",
+            "cargo_wiki",
+            "gitki",
+            "gollum",
+            "gollum_rails",
+            "instiki",
+            "irwi",
+            "jm/perwikity",
+            "manveru/rakki",
+            "meekish/collective",
+            "olelo",
+            "queso/signal-wiki",
+            "semanticart/hoboken",
+            "soywiki",
+            "sr/git-wiki"
+          ],
+          "permalink": "wiki_apps"
+        },
+        {
+          "name": "Blog Engines",
+          "description": null,
+          "projects": [
+            "blogit",
+            "governor",
+            "imathis/octopress",
+            "picco_blog",
+            "refinerycms-blog",
+            "serious",
+            "toto",
+            "typo"
+          ],
+          "permalink": "Blog_Engines"
+        },
+        {
+          "name": "Static Website Generation",
+          "description": null,
+          "projects": [
+            "ace",
+            "awestruct",
+            "bonsai",
+            "brochure",
+            "deplot",
+            "dynamicmatic",
+            "frank",
+            "high_voltage",
+            "jekyll",
+            "korma",
+            "machined",
+            "middleman",
+            "nanoc",
+            "ruhoh",
+            "stasis",
+            "staticmatic",
+            "webby",
+            "webgen"
+          ],
+          "permalink": "static_website_generation"
+        },
+        {
+          "name": "Content Management",
+          "description": null,
+          "projects": [
+            "alchemy_cms",
+            "binda",
+            "browsercms",
+            "cantierecreativo/railsyardcms",
+            "casein",
+            "comfortable_mexican_sofa",
+            "copy",
+            "DigitPaint/skyline",
+            "drg_cms",
+            "fae-rails",
+            "fullstack-cms",
+            "knewter/ansuz",
+            "locomotivecms",
+            "lolita",
+            "manageable_content",
+            "nesta",
+            "Opal",
+            "puffer_pages",
+            "push_type",
+            "radiant",
+            "railfrog/railfrog",
+            "refinerycms",
+            "refinerycms-menus",
+            "regulate",
+            "snippr",
+            "spina",
+            "static",
+            "station",
+            "svenfuchs/adva_cms",
+            "thinkdry/blank-application",
+            "ubiquo",
+            "zen",
+            "zena"
+          ],
+          "permalink": "content_management_systems"
+        }
+      ],
+      "description": null,
+      "name": "Content Management & Blogging",
+      "permalink": "Content_Management_Blogging"
+    },
+    {
+      "categories": [
+        {
+          "name": "Game libraries",
+          "description": null,
+          "projects": [
+            "chingu",
+            "chipmunk",
+            "dxruby_sdl",
+            "fidgit",
+            "flonkerton",
+            "gamebox",
+            "gioco",
+            "glfw",
+            "gosu",
+            "gosu_android",
+            "Groogy/rbSFML",
+            "jemini",
+            "kolb",
+            "LiteRGSS",
+            "metro",
+            "minigl",
+            "opengl",
+            "opengl-bindings",
+            "opengl-definitions",
+            "ray",
+            "ruby2d",
+            "rubygame",
+            "sfml-audio-fiddle",
+            "shoes"
+          ],
+          "permalink": "game_libraries"
+        },
+        {
+          "name": "Music & MIDI",
+          "description": null,
+          "projects": [
+            "adamjmurray/cosy",
+            "coltrane",
+            "cultome_player",
+            "diamond",
+            "Gabrielg1976/ruby_music_projects",
+            "gilesbowkett/archaeopteryx",
+            "gitara",
+            "micromidi",
+            "midiator",
+            "midilib",
+            "music_player",
+            "patchmaster",
+            "rubiety/jazz_model",
+            "uke",
+            "unimidi"
+          ],
+          "permalink": "music___midi"
+        }
+      ],
+      "description": null,
+      "name": "Fun",
+      "permalink": "Fun"
+    },
+    {
+      "categories": [
+        {
+          "name": "Server Monitoring",
+          "description": null,
+          "projects": [
+            "amnesia",
+            "bluepill",
+            "eye",
+            "god",
+            "health_checker",
+            "health_monitor",
+            "health_rails",
+            "nagios_check",
+            "new_relic_ping",
+            "outpost",
+            "ramon",
+            "rspec-webservice_matchers",
+            "sensu",
+            "visage-app",
+            "webstats"
+          ],
+          "permalink": "server_monitoring"
+        },
+        {
+          "name": "Maintenance Mode",
+          "description": null,
+          "projects": [
+            "rack-maintenance",
+            "turnout"
+          ],
+          "permalink": "Maintenance_Mode"
+        },
+        {
+          "name": "Logging",
+          "description": null,
+          "projects": [
+            "best_boy",
+            "cabin",
+            "clogger",
+            "fluentd",
+            "frogger",
+            "gelf",
+            "hatchet",
+            "httplog",
+            "justlogging-rails",
+            "log4r",
+            "logging",
+            "logging-rails",
+            "logging_assist",
+            "lograge",
+            "lumber",
+            "mongodb_logger",
+            "ougai",
+            "rails-pretty-logger",
+            "rake_bubbler",
+            "semantic_logger",
+            "sentry-raven",
+            "whoops",
+            "yell"
+          ],
+          "permalink": "Logging"
+        },
+        {
+          "name": "App Instrumentation",
+          "description": null,
+          "projects": [
+            "appoptics_apm",
+            "appsignal",
+            "better_errors",
+            "bullet",
+            "dashing",
+            "dashing-rails",
+            "fnordmetric",
+            "fozzie",
+            "fozzie_rails",
+            "harness",
+            "meta_request",
+            "metriks",
+            "metriksd",
+            "newrelic_rpm",
+            "nunes",
+            "peek",
+            "query_trace",
+            "rack-bug",
+            "rack-insight",
+            "rackamole",
+            "rails-footnotes",
+            "rails_instrument",
+            "rails_metrics",
+            "rails_view_annotator",
+            "scout_apm",
+            "slowgrowl",
+            "system-metrics",
+            "yabeda"
+          ],
+          "permalink": "rails_instrumentation"
+        },
+        {
+          "name": "Log Analysis",
+          "description": null,
+          "projects": [
+            "central_logger",
+            "Graylog2/graylog2-server",
+            "indy",
+            "log_file",
+            "logs",
+            "logstash/logstash",
+            "ntail",
+            "request-log-analyzer"
+          ],
+          "permalink": "Log_Analysis"
+        },
+        {
+          "name": "Exception Notification",
+          "description": null,
+          "projects": [
+            "airbrake",
+            "bugsnag",
+            "errbit/errbit",
+            "exception_engine",
+            "exception_notification",
+            "exceptional",
+            "honeybadger",
+            "lilypad",
+            "rack_hoptoad",
+            "rails_exception_handler",
+            "raygun4ruby",
+            "rollbar",
+            "toadhopper"
+          ],
+          "permalink": "exception_notification"
+        }
+      ],
+      "description": null,
+      "name": "Maintenance & Monitoring",
+      "permalink": "Maintenance_Monitoring"
+    },
+    {
+      "categories": [
+        {
+          "name": "Networking Tools",
+          "description": null,
+          "projects": [
+            "ipaddress",
+            "macker",
+            "maxminddb",
+            "wifi-wand"
+          ],
+          "permalink": "networking_tools"
+        }
+      ],
+      "description": null,
+      "name": "Networking",
+      "permalink": "Networking"
+    },
+    {
+      "categories": [
+        {
+          "name": "PDF Generation",
+          "description": null,
+          "projects": [
+            "acts_as_flying_saucer",
+            "breezy_pdf",
+            "breezy_pdf_lite",
+            "combine_pdf",
+            "doc_raptor",
+            "gambas",
+            "gimli",
+            "hexapdf",
+            "invoice_printer",
+            "kitabu",
+            "origami",
+            "pdfkit",
+            "poppler",
+            "prawn",
+            "prawn-rails",
+            "prawnto",
+            "prawnto_2",
+            "princely",
+            "rghost",
+            "rtex",
+            "shrimp",
+            "wicked_pdf",
+            "wisepdf",
+            "wkhtmltopdf"
+          ],
+          "permalink": "pdf_generation"
+        },
+        {
+          "name": "Reports & Spreadsheets",
+          "description": null,
+          "projects": [
+            "activeadmin-axlsx",
+            "acts_as_xlsx",
+            "axlsx",
+            "axlsx_rails",
+            "compendium",
+            "dossier",
+            "dynamic_reports",
+            "excel_rails",
+            "gnumeric",
+            "goffice",
+            "google-spreadsheet-ruby",
+            "mk/reports_as_sparkline",
+            "mondrian-olap",
+            "odf-report",
+            "oxcelix",
+            "remote_table",
+            "reportable",
+            "reports_kit",
+            "robust_excel_ole",
+            "rods",
+            "roo",
+            "rspreadsheet",
+            "rubyXL",
+            "ruport",
+            "schacon/munger",
+            "sheets",
+            "simple_xlsx_writer",
+            "spreadsheet",
+            "spreadsheet_architect",
+            "spreadsheet_report",
+            "statistics",
+            "thinreports",
+            "to_spreadsheet",
+            "workbook",
+            "wrap_excel",
+            "write_xlsx",
+            "write_xlsx_rails"
+          ],
+          "permalink": "reporting"
+        },
+        {
+          "name": "PDF Processing",
+          "description": null,
+          "projects": [
+            "hexapdf",
+            "origami",
+            "pdf-reader",
+            "pdf_info",
+            "poppler",
+            "stevedore"
+          ],
+          "permalink": "PDF_Processing"
+        }
+      ],
+      "description": null,
+      "name": "Documents & Reports",
+      "permalink": "Documents_Reports"
+    },
+    {
+      "categories": [
+        {
+          "name": "Packaging Systems",
+          "description": null,
+          "projects": [
+            "mislav/coral",
+            "rip",
+            "rtomayko/rpg",
+            "rubygems-update",
+            "slimgems"
+          ],
+          "permalink": "packaging_systems"
+        },
+        {
+          "name": "Dependency Management",
+          "description": null,
+          "projects": [
+            "berkshelf",
+            "bling",
+            "braid",
+            "brewdler",
+            "bundler",
+            "checkzilla",
+            "externals",
+            "gemrat",
+            "giternal",
+            "halorgium/gem_resolver",
+            "isolate",
+            "librarian",
+            "motion-bundler",
+            "piston"
+          ],
+          "permalink": "dependency_management"
+        },
+        {
+          "name": "Gem Hosting",
+          "description": null,
+          "projects": [
+            "gemfury",
+            "geminabox",
+            "stickler"
+          ],
+          "permalink": "Gem_Hosting"
+        },
+        {
+          "name": "Packaging to Executables",
+          "description": null,
+          "projects": [
+            "crate",
+            "loureirorg/rb2exe",
+            "ocra",
+            "pmq20/ruby-packer",
+            "releasy",
+            "rubyscript2exe",
+            "stephan-nordnes-eriksen/ruby_ship"
+          ],
+          "permalink": "packaging_to_executables"
+        },
+        {
+          "name": "Bundler Tools",
+          "description": null,
+          "projects": [
+            "appraisal",
+            "bundler-auto-update",
+            "bundler-console",
+            "guard-bundler",
+            "noexec",
+            "rubygems-bundler",
+            "spitball"
+          ],
+          "permalink": "Bundler_Tools"
+        }
+      ],
+      "description": null,
+      "name": "Package & Dependency Management",
+      "permalink": "Package_Dependency_Management"
+    },
+    {
+      "categories": [
+        {
+          "name": "Optical Character Recognition",
+          "description": "Libraries to recognize written text in images",
+          "projects": [
+            "rtesseract",
+            "tesseract-ocr"
+          ],
+          "permalink": "Optical_Character_Recognition"
+        }
+      ],
+      "description": null,
+      "name": "Natural Language Processing",
+      "permalink": "Natural_Language_Processing"
+    },
+    {
+      "categories": [
+        {
+          "name": "Online Shops",
+          "description": null,
+          "projects": [
+            "carter",
+            "drhenner/ror_ecommerce",
+            "invoicing",
+            "money-currencylayer-bank",
+            "money-openexchangerates-bank",
+            "nimbleshop",
+            "radiant-shop-extension",
+            "shippinglogic",
+            "solidus",
+            "spree"
+          ],
+          "permalink": "e_commerce"
+        },
+        {
+          "name": "Subscription Management",
+          "description": null,
+          "projects": [
+            "cainlevy/freemium",
+            "fastspring-saasy",
+            "jackpot",
+            "subly",
+            "subscription_fu"
+          ],
+          "permalink": "Subscription_Management"
+        },
+        {
+          "name": "Payments",
+          "description": null,
+          "projects": [
+            "activemerchant",
+            "adyen",
+            "amazon_flex_pay",
+            "braintree",
+            "datatrans",
+            "gmo",
+            "mundipagg",
+            "pagseguro_v2",
+            "paypal-express",
+            "paypal-sdk-invoice",
+            "paypal_adaptive",
+            "paypal_calculator",
+            "pin_up",
+            "remit",
+            "sepa_king",
+            "square_connect",
+            "stripe",
+            "stripe_event"
+          ],
+          "permalink": "Payments"
+        }
+      ],
+      "description": null,
+      "name": "E-Commerce and Payments",
+      "permalink": "E-Commerce_and_Payments"
     }
   ]
 }
