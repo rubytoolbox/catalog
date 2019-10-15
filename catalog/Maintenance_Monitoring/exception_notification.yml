@@ -13,4 +13,5 @@ projects:
   - rails_exception_handler
   - raygun4ruby
   - rollbar
+  - sentry-raven
   - toadhopper
