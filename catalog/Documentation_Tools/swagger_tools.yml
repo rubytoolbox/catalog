@@ -5,11 +5,11 @@ projects:
   - grape-swagger
   - nexmo-oas-renderer
   - oas_parser
-  - openapi_first
   - open_api_import
+  - openapi_first
   - rswag
   - rswag-api
-  - rswag-ui
   - rswag-specs
+  - rswag-ui
   - swagger-blocks
   - swagger-diff
