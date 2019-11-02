@@ -8,7 +8,9 @@ projects:
   - coveralls
   - coverband
   - covered
+  - deep-cover
   - rcov
   - simplecov
   - single_cov
   - undercover
+  
