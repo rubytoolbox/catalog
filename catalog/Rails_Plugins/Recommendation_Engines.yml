@@ -2,6 +2,8 @@ name: Recommendation Engines
 description: 
 projects:
   - coletivo
+  - disco
+  - predictor
   - recommendable
   - recommendify
   - similus
