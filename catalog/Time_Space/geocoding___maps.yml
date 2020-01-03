@@ -1,5 +1,5 @@
 name: Geocoding & Maps
-description: 
+description:
 projects:
   - activerecord-postgis-adapter
   - acts_as_geocodable
@@ -20,6 +20,7 @@ projects:
   - graticule
   - leaflet-rails
   - map_layers
+  - maxminddb-docker
   - mongoid_geospatial
   - nofxx-georuby
   - parolkar/geo_mere_laal
