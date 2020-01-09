@@ -910,6 +910,7 @@
             "aslakhellesoy/rspec-distributed",
             "brynary/testjour",
             "hydra",
+            "knapsack",
             "parallel_tests",
             "qxjit/deep-test",
             "specjour",
