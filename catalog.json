@@ -3660,6 +3660,21 @@
     {
       "categories": [
         {
+          "name": "Math",
+          "description": "Math utilities, tools and extensions",
+          "projects": [
+            "continued_fractions"
+          ],
+          "permalink": "Math"
+        }
+      ],
+      "description": "Math and science utilities and tools",
+      "name": "Math and Science",
+      "permalink": "Math_and_Science"
+    },
+    {
+      "categories": [
+        {
           "name": "Game libraries",
           "description": null,
           "projects": [
