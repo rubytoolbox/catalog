@@ -8,6 +8,7 @@ projects:
   - random_record
   - randumb
   - ransack
+  - scopable
   - scope-builder
   - searchlogic
   - sexy_scopes
