@@ -3445,6 +3445,7 @@
             "bldr",
             "fast_jsonapi",
             "grape",
+            "jb",
             "jbuilder",
             "nativeson",
             "rabl",
