@@ -3004,6 +3004,7 @@
             "coveralls",
             "coverband",
             "covered",
+            "deep-cover",
             "rcov",
             "simplecov",
             "single_cov",
