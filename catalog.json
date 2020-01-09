@@ -869,6 +869,7 @@
           "projects": [
             "appendto/jquery-mockjax",
             "artifice",
+            "faker_maker",
             "fakeweb",
             "mockjax",
             "mocktra",
