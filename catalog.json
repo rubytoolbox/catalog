@@ -2175,7 +2175,8 @@
             "pagy-extras",
             "simply_paginate",
             "sorted",
-            "will_paginate"
+            "will_paginate",
+            "wor-paginate"
           ],
           "permalink": "pagination"
         },
@@ -3861,6 +3862,7 @@
             "rails_exception_handler",
             "raygun4ruby",
             "rollbar",
+            "sentry-raven",
             "toadhopper"
           ],
           "permalink": "exception_notification"
