@@ -21,7 +21,7 @@ Metrics/BlockLength:
     - 'spec/**/*_spec.rb'
 
 # Big screens are common :)
-Metrics/LineLength:
+Layout/LineLength:
   Max: 120
 
 # We use RSpec as a format linter, so no specific classes under test neccessarily :)
