@@ -3933,7 +3933,7 @@
         },
         {
           "name": "Reports & Spreadsheets",
-          "description": null,
+          "description": "Tools for parsing spreadsheets and creating reports in multiple formats.",
           "projects": [
             "activeadmin-axlsx",
             "acts_as_xlsx",
