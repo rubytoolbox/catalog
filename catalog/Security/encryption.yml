@@ -1,11 +1,12 @@
 name: Encryption
-description: 
+description:
 projects:
   - attr_encrypted
   - crypt_keeper
   - encrypted_strings
   - jamesotron/Lockbox
   - jmckible/lucifer
+  - lockbox
   - miscreant
   - mongoid-encrypted-fields
   - pkcs11
