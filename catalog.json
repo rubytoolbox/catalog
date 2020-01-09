@@ -3217,6 +3217,7 @@
           "description": null,
           "projects": [
             "activerecord-connections",
+            "activerecord-multi-tenant",
             "acts_as_tenant",
             "apartment",
             "consolo/acts_as_restricted_subdomain",
