@@ -2629,6 +2629,7 @@
             "job_reactor",
             "kr/beanstalkd",
             "later",
+            "lowkiq",
             "navvy",
             "ncr/background-fu",
             "qu",
