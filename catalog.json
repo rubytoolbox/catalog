@@ -110,6 +110,7 @@
             "markerb",
             "mustache",
             "PageTemplate",
+            "pug-ruby",
             "ruty",
             "scottpersinger/laminate",
             "slim",
