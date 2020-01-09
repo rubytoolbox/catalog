@@ -1023,6 +1023,7 @@
             "rspec-instrumentation-matcher",
             "rspec-json_matcher",
             "rspec-mail_matcher",
+            "rspec-pgp_matchers",
             "shoulda-matchers"
           ],
           "permalink": "RSpec_Matchers"
