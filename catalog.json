@@ -790,6 +790,8 @@
           "description": null,
           "projects": [
             "coletivo",
+            "disco",
+            "predictor",
             "recommendable",
             "recommendify",
             "similus",
