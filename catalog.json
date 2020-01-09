@@ -1747,6 +1747,7 @@
           "description": "Libraries to isolate application domain logic into separate classes.",
           "projects": [
             "active_interaction",
+            "civil_service",
             "dry-transaction",
             "interactor",
             "mutations",
