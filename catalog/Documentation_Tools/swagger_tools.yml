@@ -1,0 +1,15 @@
+name: OpenAPI Tools (formerly Swagger)
+description: Tools for creating, serving or testing with OpenAPI documentation or Swagger tooling
+projects:
+  - apivore
+  - grape-swagger
+  - nexmo-oas-renderer
+  - oas_parser
+  - open_api_import
+  - openapi_first
+  - rswag
+  - rswag-api
+  - rswag-specs
+  - rswag-ui
+  - swagger-blocks
+  - swagger-diff
