@@ -23,3 +23,5 @@ projects:
   - sparklines
   - technical_graph
   - xaviershay/tufte-graph
+  - Fullscreen/squid
+  - SciRuby/rubyplot
