@@ -21,3 +21,4 @@ projects:
   - switch_user
   - technoweenie/restful-authentication
   - userbin
+  - webauthn
