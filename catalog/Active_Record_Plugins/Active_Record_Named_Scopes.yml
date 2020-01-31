@@ -1,5 +1,5 @@
 name: Active Record Named Scopes
-description: 
+description:
 projects:
   - deep_pluck
   - filterrific
@@ -14,5 +14,4 @@ projects:
   - sexy_scopes
   - technoweenie/can_search
   - trailblazer-finder
-  - trixy_scopes
   - utility_scopes
