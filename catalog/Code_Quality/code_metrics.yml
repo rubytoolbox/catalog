@@ -18,6 +18,7 @@ projects:
   - metric_fu
   - outlaw
   - pelusa
+  - prettier
   - rails_best_practices
   - reek
   - roodi
