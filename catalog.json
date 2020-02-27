@@ -2189,7 +2189,6 @@
           "description": null,
           "projects": [
             "acts_as_commentable",
-            "commenter",
             "commontator",
             "disqus",
             "elight/acts_as_commentable_with_threading",
