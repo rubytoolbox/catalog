@@ -1,14 +1,14 @@
 name: Networking Tools
 description: 
 projects:
-  - ipaddress
-  - macker
-  - maxminddb
-  - wifi-wand
-  - net-ssh
-  - net-ssh-cli
-  - net-scp
-  - net-sftp
-  - net-ping
-  - netsnmp
-  - oxidized
+- ipaddress
+- macker
+- maxminddb
+- net-ping
+- net-scp
+- net-sftp
+- net-ssh
+- net-ssh-cli
+- netsnmp
+- oxidized
+- wifi-wand
