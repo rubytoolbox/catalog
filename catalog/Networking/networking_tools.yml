@@ -5,3 +5,10 @@ projects:
   - macker
   - maxminddb
   - wifi-wand
+  - net-ssh
+  - net-ssh-cli
+  - net-scp
+  - net-sftp
+  - net-ping
+  - netsnmp
+  - oxidized
