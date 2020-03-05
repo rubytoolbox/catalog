@@ -22,4 +22,5 @@ projects:
   - seer
   - sparklines
   - technical_graph
+  - triangle_pattern
   - xaviershay/tufte-graph
