@@ -33,7 +33,7 @@ GEM
       rubocop (~> 0.20)
     iniparse (1.4.4)
     jaro_winkler (1.5.4)
-    json (2.2.0)
+    json (2.3.0)
     json-schema (2.8.1)
       addressable (>= 2.4)
     listen (3.1.5)
