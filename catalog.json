@@ -3990,7 +3990,8 @@
             "workbook",
             "wrap_excel",
             "write_xlsx",
-            "write_xlsx_rails"
+            "write_xlsx_rails",
+            "xlsx"
           ],
           "permalink": "reporting"
         },
