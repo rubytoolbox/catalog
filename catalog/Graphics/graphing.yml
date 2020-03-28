@@ -16,11 +16,13 @@ projects:
   - pullmonkey/open_flash_chart
   - rchart
   - rdp/ruby_gnuplot
+  - rubyplot
   - rubyvis
   - rudionrails/google_charts
   - scruffy
   - seer
   - sparklines
+  - squid
   - technical_graph
   - triangle_pattern
   - xaviershay/tufte-graph
