@@ -3208,7 +3208,8 @@
             "sorcery",
             "switch_user",
             "technoweenie/restful-authentication",
-            "userbin"
+            "userbin",
+            "webauthn"
           ],
           "permalink": "rails_authentication"
         }
