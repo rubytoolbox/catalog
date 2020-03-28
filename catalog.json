@@ -3483,6 +3483,7 @@
             "api-versions",
             "apiary",
             "bldr",
+            "cache_crispies",
             "fast_jsonapi",
             "grape",
             "grapethor",
