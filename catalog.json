@@ -3912,6 +3912,13 @@
             "ipaddress",
             "macker",
             "maxminddb",
+            "net-ping",
+            "net-scp",
+            "net-sftp",
+            "net-ssh",
+            "net-ssh-cli",
+            "netsnmp",
+            "oxidized",
             "wifi-wand"
           ],
           "permalink": "networking_tools"
@@ -3964,6 +3971,7 @@
             "axlsx",
             "axlsx_rails",
             "compendium",
+            "creek",
             "dossier",
             "dynamic_reports",
             "excel_rails",
