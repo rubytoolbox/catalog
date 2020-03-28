@@ -3124,6 +3124,7 @@
             "alpaca",
             "brakeman",
             "codesake-dawn",
+            "gemfilelint",
             "loofah",
             "look/xss_terminate",
             "mhartl/find_mass_assignment",
