@@ -8,6 +8,7 @@ projects:
   - rufus-scheduler
   - sidecloq
   - sidekiq-cron
+  - sidekiq-scheduler
   - simple_scheduler
   - Swirrl/Taskit
   - whenever
