@@ -3479,6 +3479,7 @@
             "bldr",
             "fast_jsonapi",
             "grape",
+            "grapethor",
             "jb",
             "jbuilder",
             "nativeson",
