@@ -1,0 +1,6 @@
+name: Structures
+description: Projects for working with data structures such as vectors and data frames.
+projects:
+  - daru
+  - daru-io
+  - daru-view
