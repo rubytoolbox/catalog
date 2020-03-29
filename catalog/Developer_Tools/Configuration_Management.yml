@@ -44,3 +44,4 @@ projects:
   - tty-config
   - user_config
   - yettings
+  - yaml_extend
