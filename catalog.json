@@ -4113,6 +4113,34 @@
     {
       "categories": [
         {
+          "name": "Numerical",
+          "description": "Projects for doing number manipulation.",
+          "projects": [
+            "cumo",
+            "numo",
+            "numo-libsvm",
+            "numo-narray"
+          ],
+          "permalink": "numerical"
+        },
+        {
+          "name": "Structures",
+          "description": "Projects for working with data structures such as vectors and data frames.",
+          "projects": [
+            "daru",
+            "daru-io",
+            "daru-view"
+          ],
+          "permalink": "structures"
+        }
+      ],
+      "description": null,
+      "name": "Data Analysis",
+      "permalink": "Data_Analysis"
+    },
+    {
+      "categories": [
+        {
           "name": "Optical Character Recognition",
           "description": "Libraries to recognize written text in images",
           "projects": [
