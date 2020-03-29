@@ -12,6 +12,7 @@ projects:
   - grapethor
   - jb
   - jbuilder
+  - mutils
   - nativeson
   - rabl
   - representable
@@ -24,4 +25,3 @@ projects:
   - versionist
   - windsor
   - xmlrpc-rack_server
-  - mutils
