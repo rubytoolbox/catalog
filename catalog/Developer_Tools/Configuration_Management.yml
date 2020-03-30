@@ -43,5 +43,5 @@ projects:
   - store_configurable
   - tty-config
   - user_config
-  - yettings
   - yaml_extend
+  - yettings
