@@ -2,7 +2,7 @@ name: Amazon DynamoDB
 description: 
 projects:
   - active_dynamodb
+  - aws-record
   - dynamoid
   - dynoid
   - fake_dynamo
-  - aws-record
