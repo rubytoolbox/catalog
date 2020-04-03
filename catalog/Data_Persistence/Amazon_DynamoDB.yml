@@ -5,3 +5,4 @@ projects:
   - dynamoid
   - dynoid
   - fake_dynamo
+  - aws-record
