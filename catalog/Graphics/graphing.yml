@@ -19,6 +19,7 @@ projects:
   - rubyplot
   - rubyvis
   - rudionrails/google_charts
+  - scbi_plot
   - scruffy
   - seer
   - sparklines
