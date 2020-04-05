@@ -6,6 +6,7 @@ projects:
   - chartkick
   - gchart
   - gchartrb
+  - gnuplotrb
   - google_visualr
   - googlecharts
   - graphite-api
