@@ -3,9 +3,18 @@ description:
 projects:
   - ffi-tk
   - flammarion
+  - foxguib
   - fxruby
+  - fxruby-enhancement
+  - glimmer
   - gtk2
   - gtk3
+  - jrubyfx
+  - monkeybars-core
+  - opal-ui
   - qtbindings
-  - shoes
+  - rubycocoa
+  - ruby-qml
+  - rwx
+  - shoes4
   - wxruby
