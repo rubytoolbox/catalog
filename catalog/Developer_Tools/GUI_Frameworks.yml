@@ -4,6 +4,7 @@ projects:
   - ffi-tk
   - flammarion
   - fxruby
+  - glimmer
   - gtk2
   - gtk3
   - qtbindings
