@@ -11,4 +11,5 @@ projects:
   - namxam/weekly_builder
   - ri_cal
   - selene
+  - simple_calendar
   - streakable
