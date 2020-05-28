@@ -3368,6 +3368,7 @@
             "httpi",
             "httpx",
             "hyperclient",
+            "json_api_client",
             "lhc",
             "lhs",
             "mechanize",
