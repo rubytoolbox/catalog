@@ -2221,6 +2221,7 @@
           "name": "Active Record Named Scopes",
           "description": null,
           "projects": [
+            "activerecord_where_assoc",
             "deep_pluck",
             "filterrific",
             "internuity/quick_scopes",
