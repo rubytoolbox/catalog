@@ -2112,7 +2112,8 @@
             "enumerize",
             "enumify",
             "power_enum",
-            "simple_enum"
+            "simple_enum",
+            "str_enum"
           ],
           "permalink": "Active_Record_Enumerations"
         },
