@@ -1363,6 +1363,7 @@
           "description": "Components to build Terminal UIs",
           "projects": [
             "cli-ui",
+            "tabulo",
             "terminal-table",
             "tty",
             "tty-box",
