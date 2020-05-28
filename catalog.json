@@ -1195,6 +1195,7 @@
             "paperclip-optimizer",
             "rmagick",
             "rsvg2",
+            "ruby-vips",
             "skeptick"
           ],
           "permalink": "image_processing"
@@ -1734,7 +1735,8 @@
             "dry-validation",
             "reform",
             "scrivener",
-            "virtus"
+            "virtus",
+            "yaaf"
           ],
           "permalink": "Form_Objects"
         },
