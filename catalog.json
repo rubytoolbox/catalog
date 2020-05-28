@@ -1058,8 +1058,7 @@
           "description": null,
           "projects": [
             "combustion",
-            "multiengine",
-            "test_engine"
+            "multiengine"
           ],
           "permalink": "Testing_Rails_Engines"
         },
@@ -1160,7 +1159,6 @@
             "rubydoctest",
             "shindo",
             "test-unit",
-            "test_inline",
             "testrocket",
             "testy",
             "wrong",
@@ -1208,26 +1206,25 @@
             "chartkick",
             "gchart",
             "gchartrb",
+            "gnuplot",
+            "google_charts",
             "google_visualr",
             "googlecharts",
             "graphite-api",
             "gruff",
             "highcharts-rails",
-            "michelson/lazy_high_charts",
+            "lazy_high_charts",
             "ofc2",
             "pullmonkey/open_flash_chart",
             "rchart",
-            "rdp/ruby_gnuplot",
             "rubyplot",
             "rubyvis",
-            "rudionrails/google_charts",
             "scruffy",
             "seer",
             "sparklines",
             "squid",
             "technical_graph",
-            "triangle_pattern",
-            "xaviershay/tufte-graph"
+            "triangle_pattern"
           ],
           "permalink": "graphing"
         },
@@ -2415,7 +2412,6 @@
           "name": "CouchDB Clients",
           "description": null,
           "projects": [
-            "couch_foo",
             "couch_potato",
             "couchrest",
             "couchrest_model",
@@ -2480,6 +2476,7 @@
           "description": null,
           "projects": [
             "active_dynamodb",
+            "aws-record",
             "dynamoid",
             "dynoid",
             "fake_dynamo"
@@ -3492,6 +3489,7 @@
             "grapethor",
             "jb",
             "jbuilder",
+            "mutils",
             "nativeson",
             "rabl",
             "representable",
@@ -3926,6 +3924,9 @@
             "net-ssh-cli",
             "netsnmp",
             "oxidized",
+            "packetfu",
+            "packetgen",
+            "pcaprub",
             "wifi-wand"
           ],
           "permalink": "networking_tools"
@@ -4130,7 +4131,8 @@
           "projects": [
             "daru",
             "daru-io",
-            "daru-view"
+            "daru-view",
+            "rasn1"
           ],
           "permalink": "structures"
         }
