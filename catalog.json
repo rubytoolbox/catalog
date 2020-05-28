@@ -3012,6 +3012,7 @@
             "flay",
             "flog",
             "foodcritic",
+            "fukuzatsu",
             "git-cop",
             "jslint_on_rails",
             "kevinrutherford/crap4r",
@@ -3028,6 +3029,8 @@
             "rubycritic",
             "Saikuro",
             "sandi_meter",
+            "skunk",
+            "snuffle",
             "tailor",
             "thoughtbot/report_card"
           ],
