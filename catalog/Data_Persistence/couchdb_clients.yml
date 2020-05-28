@@ -1,7 +1,6 @@
 name: CouchDB Clients
-description: 
+description:
 projects:
-  - couch_foo
   - couch_potato
   - couchrest
   - couchrest_model
