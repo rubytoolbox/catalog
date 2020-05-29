@@ -7,6 +7,7 @@ projects:
   - gchart
   - gchartrb
   - gnuplot
+  - gnuplotrb
   - google_charts
   - google_visualr
   - googlecharts
