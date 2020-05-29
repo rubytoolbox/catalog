@@ -15,7 +15,6 @@ projects:
   - rubydoctest
   - shindo
   - test-unit
-  - test_inline
   - testrocket
   - testy
   - wrong

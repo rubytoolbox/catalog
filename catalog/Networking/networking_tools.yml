@@ -1,5 +1,5 @@
 name: Networking Tools
-description: 
+description:
 projects:
   - ipaddress
   - macker
@@ -11,4 +11,7 @@ projects:
   - net-ssh-cli
   - netsnmp
   - oxidized
+  - packetfu
+  - packetgen
+  - pcaprub
   - wifi-wand

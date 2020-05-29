@@ -1,6 +1,5 @@
 name: Testing Rails Engines
-description: 
+description:
 projects:
   - combustion
   - multiengine
-  - test_engine
