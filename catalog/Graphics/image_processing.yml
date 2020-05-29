@@ -17,4 +17,5 @@ projects:
   - paperclip-optimizer
   - rmagick
   - rsvg2
+  - ruby-vips
   - skeptick

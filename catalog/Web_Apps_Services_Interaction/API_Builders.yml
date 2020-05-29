@@ -6,12 +6,14 @@ projects:
   - api-versions
   - apiary
   - bldr
+  - blueprinter
   - cache_crispies
   - fast_jsonapi
   - grape
   - grapethor
   - jb
   - jbuilder
+  - mutils
   - nativeson
   - rabl
   - representable
