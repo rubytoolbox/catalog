@@ -6,24 +6,23 @@ projects:
   - chartkick
   - gchart
   - gchartrb
+  - gnuplot
   - gnuplotrb
+  - google_charts
   - google_visualr
   - googlecharts
   - graphite-api
   - gruff
   - highcharts-rails
-  - michelson/lazy_high_charts
+  - lazy_high_charts
   - ofc2
   - pullmonkey/open_flash_chart
   - rchart
-  - rdp/ruby_gnuplot
   - rubyplot
   - rubyvis
-  - rudionrails/google_charts
   - scruffy
   - seer
   - sparklines
   - squid
   - technical_graph
   - triangle_pattern
-  - xaviershay/tufte-graph

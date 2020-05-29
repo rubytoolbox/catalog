@@ -5,6 +5,7 @@ projects:
   - gas
   - git
   - git-cop
+  - git_curate
   - githug
   - gitolite
   - gitsu

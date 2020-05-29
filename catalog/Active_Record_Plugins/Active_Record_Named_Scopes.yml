@@ -1,6 +1,7 @@
 name: Active Record Named Scopes
 description:
 projects:
+  - activerecord_where_assoc
   - deep_pluck
   - filterrific
   - internuity/quick_scopes
