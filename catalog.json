@@ -4041,7 +4041,7 @@
             "wrap_excel",
             "write_xlsx",
             "write_xlsx_rails",
-            "xlsx"
+            "xsv"
           ],
           "permalink": "reporting"
         },
