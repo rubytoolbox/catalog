@@ -11,6 +11,7 @@ projects:
   - flay
   - flog
   - foodcritic
+  - fukuzatsu
   - git-cop
   - jslint_on_rails
   - kevinrutherford/crap4r
@@ -27,5 +28,7 @@ projects:
   - rubycritic
   - Saikuro
   - sandi_meter
+  - skunk
+  - snuffle
   - tailor
   - thoughtbot/report_card
