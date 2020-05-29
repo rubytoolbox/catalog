@@ -21,6 +21,7 @@ projects:
   - rchart
   - rubyplot
   - rubyvis
+  - scbi_plot
   - scruffy
   - seer
   - sparklines
