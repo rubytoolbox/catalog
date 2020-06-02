@@ -7,6 +7,7 @@ projects:
   - gchart
   - gchartrb
   - gnuplot
+  - gnuplotrb
   - google_charts
   - google_visualr
   - googlecharts
@@ -15,11 +16,13 @@ projects:
   - highcharts-rails
   - lazy_high_charts
   - numo-gnuplot
+  - numplot
   - ofc2
   - pullmonkey/open_flash_chart
   - rchart
   - rubyplot
   - rubyvis
+  - scbi_plot
   - scruffy
   - seer
   - sparklines
