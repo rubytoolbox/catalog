@@ -7,6 +7,7 @@ projects:
   - interactor
   - mutations
   - pathway
+  - service_actor
   - simple_command
   - simple_service
   - surrounded
