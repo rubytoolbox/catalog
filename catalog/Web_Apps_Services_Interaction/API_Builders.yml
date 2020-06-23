@@ -13,6 +13,7 @@ projects:
   - grapethor
   - jb
   - jbuilder
+  - jsonapi-serializer
   - mutils
   - nativeson
   - rabl
