@@ -13,3 +13,4 @@ projects:
   - selene
   - simple_calendar
   - streakable
+  - adrienpoly/stimulus-flatpickr
