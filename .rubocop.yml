@@ -79,3 +79,45 @@ Style/HashTransformValues:
   Enabled: true
 Style/SlicingWithRange:
   Enabled: true
+Lint/DuplicateElsifCondition: # (new in 0.88)
+  Enabled: true
+Lint/MixedRegexpCaptureTypes: # (new in 0.85)
+  Enabled: true
+Style/AccessorGrouping: # (new in 0.87)
+  Enabled: true
+Style/ArrayCoercion: # (new in 0.88)
+  Enabled: true
+Style/BisectedAttrAccessor: # (new in 0.87)
+  Enabled: true
+Style/CaseLikeIf: # (new in 0.88)
+  Enabled: true
+Style/HashAsLastArrayItem: # (new in 0.88)
+  Enabled: true
+Style/HashLikeCase: # (new in 0.88)
+  Enabled: true
+Style/RedundantAssignment: # (new in 0.87)
+  Enabled: true
+Style/RedundantFetchBlock: # (new in 0.86)
+  Enabled: true
+Style/RedundantFileExtensionInRequire: # (new in 0.88)
+  Enabled: true
+Style/RedundantRegexpCharacterClass: # (new in 0.85)
+  Enabled: true
+Style/RedundantRegexpEscape: # (new in 0.85)
+  Enabled: true
+Performance/AncestorsInclude: # (new in 1.7)
+  Enabled: true
+Performance/BigDecimalWithNumericArgument: # (new in 1.7)
+  Enabled: true
+Performance/RedundantSortBlock: # (new in 1.7)
+  Enabled: true
+Performance/RedundantStringChars: # (new in 1.7)
+  Enabled: true
+Performance/ReverseFirst: # (new in 1.7)
+  Enabled: true
+Performance/SortReverse: # (new in 1.7)
+  Enabled: true
+Performance/Squeeze: # (new in 1.7)
+  Enabled: true
+Performance/StringInclude: # (new in 1.7)
+  Enabled: true
