@@ -15,6 +15,7 @@ projects:
   - gruff
   - highcharts-rails
   - lazy_high_charts
+  - numo-gnuplot
   - numplot
   - ofc2
   - pullmonkey/open_flash_chart
