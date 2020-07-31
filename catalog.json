@@ -2621,6 +2621,7 @@
           "projects": [
             "apivore",
             "grape-swagger",
+            "lazy_api_doc",
             "nexmo-oas-renderer",
             "oas_parser",
             "open_api_import",
