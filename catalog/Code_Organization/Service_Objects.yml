@@ -5,6 +5,7 @@ projects:
   - civil_service
   - dry-transaction
   - interactor
+  - light-service
   - mutations
   - pathway
   - service_actor
