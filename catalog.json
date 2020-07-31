@@ -2975,6 +2975,7 @@
           "name": "Calendars",
           "description": null,
           "projects": [
+            "adrienpoly/stimulus-flatpickr",
             "calendar_helper",
             "calendrier",
             "event_cal",
