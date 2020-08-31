@@ -15,6 +15,7 @@ projects:
   - middleman
   - nanoc
   - ruhoh
+  - sitepress
   - stasis
   - staticmatic
   - webby

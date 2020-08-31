@@ -25,6 +25,7 @@ projects:
   - refinerycms
   - refinerycms-menus
   - regulate
+  - sitepress-rails
   - snippr
   - spina
   - static
