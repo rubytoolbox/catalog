@@ -970,6 +970,7 @@
             "cucumber-sinatra",
             "cucumberator",
             "cuke_cataloger",
+            "cuke_linter",
             "cuke_modeler",
             "cuke_sniffer",
             "cukesparse",
