@@ -11,6 +11,7 @@ projects:
   - rspec-html-matchers
   - rspec-instrumentation-matcher
   - rspec-json_matcher
+  - rspec-log_matcher
   - rspec-mail_matcher
   - rspec-pgp_matchers
   - shoulda-matchers
