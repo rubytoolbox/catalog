@@ -3933,6 +3933,7 @@
             "bugsnag",
             "errbit/errbit",
             "exception_engine",
+            "exception_hunter",
             "exception_notification",
             "exceptional",
             "honeybadger",
