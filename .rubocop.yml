@@ -9,6 +9,7 @@ require:
   - rubocop-rspec
 
 AllCops:
+  NewCops: enable
   Exclude:
     - 'tmp/**/*.rb'
     # See https://qiita.com/ozhaan/items/40ea864757162e931be1
@@ -55,69 +56,3 @@ Style/TrailingCommaInHashLiteral:
 # I actually use this a lot with `private :foo=`
 Style/AccessModifierDeclarations:
   Enabled: false
-
-#
-# Opt-ins for new cops from v0.81+ onwards
-#
-Layout/EmptyLinesAroundAttributeAccessor:
-  Enabled: true
-Layout/SpaceAroundMethodCallOperator:
-  Enabled: true
-Lint/DeprecatedOpenSSLConstant:
-  Enabled: true
-Lint/RaiseException:
-  Enabled: true
-Lint/StructNewOverride:
-  Enabled: true
-Style/ExponentialNotation:
-  Enabled: true
-Style/HashEachMethods:
-  Enabled: true
-Style/HashTransformKeys:
-  Enabled: true
-Style/HashTransformValues:
-  Enabled: true
-Style/SlicingWithRange:
-  Enabled: true
-Lint/DuplicateElsifCondition: # (new in 0.88)
-  Enabled: true
-Lint/MixedRegexpCaptureTypes: # (new in 0.85)
-  Enabled: true
-Style/AccessorGrouping: # (new in 0.87)
-  Enabled: true
-Style/ArrayCoercion: # (new in 0.88)
-  Enabled: true
-Style/BisectedAttrAccessor: # (new in 0.87)
-  Enabled: true
-Style/CaseLikeIf: # (new in 0.88)
-  Enabled: true
-Style/HashAsLastArrayItem: # (new in 0.88)
-  Enabled: true
-Style/HashLikeCase: # (new in 0.88)
-  Enabled: true
-Style/RedundantAssignment: # (new in 0.87)
-  Enabled: true
-Style/RedundantFetchBlock: # (new in 0.86)
-  Enabled: true
-Style/RedundantFileExtensionInRequire: # (new in 0.88)
-  Enabled: true
-Style/RedundantRegexpCharacterClass: # (new in 0.85)
-  Enabled: true
-Style/RedundantRegexpEscape: # (new in 0.85)
-  Enabled: true
-Performance/AncestorsInclude: # (new in 1.7)
-  Enabled: true
-Performance/BigDecimalWithNumericArgument: # (new in 1.7)
-  Enabled: true
-Performance/RedundantSortBlock: # (new in 1.7)
-  Enabled: true
-Performance/RedundantStringChars: # (new in 1.7)
-  Enabled: true
-Performance/ReverseFirst: # (new in 1.7)
-  Enabled: true
-Performance/SortReverse: # (new in 1.7)
-  Enabled: true
-Performance/Squeeze: # (new in 1.7)
-  Enabled: true
-Performance/StringInclude: # (new in 1.7)
-  Enabled: true
