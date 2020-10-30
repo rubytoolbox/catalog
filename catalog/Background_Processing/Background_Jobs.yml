@@ -19,6 +19,7 @@ projects:
   - job_reactor
   - kr/beanstalkd
   - later
+  - legionio
   - lowkiq
   - navvy
   - ncr/background-fu
