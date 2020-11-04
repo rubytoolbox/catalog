@@ -1,0 +1,4 @@
+name: Informational
+description: Informational data such as facts/trivias
+projects:
+  - fact_is_fact
