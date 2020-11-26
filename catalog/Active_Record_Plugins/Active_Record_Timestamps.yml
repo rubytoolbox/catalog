@@ -1,0 +1,8 @@
+name: Active Record Timestamps
+description: Use timestamp values to represent boolean data
+projects:
+  - active_record-events
+  - bool_at
+  - boole_time
+  - boolean_timestamp
+  - time_for_a_boolean
