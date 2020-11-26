@@ -1,6 +1,7 @@
 name: Active Record Named Scopes
 description:
 projects:
+  - active_record-union_relation
   - activerecord_where_assoc
   - deep_pluck
   - filterrific
