@@ -642,6 +642,7 @@
           "name": "Rails Class Diagrams",
           "description": null,
           "projects": [
+            "erd",
             "railroady",
             "rails-erd"
           ],
@@ -2134,6 +2135,7 @@
           "name": "Active Record Value Cleanup",
           "description": null,
           "projects": [
+            "attribute_extras",
             "attribute_normalizer",
             "auto_strip_attributes",
             "clean_room",
@@ -2235,6 +2237,7 @@
           "name": "Active Record Named Scopes",
           "description": null,
           "projects": [
+            "active_record-union_relation",
             "activerecord_where_assoc",
             "deep_pluck",
             "filterrific",
@@ -2276,6 +2279,18 @@
             "vestal_versions"
           ],
           "permalink": "Active_Record_Versioning"
+        },
+        {
+          "name": "Active Record Timestamps",
+          "description": "Use timestamp values to represent boolean data",
+          "projects": [
+            "active_record-events",
+            "bool_at",
+            "boole_time",
+            "boolean_timestamp",
+            "time_for_a_boolean"
+          ],
+          "permalink": "Active_Record_Timestamps"
         },
         {
           "name": "Active Record Bit Fields",
@@ -2970,6 +2985,7 @@
             "ready_for_i18n",
             "route_translator",
             "talk_like_a_pirate",
+            "tater",
             "to_lang",
             "tr8n",
             "traduction"
