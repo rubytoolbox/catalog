@@ -1,4 +1,6 @@
 name: Informational
-description: Informational data such as facts/trivias
+description: Informational data about countries. Facts/trivias about country and numbers, 
 projects:
   - fact_is_fact
+  - factbook
+  - worldlite
