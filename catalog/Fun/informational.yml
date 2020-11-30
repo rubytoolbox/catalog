@@ -1,5 +1,5 @@
 name: Informational
-description: Informational data about countries. Facts/trivias about country and numbers, 
+description: Informational data about countries. Fact/trivia about countries or numbers.
 projects:
   - fact_is_fact
   - factbook
