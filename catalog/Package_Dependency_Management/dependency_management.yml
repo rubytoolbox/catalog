@@ -7,6 +7,7 @@ projects:
   - brewdler
   - bundler
   - checkzilla
+  - cutting_edge
   - externals
   - gemrat
   - giternal
@@ -15,4 +16,3 @@ projects:
   - librarian
   - motion-bundler
   - piston
-  - cutting_edge
