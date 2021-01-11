@@ -12,7 +12,6 @@ projects:
   - flog
   - foodcritic
   - fukuzatsu
-  - git-cop
   - jslint_on_rails
   - kevinrutherford/crap4r
   - metric_abc
