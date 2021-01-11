@@ -26,7 +26,6 @@ projects:
   - fql
   - freshbooks
   - freshbooks.rb
-  - freshbooks2
   - gibbon
   - github_api
   - gnip-rule
