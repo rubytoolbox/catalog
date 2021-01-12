@@ -4,7 +4,6 @@ projects:
   - ezgit
   - gas
   - git
-  - git-cop
   - git_curate
   - githug
   - gitolite
