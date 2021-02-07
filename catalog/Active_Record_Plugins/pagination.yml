@@ -1,13 +1,8 @@
 name: Pagination
 description: Split large data collections into subsets to display on multiple pages
 projects:
-  - ajax_pagination
   - kaminari
-  - kaminari-bootstrap
-  - paged_scopes
   - pagy
-  - pagy-extras
   - simply_paginate
-  - sorted
   - will_paginate
   - wor-paginate
