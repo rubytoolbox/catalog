@@ -9,6 +9,7 @@ projects:
   - erbook
   - hanna
   - jeromegn/DocumentUp
+  - kss
   - md2man
   - rdoc
   - rocco
@@ -16,4 +17,6 @@ projects:
   - rspec_api_documentation
   - schemadoc
   - sdoc
+  - tomdoc
   - yard
+  - yard-tomdoc
