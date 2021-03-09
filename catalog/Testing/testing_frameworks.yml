@@ -19,3 +19,5 @@ projects:
   - testy
   - wrong
   - yard-doctest
+  - yard-minitest
+  - yard-rspec
