@@ -1,6 +1,7 @@
 name: Active Record Value Cleanup
 description: 
 projects:
+  - attribute_extras
   - attribute_normalizer
   - auto_strip_attributes
   - clean_room
