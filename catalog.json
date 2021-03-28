@@ -2920,7 +2920,6 @@
             "azure-core",
             "azure-credentials",
             "azure-directory",
-            "azure-documentdb-sdk",
             "azure-fix",
             "azure-loganalytics-datacollector-api",
             "azure-multistorage",
