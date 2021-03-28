@@ -1551,6 +1551,7 @@
             "erbook",
             "hanna",
             "jeromegn/DocumentUp",
+            "kss",
             "md2man",
             "rdoc",
             "rocco",
@@ -1558,7 +1559,9 @@
             "rspec_api_documentation",
             "schemadoc",
             "sdoc",
-            "yard"
+            "tomdoc",
+            "yard",
+            "yard-tomdoc"
           ],
           "permalink": "documentation_tools"
         },
