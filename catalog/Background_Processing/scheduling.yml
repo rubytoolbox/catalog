@@ -3,6 +3,7 @@ description: Execute tasks on a schedule
 projects:
   - clockwork
   - latimes/craken
+  - que-scheduler
   - recurrent
   - resque-scheduler
   - rufus-scheduler
