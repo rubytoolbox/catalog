@@ -24,6 +24,7 @@ projects:
   - easy_roles
   - moat
   - moulin_rouge
+  - permisi
   - pundit
   - rails-auth
   - rend-acl
