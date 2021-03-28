@@ -2,6 +2,9 @@ name: Numerical
 description: Projects for doing number manipulation.
 projects:
   - cumo
+  - integration
+  - minimization
   - numo
   - numo-libsvm
   - numo-narray
+  - rb-gsl
