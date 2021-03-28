@@ -633,6 +633,7 @@
             "letter_opener",
             "mail_view",
             "mailcatcher",
+            "open_mailer",
             "post_office",
             "rails_email_preview",
             "sanitize_email"
@@ -3749,7 +3750,9 @@
             "testrocket",
             "testy",
             "wrong",
-            "yard-doctest"
+            "yard-doctest",
+            "yard-minitest",
+            "yard-rspec"
           ],
           "permalink": "testing_frameworks"
         },
