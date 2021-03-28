@@ -4,6 +4,7 @@ projects:
   - letter_opener
   - mail_view
   - mailcatcher
+  - open_mailer
   - post_office
   - rails_email_preview
   - sanitize_email
