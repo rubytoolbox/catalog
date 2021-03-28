@@ -525,7 +525,8 @@
             "simple_command",
             "simple_service",
             "surrounded",
-            "trailblazer-activity"
+            "trailblazer-activity",
+            "u-case"
           ],
           "permalink": "Service_Objects"
         },
