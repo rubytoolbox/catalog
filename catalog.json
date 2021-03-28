@@ -1695,6 +1695,7 @@
             "wrap_excel",
             "write_xlsx",
             "write_xlsx_rails",
+            "xlsx_drone",
             "xsv"
           ],
           "permalink": "reporting"
@@ -3246,6 +3247,7 @@
             "apotomo",
             "cells",
             "classic_presenter",
+            "dekorator",
             "delegate_presenter",
             "display_case",
             "draper",
@@ -3253,6 +3255,7 @@
             "komponent",
             "meta_presenter",
             "oprah",
+            "pres",
             "rails_presenter",
             "resubject",
             "view_models",
