@@ -5,6 +5,7 @@ projects:
   - acts_as_xlsx
   - axlsx 
   - axlsx_rails
+  - caxlsx
   - compendium
   - creek
   - dossier
