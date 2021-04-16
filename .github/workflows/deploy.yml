@@ -18,21 +18,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Restore dependency cache
-      uses: actions/cache@v2
-      with:
-        path: |
-          vendor/bundle
-        key: ${{ runner.os }}-gems
-        restore-keys: |
-          ${{ runner.os }}-gems
     - uses: ruby/setup-ruby@v1
-    - name: Install dependencies and build catalog export
-      run: |
-        gem install bundler
-        bundle config set path 'vendor/bundle'
-        bundle install --jobs 4 --retry 3
-        bundle exec rake export
+      with:
+        bundler-cache: true
+
+    - name: Build catalog export
+      run: bundle exec rake export
 
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@3.7.1
