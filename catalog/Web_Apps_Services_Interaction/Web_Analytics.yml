@@ -1,6 +1,7 @@
 name: Web Analytics
 description: 
 projects:
+  - callcounter
   - ga_events
   - gabba
   - gabbara
