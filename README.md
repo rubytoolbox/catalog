@@ -1,4 +1,4 @@
-# Ruby Toolbox Catalog [![Build Status](https://travis-ci.org/rubytoolbox/catalog.svg?branch=master)](https://travis-ci.org/rubytoolbox/catalog)
+# Ruby Toolbox Catalog [![CI](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml/badge.svg)](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml)
 
 Welcome to the [Ruby Toolbox][rubytoolbox] catalog!
 
