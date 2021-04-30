@@ -4056,6 +4056,7 @@
           "name": "Web Analytics",
           "description": null,
           "projects": [
+            "callcounter",
             "ga_events",
             "gabba",
             "gabbara",
