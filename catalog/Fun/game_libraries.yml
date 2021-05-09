@@ -1,5 +1,5 @@
 name: Game libraries
-description:
+description: Useful Ruby game-development-related libraries
 projects:
   - chingu
   - chipmunk
