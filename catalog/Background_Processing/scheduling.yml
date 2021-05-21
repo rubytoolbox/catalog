@@ -6,6 +6,7 @@ projects:
   - que-scheduler
   - recurrent
   - resque-scheduler
+  - ruby-clock
   - rufus-scheduler
   - sidecloq
   - sidekiq-cron
