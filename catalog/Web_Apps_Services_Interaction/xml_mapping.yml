@@ -9,6 +9,7 @@ projects:
   - nori
   - ox
   - representative
+  - rexml
   - roxml
   - sax-machine
   - sax_stream
