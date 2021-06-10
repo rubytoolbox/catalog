@@ -4,6 +4,7 @@ projects:
   - clockwork
   - latimes/craken
   - legionio
+  - que-scheduler
   - recurrent
   - resque-scheduler
   - rufus-scheduler

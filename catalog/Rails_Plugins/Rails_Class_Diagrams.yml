@@ -1,5 +1,6 @@
 name: Rails Class Diagrams
 description: 
 projects:
+  - erd
   - railroady
   - rails-erd

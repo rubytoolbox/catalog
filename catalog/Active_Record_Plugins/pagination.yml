@@ -4,9 +4,12 @@ projects:
   - ajax_pagination
   - kaminari
   - kaminari-bootstrap
+  - nexter
+  - order_query
   - paged_scopes
   - pagy
   - pagy-extras
+  - sequel-seek-pagination
   - simply_paginate
   - sorted
   - will_paginate
