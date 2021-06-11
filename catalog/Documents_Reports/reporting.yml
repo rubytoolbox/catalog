@@ -27,6 +27,7 @@ projects:
   - google-spreadsheet-ruby
   - mk/reports_as_sparkline
   - mondrian-olap
+  - netoctone/rubiod
   - odf-report
   - odf-spreadsheet
   - odt2html
@@ -40,7 +41,6 @@ projects:
   - rods
   - roo
   - rspreadsheet
-  - rubiod
   - rubyXL
   - ruport
   - schacon/munger
