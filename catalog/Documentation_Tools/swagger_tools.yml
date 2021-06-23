@@ -8,6 +8,8 @@ projects:
   - oas_parser
   - open_api_import
   - openapi_first
+  - openapi_parser
+  - rspec-openapi
   - rswag
   - rswag-api
   - rswag-specs
