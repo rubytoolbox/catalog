@@ -4062,6 +4062,7 @@
             "json_pure",
             "multi_json",
             "oj",
+            "simdjson",
             "yajl-ruby"
           ],
           "permalink": "JSON_Parsers"
