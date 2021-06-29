@@ -3922,6 +3922,7 @@
           "name": "I18n",
           "description": null,
           "projects": [
+            "accept_language",
             "activerecord_translatable",
             "ai/r18n",
             "c3po",
