@@ -4,6 +4,7 @@ projects:
   - ace
   - awestruct
   - bonsai
+  - bridgetown-core
   - brochure
   - deplot
   - dynamicmatic
