@@ -4110,7 +4110,7 @@
         },
         {
           "name": "Web Analytics",
-          "description": null,
+          "description": "Track and analyse web requests",
           "projects": [
             "callcounter",
             "ga_events",
