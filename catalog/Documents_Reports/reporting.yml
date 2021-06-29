@@ -3,9 +3,10 @@ description: Tools for parsing spreadsheets and creating reports in multiple for
 projects:
   - activeadmin-axlsx
   - acts_as_xlsx
-  - axlsx 
+  - axlsx
   - axlsx_rails
   - caxlsx
+  - caxlsx_rails
   - compendium
   - creek
   - dossier
