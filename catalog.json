@@ -1281,6 +1281,7 @@
             "glimmer",
             "gtk2",
             "gtk3",
+            "libui",
             "qtbindings",
             "shoes",
             "wxruby"
