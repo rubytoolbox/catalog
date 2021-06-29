@@ -986,13 +986,22 @@
         },
         {
           "name": "Data Migration",
-          "description": null,
+          "description": "How to handle data migration when the database schema is changed",
+          "projects": [
+            "data_migrate",
+            "migration_data"
+          ],
+          "permalink": "Data_Migration"
+        },
+        {
+          "name": "Moving Data",
+          "description": "Tools for moving data between databases",
           "projects": [
             "active_importer",
             "mysql2psql",
             "taps"
           ],
-          "permalink": "Data_Migration"
+          "permalink": "Moving_Data"
         },
         {
           "name": "Redis Clients",
