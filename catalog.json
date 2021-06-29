@@ -3807,6 +3807,7 @@
           "projects": [
             "assert",
             "bacon",
+            "brutal",
             "detest",
             "dtf",
             "fix",
