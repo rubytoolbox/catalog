@@ -1,0 +1,8 @@
+name: Analysis
+description: Projects for doing data analysis
+projects:
+  - daru
+  - statsample
+  - statsample-bivariate-extension
+  - statsample-glm
+  - statsample-timeseries

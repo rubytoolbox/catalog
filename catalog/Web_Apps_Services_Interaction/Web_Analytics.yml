@@ -1,5 +1,5 @@
 name: Web Analytics
-description: 
+description: Track and analyse web requests
 projects:
   - callcounter
   - ga_events

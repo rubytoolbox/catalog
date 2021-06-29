@@ -2,3 +2,7 @@ name: Math
 description: Math utilities, tools and extensions
 projects:
   - continued_fractions
+  - integration
+  - minimization
+  - nmatrix
+  - rb-gsl

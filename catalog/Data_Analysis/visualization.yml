@@ -1,0 +1,6 @@
+name: Visualization
+description: Projects for visualizing data
+projects:
+  - daru-view
+  - iruby
+  - iruby-rails
