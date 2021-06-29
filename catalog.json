@@ -872,13 +872,28 @@
     {
       "categories": [
         {
+          "name": "Analysis",
+          "description": "Projects for doing data analysis",
+          "projects": [
+            "daru",
+            "statsample",
+            "statsample-bivariate-extension",
+            "statsample-glm",
+            "statsample-timeseries"
+          ],
+          "permalink": "analysis"
+        },
+        {
           "name": "Numerical",
           "description": "Projects for doing number manipulation.",
           "projects": [
             "cumo",
+            "integration",
+            "minimization",
             "numo",
             "numo-libsvm",
-            "numo-narray"
+            "numo-narray",
+            "rb-gsl"
           ],
           "permalink": "numerical"
         },
@@ -897,12 +912,20 @@
           "name": "Structures",
           "description": "Projects for working with data structures such as vectors and data frames.",
           "projects": [
-            "daru",
             "daru-io",
-            "daru-view",
             "rasn1"
           ],
           "permalink": "structures"
+        },
+        {
+          "name": "Visualization",
+          "description": "Projects for visualizing data",
+          "projects": [
+            "daru-view",
+            "iruby",
+            "iruby-rails"
+          ],
+          "permalink": "visualization"
         }
       ],
       "description": null,
@@ -1862,9 +1885,11 @@
             "adamwiggins/rifgraf",
             "apexcharts",
             "chartkick",
+            "charty",
             "gchart",
             "gchartrb",
             "gnuplot",
+            "gnuplotr",
             "gnuplotrb",
             "google_charts",
             "google_visualr",
@@ -1873,11 +1898,16 @@
             "gruff",
             "highcharts-rails",
             "lazy_high_charts",
+            "matplotlib",
             "numo-gnuplot",
             "numplot",
+            "nyaplot",
             "ofc2",
+            "plotlyrb",
             "pullmonkey/open_flash_chart",
+            "rbplotly",
             "rchart",
+            "ruby-gr",
             "rubyplot",
             "rubyvis",
             "scbi_plot",
@@ -1886,7 +1916,8 @@
             "sparklines",
             "squid",
             "technical_graph",
-            "triangle_pattern"
+            "triangle_pattern",
+            "vega"
           ],
           "permalink": "graphing"
         },
@@ -2362,6 +2393,14 @@
             "tensor_stream-opencl"
           ],
           "permalink": "Artificial_Neural_Networks"
+        },
+        {
+          "name": "Machine Learning",
+          "description": "Libraries and Frameworks to train and apply machine learning models to general problems",
+          "projects": [
+            "rumale"
+          ],
+          "permalink": "Machine_Learning"
         }
       ],
       "description": null,
@@ -2526,7 +2565,11 @@
           "name": "Math",
           "description": "Math utilities, tools and extensions",
           "projects": [
-            "continued_fractions"
+            "continued_fractions",
+            "integration",
+            "minimization",
+            "nmatrix",
+            "rb-gsl"
           ],
           "permalink": "Math"
         }
