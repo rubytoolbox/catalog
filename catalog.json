@@ -1892,6 +1892,17 @@
           "permalink": "QR_Codes"
         },
         {
+          "name": "Avatars",
+          "description": "Tools to generate and display user avatars",
+          "projects": [
+            "avatarly",
+            "initials",
+            "jekyll-avatar",
+            "letter_avatar"
+          ],
+          "permalink": "avatars"
+        },
+        {
           "name": "Graphing",
           "description": "Tools to generate graphical representation of data (called charts or graphs)",
           "projects": [
