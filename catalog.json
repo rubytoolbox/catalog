@@ -1625,6 +1625,8 @@
           "description": "Tools for creating, serving or testing with OpenAPI documentation or Swagger tooling",
           "projects": [
             "apivore",
+            "committee",
+            "committee-rails",
             "grape-swagger",
             "lazy_api_doc",
             "nexmo-oas-renderer",
@@ -1638,7 +1640,8 @@
             "rswag-specs",
             "rswag-ui",
             "swagger-blocks",
-            "swagger-diff"
+            "swagger-diff",
+            "zero-rails_openapi"
           ],
           "permalink": "swagger_tools"
         }
@@ -1939,6 +1942,7 @@
             "chunky_png",
             "core_image",
             "devil",
+            "dhash-vips",
             "fabien/im_magick",
             "image_science",
             "image_sorcery",
