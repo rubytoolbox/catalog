@@ -6,6 +6,9 @@ projects:
   - docile
   - extlib
   - facets
+  - fast_blank
+  - fast_camelize
+  - fast_parameterize
   - fast_underscore
   - hamster
   - hashie
