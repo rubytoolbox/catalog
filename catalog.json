@@ -1807,7 +1807,7 @@
       "categories": [
         {
           "name": "Game libraries",
-          "description": null,
+          "description": "Useful Ruby game-development-related libraries",
           "projects": [
             "chingu",
             "chipmunk",
