@@ -3,7 +3,7 @@
 require "pp"
 require "tempfile"
 require "rubygems"
-require "rubygems/remote_fetcher"
+require "rubygems/remote_fetcher "
 require "rubygems/name_tuple"
 
 RSpec.describe Catalog do
