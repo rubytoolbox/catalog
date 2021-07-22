@@ -5,3 +5,4 @@ projects:
   - daemon_controller
   - foreman
   - lunchy
+  - overmind
