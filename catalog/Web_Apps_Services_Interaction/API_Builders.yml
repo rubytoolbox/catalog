@@ -16,6 +16,7 @@ projects:
   - jsonapi-serializer
   - mutils
   - nativeson
+  - panko_serializer
   - rabl
   - representable
   - roar
