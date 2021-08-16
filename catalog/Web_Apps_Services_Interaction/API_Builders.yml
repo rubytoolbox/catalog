@@ -4,6 +4,7 @@ projects:
   - active_model_serializers
   - acts_as_api
   - api-versions
+  - apia
   - apiary
   - bldr
   - blueprinter
