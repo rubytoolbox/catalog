@@ -8,7 +8,6 @@ projects:
   - clamp
   - clap
   - cmdparse
-  - cocaine
   - commander
   - config_parser
   - cri
@@ -25,4 +24,5 @@ projects:
   - quickl
   - rationalist
   - slop
+  - terrapin
   - trollop
