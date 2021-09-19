@@ -2,6 +2,7 @@ name: Form Objects
 description:
 projects:
   - activemodel-form
+  - drg_cms
   - dry-validation
   - reform
   - scrivener
