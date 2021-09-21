@@ -17,6 +17,7 @@ projects:
   - LiteRGSS
   - metro
   - minigl
+  - nerd_dice
   - opengl
   - opengl-bindings
   - opengl-definitions
