@@ -1,5 +1,5 @@
 name: Configuration Management
-description:
+description: Easy and secure way to configure your applications by managing your environment variables
 projects:
   - acts_as_configurable
   - amberbit-config
