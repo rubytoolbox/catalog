@@ -1,5 +1,5 @@
 name: Encryption
-description:
+description: Hides sensitive information in the database by encrypting them, especially to prevent unauthorized access.
 projects:
   - attr_encrypted
   - crypt_keeper
