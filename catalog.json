@@ -361,6 +361,7 @@
             "job_reactor",
             "kr/beanstalkd",
             "later",
+            "legionio",
             "lowkiq",
             "navvy",
             "ncr/background-fu",
@@ -422,6 +423,7 @@
           "projects": [
             "clockwork",
             "latimes/craken",
+            "legionio",
             "que-scheduler",
             "recurrent",
             "resque-scheduler",
