@@ -85,4 +85,5 @@ projects:
   - webfinger
   - www-delicious
   - youtube_it
+  - zabbix-api-simple
   - zeus-api
