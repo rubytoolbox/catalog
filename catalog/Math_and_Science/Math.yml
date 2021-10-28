@@ -4,5 +4,6 @@ projects:
   - continued_fractions
   - integration
   - minimization
+  - nerd_dice
   - nmatrix
   - rb-gsl
