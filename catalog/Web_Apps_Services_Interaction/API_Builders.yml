@@ -4,6 +4,7 @@ projects:
   - active_model_serializers
   - acts_as_api
   - api-versions
+  - apia
   - apiary
   - bldr
   - blueprinter
@@ -17,6 +18,7 @@ projects:
   - mutils
   - nativeson
   - oj_serializers
+  - panko_serializer
   - rabl
   - representable
   - roar

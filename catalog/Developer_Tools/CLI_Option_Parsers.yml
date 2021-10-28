@@ -9,6 +9,7 @@ projects:
   - clap
   - cmdparse
   - cocaine
+  - command_kit
   - commander
   - config_parser
   - cri
