@@ -1147,7 +1147,6 @@
             "clamp",
             "clap",
             "cmdparse",
-            "cocaine",
             "command_kit",
             "commander",
             "config_parser",
@@ -1165,6 +1164,7 @@
             "quickl",
             "rationalist",
             "slop",
+            "terrapin",
             "trollop"
           ],
           "permalink": "CLI_Option_Parsers"
