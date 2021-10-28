@@ -10,6 +10,7 @@ projects:
   - bj
   - bunny
   - cloud-crowd
+  - delayed
   - delayed_job
   - delayed_job_active_record
   - frenzy_bunnies
