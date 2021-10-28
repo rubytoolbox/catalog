@@ -8,6 +8,7 @@ projects:
   - clamp
   - clap
   - cmdparse
+  - command_kit
   - commander
   - config_parser
   - cri
