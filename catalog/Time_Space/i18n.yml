@@ -1,6 +1,7 @@
 name: I18n
 description: 
 projects:
+  - accept_language
   - activerecord_translatable
   - ai/r18n
   - c3po

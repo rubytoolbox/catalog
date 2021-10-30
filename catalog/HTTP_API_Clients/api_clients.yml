@@ -82,8 +82,8 @@ projects:
   - vacuum
   - video_info
   - vimeo
-  - vk-ruby
   - webfinger
   - www-delicious
   - youtube_it
+  - zabbix-api-simple
   - zeus-api

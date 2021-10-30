@@ -17,6 +17,7 @@ projects:
   - inline_forms
   - lipsiadmin
   - mission_kontrol_relay
+  - motor-admin
   - puffer
   - qadmin
   - rails_admin

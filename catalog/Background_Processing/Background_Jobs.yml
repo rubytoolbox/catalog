@@ -10,15 +10,18 @@ projects:
   - bj
   - bunny
   - cloud-crowd
+  - delayed
   - delayed_job
   - delayed_job_active_record
   - frenzy_bunnies
   - girl_friday
   - gnufied/backgroundrb
+  - good_job
   - jnstq/job_fu
   - job_reactor
   - kr/beanstalkd
   - later
+  - legionio
   - lowkiq
   - navvy
   - ncr/background-fu

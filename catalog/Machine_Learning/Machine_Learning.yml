@@ -1,0 +1,4 @@
+name: Machine Learning
+description: Libraries and Frameworks to train and apply machine learning models to general problems
+projects:
+  - rumale

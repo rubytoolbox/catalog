@@ -3,6 +3,7 @@ description: Frameworks for writing automated tests for your software
 projects:
   - assert
   - bacon
+  - brutal
   - detest
   - dtf
   - fix

@@ -4,9 +4,11 @@ projects:
   - adamwiggins/rifgraf
   - apexcharts
   - chartkick
+  - charty
   - gchart
   - gchartrb
   - gnuplot
+  - gnuplotr
   - gnuplotrb
   - google_charts
   - google_visualr
@@ -15,11 +17,16 @@ projects:
   - gruff
   - highcharts-rails
   - lazy_high_charts
+  - matplotlib
   - numo-gnuplot
   - numplot
+  - nyaplot
   - ofc2
+  - plotlyrb
   - pullmonkey/open_flash_chart
+  - rbplotly
   - rchart
+  - ruby-gr
   - rubyplot
   - rubyvis
   - scbi_plot
@@ -29,3 +36,4 @@ projects:
   - squid
   - technical_graph
   - triangle_pattern
+  - vega
