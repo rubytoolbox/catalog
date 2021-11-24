@@ -6,6 +6,7 @@ projects:
   - backburner
   - backgrounded
   - barttenbrinke/worker_queue
+  - beaneater
   - beetle
   - bj
   - bunny
@@ -19,7 +20,6 @@ projects:
   - good_job
   - jnstq/job_fu
   - job_reactor
-  - kr/beanstalkd
   - later
   - legionio
   - lowkiq
