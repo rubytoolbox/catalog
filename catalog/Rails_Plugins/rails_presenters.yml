@@ -5,6 +5,7 @@ projects:
   - active_decorator
   - active_presenter
   - apotomo
+  - burgundy
   - cells
   - classic_presenter
   - dekorator
