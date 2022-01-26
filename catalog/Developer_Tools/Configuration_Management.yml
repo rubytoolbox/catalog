@@ -25,6 +25,7 @@ projects:
   - dotconfig
   - dotenv
   - dotenv-rails
+  - dry-configurable
   - dynamic_configuration
   - envied
   - envyable

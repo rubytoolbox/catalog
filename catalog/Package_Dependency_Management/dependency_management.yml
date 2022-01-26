@@ -8,6 +8,7 @@ projects:
   - bundler
   - checkzilla
   - cutting_edge
+  - dry-system
   - externals
   - gemrat
   - giternal
