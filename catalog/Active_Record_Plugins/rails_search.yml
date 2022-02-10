@@ -1,31 +1,15 @@
 name: Rails Search
 description: 
 projects:
-  - acts_as_ferret
-  - acts_as_fulltextable
-  - acts_as_indexed
-  - acts_as_solr
-  - acts_as_solr_reloaded
   - chewy
-  - delsolr
   - elasticsearch
-  - elasticsearch-rails
-  - elastictastic
   - ferret
   - pg_search
-  - redis-search
   - rsolr
   - ruby_simple_search
   - scoped_search
   - searchkick
   - searchlight
-  - slingshot-rb
-  - solr_query
   - sunspot
-  - sunspot_rails
-  - sunspot_solr
-  - texticle
   - thinking-sphinx
-  - tire
   - xapian_db
-  - xapit
