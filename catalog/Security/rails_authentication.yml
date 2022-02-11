@@ -22,3 +22,4 @@ projects:
   - technoweenie/restful-authentication
   - userbin
   - webauthn
+  - rodauth-oauth
