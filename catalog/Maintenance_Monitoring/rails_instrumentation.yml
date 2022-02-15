@@ -17,6 +17,7 @@ projects:
   - newrelic_rpm
   - nunes
   - peek
+  - prosopite
   - rack-bug
   - rack-insight
   - rackamole
