@@ -1,9 +1,10 @@
-name: Aeronautics
+name: Aviation
 description: Aviation data sources, flight tracking and so forth
 projects:
-  - aipp
+  - airac
   - aixm
   - fdc
   - flight
+  - notam
   - ogn_client-ruby
   - vfr_utils
