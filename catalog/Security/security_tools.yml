@@ -1,5 +1,5 @@
 name: Security Tools
-description: 
+description: Find and prevent security vulnerabilities with less effort
 projects:
   - active_model_otp
   - alpaca
