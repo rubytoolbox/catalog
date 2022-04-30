@@ -1,0 +1,12 @@
+name: Debuggers
+description: Allow user to view the execution state and data of another application as it's running
+projects:
+  - break
+  - byebug
+  - debase
+  - debugger
+  - google-cloud-debugger
+  - pry-debugger-jruby
+  - pry-nav
+  - pry_debug
+  - ruby-debug-base
