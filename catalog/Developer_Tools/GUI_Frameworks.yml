@@ -8,9 +8,9 @@ projects:
   - glimmer-dsl-libui
   - glimmer-dsl-swt
   - glimmer-dsl-tk
-  - gtk2
   - gtk3
   - libui
   - qtbindings
   - shoes
+  - tk
   - wxruby
