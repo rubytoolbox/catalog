@@ -7,7 +7,6 @@ projects:
   - golem_statemachine
   - micromachine
   - ruote
-  - statesman
   - simple_state_machine
   - simple_states
   - stamina
@@ -16,6 +15,7 @@ projects:
   - state_machines
   - state_objects
   - stateflow
+  - statesman
   - status-manager
   - transitions
   - workflow
