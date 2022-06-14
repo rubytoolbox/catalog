@@ -1,0 +1,4 @@
+name: Rails Tours
+description: Utilities to provided guided tours of the application
+projects:
+  - abraham
