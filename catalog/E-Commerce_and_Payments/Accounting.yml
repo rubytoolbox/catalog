@@ -1,0 +1,6 @@
+name: Accounting
+description:
+projects:
+  - double_entry
+  - keepr
+  - plutus
