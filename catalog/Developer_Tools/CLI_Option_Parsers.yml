@@ -7,6 +7,7 @@ projects:
   - cl
   - clamp
   - clap
+  - clint
   - cmdparse
   - command_kit
   - commander
