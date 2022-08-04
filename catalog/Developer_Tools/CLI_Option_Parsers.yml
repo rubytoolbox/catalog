@@ -2,6 +2,7 @@ name: Command Line Option Parsers
 description: Utilities to process arguments to terminal command line programs easily
 projects:
   - acclaim
+  - arg-parser
   - arg0
   - choice
   - cl
