@@ -13,10 +13,12 @@ projects:
   - elastictastic
   - ferret
   - pg_search
+  - ransack
   - redis-search
   - rsolr
   - ruby_simple_search
   - scoped_search
+  - search_cop
   - searchkick
   - searchlight
   - slingshot-rb
