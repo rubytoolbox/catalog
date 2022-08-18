@@ -9,6 +9,7 @@ projects:
   - checkzilla
   - cutting_edge
   - externals
+  - gel
   - gemrat
   - giternal
   - halorgium/gem_resolver
