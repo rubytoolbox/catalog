@@ -1,10 +1,11 @@
-name: Security Tools
-description: 
+name: Defensive Tools
+description: CLI tools and libraries that helps securing applications (protection, linter, fuzzer for unit tests, filtering, sandbox, static analysis, etc.)
 projects:
   - active_model_otp
   - alpaca
   - brakeman
   - codesake-dawn
+  - dawnscanner
   - gemfilelint
   - loofah
   - look/xss_terminate
