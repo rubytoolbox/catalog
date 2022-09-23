@@ -3423,7 +3423,8 @@
           "projects": [
             "json-jwt",
             "json_web_token",
-            "jwt"
+            "jwt",
+            "jwt_keeper"
           ],
           "permalink": "jwt"
         },
@@ -4109,6 +4110,7 @@
             "apartment",
             "consolo/acts_as_restricted_subdomain",
             "milia",
+            "multi-tenant-support",
             "multitenant",
             "multitenant-mysql",
             "multitenant-pg",
