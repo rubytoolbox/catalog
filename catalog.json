@@ -3494,7 +3494,8 @@
             "switch_user",
             "technoweenie/restful-authentication",
             "userbin",
-            "webauthn"
+            "webauthn",
+            "rodauth-oauth"
           ],
           "permalink": "rails_authentication"
         },
