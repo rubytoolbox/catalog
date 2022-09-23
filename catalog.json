@@ -2063,6 +2063,7 @@
           "description": null,
           "projects": [
             "bluecloth",
+            "commonmarker",
             "creole",
             "kramdown",
             "markdown_helper",
