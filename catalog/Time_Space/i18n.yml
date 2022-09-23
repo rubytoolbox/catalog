@@ -1,5 +1,5 @@
 name: I18n
-description: 
+description:
 projects:
   - accept_language
   - activerecord_translatable
@@ -48,3 +48,4 @@ projects:
   - to_lang
   - tr8n
   - traduction
+  - web_translate_it
