@@ -1540,6 +1540,7 @@
           "description": "Libraries that simplify the writing of command-line interfaces for your Ruby programs",
           "projects": [
             "boson",
+            "command_kit",
             "dry-cli",
             "lucie",
             "main",
@@ -2562,6 +2563,7 @@
             "newrelic_rpm",
             "nunes",
             "peek",
+            "prosopite",
             "rack-bug",
             "rack-insight",
             "rackamole",
@@ -3410,6 +3412,7 @@
             "state_machines",
             "state_objects",
             "stateflow",
+            "statesman",
             "status-manager",
             "transitions",
             "workflow"
@@ -3487,15 +3490,16 @@
             "letmein",
             "monban",
             "omniauth",
+            "passwordless",
             "rack-cas",
             "rodauth",
+            "rodauth-oauth",
             "rpx_now",
             "sorcery",
             "switch_user",
             "technoweenie/restful-authentication",
             "userbin",
-            "webauthn",
-            "rodauth-oauth"
+            "webauthn"
           ],
           "permalink": "rails_authentication"
         },
@@ -4027,7 +4031,8 @@
             "tater",
             "to_lang",
             "tr8n",
-            "traduction"
+            "traduction",
+            "web_translate_it"
           ],
           "permalink": "i18n"
         },
