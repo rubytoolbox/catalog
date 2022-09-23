@@ -1,5 +1,5 @@
 name: Configuration Management
-description:
+description: Configure your applications easily and securely
 projects:
   - acts_as_configurable
   - amberbit-config
