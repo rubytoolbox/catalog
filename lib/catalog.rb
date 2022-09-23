@@ -5,7 +5,7 @@ ENV["RACK_ENV"] ||= "development"
 require "pathname"
 require "yaml"
 require "bundler"
-Bundler.require :default, ENV["RACK_ENV"]
+Bundler.require :default, ENV.fetch("RACK_ENV", nil)
 
 class Catalog
   attr_accessor :root
@@ -21,7 +21,7 @@ class Catalog
 
   def as_json
     {
-      category_groups: category_groups,
+      category_groups:,
     }
   end
 
