@@ -19,5 +19,6 @@ projects:
   - pres
   - rails_presenter
   - resubject
+  - view_component
   - view_models
   - viewtastic
