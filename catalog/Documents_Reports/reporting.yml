@@ -24,6 +24,7 @@ projects:
   - dossier
   - dynamic_reports
   - excel_rails
+  - fast_excel
   - gnumeric
   - goffice
   - google-spreadsheet-ruby
