@@ -1148,11 +1148,13 @@
           "description": "Utilities to process arguments to terminal command line programs easily",
           "projects": [
             "acclaim",
+            "arg-parser",
             "arg0",
             "choice",
             "cl",
             "clamp",
             "clap",
+            "clint",
             "cmdparse",
             "command_kit",
             "commander",
