@@ -3402,7 +3402,7 @@
       "categories": [
         {
           "name": "Encryption",
-          "description": null,
+          "description": "Libraries for encryption and decryption of data to help in preventing unauthorized access",
           "projects": [
             "attr_encrypted",
             "crypt_keeper",
