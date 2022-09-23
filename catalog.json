@@ -2299,7 +2299,8 @@
             "www-delicious",
             "youtube_it",
             "zabbix-api-simple",
-            "zeus-api"
+            "zeus-api",
+            "zoho_sign"
           ],
           "permalink": "api_clients"
         }
@@ -3350,6 +3351,7 @@
             "pres",
             "rails_presenter",
             "resubject",
+            "view_component",
             "view_models",
             "viewtastic"
           ],
