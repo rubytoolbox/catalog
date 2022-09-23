@@ -1281,6 +1281,7 @@
           "description": null,
           "projects": [
             "deprecated",
+            "deprecation_toolkit",
             "structured_warnings"
           ],
           "permalink": "Deprecation_Tools"
