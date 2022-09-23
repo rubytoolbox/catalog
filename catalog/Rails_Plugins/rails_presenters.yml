@@ -5,6 +5,7 @@ projects:
   - active_decorator
   - active_presenter
   - apotomo
+  - burgundy
   - cells
   - classic_presenter
   - dekorator
@@ -18,5 +19,6 @@ projects:
   - pres
   - rails_presenter
   - resubject
+  - view_component
   - view_models
   - viewtastic

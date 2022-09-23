@@ -3,7 +3,7 @@ description:  Libraries that simplify the writing of command-line interfaces for
 projects:
   - boson
   - command_kit
-  - hanami-cli
+  - dry-cli
   - lucie
   - main
   - rake

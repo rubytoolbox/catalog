@@ -3,6 +3,7 @@ description:
 projects:
   - active_model_serializers
   - acts_as_api
+  - alba
   - api-versions
   - apia
   - apiary
