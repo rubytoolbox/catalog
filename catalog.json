@@ -1791,6 +1791,29 @@
     {
       "categories": [
         {
+          "name": "Accounting",
+          "description": null,
+          "projects": [
+            "double_entry",
+            "keepr",
+            "plutus"
+          ],
+          "permalink": "Accounting"
+        },
+        {
+          "name": "Money, Currencies, Exchange Rates",
+          "description": null,
+          "projects": [
+            "eu_central_bank",
+            "latinum",
+            "monetize",
+            "money",
+            "money-currencylayer-bank",
+            "money-openexchangerates-bank"
+          ],
+          "permalink": "Money_Currencies"
+        },
+        {
           "name": "Payments",
           "description": null,
           "projects": [
@@ -1834,8 +1857,6 @@
             "carter",
             "drhenner/ror_ecommerce",
             "invoicing",
-            "money-currencylayer-bank",
-            "money-openexchangerates-bank",
             "nimbleshop",
             "radiant-shop-extension",
             "shippinglogic",
@@ -3218,6 +3239,15 @@
             "rails-erd"
           ],
           "permalink": "Rails_Class_Diagrams"
+        },
+        {
+          "name": "Rails Money, Currencies, Exchange Rates",
+          "description": null,
+          "projects": [
+            "acts_as_account",
+            "money-rails"
+          ],
+          "permalink": "Rails_Money_Currencies"
         },
         {
           "name": "Recommendation Engines",
