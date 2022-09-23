@@ -2,6 +2,7 @@ name: Aeronautics
 description: Aviation data sources, flight tracking and so forth
 projects:
   - aipp
+  - airac
   - aixm
   - fdc
   - flight
