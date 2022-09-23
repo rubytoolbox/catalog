@@ -17,10 +17,10 @@ projects:
   - passwordless
   - rack-cas
   - rodauth
+  - rodauth-oauth
   - rpx_now
   - sorcery
   - switch_user
   - technoweenie/restful-authentication
   - userbin
   - webauthn
-  - rodauth-oauth
