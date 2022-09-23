@@ -603,7 +603,8 @@
             "skunk",
             "snuffle",
             "tailor",
-            "thoughtbot/report_card"
+            "thoughtbot/report_card",
+            "yalphabetize"
           ],
           "permalink": "code_metrics"
         },
