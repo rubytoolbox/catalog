@@ -15,6 +15,7 @@ projects:
   - state_machines
   - state_objects
   - stateflow
+  - statesman
   - status-manager
   - transitions
   - workflow
