@@ -16,7 +16,7 @@ projects:
   - komponent
   - meta_presenter
   - oprah
-  - phlex
+  - phlex-rails
   - pres
   - rails_presenter
   - resubject
