@@ -3,3 +3,4 @@ description: How to handle data migration when the database schema is changed
 projects:
   - data_migrate
   - migration_data
+  - actual_db_schema
