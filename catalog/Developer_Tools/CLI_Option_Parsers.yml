@@ -15,6 +15,7 @@ projects:
   - config_parser
   - cri
   - docopt
+  - docopt-compgen
   - getopt
   - getoptions
   - gli
