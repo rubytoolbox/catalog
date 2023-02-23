@@ -28,3 +28,7 @@ projects:
   - queso/ym4r-gm
   - rgdal
   - rgeo
+  - timezone
+  - timezone_finder
+  - tzf
+  - wheretz
