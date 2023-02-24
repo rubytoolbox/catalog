@@ -15,6 +15,7 @@ projects:
   - machined
   - middleman
   - nanoc
+  - octopress
   - ruhoh
   - sitepress
   - stasis
