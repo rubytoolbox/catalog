@@ -9,6 +9,7 @@ projects:
   - deplot
   - dynamicmatic
   - frank
+  - frontman-ssg
   - high_voltage
   - jekyll
   - korma
