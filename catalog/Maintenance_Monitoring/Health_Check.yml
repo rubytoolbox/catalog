@@ -1,12 +1,12 @@
 name: Health Check
 description:
   projects:
-    - okcomputer
     - health_bit
-    - status_cat
     - health_check
-    - healthcheck
     - health_checker
+    - healthcheck
     - healthcheck_rails
-    - sinatra-health-check
+    - okcomputer
     - rx-healthcheck
+    - sinatra-health-check
+    - status_cat
