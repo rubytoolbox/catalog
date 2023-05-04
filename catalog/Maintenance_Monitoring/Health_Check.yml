@@ -1,0 +1,12 @@
+name: Health Check
+description:
+  projects:
+    - okcomputer
+    - health_bit
+    - status_cat
+    - health_check
+    - healthcheck
+    - health_checker
+    - healthcheck_rails
+    - sinatra-health-check
+    - rx-healthcheck
