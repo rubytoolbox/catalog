@@ -4,3 +4,4 @@ projects:
   - cells
   - dry-view
   - hanami-view
+  - phlex
