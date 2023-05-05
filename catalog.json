@@ -1174,6 +1174,8 @@
             "config_parser",
             "cri",
             "docopt",
+            "dry-cli",
+            "dry-cli-completion",
             "getopt",
             "getoptions",
             "gli",
