@@ -16,6 +16,8 @@ projects:
   - cri
   - docopt
   - docopt-compgen
+  - dry-cli
+  - dry-cli-completion
   - getopt
   - getoptions
   - gli
@@ -23,6 +25,7 @@ projects:
   - methadone
   - micro-optparse
   - mixlib-cli
+  - optimist
   - OptionParser
   - optitron
   - quickl
