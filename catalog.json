@@ -3612,7 +3612,7 @@
             "active_model_otp",
             "alpaca",
             "brakeman",
-            "codesake-dawn",
+            "dawnscanner",
             "gemfilelint",
             "loofah",
             "look/xss_terminate",
