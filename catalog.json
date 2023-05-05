@@ -551,7 +551,8 @@
           "projects": [
             "cells",
             "dry-view",
-            "hanami-view"
+            "hanami-view",
+            "phlex"
           ],
           "permalink": "View_Objects"
         }
@@ -3444,6 +3445,7 @@
             "komponent",
             "meta_presenter",
             "oprah",
+            "phlex-rails",
             "pres",
             "rails_presenter",
             "resubject",
