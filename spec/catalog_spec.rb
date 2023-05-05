@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require "pp"
 require "tempfile"
 require "rubygems"
 require "rubygems/remote_fetcher"
@@ -39,16 +38,16 @@ RSpec.describe Catalog do
 
   describe "referenced rubygems" do
     let(:published_gems) do
-      ::Gem::Source.new("https://rubygems.org")
-                   .load_specs(:latest)
-                   .map(&:name)
+      Gem::Source.new("https://rubygems.org")
+                 .load_specs(:latest)
+                 .map(&:name)
     end
 
     let(:prerelease_gems) do
-      ::Gem::Source.new("https://rubygems.org")
-                   .load_specs(:prerelease)
-                   .map(&:name)
-                   .uniq
+      Gem::Source.new("https://rubygems.org")
+                 .load_specs(:prerelease)
+                 .map(&:name)
+                 .uniq
     end
 
     let(:available_gems) do
