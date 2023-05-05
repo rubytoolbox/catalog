@@ -1171,6 +1171,7 @@
             "methadone",
             "micro-optparse",
             "mixlib-cli",
+            "optimist",
             "OptionParser",
             "optitron",
             "quickl",
