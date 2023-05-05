@@ -1035,6 +1035,7 @@
           "name": "Data Migration",
           "description": "How to handle data migration when the database schema is changed",
           "projects": [
+            "actual_db_schema",
             "data_migrate",
             "migration_data"
           ],
@@ -1174,6 +1175,7 @@
             "config_parser",
             "cri",
             "docopt",
+            "docopt-compgen",
             "dry-cli",
             "dry-cli-completion",
             "getopt",
