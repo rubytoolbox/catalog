@@ -4,6 +4,7 @@ projects:
   - adauth
   - authlogic
   - authorizme
+  - authentication-zero
   - clearance
   - current_user
   - cz_auth
