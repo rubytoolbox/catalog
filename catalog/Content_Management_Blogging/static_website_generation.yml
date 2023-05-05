@@ -11,6 +11,7 @@ projects:
   - dynamicmatic
   - fcambus/motyl
   - frank
+  - frontman-ssg
   - gerablog
   - high_voltage
   - jekyll
