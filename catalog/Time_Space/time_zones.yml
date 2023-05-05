@@ -1,0 +1,7 @@
+name: Time Zones
+description: 
+projects:
+  - timezone
+  - timezone_finder
+  - tzf
+  - wheretz
