@@ -1,6 +1,6 @@
 name: Data Migration
 description: How to handle data migration when the database schema is changed
 projects:
+  - actual_db_schema
   - data_migrate
   - migration_data
-  - actual_db_schema
