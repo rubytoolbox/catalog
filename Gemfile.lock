@@ -131,7 +131,7 @@ DEPENDENCIES
   simplecov
 
 RUBY VERSION
-   ruby 3.1.2p20
+   ruby 3.2.2p53
 
 BUNDLED WITH
-   2.3.22
+   2.4.12
