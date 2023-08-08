@@ -1,0 +1,8 @@
+name: Finance
+description: Projects related to finance, and the analysis and calculation of money
+projects:
+  - finance
+  - finrb
+  - finance_math
+  - exonio
+  - finance_rb
