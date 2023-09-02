@@ -1,12 +1,12 @@
-name: Health Check
-description:
-  projects:
-    - health_bit
-    - health_check
-    - health_checker
-    - healthcheck
-    - healthcheck_rails
-    - okcomputer
-    - rx-healthcheck
-    - sinatra-health-check
-    - status_cat
+name: Health Checks
+description: Easing the setup of uptime health checks for your applications that can be used for monitoring and deployment automation
+projects:
+  - health_bit
+  - health_check
+  - health_checker
+  - healthcheck
+  - healthcheck_rails
+  - okcomputer
+  - rx-healthcheck
+  - sinatra-health-check
+  - status_cat
