@@ -26,6 +26,7 @@ projects:
   - raptor
   - renee
   - roda
+  - rodbot
   - scorched
   - sinatra
   - strelka
