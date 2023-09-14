@@ -1,8 +1,7 @@
-name: Debugger
+name: Debuggers
 description: A debugger permits the ability to understand what is going on inside a program while it executes
 projects:
    - byebug
    - debug
    - debugger
-   - debugger2
    - pry-byebug
