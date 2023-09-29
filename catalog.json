@@ -1387,7 +1387,6 @@
             "hashie",
             "hashy",
             "named-parameters",
-            "optionalargument",
             "pluginfactory",
             "powerpack",
             "rearmed",
@@ -2137,7 +2136,6 @@
             "html-schema",
             "microformats_helper",
             "mofo",
-            "prism",
             "schema_dot_org"
           ],
           "permalink": "microformats"
