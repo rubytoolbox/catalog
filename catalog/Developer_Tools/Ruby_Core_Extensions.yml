@@ -14,7 +14,6 @@ projects:
   - hashie
   - hashy
   - named-parameters
-  - optionalargument
   - pluginfactory
   - powerpack
   - rearmed
