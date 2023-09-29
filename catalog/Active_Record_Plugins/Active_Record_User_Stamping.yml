@@ -1,5 +1,5 @@
 name: Active Record User Stamping
-description:
+description: Easily store the user identifiers for the creator and last updater of a record.
 projects:
   - acts_as_audited
   - ar-audit-tracer
