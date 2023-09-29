@@ -4361,6 +4361,7 @@
             "nokogiri",
             "oga",
             "ox",
+            "rubyful_soup",
             "scrapi",
             "scrubyt",
             "xml-motor"
