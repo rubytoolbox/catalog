@@ -3,7 +3,7 @@ description:
 projects:
   - blogit
   - governor
-  - imathis/octopress
+  - octopress/octopress
   - picco_blog
   - refinerycms-blog
   - serious

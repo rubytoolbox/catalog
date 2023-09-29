@@ -1,5 +1,5 @@
 name: Active Record Value Cleanup
-description: 
+description: Keep data consistent, valid, and formatted.
 projects:
   - attribute_extras
   - attribute_normalizer

@@ -1,5 +1,5 @@
 name: Rails Search
-description: 
+description: Integrate intelligent search options.
 projects:
   - acts_as_ferret
   - acts_as_fulltextable

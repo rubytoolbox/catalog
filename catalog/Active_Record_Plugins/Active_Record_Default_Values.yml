@@ -1,5 +1,5 @@
 name: Active Record Default Values
-description: 
+description: Use default fallback values for ActiveRecord models.
 projects:
   - active_record_defaults
   - default_value_for

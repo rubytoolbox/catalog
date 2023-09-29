@@ -7,17 +7,26 @@ projects:
   - bridgetown-core
   - brochure
   - deplot
+  - dimples
   - dynamicmatic
+  - fcambus/motyl
   - frank
+  - frontman-ssg
+  - gerablog
   - high_voltage
   - jekyll
   - korma
   - machined
   - middleman
   - nanoc
+  - octopress
+  - photish
   - ruhoh
   - sitepress
   - stasis
   - staticmatic
+  - usmu
+  - weaver
   - webby
   - webgen
+  

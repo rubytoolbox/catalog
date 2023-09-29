@@ -9,6 +9,7 @@ projects:
   - apiary
   - bldr
   - blueprinter
+  - blueprinter-rb
   - cache_crispies
   - fast_jsonapi
   - grape
