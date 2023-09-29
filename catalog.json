@@ -3888,6 +3888,7 @@
             "facon",
             "flexmock",
             "jm/stump",
+            "minitest-substitute",
             "mocha",
             "mock_redis",
             "mocoso",
