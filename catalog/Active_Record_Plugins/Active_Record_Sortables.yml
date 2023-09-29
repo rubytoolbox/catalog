@@ -1,5 +1,5 @@
 name: Active Record Sortables
-description:
+description: Simplify the sorting order of records in a database table.
 projects:
   - acts_as_list
   - acts_as_restful_list
