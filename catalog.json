@@ -1896,6 +1896,18 @@
             "spree"
           ],
           "permalink": "e_commerce"
+        },
+        {
+          "name": "Finance",
+          "description": "Projects related to finance, and the analysis and calculation of money",
+          "projects": [
+            "exonio",
+            "finance",
+            "finance_math",
+            "finance_rb",
+            "finrb"
+          ],
+          "permalink": "finance"
         }
       ],
       "description": null,
