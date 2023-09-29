@@ -31,7 +31,7 @@ RSpec.describe Catalog do
     describe "Category #{category['name'].inspect}" do
       it "defines all projects in alphabetical order" do
         expected_order = category["projects"].sort_by(&:downcase)
-        expect(category["projects"]).to be == expected_order
+        expect(category["projects"]).to eq expected_order
       end
     end
   end
@@ -63,7 +63,7 @@ RSpec.describe Catalog do
     end
 
     it "references only actually existing gems" do
-      expect(referenced_gems - available_gems).to be == []
+      expect(referenced_gems - available_gems).to eq []
     end
   end
 end
