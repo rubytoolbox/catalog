@@ -138,7 +138,7 @@
         },
         {
           "name": "Active Record Sortables",
-          "description": null,
+          "description": "Simplify the sorting order of records in a database table.",
           "projects": [
             "acts_as_list",
             "acts_as_restful_list",
@@ -162,7 +162,7 @@
         },
         {
           "name": "Active Record User Stamping",
-          "description": null,
+          "description": "Easily store the user identifiers for the creator and last updater of a record.",
           "projects": [
             "acts_as_audited",
             "ar-audit-tracer",
@@ -176,7 +176,7 @@
         },
         {
           "name": "Active Record Value Cleanup",
-          "description": null,
+          "description": "Keep data consistent, valid, and formatted.",
           "projects": [
             "attribute_extras",
             "attribute_normalizer",
@@ -239,7 +239,7 @@
         },
         {
           "name": "Rails Comments",
-          "description": null,
+          "description": "Add comments functionality to any ruby website.",
           "projects": [
             "acts_as_commentable",
             "commontator",
@@ -253,7 +253,7 @@
         },
         {
           "name": "Rails DB Bootstrapping",
-          "description": null,
+          "description": "Easily insert and maintain seed data in the database.",
           "projects": [
             "dibber",
             "ffmike/db-populate",
@@ -268,7 +268,7 @@
         },
         {
           "name": "Rails Ratings",
-          "description": null,
+          "description": "Add ratings feature for any rails app.",
           "projects": [
             "acts-as-rated",
             "acts_as_rateable",
@@ -284,7 +284,7 @@
         },
         {
           "name": "Rails Search",
-          "description": null,
+          "description": "Integrate intelligent search options.",
           "projects": [
             "acts_as_ferret",
             "acts_as_fulltextable",
@@ -322,7 +322,7 @@
         },
         {
           "name": "Rails Tagging",
-          "description": null,
+          "description": "Extend tags functionality for any rails app.",
           "projects": [
             "acts-as-taggable-array-on",
             "acts-as-taggable-on",
