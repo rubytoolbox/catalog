@@ -1,0 +1,7 @@
+name: Kubernetes
+description:
+projects:
+  - k8s-client
+  - k8s-ruby
+  - kubeclient
+  - kubernetes-client/ruby
