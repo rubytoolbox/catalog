@@ -4,6 +4,7 @@ projects:
   - acclaim
   - arg-parser
   - arg0
+  - bales
   - choice
   - cl
   - clamp

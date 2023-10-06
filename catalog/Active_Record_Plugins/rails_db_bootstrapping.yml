@@ -1,5 +1,5 @@
 name: Rails DB Bootstrapping
-description: 
+description: Easily insert and maintain seed data in the database.
 projects:
   - dibber
   - ffmike/db-populate
