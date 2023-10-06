@@ -6,9 +6,11 @@
 # Additional cops for working with RSpec. See https://github.com/backus/rubocop-rspec
 require:
   - rubocop-performance
+  - rubocop-rake
   - rubocop-rspec
 
 AllCops:
+  NewCops: enable
   Exclude:
     - 'tmp/**/*.rb'
     # See https://qiita.com/ozhaan/items/40ea864757162e931be1

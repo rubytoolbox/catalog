@@ -1,16 +1,20 @@
-name: Encryption
-description:
+name: Encryption & Cryptography
+description: Libraries for encryption, decryption, hashing and key derivation
 projects:
+  - argon2
+  - argon2-kdf
   - attr_encrypted
+  - bcrypt
   - crypt_keeper
   - encrypted_strings
-  - jamesotron/Lockbox
   - jmckible/lucifer
+  - liboqs
   - lockbox
   - miscreant
   - mongoid-encrypted-fields
   - pkcs11
   - rbnacl
+  - scrypt
   - sentry
   - strongbox
   - symmetric-encryption

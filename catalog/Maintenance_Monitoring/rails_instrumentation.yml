@@ -7,6 +7,7 @@ projects:
   - bullet
   - dashing
   - dashing-rails
+  - dry-monitor
   - fnordmetric
   - fozzie
   - fozzie_rails
@@ -17,7 +18,7 @@ projects:
   - newrelic_rpm
   - nunes
   - peek
-  - query_trace
+  - prosopite
   - rack-bug
   - rack-insight
   - rackamole

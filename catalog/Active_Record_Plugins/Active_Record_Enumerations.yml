@@ -14,3 +14,4 @@ projects:
   - enumify
   - power_enum
   - simple_enum
+  - str_enum

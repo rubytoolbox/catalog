@@ -2,17 +2,23 @@ name: Command Line Option Parsers
 description: Utilities to process arguments to terminal command line programs easily
 projects:
   - acclaim
+  - arg-parser
   - arg0
+  - bales
   - choice
   - cl
   - clamp
   - clap
+  - clint
   - cmdparse
-  - cocaine
+  - command_kit
   - commander
   - config_parser
   - cri
   - docopt
+  - docopt-compgen
+  - dry-cli
+  - dry-cli-completion
   - getopt
   - getoptions
   - gli
@@ -20,9 +26,11 @@ projects:
   - methadone
   - micro-optparse
   - mixlib-cli
+  - optimist
   - OptionParser
   - optitron
   - quickl
   - rationalist
   - slop
+  - terrapin
   - trollop

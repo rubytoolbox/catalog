@@ -1,11 +1,16 @@
 name: GUI Frameworks
-description:
+description: Graphical User Interface Frameworks for Desktop Application Development
 projects:
   - ffi-tk
   - flammarion
   - fxruby
+  - glimmer
+  - glimmer-dsl-libui
+  - glimmer-dsl-swt
+  - glimmer-dsl-tk
   - gtk2
   - gtk3
+  - libui
   - qtbindings
   - shoes
   - wxruby

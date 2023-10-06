@@ -1,6 +1,7 @@
 name: I18n
-description: 
+description:
 projects:
+  - accept_language
   - activerecord_translatable
   - ai/r18n
   - c3po
@@ -43,6 +44,8 @@ projects:
   - ready_for_i18n
   - route_translator
   - talk_like_a_pirate
+  - tater
   - to_lang
   - tr8n
   - traduction
+  - web_translate_it

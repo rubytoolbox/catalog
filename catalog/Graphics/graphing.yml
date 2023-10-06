@@ -4,24 +4,37 @@ projects:
   - adamwiggins/rifgraf
   - apexcharts
   - chartkick
+  - charty
   - gchart
   - gchartrb
+  - gnuplot
+  - gnuplotr
+  - gnuplotrb
+  - google_charts
   - google_visualr
   - googlecharts
   - graphite-api
   - gruff
   - highcharts-rails
-  - michelson/lazy_high_charts
+  - lazy_high_charts
+  - matplotlib
+  - numo-gnuplot
+  - numplot
+  - nyaplot
   - ofc2
+  - plotlyrb
   - pullmonkey/open_flash_chart
+  - rbplotly
   - rchart
-  - rdp/ruby_gnuplot
+  - ruby-gr
   - rubyplot
   - rubyvis
-  - rudionrails/google_charts
+  - scbi_plot
   - scruffy
   - seer
   - sparklines
   - squid
   - technical_graph
+  - triangle_pattern
+  - vega
   - xaviershay/tufte-graph

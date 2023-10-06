@@ -3,24 +3,44 @@ description: Tools for parsing spreadsheets and creating reports in multiple for
 projects:
   - activeadmin-axlsx
   - acts_as_xlsx
-  - axlsx 
+  - axlsx
   - axlsx_rails
+  - caxlsx
+  - caxlsx_rails
+  - chupa-text-decomposer-libreoffice
+  - chupa-text-decomposer-libreoffice-excel
+  - chupa-text-decomposer-libreoffice-general
+  - chupa-text-decomposer-libreoffice-office-open-xml-document
+  - chupa-text-decomposer-libreoffice-office-open-xml-presentation
+  - chupa-text-decomposer-libreoffice-office-open-xml-workbook
+  - chupa-text-decomposer-libreoffice-opendocument-presentation
+  - chupa-text-decomposer-libreoffice-opendocument-spreadsheet
+  - chupa-text-decomposer-libreoffice-opendocument-text
+  - chupa-text-decomposer-libreoffice-powerpoint
+  - chupa-text-decomposer-libreoffice-word
   - compendium
   - creek
+  - documatic
   - dossier
   - dynamic_reports
   - excel_rails
+  - fast_excel
   - gnumeric
   - goffice
   - google-spreadsheet-ruby
   - mk/reports_as_sparkline
   - mondrian-olap
+  - netoctone/rubiod
   - odf-report
+  - odf-spreadsheet
+  - odt2html
+  - odt2html-nsi
   - oxcelix
   - remote_table
   - reportable
   - reports_kit
   - robust_excel_ole
+  - rodf
   - rods
   - roo
   - rspreadsheet
@@ -39,4 +59,5 @@ projects:
   - wrap_excel
   - write_xlsx
   - write_xlsx_rails
-  - xlsx
+  - xlsx_drone
+  - xsv

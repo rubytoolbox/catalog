@@ -29,7 +29,7 @@ guard :bundler do
   files.each { |file| watch(helper.real_path(file)) }
 end
 
-# Note: The cmd option is now required due to the increasing number of ways
+# NOTE: The cmd option is now required due to the increasing number of ways
 #       rspec may be run, below are examples of the most common uses.
 #  * bundler: 'bundle exec rspec'
 #  * bundler binstubs: 'bin/rspec'
@@ -87,7 +87,7 @@ rubocop_cli_args = []
 
 if ENV["AUTOCORRECT"]
   puts "*" * 80, "Rubocop auto-correct mode enabled", "*" * 80
-  rubocop_cli_args << "--auto-correct"
+  rubocop_cli_args << "--auto-correct-all"
 else
   puts "*" * 80
   puts "You can set Rubocop to auto-correct fixable offenses by setting ENV['AUTOCORRECT']"

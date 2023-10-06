@@ -1,0 +1,7 @@
+name: Strings
+description: String tools for manipulation, decoding, encoding, verifying, generation, letter case, etc.
+projects:
+  - jaro_winkler
+  - lucky_case
+  - numerizer
+  - sanitize

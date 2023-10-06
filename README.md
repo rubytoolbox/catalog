@@ -1,4 +1,4 @@
-# Ruby Toolbox Catalog [![Build Status](https://travis-ci.org/rubytoolbox/catalog.svg?branch=master)](https://travis-ci.org/rubytoolbox/catalog)
+# Ruby Toolbox Catalog [![CI](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml/badge.svg)](https://github.com/rubytoolbox/catalog/actions/workflows/ci.yml)
 
 Welcome to the [Ruby Toolbox][rubytoolbox] catalog!
 
@@ -7,6 +7,17 @@ open source projects and is based on a database dump of [the old Ruby Toolbox
 site][issue-1].
 
 You can find the current exported catalog at https://rubytoolbox.github.io/catalog
+
+## Catalog guidelines
+
+* Our general policy about unmaintained libraries is to keep them in the catalog,
+  even if a maintained fork exists. The rationale behind this is that even if a library
+  may be unmaintained, it could still be functional or at least useful when researching
+  options and maybe the original code can still provide some ideas for potential future maintainers
+  or new approaches to the same problem.
+* Categories should have at least 2 entries - if you cannot find an existing category
+  for a library, that's fine, feel free to add one, but please find at least one other
+  gem that tries to solve the same problem
 
 ## Contributing
 

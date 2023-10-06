@@ -1,0 +1,9 @@
+name: Money, Currencies, Exchange Rates
+description:
+projects:
+  - eu_central_bank
+  - latinum
+  - monetize
+  - money
+  - money-currencylayer-bank
+  - money-openexchangerates-bank

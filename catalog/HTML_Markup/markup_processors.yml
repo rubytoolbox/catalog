@@ -2,6 +2,7 @@ name: Markup processors
 description: 
 projects:
   - bluecloth
+  - commonmarker
   - creole
   - kramdown
   - markdown_helper

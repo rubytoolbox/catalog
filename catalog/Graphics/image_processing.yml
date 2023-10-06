@@ -5,6 +5,7 @@ projects:
   - chunky_png
   - core_image
   - devil
+  - dhash-vips
   - fabien/im_magick
   - image_science
   - image_sorcery
@@ -17,4 +18,5 @@ projects:
   - paperclip-optimizer
   - rmagick
   - rsvg2
+  - ruby-vips
   - skeptick

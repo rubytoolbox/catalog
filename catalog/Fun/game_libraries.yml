@@ -1,5 +1,5 @@
 name: Game libraries
-description:
+description: Useful Ruby game-development-related libraries
 projects:
   - chingu
   - chipmunk
@@ -17,6 +17,7 @@ projects:
   - LiteRGSS
   - metro
   - minigl
+  - nerd_dice
   - opengl
   - opengl-bindings
   - opengl-definitions

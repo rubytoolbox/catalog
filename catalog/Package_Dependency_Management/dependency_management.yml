@@ -7,7 +7,10 @@ projects:
   - brewdler
   - bundler
   - checkzilla
+  - cutting_edge
+  - dry-system
   - externals
+  - gel
   - gemrat
   - giternal
   - halorgium/gem_resolver

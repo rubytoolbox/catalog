@@ -8,12 +8,16 @@ projects:
   - admin_data
   - admin_interface
   - administrate
+  - avo
   - commondream/control_center
   - dry_crud
   - forest_liana
-  - fullstack-admin
+  - fullstack-admin   
+  - godmin
   - inline_forms
   - lipsiadmin
+  - mission_kontrol_relay
+  - motor-admin
   - puffer
   - qadmin
   - rails_admin

@@ -2,6 +2,7 @@ name: Web Authentication
 description: Handle the authentication of users in web applications written in frameworks like Rails
 projects:
   - adauth
+  - authentication-zero
   - authlogic
   - authorizme
   - clearance
@@ -14,8 +15,10 @@ projects:
   - letmein
   - monban
   - omniauth
+  - passwordless
   - rack-cas
   - rodauth
+  - rodauth-oauth
   - rpx_now
   - sorcery
   - switch_user

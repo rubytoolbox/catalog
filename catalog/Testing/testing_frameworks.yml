@@ -3,6 +3,7 @@ description: Frameworks for writing automated tests for your software
 projects:
   - assert
   - bacon
+  - brutal
   - detest
   - dtf
   - fix
@@ -15,8 +16,9 @@ projects:
   - rubydoctest
   - shindo
   - test-unit
-  - test_inline
   - testrocket
   - testy
   - wrong
   - yard-doctest
+  - yard-minitest
+  - yard-rspec

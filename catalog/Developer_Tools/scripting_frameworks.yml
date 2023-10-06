@@ -2,7 +2,8 @@ name: Scripting Frameworks
 description:  Libraries that simplify the writing of command-line interfaces for your Ruby programs
 projects:
   - boson
-  - hanami-cli
+  - command_kit
+  - dry-cli
   - lucie
   - main
   - rake

@@ -26,7 +26,6 @@ projects:
   - fql
   - freshbooks
   - freshbooks.rb
-  - freshbooks2
   - gibbon
   - github_api
   - gnip-rule
@@ -83,8 +82,10 @@ projects:
   - vacuum
   - video_info
   - vimeo
-  - vk-ruby
   - webfinger
   - www-delicious
+  - x
   - youtube_it
+  - zabbix-api-simple
   - zeus-api
+  - zoho_sign

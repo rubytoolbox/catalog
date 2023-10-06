@@ -1,0 +1,8 @@
+name: Avatars
+description: Tools to generate and display user avatars
+projects:
+  - avatarly
+  - initials
+  - jekyll-avatar
+  - letter_avatar
+

@@ -17,6 +17,8 @@ group :development, :test do
 end
 
 group :development do
+  gem "bundler-audit", require: false
+
   gem "guard-bundler", require: false
   gem "guard-rspec", require: false
   gem "guard-rubocop", require: false
@@ -25,5 +27,6 @@ group :development do
 
   gem "rubocop", require: false
   gem "rubocop-performance", require: false
+  gem "rubocop-rake", require: false
   gem "rubocop-rspec", require: false
 end

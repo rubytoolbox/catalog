@@ -3,16 +3,24 @@ description:
 projects:
   - active_model_serializers
   - acts_as_api
+  - alba
   - api-versions
+  - apia
   - apiary
   - bldr
+  - blueprinter
+  - blueprinter-rb
   - cache_crispies
   - fast_jsonapi
   - grape
   - grapethor
   - jb
   - jbuilder
+  - jsonapi-serializer
+  - mutils
   - nativeson
+  - oj_serializers
+  - panko_serializer
   - rabl
   - representable
   - roar

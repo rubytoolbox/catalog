@@ -7,16 +7,19 @@ projects:
   - cuba
   - e
   - gin
+  - goliath
   - hanami
   - harbor
   - hobo
   - lattice
   - marley
   - merb-core
+  - nyny
   - padrino
   - pakyow
   - plezi
   - rack
+  - rack-app
   - rails
   - ramaze
   - rango

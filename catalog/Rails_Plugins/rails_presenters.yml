@@ -5,8 +5,10 @@ projects:
   - active_decorator
   - active_presenter
   - apotomo
+  - burgundy
   - cells
   - classic_presenter
+  - dekorator
   - delegate_presenter
   - display_case
   - draper
@@ -14,7 +16,10 @@ projects:
   - komponent
   - meta_presenter
   - oprah
+  - phlex-rails
+  - pres
   - rails_presenter
   - resubject
+  - view_component
   - view_models
   - viewtastic

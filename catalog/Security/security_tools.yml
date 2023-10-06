@@ -1,10 +1,10 @@
 name: Security Tools
-description: 
+description: Find and prevent security vulnerabilities with less effort
 projects:
   - active_model_otp
   - alpaca
   - brakeman
-  - codesake-dawn
+  - dawnscanner
   - gemfilelint
   - loofah
   - look/xss_terminate

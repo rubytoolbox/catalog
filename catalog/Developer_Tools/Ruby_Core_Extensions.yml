@@ -6,18 +6,21 @@ projects:
   - docile
   - extlib
   - facets
+  - fast_blank
+  - fast_camelize
+  - fast_parameterize
   - fast_underscore
   - hamster
   - hashie
   - hashy
   - named-parameters
-  - optionalargument
   - pluginfactory
   - powerpack
   - rearmed
   - rubytree
   - rucursive
   - rumonade
+  - scan_left
   - suggest_rb
   - tagen
   - vernacular

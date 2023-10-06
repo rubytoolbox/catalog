@@ -4,8 +4,6 @@ projects:
   - carter
   - drhenner/ror_ecommerce
   - invoicing
-  - money-currencylayer-bank
-  - money-openexchangerates-bank
   - nimbleshop
   - radiant-shop-extension
   - shippinglogic

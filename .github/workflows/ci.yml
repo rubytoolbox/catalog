@@ -1,0 +1,57 @@
+name: CI
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  bundler-audit:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+    - name: Run bundler-audit
+      env:
+        # Neccessary for jruby test coverage
+        JRUBY_OPTS: "--debug"
+      run: bundle exec bundler-audit --update
+
+  rubocop:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+    - name: Install dependencies and run rubocop
+      env:
+        # Neccessary for jruby test coverage
+        JRUBY_OPTS: "--debug"
+      run: bundle exec rubocop
+
+  rspec:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+    - name: Install dependencies and run RSpec
+      run: bundle exec rspec
+
+    - uses: actions/upload-artifact@v2
+      with:
+        name: "Test Coverage"
+        path: coverage/

@@ -5,7 +5,7 @@ ENV["RACK_ENV"] ||= "development"
 require "pathname"
 require "yaml"
 require "bundler"
-Bundler.require :default, ENV["RACK_ENV"]
+Bundler.require :default, ENV.fetch("RACK_ENV", nil)
 
 class Catalog
   attr_accessor :root
@@ -21,7 +21,7 @@ class Catalog
 
   def as_json
     {
-      category_groups: category_groups,
+      category_groups:,
     }
   end
 
@@ -47,7 +47,7 @@ class Catalog
 
   def categories_at(path)
     Dir[File.join(path, "*.yml")].reject { |file_path| File.basename(file_path) == "_meta.yml" }.map do |category_path|
-      YAML.safe_load(File.read(category_path)).merge(permalink: File.basename(category_path).gsub(".yml", ""))
+      YAML.safe_load_file(category_path).merge(permalink: File.basename(category_path).gsub(".yml", ""))
     end
   end
 end

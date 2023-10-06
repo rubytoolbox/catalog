@@ -1,6 +1,8 @@
 name: Active Record Named Scopes
-description:
+description: Define reusable query methods that can be chained together to construct complex database queries.
 projects:
+  - active_record-union_relation
+  - activerecord_where_assoc
   - deep_pluck
   - filterrific
   - internuity/quick_scopes
@@ -13,5 +15,6 @@ projects:
   - searchlogic
   - sexy_scopes
   - technoweenie/can_search
+  - tiny_filter
   - trailblazer-finder
   - utility_scopes

@@ -1,6 +1,6 @@
 name: Data Migration
-description: 
+description: How to handle data migration when the database schema is changed
 projects:
-  - active_importer
-  - mysql2psql
-  - taps
+  - actual_db_schema
+  - data_migrate
+  - migration_data
