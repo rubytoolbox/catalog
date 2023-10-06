@@ -4,6 +4,7 @@ projects:
   - acclaim
   - arg-parser
   - arg0
+  - bales
   - choice
   - cl
   - clamp
@@ -15,6 +16,9 @@ projects:
   - config_parser
   - cri
   - docopt
+  - docopt-compgen
+  - dry-cli
+  - dry-cli-completion
   - getopt
   - getoptions
   - gli
@@ -22,6 +26,7 @@ projects:
   - methadone
   - micro-optparse
   - mixlib-cli
+  - optimist
   - OptionParser
   - optitron
   - quickl
