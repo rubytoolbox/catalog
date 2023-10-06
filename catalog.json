@@ -2831,7 +2831,8 @@
             "releasy",
             "rubinjam",
             "rubyscript2exe",
-            "stephan-nordnes-eriksen/ruby_ship"
+            "stephan-nordnes-eriksen/ruby_ship",
+            "tebako"
           ],
           "permalink": "packaging_to_executables"
         }
