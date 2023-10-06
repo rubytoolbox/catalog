@@ -62,7 +62,7 @@
         },
         {
           "name": "Active Record Named Scopes",
-          "description": null,
+          "description": "Define reusable query methods that can be chained together to construct complex database queries.",
           "projects": [
             "active_record-union_relation",
             "activerecord_where_assoc",
