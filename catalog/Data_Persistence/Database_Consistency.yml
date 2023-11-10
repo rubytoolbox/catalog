@@ -1,0 +1,5 @@
+name: Database Consistency
+description: Tools to identify issues between database schema and application models
+projects:
+  - active_record_doctor
+  - database_consistency
