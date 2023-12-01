@@ -4,6 +4,7 @@ projects:
   - ab_admin
   - active_scaffold
   - activeadmin
+  - activeadmin_rails
   - admin_assistant
   - admin_data
   - admin_interface
