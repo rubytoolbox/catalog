@@ -1,6 +1,7 @@
 name: CRM Apps
 description:
 projects:
+  - avo
   - alchemy_crm
   - brobertsaz/railscrm
   - djcp/cohort
