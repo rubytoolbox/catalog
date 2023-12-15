@@ -4,6 +4,7 @@ projects:
   - crate
   - loureirorg/rb2exe
   - ocra
+  - ocran
   - phusion/traveling-ruby
   - pmq20/ruby-packer
   - releasy
