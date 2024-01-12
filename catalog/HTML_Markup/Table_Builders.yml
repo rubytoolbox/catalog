@@ -2,7 +2,6 @@ name: Table Builders
 description: 
 projects:
   - active-list
-  - avo
   - datagrid
   - easy_table
   - fancygrid
