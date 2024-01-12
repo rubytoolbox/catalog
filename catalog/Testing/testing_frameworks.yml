@@ -15,6 +15,7 @@ projects:
   - rspec
   - rubydoctest
   - shindo
+  - sus
   - test-unit
   - testrocket
   - testy
