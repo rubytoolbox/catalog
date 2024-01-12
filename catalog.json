@@ -796,6 +796,7 @@
           "description": null,
           "projects": [
             "alchemy_cms",
+            "avo",
             "binda",
             "browsercms",
             "cantierecreativo/railsyardcms",
