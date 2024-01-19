@@ -9,6 +9,7 @@ projects:
   - coverband
   - covered
   - deep-cover
+  - minitest-cc
   - rcov
   - simplecov
   - single_cov

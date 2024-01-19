@@ -11,5 +11,6 @@ projects:
   - fluidfeatures-rails
   - paulmars/seven_minute_abs
   - split
+  - unleash
   - validation_issues
   - vanity

@@ -1,5 +1,5 @@
 name: Rails Ratings
-description: 
+description: Add ratings feature for any rails app.
 projects:
   - acts-as-rated
   - acts_as_rateable
