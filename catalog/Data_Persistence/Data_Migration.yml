@@ -4,4 +4,5 @@ projects:
   - actual_db_schema
   - after_party
   - data_migrate
+  - maintenance_tasks
   - migration_data
