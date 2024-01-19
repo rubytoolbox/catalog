@@ -4,6 +4,7 @@ projects:
   - acclaim
   - arg-parser
   - arg0
+  - bales
   - choice
   - cl
   - clamp
@@ -31,5 +32,6 @@ projects:
   - quickl
   - rationalist
   - slop
+  - sod
   - terrapin
   - trollop

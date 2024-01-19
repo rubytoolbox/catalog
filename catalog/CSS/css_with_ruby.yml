@@ -9,6 +9,9 @@ projects:
   - patterns
   - rainpress
   - sass
+  - sass-embedded
   - sass-rails
+  - sassc
+  - sassc-rails
   - smurfville
   - stylus
