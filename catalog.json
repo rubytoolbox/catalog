@@ -222,6 +222,7 @@
           "description": "Split large data collections into subsets to display on multiple pages",
           "projects": [
             "ajax_pagination",
+            "geared_pagination",
             "kaminari",
             "kaminari-bootstrap",
             "nexter",
