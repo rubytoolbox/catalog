@@ -1121,6 +1121,9 @@
           "description": null,
           "projects": [
             "couch_potato",
+            "couchdb",
+            "couchdb-client",
+            "couchdb_basic",
             "couchrest",
             "couchrest_model",
             "hpoydar/couchrest-rails",
