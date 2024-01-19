@@ -1043,6 +1043,7 @@
           "description": "How to handle data migration when the database schema is changed",
           "projects": [
             "actual_db_schema",
+            "after_party",
             "data_migrate",
             "maintenance_tasks",
             "migration_data"
