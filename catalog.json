@@ -2850,6 +2850,7 @@
           "name": "Packaging Systems",
           "description": null,
           "projects": [
+            "anatol/quarry",
             "mislav/coral",
             "rip",
             "rtomayko/rpg",
