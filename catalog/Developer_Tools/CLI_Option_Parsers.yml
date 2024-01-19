@@ -4,17 +4,25 @@ projects:
   - acclaim
   - arg-parser
   - arg0
+  - bales
   - choice
   - cl
   - clamp
   - clap
+  - cli
   - clint
   - cmdparse
   - command_kit
   - commander
+  - como
   - config_parser
   - cri
+  - cyclops
   - docopt
+  - docopt-compgen
+  - dry-cli
+  - dry-cli-completion
+  - escort
   - getopt
   - getoptions
   - gli
@@ -22,10 +30,17 @@ projects:
   - methadone
   - micro-optparse
   - mixlib-cli
+  - opt-simple
+  - optimist
   - OptionParser
   - optitron
+  - oyster
+  - parse-argv
   - quickl
   - rationalist
   - slop
+  - sod
   - terrapin
   - trollop
+  - tty-option
+  - yaop

@@ -1,5 +1,5 @@
 name: Rails Comments
-description: 
+description: Add comments functionality to any ruby website.
 projects:
   - acts_as_commentable
   - commontator

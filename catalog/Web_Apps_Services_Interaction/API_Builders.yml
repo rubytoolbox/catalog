@@ -7,8 +7,10 @@ projects:
   - api-versions
   - apia
   - apiary
+  - barley
   - bldr
   - blueprinter
+  - blueprinter-rb
   - cache_crispies
   - fast_jsonapi
   - grape
