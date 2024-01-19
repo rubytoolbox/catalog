@@ -27,7 +27,7 @@
         },
         {
           "name": "Active Record Enumerations",
-          "description": null,
+          "description": "Define and use enumerated types in your database models.",
           "projects": [
             "active_enum",
             "attribute_choices",
