@@ -1,5 +1,5 @@
 name: Rails Tagging
-description: 
+description: Extend tags functionality for any rails app.
 projects:
   - acts-as-taggable-array-on
   - acts-as-taggable-on

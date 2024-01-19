@@ -84,6 +84,7 @@ projects:
   - vimeo
   - webfinger
   - www-delicious
+  - x
   - youtube_it
   - zabbix-api-simple
   - zeus-api
