@@ -29,6 +29,7 @@ projects:
   - rapidash
   - remotely
   - rest-client
+  - rest-man
   - restfulie
   - streamly
   - typhoeus
