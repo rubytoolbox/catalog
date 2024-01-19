@@ -3570,6 +3570,15 @@
             "workflow"
           ],
           "permalink": "state_machines"
+        },
+        {
+          "name": "Url Shortener Engines",
+          "description": "URL shortener engines are utilities that provide functionality for generating and managing shortened URLs within applications. These engines offer the ability to create compact URLs, track click analytics, and redirect users to the original long URLs. They simplify the process of URL shortening, allowing developers to efficiently handle URL transformations and improve user experience.",
+          "projects": [
+            "rails_url_shortener",
+            "shortener"
+          ],
+          "permalink": "url_shortener_engines"
         }
       ],
       "description": null,
