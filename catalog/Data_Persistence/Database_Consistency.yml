@@ -1,0 +1,8 @@
+name: Database Consistency
+description: Tools that aid in enforcing database consistency, finding issues with your migrations or differences between your tables and models
+projects:
+  - active_record_doctor
+  - database_consistency
+  - hairtrigger
+  - rein
+  - strong_migrations
