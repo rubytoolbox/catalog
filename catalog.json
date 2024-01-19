@@ -1097,8 +1097,6 @@
           "name": "SQL Database Adapters",
           "description": "Low-level adapters for interfacing with various SQL database servers",
           "projects": [
-            "cassandra",
-            "cassandra-driver",
             "ibm_db",
             "jdbc-mysql",
             "jdbc-postgres",
