@@ -11,4 +11,5 @@ projects:
   - multitenant
   - multitenant-mysql
   - multitenant-pg
+  - ros-apartment
   - whitelabel
