@@ -1731,6 +1731,7 @@
             "rswag-ui",
             "swagger-blocks",
             "swagger-diff",
+            "swagger-docs",
             "zero-rails_openapi"
           ],
           "permalink": "swagger_tools"
