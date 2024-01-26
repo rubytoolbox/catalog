@@ -1,5 +1,7 @@
 name: CouchDB Clients
-description:
+description: |
+  Apache CouchDB is an open source NoSQL JSON document storage database with an HTTP API. These libraries enable you to interface
+  with it from Ruby.
 projects:
   - couch_potato
   - couchdb
