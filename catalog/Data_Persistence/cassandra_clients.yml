@@ -1,0 +1,11 @@
+name: Cassandra Clients
+description: Apache Cassandra is a distributed open source NoSQL database. These libraries allow you to interface with it.
+projects:
+  - cassandra
+  - cassandra-cql
+  - cassandra-driver
+  - cassandra-orm
+  - cassandra-schema
+  - cassandra-utils
+  - cassandra_record
+  - cassie-rails

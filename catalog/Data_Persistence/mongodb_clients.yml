@@ -1,5 +1,5 @@
 name: MongoDB Clients
-description: 
+description: MongoDB is a source-available NoSQL document database. These libraries allow you to interface with it.
 projects:
   - mince
   - mongo
