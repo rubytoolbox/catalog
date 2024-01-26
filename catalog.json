@@ -1118,8 +1118,23 @@
           "permalink": "SQL_Database_Adapters"
         },
         {
+          "name": "Cassandra Clients",
+          "description": "Apache Cassandra is a distributed open source NoSQL database. These libraries allow you to interface with it.",
+          "projects": [
+            "cassandra",
+            "cassandra-cql",
+            "cassandra-driver",
+            "cassandra-orm",
+            "cassandra-schema",
+            "cassandra-utils",
+            "cassandra_record",
+            "cassie-rails"
+          ],
+          "permalink": "cassandra_clients"
+        },
+        {
           "name": "CouchDB Clients",
-          "description": null,
+          "description": "Apache CouchDB is an open source NoSQL JSON document storage database with an HTTP API. These libraries enable you to interface\nwith it from Ruby.\n",
           "projects": [
             "couch_potato",
             "couchdb",
@@ -1137,7 +1152,7 @@
         },
         {
           "name": "MongoDB Clients",
-          "description": null,
+          "description": "MongoDB is a source-available NoSQL document database. These libraries allow you to interface with it.",
           "projects": [
             "mince",
             "mongo",
