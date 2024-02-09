@@ -1,0 +1,5 @@
+name: Chat Bots & ChatOps
+description: Tools and frameworks to create chat bots.
+projects:
+  - lita
+  - rodbot

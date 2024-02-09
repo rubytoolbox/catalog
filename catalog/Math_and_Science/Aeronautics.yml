@@ -6,5 +6,6 @@ projects:
   - aixm
   - fdc
   - flight
+  - notam
   - ogn_client-ruby
   - vfr_utils
