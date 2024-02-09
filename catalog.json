@@ -4317,6 +4317,15 @@
           "permalink": "API_Builders"
         },
         {
+          "name": "Chat Bots & ChatOps",
+          "description": "Tools and frameworks to create chat bots.",
+          "projects": [
+            "lita",
+            "rodbot"
+          ],
+          "permalink": "Chat_Bots_ChatOps"
+        },
+        {
           "name": "HTTP Pub/Sub",
           "description": null,
           "projects": [
