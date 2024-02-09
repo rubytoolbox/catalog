@@ -7,6 +7,7 @@ projects:
   - app
   - app_config
   - application_configuration
+  - bridgetown_credentials
   - chamber
   - config
   - config-me
@@ -27,6 +28,7 @@ projects:
   - dotenv
   - dotenv-rails
   - dry-configurable
+  - dry-credentials
   - dynamic_configuration
   - envied
   - envyable
