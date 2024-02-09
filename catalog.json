@@ -3779,6 +3779,7 @@
             "look/xss_terminate",
             "mhartl/find_mass_assignment",
             "param_protected",
+            "rack-dedos",
             "rails_xss",
             "ryanlowe/audit_mass_assignment",
             "shellex",
