@@ -4,23 +4,32 @@ projects:
   - best_boy
   - cabin
   - clogger
+  - contextual_logger
+  - dry-logger
+  - fluent-logger
   - fluentd
   - frogger
   - gelf
   - hatchet
+  - http_logger
   - httplog
   - justlogging-rails
   - log4r
+  - logger
   - logging
   - logging-rails
   - logging_assist
   - lograge
+  - logstash-logger
   - lumber
   - mongodb_logger
+  - mono_logger
   - ougai
   - rails-pretty-logger
+  - rails_semantic_logger
   - rake_bubbler
   - semantic_logger
   - sentry-raven
+  - syslog-logger
   - whoops
   - yell
