@@ -1,5 +1,5 @@
 name: Logging
-description: 
+description: Logging frameworks that can perform operations like collecting, processing or filtering log files and events.
 projects:
   - best_boy
   - cabin
