@@ -1,0 +1,6 @@
+name: Command Line Logger
+description: Logging utility to output messages in the terminal specialized for CLI program (not generic app or system logger)
+projects:
+  - pretty_puts
+  - spark_cli
+  - tty-logger
