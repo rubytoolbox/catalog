@@ -1202,6 +1202,16 @@
           "permalink": "Benchmarking"
         },
         {
+          "name": "Command Line Logger",
+          "description": "Logging utility to output messages in the terminal specialized for CLI program (not generic app or system logger)",
+          "projects": [
+            "pretty_puts",
+            "spark_cli",
+            "tty-logger"
+          ],
+          "permalink": "CLI_Logger"
+        },
+        {
           "name": "Command Line Option Parsers",
           "description": "Utilities to process arguments to terminal command line programs easily",
           "projects": [
@@ -1250,25 +1260,6 @@
             "yaop"
           ],
           "permalink": "CLI_Option_Parsers"
-        },
-        {
-          "name": "Command Line Progress Bars",
-          "description": "Display progress of your terminal program nicely",
-          "projects": [
-            "fuubar",
-            "multi_progress_bar",
-            "powerbar",
-            "progress",
-            "progress-meter",
-            "progress_bar",
-            "progressbar",
-            "ruby-progressbar",
-            "shell-spinner",
-            "spinning_cursor",
-            "tty-progressbar",
-            "whirly"
-          ],
-          "permalink": "CLI_Progress_Bars"
         },
         {
           "name": "Command Line Utilities",
