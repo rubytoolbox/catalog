@@ -2114,7 +2114,8 @@
             "squid",
             "technical_graph",
             "triangle_pattern",
-            "vega"
+            "vega",
+            "youplot"
           ],
           "permalink": "graphing"
         },
@@ -2149,6 +2150,7 @@
           "description": null,
           "projects": [
             "DmitryBaranovskiy/raphael",
+            "p5rb",
             "ruby-graphviz",
             "ruby-processing"
           ],
