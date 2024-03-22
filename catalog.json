@@ -1551,6 +1551,7 @@
           "description": null,
           "projects": [
             "alias",
+            "amazing_print",
             "awesome_print",
             "bond",
             "clipboard",
