@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.5)
+    addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
     ast (2.4.2)
     bundler-audit (0.9.1)
@@ -36,7 +36,7 @@ GEM
       rubocop (< 2.0)
     iniparse (1.5.0)
     json (2.7.1)
-    json-schema (4.1.1)
+    json-schema (4.2.0)
       addressable (>= 2.8)
     language_server-protocol (3.17.0.3)
     listen (3.8.0)
@@ -59,7 +59,7 @@ GEM
     pry (0.14.2)
       coderay (~> 1.1)
       method_source (~> 1.0)
-    public_suffix (5.0.3)
+    public_suffix (5.0.4)
     racc (1.7.3)
     rainbow (3.1.1)
     rake (13.1.0)
