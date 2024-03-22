@@ -2,6 +2,7 @@ name: irb Tools
 description: 
 projects:
   - alias
+  - amazing_print
   - awesome_print
   - bond
   - clipboard
