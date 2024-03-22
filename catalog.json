@@ -3968,6 +3968,7 @@
             "guard-rubocop",
             "infinity_test",
             "kicker",
+            "minitest-flash",
             "rack-livereload",
             "tconsole",
             "tork",
