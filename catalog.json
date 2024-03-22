@@ -2777,6 +2777,7 @@
             "aixm",
             "fdc",
             "flight",
+            "magvar",
             "notam",
             "ogn_client-ruby",
             "vfr_utils"
