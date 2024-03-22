@@ -142,6 +142,7 @@
           "projects": [
             "acts_as_list",
             "acts_as_restful_list",
+            "positioning",
             "ranked-model",
             "resort",
             "sortable"
