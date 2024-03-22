@@ -2,5 +2,6 @@ name: Visualizing Data
 description: 
 projects:
   - DmitryBaranovskiy/raphael
+  - p5rb
   - ruby-graphviz
   - ruby-processing
