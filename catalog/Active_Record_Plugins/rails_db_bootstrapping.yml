@@ -5,6 +5,7 @@ projects:
   - ffmike/db-populate
   - has_alter_ego
   - populator
+  - seedie
   - seed-fu
   - seed_dumper
   - seedbank
