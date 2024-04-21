@@ -12,6 +12,7 @@ projects:
   - elasticsearch-rails
   - elastictastic
   - ferret
+  - filterameter
   - forty_facets
   - pg_search
   - ransack
