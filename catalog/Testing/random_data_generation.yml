@@ -3,6 +3,7 @@ description:
 projects:
   - cheap_random
   - data-anonymization
+  - evil-seed
   - faker
   - ffaker
   - forgery
