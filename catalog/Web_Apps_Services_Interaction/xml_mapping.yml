@@ -8,6 +8,7 @@ projects:
   - nokogiri-happymapper
   - nori
   - ox
+  - oxml
   - representative
   - rexml
   - roxml
