@@ -3517,6 +3517,7 @@
             "fileuploader-rails",
             "imagery",
             "jquery.fileupload-rails",
+            "kt-paperclip",
             "paperclip",
             "papermill",
             "refile",
