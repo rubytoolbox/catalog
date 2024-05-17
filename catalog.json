@@ -278,7 +278,6 @@
             "edgarjs/ajaxful-rating",
             "has_ratings",
             "letsrate",
-            "mongoid-rating",
             "mongoid_rateable",
             "zachinglis/is_rateable"
           ],
