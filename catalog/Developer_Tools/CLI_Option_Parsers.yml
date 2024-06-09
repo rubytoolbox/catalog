@@ -38,6 +38,7 @@ projects:
   - parse-argv
   - quickl
   - rationalist
+  - samovar
   - slop
   - sod
   - terrapin
