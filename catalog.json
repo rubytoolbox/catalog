@@ -4524,6 +4524,7 @@
             "activeresource-response",
             "api-client",
             "api_smith",
+            "chimera_http_client",
             "curb",
             "em-http-request",
             "excon",
