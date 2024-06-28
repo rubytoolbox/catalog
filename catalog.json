@@ -4294,7 +4294,7 @@
       "categories": [
         {
           "name": "API Builders",
-          "description": null,
+          "description": "Tools for streamlined API development in Ruby",
           "projects": [
             "active_model_serializers",
             "acts_as_api",
