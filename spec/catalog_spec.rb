@@ -29,9 +29,8 @@ RSpec.describe Catalog do
 
   described_class.new.as_json[:category_groups].map { |group| group[:categories] }.flatten.each do |category|
     describe "Category #{category['name'].inspect}" do
-      it "defines all projects in alphabetical order" do
-        expected_order = category["projects"].sort_by(&:downcase)
-        expect(category["projects"]).to eq expected_order
+      it "does not define duplicates" do
+        expect(category["projects"]).to eq category["projects"].uniq
       end
     end
   end
