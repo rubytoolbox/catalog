@@ -14,6 +14,7 @@ projects:
   - fukuzatsu
   - jslint_on_rails
   - kevinrutherford/crap4r
+  - libyear-bundler
   - metric_abc
   - metric_fu
   - outlaw

@@ -9,7 +9,6 @@ projects:
   - expectedbehavior/acts_as_archival
   - hoardable
   - immortal
-  - paper_trail
   - paranoia
   - paranoid
   - paranoid2
