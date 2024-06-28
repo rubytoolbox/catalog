@@ -5,6 +5,7 @@ projects:
   - arg-parser
   - arg0
   - bales
+  - brigadier
   - choice
   - cl
   - clamp
