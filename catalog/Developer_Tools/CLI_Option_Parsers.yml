@@ -42,6 +42,7 @@ projects:
   - samovar
   - slop
   - sod
+  - subcommand
   - terrapin
   - trollop
   - tty-option
