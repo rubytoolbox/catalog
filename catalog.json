@@ -4249,6 +4249,7 @@
             "rack-user-locale",
             "rails-i18nterface",
             "rails-translate-models",
+            "rails_i18n_manager",
             "rails_locale_detection",
             "raul/translate_routes",
             "ready_for_i18n",
