@@ -8,4 +8,5 @@ projects:
   - seed-fu
   - seed_dumper
   - seedbank
+  - seedie
   - sevenwire/bootstrapper
