@@ -581,6 +581,7 @@
             "covered",
             "deep-cover",
             "minitest-cc",
+            "oyencov",
             "rcov",
             "simplecov",
             "single_cov",
