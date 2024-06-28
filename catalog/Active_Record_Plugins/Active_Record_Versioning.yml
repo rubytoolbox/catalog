@@ -1,6 +1,7 @@
 name: Active Record Versioning
 description: Keep track of changes to database records for auditing and restoring
 projects:
+  - active_snapshot
   - acts-as-approvable
   - acts_as_revisable
   - acts_as_revisionable
