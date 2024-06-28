@@ -263,6 +263,7 @@
             "seed-fu",
             "seed_dumper",
             "seedbank",
+            "seedie",
             "sevenwire/bootstrapper"
           ],
           "permalink": "rails_db_bootstrapping"
