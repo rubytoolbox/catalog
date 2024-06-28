@@ -1252,6 +1252,7 @@
             "optimist",
             "OptionParser",
             "optitron",
+            "optparse-plus",
             "oyster",
             "parse-argv",
             "quickl",
