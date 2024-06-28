@@ -1235,6 +1235,7 @@
             "config_parser",
             "cri",
             "cyclops",
+            "dencli",
             "docopt",
             "docopt-compgen",
             "dry-cli",
