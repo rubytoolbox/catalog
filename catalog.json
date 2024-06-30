@@ -1066,6 +1066,7 @@
             "active_record_doctor",
             "database_consistency",
             "hairtrigger",
+            "online_migrations",
             "rein",
             "strong_migrations"
           ],
