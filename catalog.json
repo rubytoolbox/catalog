@@ -1914,7 +1914,8 @@
             "monetize",
             "money",
             "money-currencylayer-bank",
-            "money-openexchangerates-bank"
+            "money-openexchangerates-bank",
+            "shopify-money"
           ],
           "permalink": "Money_Currencies"
         },
