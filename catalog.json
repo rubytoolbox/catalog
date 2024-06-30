@@ -258,6 +258,7 @@
           "description": "Easily insert and maintain seed data in the database.",
           "projects": [
             "dibber",
+            "evil-seed",
             "ffmike/db-populate",
             "has_alter_ego",
             "populator",
