@@ -1,5 +1,5 @@
-name: Rails Search
-description: Integrate intelligent search options.
+name: Rails Search Engines
+description: Supports search engines and full-text search.
 projects:
   - acts_as_ferret
   - acts_as_fulltextable
@@ -12,17 +12,10 @@ projects:
   - elasticsearch-rails
   - elastictastic
   - ferret
-  - filterameter
-  - forty_facets
   - pg_search
-  - ransack
   - redis-search
   - rsolr
-  - ruby_simple_search
-  - scoped_search
-  - search_cop
   - searchkick
-  - searchlight
   - slingshot-rb
   - solr_query
   - sunspot
