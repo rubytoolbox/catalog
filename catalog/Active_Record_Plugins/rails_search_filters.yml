@@ -2,8 +2,10 @@ name: Rails Search Filters
 description: Simplify Rails queries and filtering
 projects:
   - filterameter
+  - filterrific
   - forty_facets
   - ransack
+  - rubanok
   - ruby_simple_search
   - scoped_search
   - search_cop
