@@ -1,0 +1,10 @@
+name: Rails Search Filters
+description: Simplify Rails queries and filtering
+projects:
+  - filterameter
+  - forty_facets
+  - ransack
+  - ruby_simple_search
+  - scoped_search
+  - search_cop
+  - searchlight
