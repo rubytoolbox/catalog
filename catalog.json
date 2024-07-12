@@ -286,8 +286,8 @@
           "permalink": "rails_ratings"
         },
         {
-          "name": "Rails Search",
-          "description": "Integrate intelligent search options.",
+          "name": "Rails Search Engines",
+          "description": "Supports search engines and full-text search.",
           "projects": [
             "acts_as_ferret",
             "acts_as_fulltextable",
@@ -300,17 +300,10 @@
             "elasticsearch-rails",
             "elastictastic",
             "ferret",
-            "filterameter",
-            "forty_facets",
             "pg_search",
-            "ransack",
             "redis-search",
             "rsolr",
-            "ruby_simple_search",
-            "scoped_search",
-            "search_cop",
             "searchkick",
-            "searchlight",
             "slingshot-rb",
             "solr_query",
             "sunspot",
@@ -322,7 +315,21 @@
             "xapian_db",
             "xapit"
           ],
-          "permalink": "rails_search"
+          "permalink": "rails_search_engines"
+        },
+        {
+          "name": "Rails Search Filters",
+          "description": "Simplify Rails queries and filtering",
+          "projects": [
+            "filterameter",
+            "forty_facets",
+            "ransack",
+            "ruby_simple_search",
+            "scoped_search",
+            "search_cop",
+            "searchlight"
+          ],
+          "permalink": "rails_search_filters"
         },
         {
           "name": "Rails Tagging",
