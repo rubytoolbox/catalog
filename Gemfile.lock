@@ -67,7 +67,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     regexp_parser (2.9.2)
-    rexml (3.3.2)
+    rexml (3.3.4)
       strscan
     rspec (3.13.0)
       rspec-core (~> 3.13.0)
