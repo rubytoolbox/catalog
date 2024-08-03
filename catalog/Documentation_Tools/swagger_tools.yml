@@ -7,6 +7,7 @@ projects:
   - grape-swagger
   - lazy_api_doc
   - nexmo-oas-renderer
+  - oas_rails
   - oas_parser
   - open_api_import
   - openapi_first
