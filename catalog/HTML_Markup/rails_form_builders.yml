@@ -17,4 +17,5 @@ projects:
   - parsley_simple_form
   - simple_form
   - twitter_bootstrap_form_for
+  - superform
 
