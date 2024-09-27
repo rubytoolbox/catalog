@@ -1079,7 +1079,8 @@
             "hairtrigger",
             "online_migrations",
             "rein",
-            "strong_migrations"
+            "strong_migrations",
+            "actual_db_schema"
           ],
           "permalink": "Database_Consistency"
         },
