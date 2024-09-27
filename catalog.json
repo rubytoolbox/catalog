@@ -1371,7 +1371,8 @@
             "byebug",
             "debug",
             "debugger",
-            "pry-byebug"
+            "pry-byebug",
+            "loba"
           ],
           "permalink": "Debuggers"
         },
