@@ -3726,6 +3726,7 @@
             "envylabs/BlueLightSpecial",
             "letmein",
             "monban",
+            "nopassword",
             "omniauth",
             "passwordless",
             "rack-cas",
