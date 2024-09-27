@@ -1,4 +1,4 @@
-name: Rails Surveys and Questioneers 
+name: Questionnaires 
 description: Easily add surveys, polls, and questionnaires to your Rails app.
 projects:
   - questionnaire_engine 
