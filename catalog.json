@@ -2269,7 +2269,8 @@
             "nested_form",
             "parsley_simple_form",
             "simple_form",
-            "twitter_bootstrap_form_for"
+            "twitter_bootstrap_form_for",
+            "superform"
           ],
           "permalink": "rails_form_builders"
         },
