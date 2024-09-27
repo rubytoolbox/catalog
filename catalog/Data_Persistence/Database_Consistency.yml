@@ -7,3 +7,4 @@ projects:
   - online_migrations
   - rein
   - strong_migrations
+  - actual_db_schema
