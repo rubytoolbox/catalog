@@ -4276,7 +4276,8 @@
             "to_lang",
             "tr8n",
             "traduction",
-            "web_translate_it"
+            "web_translate_it",
+            "yamlfish"
           ],
           "permalink": "i18n"
         },
