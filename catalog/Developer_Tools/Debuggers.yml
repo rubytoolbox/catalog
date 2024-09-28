@@ -5,3 +5,4 @@ projects:
    - debug
    - debugger
    - pry-byebug
+   - loba
