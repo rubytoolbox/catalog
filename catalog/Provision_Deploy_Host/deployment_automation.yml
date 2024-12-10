@@ -15,9 +15,9 @@ projects:
   - humidifier-reservoir
   - inploy
   - instance_selector
+  - kamal
   - mina
   - mpalmer/giddyup
-  - mrsk
   - negroku
   - paratrooper
   - pulsar
