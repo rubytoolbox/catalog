@@ -1,5 +1,5 @@
 name: Web Content Scrapers
-description:
+description: Tools designed to extract and process data from websites efficiently
 projects:
   - anemone
   - arachnid2
