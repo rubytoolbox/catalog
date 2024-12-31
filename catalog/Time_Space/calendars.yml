@@ -1,5 +1,5 @@
 name: Calendars
-description:
+description: A suite of libraries designed to seamlessly integrate calendar functionalities into Ruby on Rails applications.
 projects:
   - adrienpoly/stimulus-flatpickr
   - calendar_helper
