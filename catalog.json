@@ -4196,7 +4196,7 @@
         },
         {
           "name": "Geocoding & Maps",
-          "description": null,
+          "description": "Tools with geocoding capabilities for mapping and distance calculations",
           "projects": [
             "activerecord-postgis-adapter",
             "acts_as_geocodable",
