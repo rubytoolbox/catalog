@@ -3,3 +3,4 @@ description: Projects for working with data structures such as vectors and data 
 projects:
   - daru-io
   - rasn1
+  - polars-df
