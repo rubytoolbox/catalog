@@ -29,6 +29,7 @@ projects:
   - getoptions
   - gli
   - highline
+  - mercenary
   - methadone
   - micro-optparse
   - mixlib-cli
