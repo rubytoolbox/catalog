@@ -3,6 +3,7 @@ description:
 projects:
   - activemodel-form
   - dry-validation
+  - hyperactiveform
   - reform
   - scrivener
   - virtus
