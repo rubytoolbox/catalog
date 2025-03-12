@@ -6,6 +6,7 @@ projects:
   - asset_packager
   - cornflakesuperstar/minified_cache
   - css_splitter
+  - darkroom
   - half-pipe
   - jammit
   - raptest
