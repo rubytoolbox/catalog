@@ -10,6 +10,7 @@ projects:
   - aegis
   - allowy
   - authority
+  - authorize_action
   - authz
   - baldwindavid/padlock_authorization
   - banken
