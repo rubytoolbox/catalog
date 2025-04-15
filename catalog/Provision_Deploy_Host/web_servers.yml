@@ -9,6 +9,7 @@ projects:
   - mongrel
   - mongrel2
   - passenger
+  - pitchfork
   - puma
   - skinny
   - thin

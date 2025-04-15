@@ -43,3 +43,4 @@ projects:
   - starling
   - sucker_punch
   - workling
+  - solid_queue
