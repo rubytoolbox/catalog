@@ -19,7 +19,7 @@ projects:
   - jbuilder
   - jsonapi-hanami
   - jsonapi-rails
-  - jsonapi-ruby
+  - jsonapi-rb
   - jsonapi-serializer
   - mutils
   - nativeson
