@@ -21,6 +21,7 @@ projects:
   - rodauth
   - rodauth-oauth
   - rpx_now
+  - securial
   - sorcery
   - switch_user
   - technoweenie/restful-authentication
