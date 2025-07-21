@@ -1,0 +1,4 @@
+name: Active Record SQL Functions
+description: Define and use SQL functions in your project.
+projects:
+  - arfi
