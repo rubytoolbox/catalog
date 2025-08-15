@@ -5,6 +5,7 @@ projects:
   - geared_pagination
   - kaminari
   - kaminari-bootstrap
+  - next_page
   - nexter
   - order_query
   - paged_scopes
