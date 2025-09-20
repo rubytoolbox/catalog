@@ -1,6 +1,7 @@
 name: Form Objects
 description:
 projects:
+  - active_record_compose
   - activemodel-form
   - dry-validation
   - reform
