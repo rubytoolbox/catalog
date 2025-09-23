@@ -11,6 +11,7 @@ projects:
   - kicker
   - minitest-flash
   - rack-livereload
+  - retest
   - tconsole
   - tork
   - watchr
