@@ -10,3 +10,5 @@ projects:
   - chris/better_nested_set
   - closure_tree
   - rails/acts_as_nested_set
+  - acts_as_sane_tree
+  - acts_as_recursive_tree
