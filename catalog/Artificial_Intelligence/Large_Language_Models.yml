@@ -1,0 +1,7 @@
+name: Large Language Models
+description: Libraries and Frameworks to work with Large Language Models (LLMs)
+projects:
+  - anthropic
+  - gemini-ai
+  - ruby_llm
+  - ruby-openai
