@@ -17,6 +17,7 @@ projects:
   - godmin
   - inline_forms
   - lipsiadmin
+  - madmin
   - mission_kontrol_relay
   - motor-admin
   - puffer
@@ -25,4 +26,4 @@ projects:
   - relevance/streamlined
   - trestle
   - typus
-  - wallaby
+  - wallaby  
