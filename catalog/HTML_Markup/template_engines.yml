@@ -15,6 +15,7 @@ projects:
   - hamlit
   - hammer_builder
   - handlebars_assets
+  - herb
   - inversion
   - judofyr/parkaby
   - liquid
