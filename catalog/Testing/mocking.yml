@@ -12,6 +12,7 @@ projects:
   - mocoso
   - rr
   - rspec-mocks
+  - rspec-stubbed_env
   - simple_mock
   - spy
   - surrogate
