@@ -5,7 +5,7 @@ projects:
   - caperoma
   - chiliproject/chiliproject
   - dim/retrospectiva
-  - edavis10/redmine
+  - redmine/redmine
   - git_time_extractor
   - gitlabhq/gitlabhq
   - joshrendek/reru_scrum
