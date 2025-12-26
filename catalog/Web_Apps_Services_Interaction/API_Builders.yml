@@ -17,6 +17,9 @@ projects:
   - grapethor
   - jb
   - jbuilder
+  - jsonapi-hanami
+  - jsonapi-rails
+  - jsonapi-rb
   - jsonapi-serializer
   - mutils
   - nativeson
