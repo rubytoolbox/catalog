@@ -7,5 +7,7 @@ projects:
   - lucie
   - main
   - rake
+  - rubyshell
   - sake
   - thor
+
