@@ -1,6 +1,7 @@
 name: HTML parsing
-description: 
+description:
 projects:
+  - domain_extractor
   - hpricot
   - libxml-ruby
   - nikkou
