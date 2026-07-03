@@ -6,6 +6,7 @@ projects:
   - breezy_pdf_lite
   - combine_pdf
   - doc_raptor
+  - fulgur
   - gambas
   - gimli
   - grover
