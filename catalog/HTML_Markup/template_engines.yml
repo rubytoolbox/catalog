@@ -1,6 +1,7 @@
 name: Template Engines
 description: Generate HTML and other markup based on dynamic content
 projects:
+  - antlers
   - arbre
   - cadenza
   - curly-templates
