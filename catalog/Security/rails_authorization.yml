@@ -27,6 +27,7 @@ projects:
   - permisi
   - pundit
   - rabarber
+  - rails_iam
   - rails-auth
   - rend-acl
   - restful_acl
