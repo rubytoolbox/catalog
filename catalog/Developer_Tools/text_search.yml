@@ -1,0 +1,5 @@
+name: Text Search
+description:
+projects:
+  - grepfruit
+  - ripgrep
