@@ -6,6 +6,7 @@ projects:
   - hanami-mailer
   - mail
   - mailit
+  - mail_plugger
   - pony
   - sendgrid-rails
   - tmail
