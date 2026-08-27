@@ -2,6 +2,7 @@ name: E-Mail Preview
 description: 
 projects:
   - letter_opener
+  - mail_grabber
   - mail_view
   - mailcatcher
   - open_mailer
