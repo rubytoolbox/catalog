@@ -1,5 +1,6 @@
 name: JavaScript Runtimes
-description: 
+description:
 projects:
+  - bundlebun
   - execjs
   - therubyracer
