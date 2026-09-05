@@ -1,0 +1,5 @@
+name: Customer Testimonials
+description: Collect and publish customer testimonials in Rails applications.
+projects:
+  - refinerycms-testimonials
+  - testimonials
