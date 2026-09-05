@@ -1,0 +1,12 @@
+name: Product Guides
+description: Build in-app tutorials, onboarding guides, and product walkthroughs for Rails applications, whether content-driven or anchored to page elements.
+projects:
+  - bootstrap-tour-rails
+  - hopscotch-rails
+  - introjs-rails
+  - onboard_on_rails
+  - product_tours
+  - rails_shepherd
+  - shepherd-rails
+  - shepherdjs_rails
+  - turbo_tour
