@@ -1,4 +1,5 @@
 name: Rails Extensions
 description: Extensions and Add-ons for the Ruby-on-Rails web-application framework
 projects:
+  - niceties
   - rearmed_rails
