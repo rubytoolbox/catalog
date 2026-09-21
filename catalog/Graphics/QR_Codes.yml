@@ -5,6 +5,7 @@ projects:
   - qrencoder
   - qrscanner
   - qrtools
+  - ruby-zint
   - rqr
   - rqrcode
   - rqrcode-rails3
