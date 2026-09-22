@@ -1,0 +1,7 @@
+name: AI Agent Skills and Knowledge
+description: Libraries that package project knowledge and reusable skills so AI coding agents can read them
+projects:
+  - agent_skill_parser
+  - bundler-skills
+  - okf
+  - ruby_llm-skills
