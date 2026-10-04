@@ -20,6 +20,7 @@ projects:
   - i18n
   - i18n-inflector-rails
   - i18n-js
+  - i18n_proofreading
   - i18n-tasks
   - i18n_auto_scoping
   - i18n_routing
