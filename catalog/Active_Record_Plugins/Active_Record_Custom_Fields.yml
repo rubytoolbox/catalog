@@ -1,0 +1,4 @@
+name: Active Record Custom Fields
+description: Add dynamic, user-defined fields to Active Record models without migrations.
+projects:
+  - active_fields
