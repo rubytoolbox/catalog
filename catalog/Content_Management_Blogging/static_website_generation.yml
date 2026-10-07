@@ -20,6 +20,7 @@ projects:
   - middleman
   - nanoc
   - octopress
+  - perron
   - photish
   - ruhoh
   - sitepress
