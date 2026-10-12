@@ -1,6 +1,7 @@
 name: Business Logic Frameworks
 description: Tools to help with Domain Driven Design approach and organize app's  Control Flow.
 projects:
+  - foobara
   - pathway
   - trailblazer
   - zertico
