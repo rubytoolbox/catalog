@@ -11,6 +11,7 @@ projects:
   - bj
   - bunny
   - cloud-crowd
+  - cosmonats
   - delayed
   - delayed_job
   - delayed_job_active_record
