@@ -24,6 +24,7 @@ projects:
   - reek
   - roodi
   - rubocop
+  - rubocop-guardrails
   - rubocop-rspec
   - rubycritic
   - Saikuro

@@ -6,6 +6,7 @@ projects:
   - canonical-rails
   - find_by_param
   - friendly_id
+  - happy_slugs
   - has_permalink
   - has_slug
   - ismasan/sluggable-finder
