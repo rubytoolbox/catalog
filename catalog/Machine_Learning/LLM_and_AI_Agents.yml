@@ -1,0 +1,9 @@
+name: LLMs & AI Agents
+description: Clients for large language model APIs and SDKs for building AI agents on top of them
+projects:
+  - anthropic
+  - claude-agent-sdk
+  - langchainrb
+  - mcp
+  - ruby-openai
+  - ruby_llm
