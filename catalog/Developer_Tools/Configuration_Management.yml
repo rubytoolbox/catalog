@@ -24,6 +24,7 @@ projects:
   - configus
   - confstruct
   - constantinople
+  - dials
   - dotconfig
   - dotenv
   - dotenv-rails
