@@ -11,6 +11,7 @@ projects:
   - honeybadger
   - lilypad
   - rack_hoptoad
+  - rails_error_dashboard
   - rails_exception_handler
   - raygun4ruby
   - rollbar
