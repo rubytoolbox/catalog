@@ -10,6 +10,8 @@ projects:
   - dbmanager
   - dotbox
   - dumper
+  - kamal-backup
   - pg_drive_backup
   - porter
   - sweety_backy
+  - yobi
