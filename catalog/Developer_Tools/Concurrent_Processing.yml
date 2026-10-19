@@ -8,6 +8,7 @@ projects:
   - dataflow
   - eventbox
   - eventmachine
+  - solid_objects
   - tribe
   - wires
   - workers
