@@ -46,6 +46,7 @@ projects:
   - sod
   - subcommand
   - terrapin
+  - trees
   - trollop
   - tty-option
   - yaop
