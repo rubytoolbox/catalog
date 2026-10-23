@@ -1,0 +1,18 @@
+name: Minitest Extensions
+description: Plugins and extensions that add functionality to the Minitest test framework,
+  such as alternative assertion syntax, lifecycle hooks, test selection and reporting
+projects:
+  - minitest-around
+  - minitest-bisect
+  - minitest-focus
+  - minitest-global_expectations
+  - minitest-heat
+  - minitest-hooks
+  - minitest-power_assert
+  - minitest-proveit
+  - minitest-rails
+  - minitest-reporters
+  - minitest-rg
+  - minitest-should_just_work
+  - minitest-spec-rails
+  - minitest-sprint
