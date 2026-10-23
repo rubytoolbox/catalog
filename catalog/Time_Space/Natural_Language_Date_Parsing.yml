@@ -1,6 +1,7 @@
 name: Natural Language Date Parsing
 description: 
 projects:
+  - acute
   - chronic
   - chronic_between
   - chronic_duration
