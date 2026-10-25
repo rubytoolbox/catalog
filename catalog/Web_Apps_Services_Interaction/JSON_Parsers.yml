@@ -9,4 +9,5 @@ projects:
   - multi_json
   - oj
   - simdjson
+  - smarter_json
   - yajl-ruby
