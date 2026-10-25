@@ -12,6 +12,7 @@ projects:
   - minidown
   - multi_markdown
   - pandoc-ruby
+  - prosemirror
   - rdiscount
   - redcarpet
   - RedCloth
