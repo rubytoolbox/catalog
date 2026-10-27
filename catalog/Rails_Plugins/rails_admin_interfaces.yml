@@ -5,6 +5,7 @@ projects:
   - active_scaffold
   - activeadmin
   - activeadmin-rails
+  - activeadmin_configurable_columns
   - admin_assistant
   - admin_data
   - admin_interface
