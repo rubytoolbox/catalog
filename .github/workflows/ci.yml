@@ -5,53 +5,51 @@ on:
   pull_request:
     branches: [ main ]
 
+# None of the jobs need more than read access to the repository
+permissions:
+  contents: read
+
+# Superseded pull request runs get cancelled, runs on main always complete
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+env:
+  # Bundler settings previously provided by ruby/setup-ruby's bundler-cache
+  BUNDLE_PATH: vendor/bundle
+  BUNDLE_JOBS: "4"
+  BUNDLE_RETRY: "3"
+  BUNDLE_FROZEN: "true"
+
 jobs:
   bundler-audit:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-
     steps:
-    - uses: actions/checkout@v4
-    - uses: ruby/setup-ruby@v1
-      with:
-        bundler-cache: true
-    - name: Run bundler-audit
-      env:
-        # Neccessary for jruby test coverage
-        JRUBY_OPTS: "--debug"
-      run: bundle exec bundler-audit --update
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: $/.github/actions/setup-mise
+      - run: mise run lint:bundler-audit
 
   rubocop:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-
     steps:
-    - uses: actions/checkout@v4
-    - uses: ruby/setup-ruby@v1
-      with:
-        bundler-cache: true
-    - name: Install dependencies and run rubocop
-      env:
-        # Neccessary for jruby test coverage
-        JRUBY_OPTS: "--debug"
-      run: bundle exec rubocop
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: $/.github/actions/setup-mise
+      - run: mise run lint:rubocop
 
   rspec:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-
     steps:
-    - uses: actions/checkout@v4
-    - uses: ruby/setup-ruby@v1
-      with:
-        bundler-cache: true
-    - name: Install dependencies and run RSpec
-      run: bundle exec rspec
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: $/.github/actions/setup-mise
+      - run: mise run test
 
-    - uses: actions/upload-artifact@v4
-      with:
-        name: "Test Coverage"
-        path: coverage/
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: "Test Coverage"
+          path: coverage/
