@@ -4,8 +4,13 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  # Nightly rebuild of the published catalog, which also re-checks that all
+  # referenced gems still exist and that dependencies have no known vulnerabilities
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
 
-# None of the jobs need more than read access to the repository
+# Jobs only get read access to the repository unless they need more
 permissions:
   contents: read
 
@@ -53,3 +58,42 @@ jobs:
         with:
           name: "Test Coverage"
           path: coverage/
+
+  pages:
+    # Pull requests are refs/pull/*, so only main ever gets published
+    if: github.ref == 'refs/heads/main'
+    needs: [bundler-audit, rubocop, rspec]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      # Jekyll looks up the site's base URL via the Pages API
+      pages: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: $/.github/actions/setup-mise
+      - run: mise run export
+      - uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
+      - uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1.0.13
+        with:
+          source: ./build
+          destination: ./_site
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+
+  deploy:
+    needs: pages
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    # Queue deployments instead of cancelling one that is in progress
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
