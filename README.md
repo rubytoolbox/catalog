@@ -57,6 +57,17 @@ Each `category.yml` currently contains:
   the full repo slug (`github_user/repo_name`). Projects can be listed in multiple
   categories.
 
+## Development
+
+Tool versions (currently just [Ruby](./.ruby-version)) are managed with [mise](https://mise.jdx.dev),
+which also serves as the project's task runner. After [installing mise](https://mise.jdx.dev/getting-started.html),
+run `mise install` inside your checkout to get the toolchain, followed by `mise run setup` to install the
+project's dependencies.
+
+* `mise run test` validates the catalog against the JSON schema and checks that all referenced gems exist
+* `mise run lint` checks code style and known vulnerabilities of dependencies (auto-format with `mise run format`)
+* `mise run export` builds the catalog export to `build/catalog.json`
+
 ---
 
 [rubytoolbox]: https://www.github.com/rubytoolbox/rubytoolbox

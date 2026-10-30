@@ -1,0 +1,7 @@
+[install]
+description = "Install all dependencies"
+depends = ["install:*"]
+
+["install:bundle"]
+description = "Install Ruby gems via bundler"
+run = "bundle install"
