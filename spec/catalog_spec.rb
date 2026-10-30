@@ -22,9 +22,8 @@ RSpec.describe Catalog do
 
   it "validates against the schema" do
     validation = JSON::Validator.fully_validate(described_class.schema, described_class.new.as_json)
-    # Cheating for better error reporting...
-    pp validation unless validation.empty?
-    expect(validation).to be_empty
+    # Comparing against an empty array lists all validation errors in the failure message
+    expect(validation).to eq []
   end
 
   described_class.new.as_json[:category_groups].map { |group| group[:categories] }.flatten.each do |category|
