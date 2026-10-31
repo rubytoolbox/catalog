@@ -5,6 +5,7 @@ projects:
   - brynary/testjour
   - hydra
   - knapsack
+  - parallel_matrix_formatter
   - parallel_tests
   - qxjit/deep-test
   - specjour
