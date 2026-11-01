@@ -8,6 +8,7 @@ projects:
   - coco
   - code_statistics
   - code_stats2
+  - crap4ruby
   - flay
   - flog
   - foodcritic
