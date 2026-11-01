@@ -8,6 +8,7 @@ projects:
   - exception_hunter
   - exception_notification
   - exceptional
+  - hawk-ruby
   - honeybadger
   - lilypad
   - rack_hoptoad
