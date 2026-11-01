@@ -3,6 +3,7 @@ description: Tools that aid in creating, maintaining and publishing Rubygems
 projects:
   - bones
   - bundler
+  - create-ruby-gem
   - echoe
   - enginex
   - gem-newgem
