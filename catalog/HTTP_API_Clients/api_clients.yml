@@ -79,6 +79,7 @@ projects:
   - twitter4r
   - twitter_oauth
   - twitterland
+  - unisender-ruby
   - vacuum
   - video_info
   - vimeo
