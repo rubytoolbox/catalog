@@ -65,6 +65,7 @@ projects:
   - schleyfox/wikipedia-api
   - semrush
   - smslist
+  - smsru-ruby
   - spotlite
   - tdlib-ruby
   - tedkulp-freshbooks.rb
