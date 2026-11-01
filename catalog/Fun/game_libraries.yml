@@ -1,6 +1,7 @@
 name: Game libraries
 description: Useful Ruby game-development-related libraries
 projects:
+  - card_dealer
   - chingu
   - chipmunk
   - dxruby_sdl
