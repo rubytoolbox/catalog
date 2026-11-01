@@ -14,6 +14,7 @@ projects:
   - htcp
   - http
   - http-requestor
+  - http_wrapper
   - httparty
   - httpclient
   - httpi
