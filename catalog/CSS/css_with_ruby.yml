@@ -2,6 +2,7 @@ name: CSS Tools
 description: Tools to make working with Cascading Stylesheets (CSS) easier
 projects:
   - airblade/css_dryer
+  - bh
   - bourbon
   - compass
   - deadweight
