@@ -1,0 +1,7 @@
+name: Product Feedback
+description: Collect and manage bug reports, feature requests, and other product feedback from within Rails applications.
+projects:
+  - bug_reports_client
+  - ideasbugs
+  - pivotal_reporter
+  - whatnow
