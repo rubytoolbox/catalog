@@ -1,0 +1,8 @@
+name: Live Chat
+description: Add customer-facing live chat to Rails applications, either self-hosted or through a third-party service.
+projects:
+  - gosquared-rails
+  - intercom-rails
+  - livechat
+  - tawk_rails
+  - zopim_rails
