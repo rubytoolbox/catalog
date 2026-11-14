@@ -6,7 +6,8 @@ This repository contains the mapping of category groups, categories and ruby
 open source projects and is based on a database dump of [the old Ruby Toolbox
 site][issue-1].
 
-You can find the current exported catalog at https://rubytoolbox.github.io/catalog
+You can find the current exported catalog at https://rubytoolbox.github.io/catalog. It is rebuilt
+whenever changes land on the main branch, and nightly.
 
 ## Catalog guidelines
 
@@ -56,6 +57,17 @@ Each `category.yml` currently contains:
   that category. For rubygems, this is the plain gem name, for github repos it's
   the full repo slug (`github_user/repo_name`). Projects can be listed in multiple
   categories.
+
+## Development
+
+Tool versions (currently just [Ruby](./.ruby-version)) are managed with [mise](https://mise.jdx.dev),
+which also serves as the project's task runner. After [installing mise](https://mise.jdx.dev/getting-started.html),
+run `mise install` inside your checkout to get the toolchain, followed by `mise run setup` to install the
+project's dependencies.
+
+* `mise run test` validates the catalog against the JSON schema and checks that all referenced gems exist
+* `mise run lint` checks code style and known vulnerabilities of dependencies (auto-format with `mise run format`)
+* `mise run export` builds the catalog export to `build/catalog.json`
 
 ---
 

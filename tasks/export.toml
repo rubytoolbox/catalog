@@ -1,0 +1,3 @@
+[export]
+description = "Export the catalog to build/catalog.json"
+run = "bundle exec rake export"
