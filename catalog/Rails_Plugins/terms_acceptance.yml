@@ -1,0 +1,6 @@
+name: Terms Acceptance
+description: Record which user accepted which version of your Terms of Service, Privacy Policy or other legal documents, and ask again when a document changes.
+projects:
+  - agreement_engine
+  - agreements
+  - clickwrap
