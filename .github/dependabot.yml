@@ -1,0 +1,17 @@
+# Keeps the GitHub Actions used in workflows up to date. Actions are pinned
+# to commit SHAs, with the version in a trailing comment that dependabot updates.
+# Gem dependencies are kept up to date by depfu (see .depfu.yml).
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directories:
+      - "/"
+      - "/.github/actions/*"
+    schedule:
+      interval: monthly
+    # Let new releases settle for a bit before proposing them
+    cooldown:
+      default-days: 7
+    groups:
+      github-actions:
+        patterns: ["*"]

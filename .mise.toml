@@ -1,0 +1,20 @@
+# Tool versions and mise settings. Tasks live in tasks/*.toml (see
+# [task_config]): keeping them separate means task edits don't invalidate
+# the CI toolchain cache, which is keyed on this file.
+
+# ruby is pinned via .ruby-version (see [settings]), which must remain a
+# separate file because the Gemfile reads it.
+
+[settings]
+# Honor .ruby-version regardless of contributors' global mise config
+idiomatic_version_file_enable_tools = ["ruby"]
+
+[task_config]
+includes = [
+  "tasks/setup.toml",
+  "tasks/install.toml",
+  "tasks/test.toml",
+  "tasks/lint.toml",
+  "tasks/format.toml",
+  "tasks/export.toml",
+]
