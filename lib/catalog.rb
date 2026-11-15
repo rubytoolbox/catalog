@@ -2,7 +2,6 @@
 
 ENV["RACK_ENV"] ||= "development"
 
-require "pathname"
 require "yaml"
 require "bundler"
 Bundler.require :default, ENV.fetch("RACK_ENV", nil)
