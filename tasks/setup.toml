@@ -1,0 +1,3 @@
+[setup]
+description = "Install dependencies and prepare the project for development"
+depends = ["install"]
