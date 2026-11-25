@@ -5,6 +5,7 @@ projects:
   - capistrano_mailer
   - hanami-mailer
   - mail
+  - mailchannels-email-api
   - mailit
   - pony
   - sendgrid-rails
