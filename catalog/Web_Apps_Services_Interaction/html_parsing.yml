@@ -5,6 +5,7 @@ projects:
   - libxml-ruby
   - nikkou
   - nokogiri
+  - nokolexbor
   - oga
   - ox
   - rubyful_soup
