@@ -2,6 +2,7 @@ name: JavaScript Tools
 description: Utilities for working with JavaScript in Ruby
 projects:
   - barista
+  - bundlebun
   - coffee-script
   - dom_routes
   - dynamojs_rails
