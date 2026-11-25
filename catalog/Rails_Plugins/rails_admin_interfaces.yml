@@ -1,5 +1,5 @@
 name: Rails Admin Interfaces
-description:
+description: Frameworks which allow you to more easily create CRUD applications, often set up with security so administrators can easily modify what they need in the database.
 projects:
   - ab_admin
   - active_scaffold
@@ -10,6 +10,7 @@ projects:
   - admin_interface
   - administrate
   - avo
+  - brick
   - commondream/control_center
   - dry_crud
   - forest_liana
