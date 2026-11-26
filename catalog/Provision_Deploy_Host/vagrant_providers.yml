@@ -1,0 +1,8 @@
+name: Vagrant Providers
+description: Plugins that add extra providers to Vagrant, so `vagrant up` can manage machines beyond the built-in VirtualBox, Hyper-V and Docker providers.
+projects:
+  - vagrant-libvirt
+  - vagrant-lxc
+  - vagrant-noderings
+  - vagrant-parallels
+  - vagrant-qemu
